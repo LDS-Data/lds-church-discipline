@@ -8,21 +8,21 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
 
-The September 6 (1992), including the following:
+## [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
 
-* D. Michael Quinn—Historian and BYU professor from 1976-1988. He was excommunicated for his writings about belief in seer stones in the early church and the practice of polygamy with official sanction after the 1890 manifesto .
+* Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven–[Disfellowshipped for apostasy and teaching false doctrine](https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html), on account of [comments made on television about the church's treatment of women](https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
-* Lavina Fielding Anderson—Scholar, writer, editor, and feminist. Her detailed account of spiritual abuse by Mormon leaders between the 1970s and 1990s was the grounds for her excommunication.
+* [Avraham Gileadi](https://en.wikipedia.org/wiki/Avraham_Gileadi)—15 Sep 1993—Author and interpreter of the Book of Isaiah—Excommunicated for apostasy, reportedly because [Elder Boyd K. Packer disapproved of his teachings on Isaiah](https://www.sunstonemagazine.com/pdf/092-65-79.pdf). His excommunication was later rescinded and he was reinstated into the church. He continues to publish on the book of Isaiah.
 
-* Martha Nibley Beck – Scholar and author. Excommunicated for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
+* Maxine Hanks—19 Sep 1993—Feminist who supported female ordination—[Excommunicated for "conduct contrary to the laws and order of the Church"](https://www.sunstonemagazine.com/pdf/092-65-79.pdf).
 
-* Lynne Kanavel Whitesides – Noted speaker on Mother in Heaven
+* [Lavina Fielding Anderson](https://en.wikipedia.org/wiki/Lavina_Fielding_Anderson)—23 Sep 1993—Scholar, writer, editor, and feminist—Excommunicated for documenting ecclesiastical abuse by Mormon leaders, particularly her [Spring 1993 _Dialogue_ article](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V26N01.pdf), _The LDS Intellectual Community and Church Leadership: A Contemporary Chronology_.
 
-* Avraham Gileadi – Author and interpreter of the Book of Isiah. He was later reinstated into the church and continues to publish on the book of Isiah.
+* [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn)—26 Sep 1993—Historian and BYU professor 1976-1988—Excommunicated for "conduct unbecoming a member of the Church and apostasy", including his writings about belief in seer stones in the early church and the practice of polygamy with official sanction after the 1890 manifesto. His gay sexual orientation may also have been a factor in his excommunication.
 
-* Paul Toscano (and later wife Margaret in 2000) were excommunicated for their writings about the whitewashing of Mormon history, hierarchal authoritarianism, and feminist issues.
+* Paul Toscano—19 Sep 1993—Founder of the [Mormon Alliance](https://en.wikipedia.org/wiki/Mormon_Alliance) which documented ecclesiastical abuse—Excommunicated for apostasy, largely due to his Sunstone presentation, [_All is Not Well in Zion: False Teachings of the True Church_](http://signaturebookslibrary.org/sancity-of-dissent-09/) which explored "speculative theology" on a number of topics.
 
-Post Sept. 6 excommunications, possibly part of the same or a similar wave of actions:
+## Post-September-Six
 
 * David Wright, a professor of Hebrew studies and the Bible at Brandeis University , excommunicated in April 1994 for articles asserting the Book of Mormon was a 19th-century creation of church founder Joseph Smith.
 
@@ -36,7 +36,7 @@ Post Sept. 6 excommunications, possibly part of the same or a similar wave of ac
 
 * Shane LeGrande Whelan, author of "More Than One: Plural Marriage, A Sacred Heritage, A Promise For Tomorrow," excommunicated Aug. 11 2002 for refusing to stop marketing his self-published book. His wife, Rhonda, who researched material for the book, was disfellowshipped two weeks later. She has since divorced him.
 
-* [Grant Palmer](https://archive.sltrib.com/article.php?id=2487004&itype=NGPSID)—12 Dec 2004—Disfellowshipped for apostasy on account of his book, _An Insider's View of Mormon Origins_.
+* [Grant Palmer](https://archive.sltrib.com/article.php?id=2487004&itype=NGPSID)—12 Dec 2004—Disfellowshipped for apostasy on account of his book, _An Insider's View of Mormon Origins_. Resigned in 2010.
 
 * Kate Kelly – 2014 – Feminist and founder of the Ordain Women movement. This movement arguably played a role in women being allowed to give prayers in General Conference since 2013. Others in the movement have had their temple recommends taken away and/or been excommunicated.
 
@@ -54,7 +54,6 @@ Post Sept. 6 excommunications, possibly part of the same or a similar wave of ac
 
 ## To Merge
 
-* Martha Beck, sociologist, life coach, best-selling author, and columnist for O, The Oprah Magazine[64]
 * Arthur Gary Bishop, serial killer and child molester[65]
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list[66]
 * Ted Bundy convicted serial killer and rapist
@@ -73,3 +72,8 @@ Post Sept. 6 excommunications, possibly part of the same or a similar wave of ac
 * Simon Southerton, molecular biologist lapsed at time of excommunication[84]
 * George D. Watt, secretary to Brigham Young and compiler of the Journal of Discourses[85]
 * Ann Eliza Young, ex-wife of Brigham Young[86]
+
+
+## Dubious
+
+* Martha Nibley Beck – Scholar and author. Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
