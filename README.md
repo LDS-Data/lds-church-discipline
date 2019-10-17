@@ -1,5 +1,7 @@
 NOTE: This is a work in progress. Entries without citations should be considered unverified.
 
+* [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869 (disfellowshipment) and 3 May 1874 (excommunication)—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped in 1869 and excommunicated in 1874 for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement.
+
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf)
 
 * [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy.
@@ -7,6 +9,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * [Byron Merchant](https://ordainwomen.org/byrons-song/)—14 Oct 1977—For opposition to the race-based priesthood and temple ban.
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
+
+* [David Charles Manners](https://en.wikipedia.org/wiki/David_Charles_Manners) (b. 1965)—abt 1985—British writer and charity co-founder—Excommunicated for being gay.
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
@@ -73,11 +77,11 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
 ## To Merge
-* David Charles Manners, British writer and charity co-founder[79]
+
 * Teresa Nielsen Hayden, science fiction editor, lapsed at time of excommunication[81]
 * Orson Pratt, Jr., first son of Apostle Orson Pratt[43][82]
 * Simon Southerton, molecular biologist lapsed at time of excommunication[84]
-* George D. Watt, secretary to Brigham Young and compiler of the Journal of Discourses[85]
+
 
 
 ## Additional Sources
