@@ -4,6 +4,8 @@ All publicly known disciplinary councils of the Church of Jesus Christ of Latter
 
 NOTE: This is a work in progress. Entries without citations should be considered unverified.
 
+* [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf)
+
 * [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy.
 
 * [Byron Merchant](https://ordainwomen.org/byrons-song/)—14 Oct 1977—For opposition to the race-based priesthood and temple ban.
@@ -67,18 +69,19 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * George P. Lee, former LDS general authority, convicted child molester[76][77]
 
 ## Excommunications without Disciplinary Council
-* [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (b. 1925)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
+* [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (1925-1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
+
+## Uncertain Date
+* [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
 ## To Merge
-
-* Bob Lonsberry, writer and talk radio host, expelled for "bad conduct" prior to 2001[78]
 * David Charles Manners, British writer and charity co-founder[79]
 * Teresa Nielsen Hayden, science fiction editor, lapsed at time of excommunication[81]
 * Orson Pratt, Jr., first son of Apostle Orson Pratt[43][82]
 * Denver Snuffer, Utah lawyer and author of books on LDS doctrine[83]
 * Simon Southerton, molecular biologist lapsed at time of excommunication[84]
 * George D. Watt, secretary to Brigham Young and compiler of the Journal of Discourses[85]
-* Ann Eliza Young, ex-wife of Brigham Young[86]
+
 
 ## Additional Sources
 https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints
