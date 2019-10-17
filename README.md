@@ -42,6 +42,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [Grant Palmer](https://archive.sltrib.com/article.php?id=2487004&itype=NGPSID)—12 Dec 2004—Disfellowshipped for apostasy on account of his book, _An Insider's View of Mormon Origins_. Resigned in 2010.
 
+* [Denver Snuffer](https://en.wikipedia.org/wiki/Denver_Snuffer_Jr.)—10 Sep 2013—Utah lawyer and author of books on LDS doctrine—[Excommunicated for apostasy](https://www.sltrib.com/religion/2013/09/12/controversial-mormon-writer-gets-the-word-hes-out-of-the-church/), namely his refusal to cease publication of his book, _Passing the Heavenly Gift_. His appeal of the excommunication was [denied by the First Presidency](http://denversnuffer.blogspot.com/2013/11/appeal-letter.html) the following November.
+
 * Kate Kelly – 2014 – Feminist and founder of the Ordain Women movement. This movement arguably played a role in women being allowed to give prayers in General Conference since 2013. Others in the movement have had their temple recommends taken away and/or been excommunicated.
 
 * John Dehlin – 2015 – Host of Mormon Stories podcast. He advocated honesty in evaluating the historical claims of the LDS church and tried to stay in the faith while not believing the divinity claims. He has interviewed 100s of people starting in 2005 and discussed a number of topics including their experiences with general authorities, excommunication, losing their faith, etc.
@@ -76,7 +78,6 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * David Charles Manners, British writer and charity co-founder[79]
 * Teresa Nielsen Hayden, science fiction editor, lapsed at time of excommunication[81]
 * Orson Pratt, Jr., first son of Apostle Orson Pratt[43][82]
-* Denver Snuffer, Utah lawyer and author of books on LDS doctrine[83]
 * Simon Southerton, molecular biologist lapsed at time of excommunication[84]
 * George D. Watt, secretary to Brigham Young and compiler of the Journal of Discourses[85]
 
