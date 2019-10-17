@@ -1,5 +1,3 @@
-All publicly known disciplinary councils of the Church of Jesus Christ of Latter-day Saints, with outcomes and additional notes if known.
-
 NOTE: This is a work in progress. Entries without citations should be considered unverified.
 
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf)
