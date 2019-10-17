@@ -10,7 +10,7 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy.
 
-* [Byron Merchant](https://ordainwomen.org/byrons-song/)—14 Oct 1977—For opposition to the race-based priesthood and temple ban.
+* [Byron Merchant](https://ordainwomen.org/byrons-song/)—14 Oct 1977—Race ban protester—Excommunicated for opposition to the race-based priesthood and temple ban. His "opposed" vote in General Conference led to his removal from the church.
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
 
