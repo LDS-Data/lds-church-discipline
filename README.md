@@ -10,6 +10,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
 
+* [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
+
 ## [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
 
 * Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven–[Disfellowshipped for apostasy and teaching false doctrine](https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html), on account of [comments made on television about the church's treatment of women](https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
@@ -69,7 +71,6 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 ## To Merge
 
-* Deborah Laake, wrote an ex-Mormon memoir [75]
 * Bob Lonsberry, writer and talk radio host, expelled for "bad conduct" prior to 2001[78]
 * David Charles Manners, British writer and charity co-founder[79]
 * Teresa Nielsen Hayden, science fiction editor, lapsed at time of excommunication[81]
