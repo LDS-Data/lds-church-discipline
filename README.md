@@ -4,7 +4,9 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869 (disfellowshipment) and 3 May 1874 (excommunication)—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped in 1869 and excommunicated in 1874 for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement.
 
-* [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf)
+* [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf) subsequent to leaving her husband.
+
+* [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
 * [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy.
 
@@ -15,6 +17,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden) (b. 1956)—Summer 1980—Writer, science fiction editor, ERA proponent—Excommunicated [in response to a denunciatory letter](http://nielsenhayden.com/GodandI.html) she wrote church president Spencer W. Kimball upon the excommunication of Sonia Johnson.
 
 * [David Charles Manners](https://en.wikipedia.org/wiki/David_Charles_Manners) (b. 1965)—abt 1985—British writer and charity co-founder—Excommunicated for being gay.
+
+* [George P. Lee](https://en.wikipedia.org/wiki/George_P._Lee) (1943-2010)—1 Sep 1989—First Native American General Authority—Excommunicated [for "apostasy and other conduct unbecoming a member of the Church."](https://www.thechurchnews.com/archives/1989-09-09/disciplinary-action-taken-sept-1-against-general-authority-150691). Later convicted of child sexual molestation, which apparently played a role in his excommunication though this was only hinted at at the time. The first General Authority excommunication since Richard R. Lyman in 1943.
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
@@ -68,13 +72,13 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * Leah and Cody Young – 2019 – Although not prominent, these members were excommunicated for starting a support group for former or questioning members. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.
 
-## Due to Criminal Convictions
+## Due to Criminal Convictions Alone
 * [Arthur Gary Bishop](https://en.wikipedia.org/wiki/Arthur_Gary_Bishop)—October 1978—Excommunicated after being convicted of embezzlement. He went on to become a serial killer and child molester.
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list[66]
 * Ted Bundy convicted serial killer and rapist
 * Mark Hofmann, double murderer and an expert forger; "considered by forensic experts to be the best forger yet caught"[69]
 * Richard McCoy, Jr., hijacker of a United Airliner passenger jet for ransom in 1972[80]
-* George P. Lee, former LDS general authority, convicted child molester[76][77]
+
 
 ## Excommunications without Disciplinary Council
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (1925-1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
