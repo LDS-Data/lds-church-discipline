@@ -38,9 +38,9 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 ## Post-September-Six
 
-* David Wright, a professor of Hebrew studies and the Bible at Brandeis University , excommunicated in April 1994 for articles asserting the Book of Mormon was a 19th-century creation of church founder Joseph Smith.
+* David Wright—5 Apr 1994—Professor of Hebrew studies and Bible at Brandeis University—Excommunicated for articles [asserting the Book of Mormon was a 19th-century creation](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/096-65-77.pdf) of church founder Joseph Smith.
 
-* Michael Barrett – 1994: Assistant general counsel for the CIA, excommunicated for disobedience after writing letters to editors of several newspapers correcting news stories about Mormonism.
+* Michael Barrett—24 Apr 1994—Assistant General Counsel for the CIA—[Excommunicated for disobeying an order](https://www.mrm.org/michael-j-barrett) to cease [writing letters to editors](https://www.washingtonpost.com/archive/local/1994/04/25/mormons-remove-va-man/6c2aa907-d04f-4c7f-8b6d-9a663e74a731/) correcting news stories about Mormonism.
 
 * Brent Metcalfe – 1994: Editor of the anthology "New Approaches to the Book of Mormon," published by Signature Books in Salt Lake City. Metcalfe also edited "American Apocrypha," which included the article in which Murphy used genetic research to challenge the Book of Mormon doctrine that American Indians are descendants of ancient Israelite families. Metcalfe developed the theory that the Book of Mormon was translated starting at Mosiah and that the first books in the current manuscript were produced later .
 
