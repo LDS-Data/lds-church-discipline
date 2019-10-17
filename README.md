@@ -1,5 +1,7 @@
 NOTE: This is a work in progress. Entries without citations should be considered unverified.
 
+* Orson Pratt, Jr. (1837-1903)—18 Sep 1864—First son of Apostle Orson Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) after publicly stating his lack of belief in Joseph Smith at sacrament meeting.
+
 * [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869 (disfellowshipment) and 3 May 1874 (excommunication)—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped in 1869 and excommunicated in 1874 for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement.
 
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf)
@@ -9,6 +11,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * [Byron Merchant](https://ordainwomen.org/byrons-song/)—14 Oct 1977—For opposition to the race-based priesthood and temple ban.
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
+
+* [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden) (b. 1956)—Summer 1980—Writer, science fiction editor, ERA proponent—Excommunicated [in response to a denunciatory letter](http://nielsenhayden.com/GodandI.html) she wrote church president Spencer W. Kimball upon the excommunication of Sonia Johnson.
 
 * [David Charles Manners](https://en.wikipedia.org/wiki/David_Charles_Manners) (b. 1965)—abt 1985—British writer and charity co-founder—Excommunicated for being gay.
 
@@ -41,6 +45,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * Margaret Toscano – 2000: A classics professor at the University of Utah, excommunicated for writing on feminist issues after being told not to. Margaret was originally slated to be excommunicated at the time of the September 6, but her Bishop refused to follow the direction of the upper church authorities. Her husband, Paul, was one of the September 6.
 
 * Shane LeGrande Whelan, author of "More Than One: Plural Marriage, A Sacred Heritage, A Promise For Tomorrow," excommunicated Aug. 11 2002 for refusing to stop marketing his self-published book. His wife, Rhonda, who researched material for the book, was disfellowshipped two weeks later. She has since divorced him.
+
+* [Simon Southerton](https://en.wikipedia.org/wiki/Simon_Southerton) (b. abt 1965)—31 Jul 2005—Geneticist and author—Excommunicated, [officially due to "having an inappropriate relationship with a woman"](https://www.deseret.com/2005/8/5/19905648/church-excommunicates-dna-author) he was not married to, but apparently in response to his book _Losing a Lost Tribe: Native Americans, DNA and the Book of Mormon_ which argued that DNA evidence does not support the Book of Mormon's apparent claims regarding Native American ancestry.
 
 * [Grant Palmer](https://archive.sltrib.com/article.php?id=2487004&itype=NGPSID)—12 Dec 2004—Disfellowshipped for apostasy on account of his book, _An Insider's View of Mormon Origins_. Resigned in 2010.
 
@@ -75,14 +81,6 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 ## Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
-
-## To Merge
-
-* Teresa Nielsen Hayden, science fiction editor, lapsed at time of excommunication[81]
-* Orson Pratt, Jr., first son of Apostle Orson Pratt[43][82]
-* Simon Southerton, molecular biologist lapsed at time of excommunication[84]
-
-
 
 ## Additional Sources
 https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints
