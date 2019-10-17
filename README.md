@@ -86,10 +86,120 @@ NOTE: This is a work in progress. Entries without citations should be considered
 ## Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
-## Additional Sources
-https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints
-https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints)
 
+
+## Inbox
+* Sampson Avard
+* John C. Bennett
+* Gladden Bishop
+* John F. Boynton
+* Josiah Butterfield
+* Joseph Coe
+* Leman Copley
+* John Corrill
+* Oliver Cowdery
+* Austin Cowles
+* Solomon Wilbur Denton
+* Charles A. Foster
+* Robert D. Foster
+* Jesse Gause
+* John Gaylord
+* J. E. Goodson
+* Chauncey L. Higbee
+* Francis M. Higbee
+* George M. Hinkle
+* Doctor Philastus Hurlbut
+* Charles Ivins
+* Luke Johnson
+* Lyman E. Johnson
+* William Law (Latter Day Saints)
+* Wilson Law
+* Thomas B. Marsh
+* William E. McLellin
+* Roger Orton
+* Hiram Page
+* Warren Parrish
+* W. W. Phelps (Mormon)
+* Orson Pratt
+* Leonard Rich
+* Isaac Russell
+* Harvey G. Whitlock
+* David Whitmer
+* Jacob Whitmer
+* John Whitmer
+* Mary Mussleman Whitmer
+* Peter Whitmer Sr.
+* Frederick G. Williams
+* George J. Adams
+* Janice Merrill Allred
+* Owen A. Allred
+* Nathaniel Baldwin
+* Martha Beck
+* Arthur Gary Bishop
+* John Horne Blackmore
+* J. Leslie Broadbent
+* Fawn M. Brodie
+* Art Bulla
+* Frank J. Cannon
+* John Q. Cannon
+* Albert Carrington
+* Benjamin L. Clapp
+* Alpheus Cutler
+* Ed Decker
+* Steven Fales
+* Antonio A. Feliz
+* John E. Forsgren
+* Walter M. Gibson
+* Matthew P. Gill
+* Maurice L. Glendenning
+* William S. Godbe
+* Gudmund Gudmundson
+* Isaac C. Haight
+* James D. Harmston
+* Elias L. T. Harrison
+* Glenn Helzer
+* Wild Bill Hickman
+* Mark Hofmann
+* Leroy S. Johnson
+* Charles W. Kingston
+* John Hyrum Koyle
+* Alma Dayer LeBaron Sr.
+* Joel LeBaron
+* Verlan M. LeBaron
+* John D. Lee
+* Amasa Lyman
+* David Charles Manners
+* Leonard Matlovich
+* William McCary
+* Richard Miller (agent)
+* Brian David Mitchell
+* Joseph Morris (Latter Day Saints)
+* Joseph White Musser
+* Teresa Nielsen Hayden
+* John E. Page
+* Sarah Marinda Bates Pratt
+* W. H. Pugmire
+* Sidney Rigdon
+* Julie Rowe
+* John Singer (homeschooler)
+* Annalee Skarin
+* Hyrum W. Smith
+* William Smith
+* Fanny Stenhouse
+* T. B. H. Stenhouse
+* John W. Taylor (Mormon)
+* Third Convention
+* Edward Tullidge
+* Harvey G. Whitlock
+* Lyman Wight
+* Anne Wilde
+* John W. Woolley
+* Lorin C. Woolley
+
+
+## Sources Consulted
+* [Wikipedia Category: People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
+* [Wikipedia Category: People excommunicated by the Church of Christ (Latter Day Saints)](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints))
 
 ## Dubious
 
