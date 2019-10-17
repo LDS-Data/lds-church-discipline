@@ -4,6 +4,8 @@ All publicly known disciplinary councils of the Church of Jesus Christ of Latter
 
 NOTE: This is a work in progress. Entries without citations should be considered unverified.
 
+* [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy.
+
 * [Byron Merchant](https://ordainwomen.org/byrons-song/)—14 Oct 1977—For opposition to the race-based priesthood and temple ban.
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
@@ -46,32 +48,40 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * Jeremy Runnells – 2016 – Author of “The CES Letter” was disciplined for creating a document which asks questions regarding the history of the LDS faith and challenges its truth claims. The letter was written in about 2013 and went viral shortly thereafter. He resigned during his excommunication proceeding.
 
+* [James J. Hamula](https://en.wikipedia.org/wiki/James_J._Hamula)—8 Aug 2017—Member of the First Quorum of Seventy—[Excommunicated for reasons unknown](https://www.sltrib.com/news/2017/08/08/high-ranking-mormon-official-excommunicated-first-such-ouster-in-nearly-3-decades/). The first excommunication of a general authority since George P. Lee.
+
 * Sam Young – 2018 – Leader of the “Protect LDS Children movement” which was encouraging church leaders to stop asking sexually explicit questions to minors during one on one interview.
 
 * Bill Reel - Dec 2018 – Popular Mormon podcaster who among other things created a podcast which accused Holland of telling 5 specific lies.
 
 * Leah and Cody Young – 2019 – Although not prominent, these members were excommunicated for starting a support group for former or questioning members. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.
 
-## To Merge
-
-* Arthur Gary Bishop, serial killer and child molester[65]
+## Due to Criminal Convictions
+* [Arthur Gary Bishop](https://en.wikipedia.org/wiki/Arthur_Gary_Bishop)—October 1978—Excommunicated after being convicted of embezzlement. He went on to become a serial killer and child molester.
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list[66]
 * Ted Bundy convicted serial killer and rapist
-* James J. Hamula, former LDS general authority[68]
 * Mark Hofmann, double murderer and an expert forger; "considered by forensic experts to be the best forger yet caught"[69]
-* Helmuth Hübener, opponent of the Third Reich;[70] posthumously reinstated by the LDS Church in 1946[71]
-* Ogden Kraut, independent Mormon fundamentalist author[74]
-* Deborah Laake, wrote an ex-Mormon memoir [75]
+* Richard McCoy, Jr., hijacker of a United Airliner passenger jet for ransom in 1972[80]
 * George P. Lee, former LDS general authority, convicted child molester[76][77]
+
+## Excommunications without Disciplinary Council
+* [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (b. 1925)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
+
+## To Merge
+
+* Deborah Laake, wrote an ex-Mormon memoir [75]
 * Bob Lonsberry, writer and talk radio host, expelled for "bad conduct" prior to 2001[78]
 * David Charles Manners, British writer and charity co-founder[79]
-* Richard McCoy, Jr., hijacker of a United Airliner passenger jet for ransom in 1972[80]
 * Teresa Nielsen Hayden, science fiction editor, lapsed at time of excommunication[81]
 * Orson Pratt, Jr., first son of Apostle Orson Pratt[43][82]
 * Denver Snuffer, Utah lawyer and author of books on LDS doctrine[83]
 * Simon Southerton, molecular biologist lapsed at time of excommunication[84]
 * George D. Watt, secretary to Brigham Young and compiler of the Journal of Discourses[85]
 * Ann Eliza Young, ex-wife of Brigham Young[86]
+
+## Additional Sources
+https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints)
 
 
 ## Dubious
