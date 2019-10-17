@@ -1,4 +1,6 @@
-# LDS Disciplinary Councils
+---
+title: LDS Disciplinary Councils
+---
 
 All publicly known disciplinary councils of the Church of Jesus Christ of Latter-day Saints, with outcomes and additional notes if known.
 
