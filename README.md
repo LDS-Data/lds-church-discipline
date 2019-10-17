@@ -70,7 +70,9 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * Bill Reel - Dec 2018 – Popular Mormon podcaster who among other things created a podcast which accused Holland of telling 5 specific lies.
 
-* Leah and Cody Young – 2019 – Although not prominent, these members were excommunicated for starting a support group for former or questioning members. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.
+* Leah and Cody Young—14 Apr 2019—Founded online support group for questioning Mormons—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.
+
+* Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/)
 
 ## Due to Criminal Convictions Alone
 * [Arthur Gary Bishop](https://en.wikipedia.org/wiki/Arthur_Gary_Bishop)—October 1978—Excommunicated after being convicted of embezzlement. He went on to become a serial killer and child molester.
