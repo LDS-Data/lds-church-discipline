@@ -1,5 +1,7 @@
 ## 19th Century
 
+* [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
+
 ### Mass Excommunications at Quincy, Illinois Church Conference
 
 > After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
@@ -12,11 +14,14 @@
 
 * Reed Peck (1814-1894)—17 Mar 1839—Attempted peaceful resolution of Mormon War—Excommunicated by a conference of the church, not long after [his disaffection from the church and testifying against Joseph Smith in court](https://www.josephsmithpapers.org/person/reed-peck).
 
-* W. W. Phelps (Mormon)
+* [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—17 Mar 1839—Printer and hymnist—Excommunicated by a conference of the church for testifying against Joseph Smith in court, helping put him in Liberty Jail.
+
 * Thomas B. Marsh
 * Burr Riggs
 
 ### Brigham Young Era
+
+TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Orson Pratt, Jr. (1837-1903)—18 Sep 1864—First son of Apostle Orson Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) after publicly stating his lack of belief in Joseph Smith at sacrament meeting.
 
