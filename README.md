@@ -227,3 +227,6 @@
 ## Dubious
 
 * Martha Nibley Beck – Scholar and author. Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
+
+## Contact
+Please send omissions and corrections to _________.
