@@ -1,10 +1,29 @@
-NOTE: This is a work in progress. Entries without citations should be considered unverified.
+## 19th Century
+
+### Mass Excommunications at a Quincy, Illinois Conference of the Church, 17 Mar 1839
+
+> After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
+
+* [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—Excommunicated by a conference of the church.
+
+* [George M. Hinkle](https://en.wikipedia.org/wiki/George_M._Hinkle) (1801-1861)—17 Mar 1839—Militia leader who turned Joseph Smith over to the Missourians—Excommunicated by a conference of the church. It was later shown that [he turned the Mormon prophet over in bad faith](https://www.deseret.com/2010/2/14/20096307/speaker-says-militia-leader-betrayed-joseph-smith), expecting him to be executed.
+
+* [John Corrill](https://en.wikipedia.org/wiki/John_Corrill) (1794-1842)—17 Mar 1839—Early Mormon leader, Missouri legislator involved with handing Joseph Smith over to the Missourians—Excommunicated by a conference of the church. He also testified against Joseph Smith and the Mormons in court.
+
+* Reed Peck
+* W. W. Phelps (Mormon)
+* Thomas B. Marsh
+* Burr Riggs
+
+### Brigham Young Era
 
 * Orson Pratt, Jr. (1837-1903)—18 Sep 1864—First son of Apostle Orson Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) after publicly stating his lack of belief in Joseph Smith at sacrament meeting.
 
 * [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869 (disfellowshipment) and 3 May 1874 (excommunication)—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped in 1869 and excommunicated in 1874 for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement.
 
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf) subsequent to leaving her husband.
+
+## 20th Century
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
@@ -22,7 +41,7 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
-## [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
+### [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
 
 * Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven–[Disfellowshipped for apostasy and teaching false doctrine](https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html), on account of [comments made on television about the church's treatment of women](https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
@@ -36,7 +55,7 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn)—26 Sep 1993—Historian and BYU professor 1976-1988—Excommunicated for "conduct unbecoming a member of the Church and apostasy", including his writings about belief in seer stones in the early church and the practice of polygamy with official sanction after the 1890 manifesto. His gay sexual orientation may also have been a factor in his excommunication.
 
-## Post-September-Six
+### Post-September-Six
 
 * David Wright—5 Apr 1994—Brandeis Hebrew prof—Excommunicated for [publishing his view that the Book of Mormon was a 19th-century production](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/096-65-77.pdf) in the Sunstone article [Historical Criticism: A Necessary Element In The Search For Religious Truth](https://www.sunstonemagazine.com/wp-content/uploads/sbi/issues/089.pdf) as well as _"In Plain  Terms That We May Understand":  Joseph Smith's Transformation of Hebrews in Alma 12-13_, a chapter in Brent Metcalfe's _New Approaches to the Book of Mormon_.
 
@@ -47,6 +66,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * [Janice Merrill Allred](https://en.wikipedia.org/wiki/Janice_Merrill_Allred)—9 May 1995—Mormon feminist, September Six collaborator—[Excommunicated for apostasy and teaching false doctrine](https://www.deseret.com/1995/5/11/19174734/lds-excommunicate-feminist-appeal-planned) on account of her teachings identifying Heavenly Mother as the Holy Ghost and thus equal standing to the Father and Christ, and her assertion that it is possible for the LDS church to be led astray. She had previously been subject to informal church discipline (probation) in October 1994. Her brother-in-law  Paul Toscano was excommunicated prior, and her sister Margaret Toscano was excommunicated subsequently.
 
 * Margaret Toscano—2000—Mormon feminist, classics professor—[Excommunicated for apostasy](https://www.pbs.org/wgbh/americanexperience/features/mormons-toscano/) because she [refused to silence her views](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) on female ordination and an elevated theological status for Heavenly Mother. She was originally threatened with excommunication along with the September Six (including her husband Paul Toscano) and ordered silent on feminist issues. It was later determined that she had not sufficiently stifled her views.
+
+## 21st Century
 
 * Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband. 
 
@@ -97,14 +118,13 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 
 ## Inbox
-* Sampson Avard
+
 * John C. Bennett
 * Gladden Bishop
 * John F. Boynton
 * Josiah Butterfield
 * Joseph Coe
 * Leman Copley
-* John Corrill
 * Oliver Cowdery
 * Austin Cowles
 * Solomon Wilbur Denton
@@ -115,19 +135,16 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * J. E. Goodson
 * Chauncey L. Higbee
 * Francis M. Higbee
-* George M. Hinkle
 * Doctor Philastus Hurlbut
 * Charles Ivins
 * Luke Johnson
 * Lyman E. Johnson
 * William Law (Latter Day Saints)
 * Wilson Law
-* Thomas B. Marsh
 * William E. McLellin
 * Roger Orton
 * Hiram Page
 * Warren Parrish
-* W. W. Phelps (Mormon)
 * Orson Pratt
 * Leonard Rich
 * Isaac Russell
