@@ -4,13 +4,14 @@
 
 > After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
 
-* [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—Excommunicated by a conference of the church.
+* [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard) (1800-1869)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—Excommunicated by a conference of the church.
 
 * [George M. Hinkle](https://en.wikipedia.org/wiki/George_M._Hinkle) (1801-1861)—17 Mar 1839—Militia leader who turned Joseph Smith over to the Missourians—Excommunicated by a conference of the church. It was later shown that [he turned the Mormon prophet over in bad faith](https://www.deseret.com/2010/2/14/20096307/speaker-says-militia-leader-betrayed-joseph-smith), expecting him to be executed.
 
 * [John Corrill](https://en.wikipedia.org/wiki/John_Corrill) (1794-1842)—17 Mar 1839—Early Mormon leader, Missouri legislator involved with handing Joseph Smith over to the Missourians—Excommunicated by a conference of the church. He also testified against Joseph Smith and the Mormons in court.
 
-* Reed Peck
+* Reed Peck (1814-1894)—17 Mar 1839—Attempted peaceful resolution of Mormon War—Excommunicated by a conference of the church, not long after [his disaffection from the church and testifying against Joseph Smith in court](https://www.josephsmithpapers.org/person/reed-peck).
+
 * W. W. Phelps (Mormon)
 * Thomas B. Marsh
 * Burr Riggs
