@@ -76,6 +76,8 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * Leah and Cody Young—14 Apr 2019—Founded online support group for questioning Mormons—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.
 
+* [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.
+
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/)
 
 ## Due to Criminal Convictions Alone
@@ -181,12 +183,10 @@ NOTE: This is a work in progress. Entries without citations should be considered
 * Brian David Mitchell
 * Joseph Morris (Latter Day Saints)
 * Joseph White Musser
-* Teresa Nielsen Hayden
 * John E. Page
 * Sarah Marinda Bates Pratt
 * W. H. Pugmire
 * Sidney Rigdon
-* Julie Rowe
 * John Singer (homeschooler)
 * Annalee Skarin
 * Hyrum W. Smith
