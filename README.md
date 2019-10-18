@@ -30,11 +30,11 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * Maxine Hanks—19 Sep 1993—Feminist who supported female ordination—[Excommunicated for "conduct contrary to the laws and order of the Church"](https://www.sunstonemagazine.com/pdf/092-65-79.pdf).
 
+* Paul Toscano—19 Sep 1993—Founder of the [Mormon Alliance](https://en.wikipedia.org/wiki/Mormon_Alliance) which documented ecclesiastical abuse—Excommunicated for apostasy, largely due to his Sunstone presentation, [_All is Not Well in Zion: False Teachings of the True Church_](http://signaturebookslibrary.org/sancity-of-dissent-09/) which explored "speculative theology" on a number of topics.
+
 * [Lavina Fielding Anderson](https://en.wikipedia.org/wiki/Lavina_Fielding_Anderson)—23 Sep 1993—Scholar, writer, editor, and feminist—Excommunicated for documenting ecclesiastical abuse by Mormon leaders, particularly her [Spring 1993 _Dialogue_ article](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V26N01.pdf), _The LDS Intellectual Community and Church Leadership: A Contemporary Chronology_.
 
 * [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn)—26 Sep 1993—Historian and BYU professor 1976-1988—Excommunicated for "conduct unbecoming a member of the Church and apostasy", including his writings about belief in seer stones in the early church and the practice of polygamy with official sanction after the 1890 manifesto. His gay sexual orientation may also have been a factor in his excommunication.
-
-* Paul Toscano—19 Sep 1993—Founder of the [Mormon Alliance](https://en.wikipedia.org/wiki/Mormon_Alliance) which documented ecclesiastical abuse—Excommunicated for apostasy, largely due to his Sunstone presentation, [_All is Not Well in Zion: False Teachings of the True Church_](http://signaturebookslibrary.org/sancity-of-dissent-09/) which explored "speculative theology" on a number of topics.
 
 ## Post-September-Six
 
@@ -42,7 +42,7 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * Michael Barrett—24 Apr 1994—Assistant General Counsel for the CIA—[Excommunicated for disobeying his stake president's order](https://www.mrm.org/michael-j-barrett) to cease [writing letters to the editor](https://www.washingtonpost.com/archive/local/1994/04/25/mormons-remove-va-man/6c2aa907-d04f-4c7f-8b6d-9a663e74a731/) elaborating on unflattering aspects of Mormon history.
 
-* Brent Metcalfe—1994—Book of Mormon Critic—Excommunicated for _______. Edited _New Approaches to the Book of Mormon: Explorations in Critical Methodology_, a collection of critical works on the Book of Mormon. ~~Editor of the anthology "New Approaches to the Book of Mormon," published by Signature Books in Salt Lake City. Metcalfe also edited "American Apocrypha," which included the article in which Murphy used genetic research to challenge the Book of Mormon doctrine that American Indians are descendants of ancient Israelite families. Metcalfe developed the theory that the Book of Mormon was translated starting at Mosiah and that the first books in the current manuscript were produced later .~~
+* Brent Metcalfe—4? Dec 1994—Book of Mormon Critic—[Excommunicated for apostasy, after first being told he was being excommunicated for "conduct unbecoming a member" of the church](https://www.mormonstories.org/podcast/brent-metcalfe-mark-hofmann-salamander-letter-bombings). [Edited _New Approaches to the Book of Mormon: Explorations in Critical Methodology_](https://www.latimes.com/archives/la-xpm-1993-06-19-me-4819-story.html), a collection of critical works on the Book of Mormon, upon which his disciplinary council was instigated.
 
 * [Janice Merrill Allred](https://en.wikipedia.org/wiki/Janice_Merrill_Allred)—9 May 1995—Mormon feminist, September Six collaborator—[Excommunicated for apostasy and teaching false doctrine](https://www.deseret.com/1995/5/11/19174734/lds-excommunicate-feminist-appeal-planned) on account of her teachings identifying Heavenly Mother as the Holy Ghost and thus equal standing to the Father and Christ, and her assertion that it is possible for the LDS church to be led astray. She had previously been subject to informal church discipline (probation) in October 1994. Her brother-in-law  Paul Toscano was excommunicated prior, and her sister Margaret Toscano was excommunicated subsequently.
 
