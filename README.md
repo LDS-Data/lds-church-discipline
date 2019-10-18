@@ -64,11 +64,11 @@ NOTE: This is a work in progress. Entries without citations should be considered
 
 * [Bruce Holt](http://www.mormonthink.com/personalstories/bruce-holt.htm)—30 Mar 2016—For a Facebook post denouncing Joseph Smith as a "fraud".
 
-* Jeremy Runnells – 2016 – Author of “The CES Letter” was disciplined for creating a document which asks questions regarding the history of the LDS faith and challenges its truth claims. The letter was written in about 2013 and went viral shortly thereafter. He resigned during his excommunication proceeding.
+* Jeremy Runnells—17 Apr 2016—Author of "Letter to a CES Director"—[Resigned his church membership during his disciplinary council for apostasy](http://www.mormonthink.com/files/jeremy-runnells-disciplinary-council-transcript.pdf) wherein he was [accused of criticizing church leaders, expressing disbelief in the Scriptures, and expressing opposition to church leaders](https://cesletter.org/resign/) including founding prophet, Joseph Smith. He was disciplined for creating a document which asks questions regarding the history of the LDS faith and challenges its truth claims. The letter was [written in 2013](https://www.mormonstories.org/podcast/jeremy-runnells-and-his-letter-to-a-ces-director/) and went viral shortly thereafter.
 
 * [James J. Hamula](https://en.wikipedia.org/wiki/James_J._Hamula)—8 Aug 2017—Member of the First Quorum of Seventy—[Excommunicated for reasons unknown](https://www.sltrib.com/news/2017/08/08/high-ranking-mormon-official-excommunicated-first-such-ouster-in-nearly-3-decades/). The first excommunication of a general authority since George P. Lee.
 
-* Sam Young – 2018 – Leader of the “Protect LDS Children movement” which was encouraging church leaders to stop asking sexually explicit questions to minors during one on one interview.
+* Sam Young—9 Sep 2018—Critic of one-on-one youth interviews, "Protect LDS Children" founder—[Excommunicated "for conduct contrary to the laws and order of the church"](https://www.sltrib.com/religion/2018/09/16/mormon-church/) due to his campaign against one-on-one interviews between adult male church leaders and minors, wherein sexually-themed questions are regularly asked. His Protect LDS Children initiative collected over a thousand stories describing harms experienced during such youth interviews and supported protest actions including a signature drive and hunger strike.
 
 * Bill Reel - Dec 2018 – Popular Mormon podcaster who among other things created a podcast which accused Holland of telling 5 specific lies.
 
