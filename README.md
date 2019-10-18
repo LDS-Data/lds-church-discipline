@@ -1,6 +1,6 @@
 ## 19th Century
 
-### Mass Excommunications at a Quincy, Illinois Conference of the Church, 17 Mar 1839
+### Mass Excommunications at Quincy, Illinois Church Conference
 
 > After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
 
