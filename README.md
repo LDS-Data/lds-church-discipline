@@ -1,5 +1,7 @@
 ## 19th Century
 
+* Burr Riggs (1811-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
+
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
 ### Mass Excommunications at Quincy, Illinois Church Conference
@@ -18,7 +20,7 @@
 
 * [Thomas B. Marsh](https://en.wikipedia.org/wiki/Thomas_B._Marsh) (1800-1866)—17 Mar 1839—First President of the Quroum of the Twelve Apostles—Excommunicated by a conference of the church, likely because he drafted and signed an affidavit against Joseph Smith in connection with the Missouri Mormon War, in which he expressed his concerns over the violent tactics of the Mormons. Marsh's move away from the church [may have been initiated](https://juvenileinstructor.org/thomas-b-marshs-reconciliation-with-george-w-harris/) by a dispute between his wife Elizabeth and Lucinda Harris over a pint of milk skimmings, which the First Presidency supposedly decided in Lucinda's favor; then again, that story may be fabulous. Thomas B. Marsh is known to have made a reconciliation with Lucinda's husband George in 1857; soon thereafter he moved to Utah where he was rebaptized into the church. He lived his days out as a pauper.
 
-* Burr Riggs
+* Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
 ### Brigham Young Era
 
