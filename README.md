@@ -16,7 +16,8 @@
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—17 Mar 1839—Printer and hymnist—Excommunicated by a conference of the church for testifying against Joseph Smith in court, helping put him in Liberty Jail.
 
-* Thomas B. Marsh
+* [Thomas B. Marsh](https://en.wikipedia.org/wiki/Thomas_B._Marsh) (1800-1866)—17 Mar 1839—First President of the Quroum of the Twelve Apostles—Excommunicated by a conference of the church, likely because he drafted and signed an affidavit against Joseph Smith in connection with the Missouri Mormon War, in which he expressed his concerns over the violent tactics of the Mormons. Marsh's move away from the church [may have been initiated](https://juvenileinstructor.org/thomas-b-marshs-reconciliation-with-george-w-harris/) by a dispute between his wife Elizabeth and Lucinda Harris over a pint of milk skimmings, which the First Presidency supposedly decided in Lucinda's favor; then again, that story may be fabulous. Thomas B. Marsh is known to have made a reconciliation with Lucinda's husband George in 1857; soon thereafter he moved to Utah where he was rebaptized into the church. He lived his days out as a pauper.
+
 * Burr Riggs
 
 ### Brigham Young Era
