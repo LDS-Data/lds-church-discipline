@@ -22,6 +22,10 @@
 
 * Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
+### Post-Quincy Conference
+
+* [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate then-former Governor of Missouri, Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to the join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties.
+
 ### Brigham Young Era
 
 TODO: W. W. Phelps 1847 excommunication (#3)
@@ -128,7 +132,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* John C. Bennett
 * Gladden Bishop
 * John F. Boynton
 * Josiah Butterfield
