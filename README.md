@@ -4,6 +4,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * Burr Riggs (1811-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
 
+* [Doctor Philastus Hurlbut](https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut)—3 Jun 1833—Amorous Apostate, Early Church Foe—[Excommunicated in absentia for "unchristian conduct with the female sex while on a mission to the east"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/16). He was found sufficiently penitent upon appeal that [his membership was restored 21 Jun 1833](https://www.josephsmithpapers.org/paper-summary/minute-book-1/25) only to be [revoked again two days later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/26) because he had reportedly claimed to have "deceived" the prior council. He went on to become a prominent—perhaps _notorious_—critic of Mormonism, being a major contributor to Eber D. Howe's _Mormonism Unvailed_, for which he collected affidavits against the character of Joseph Smith and his family.
+
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
@@ -157,7 +159,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * J. E. Goodson
 * Chauncey L. Higbee
 * Francis M. Higbee
-* Doctor Philastus Hurlbut
 * Charles Ivins
 * Luke Johnson
 * Lyman E. Johnson
