@@ -50,6 +50,10 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## 20th Century
 
+* [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
+
+* [Matthias F. Cowley](https://en.wikipedia.org/wiki/Matthias_F._Cowley) (1858-1940)—11 May 1911—Resigned Apostle, Polygamist, Sermonizer—[Deprived of "the right and authority to exercise any of the functions of the priesthood" for "insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/), specifically for continued involvement with plural marriages not authorized by the church. Along with fellow apostle John W. Taylor, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings. His non-standard penalty for insubordination was removed and his priesthood restored 3 Apr 1936.
+
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
 * [John Singer](https://en.wikipedia.org/wiki/John_Singer_(anti-government_activist)) (1931-1979)—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). He entered a polygamous relationship and went on to defy the government in a fight over homeschooling his children. He was [shot in a confrontation with police](https://books.google.com/books?id=Fk6xCgAAQBAJ&pg=PA91&lpg=PA91&dq=john+singer+excommunication&source=bl&ots=w6kGWSHKwS&sig=ACfU3U2M0KyPzHiG3Ng2gm02U8QNbeLtsQ&hl=en&sa=X&ved=2ahUKEwiX1-Cj77PlAhU_FTQIHW7qDTcQ6AEwEHoECAkQAQ#v=onepage&q=john%20singer%20excommunication&f=false) when he [refused to surrender his second (polygamous) wife's children](https://www.uen.org/utah_history_encyclopedia/s/SINGER_JOHN.shtml) (in legal custody of her now-ex-husband) to the state.
@@ -234,7 +238,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * William Smith
 * Fanny Stenhouse
 * T. B. H. Stenhouse
-* John W. Taylor (Mormon)
 * Third Convention
 * Edward Tullidge
 * Harvey G. Whitlock
