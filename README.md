@@ -82,13 +82,15 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Arthur Gary Bishop](https://en.wikipedia.org/wiki/Arthur_Gary_Bishop)—October 1978—Embezzler, serial killer, child molester—Excommunicated after being convicted of embezzlement. He went on to become a serial killer and child molester.
 
-* [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
+* [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson) (b. 1936)—5 Dec 1979—Feminist—Excommunicated for her work in promoting the Equal Rights Amendment.
 
 * [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden) (b. 1956)—Summer 1980—Writer, science fiction editor, ERA proponent—Excommunicated [in response to a denunciatory letter](http://nielsenhayden.com/GodandI.html) she wrote church president Spencer W. Kimball upon the excommunication of Sonia Johnson.
 
 * [David Charles Manners](https://en.wikipedia.org/wiki/David_Charles_Manners) (b. 1965)—abt 1985—British writer and charity co-founder—Excommunicated for being gay.
 
 * [Mark Hofmann](https://en.wikipedia.org/wiki/Mark_Hofmann) (b. 1954)—abt 1988—Double murderer and expert forger—Excommunicated following his imprisonment for murder. Hofmann is widely regarded as one of the world's great forgers. He deceived LDS church leaders with forgeries of supposed early church documents, leading historians to investigate actual connections between Joseph Smith and folk beliefs regarding magic.
+
+* Bruce Holt—Jan 1989—Software developer—[Excommunicated for adultery](http://www.mormonthink.com/personalstories/bruce-holt.htm). Re-baptized 1991.
 
 * [George P. Lee](https://en.wikipedia.org/wiki/George_P._Lee) (1943-2010)—1 Sep 1989—First Native American General Authority—Excommunicated [for "apostasy and other conduct unbecoming a member of the Church."](https://www.thechurchnews.com/archives/1989-09-09/disciplinary-action-taken-sept-1-against-general-authority-150691). Later convicted of child sexual molestation, which apparently played a role in his excommunication though this was only hinted at at the time. The first General Authority excommunication since Richard R. Lyman in 1943.
 
@@ -134,9 +136,9 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Kate Kelly](https://en.wikipedia.org/wiki/Kate_Kelly_(feminist))—2014—Feminist, Ordain Women founder—[Excommunicated "for conduct contrary to the laws and order of the church"](https://www.nytimes.com/2014/06/24/us/Kate-Kelly-Mormon-Church-Excommunicates-Ordain-Women-Founder.html), particularly [for promoting the view that women should be ordained to the priesthood](https://www.nbcnews.com/news/us-news/mormon-womens-group-founder-kate-kelly-excommunicated-n138746). Her movement—as well as excommunication—immediately preceded [a raft of changes increasing women's roles in the church](http://religiondispatches.org/historic-prayer-by-woman-at-lds-general-conference-signals-growing-concern-with-gender-equality/), including women praying in General Conference, more prominent female mission leadership, a lowered age for female missionary service, and improved curriculum for the Young Women program.
 
-* [John Dehlin](https://en.wikipedia.org/wiki/John_Dehlin)—[8 Feb 2015](https://archive.sltrib.com/article.php?id=2089207&itype=CMSID)—LGBT advocate, host of _Mormon Stories_ podcast—[Excommunicated for apostasy and "conduct contrary to the laws and order of the church"](https://archive.sltrib.com/article.php?id=2163720&itype=CMSID), for critical views expressed while interviewing hundreds of Mormons on _Mormon Stories_, a groundbreaking podcast that facilitated open discussion among Mormons. He advocated honesty in evaluating the historical claims of the LDS church and tried to stay in the faith while not believing the divinity claims. The podcast enabled critical viewpoints to gain a wider audience, and gave doubting and otherwise-marginalized Mormons a sense of community and support. 
+* [John Dehlin](https://en.wikipedia.org/wiki/John_Dehlin)—[8 Feb 2015](https://archive.sltrib.com/article.php?id=2089207&itype=CMSID)—LGBT advocate, host of _Mormon Stories_ podcast—[Excommunicated for apostasy and "conduct contrary to the laws and order of the church"](https://archive.sltrib.com/article.php?id=2163720&itype=CMSID), for critical views expressed while interviewing hundreds of Mormons on _Mormon Stories_, a groundbreaking podcast that facilitated open discussion among Mormons. He advocated honesty in evaluating the historical claims of the LDS church and tried to stay in the faith while not believing the divinity claims. The podcast enabled critical viewpoints to gain a wider audience, and gave doubting and otherwise-marginalized Mormons a sense of community and support.
 
-* [Bruce Holt](http://www.mormonthink.com/personalstories/bruce-holt.htm)—30 Mar 2016—For a Facebook post denouncing Joseph Smith as a "fraud".
+* [Bruce Holt]()—30 Mar 2016—Software developer—[Excommunicated for a Facebook post denouncing Joseph Smith as a "fraud"](http://www.mormonthink.com/personalstories/bruce-holt.htm).
 
 * Jeremy Runnells—17 Apr 2016—Author of "Letter to a CES Director"—[Resigned his church membership during his disciplinary council for apostasy](http://www.mormonthink.com/files/jeremy-runnells-disciplinary-council-transcript.pdf) wherein he was [accused of criticizing church leaders, expressing disbelief in the Scriptures, and expressing opposition to church leaders](https://cesletter.org/resign/) including founding prophet, Joseph Smith. He was disciplined for creating a document which asks questions regarding the history of the LDS faith and challenges its truth claims. The letter was [written in 2013](https://www.mormonstories.org/podcast/jeremy-runnells-and-his-letter-to-a-ces-director/) and went viral shortly thereafter.
 
@@ -148,7 +150,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Gina Colvin—[20 Dec 2018](https://religionnews.com/2018/12/19/mormon-podcaster-gina-colvin-faces-excommunication-tonight-feeling-both-saddened-and-enraged/)—_A Thoughtful Faith_ podcaster—[No action was taken](https://www.sltrib.com/religion/2018/12/20/mormonism-its-best/) in her disciplinary council, convened to hear charges of apostasy and "conduct unbecoming" a church member.
 
-* Leah and Cody Young—14 Apr 2019—Founded online support group for questioning Mormons—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.
+* Leah and Cody Young—14 Apr 2019—Founded online support group for questioning Mormons—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->
 
 * [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.
 
@@ -190,11 +192,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Peter Whitmer Sr.
 * Frederick G. Williams
 * George J. Adams
-* Janice Merrill Allred
 * Owen A. Allred
 * Nathaniel Baldwin
-* Martha Beck
-* Arthur Gary Bishop
 * John Horne Blackmore
 * J. Leslie Broadbent
 * Fawn M. Brodie
@@ -218,7 +217,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Elias L. T. Harrison
 * Glenn Helzer
 * Wild Bill Hickman
-* Mark Hofmann
 * Leroy S. Johnson
 * Charles W. Kingston
 * John Hyrum Koyle
@@ -227,7 +225,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Verlan M. LeBaron
 * John D. Lee
 * Amasa Lyman
-* David Charles Manners
 * Leonard Matlovich
 * William McCary
 * Richard Miller (agent)
@@ -250,7 +247,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Anne Wilde
 * John W. Woolley
 * Lorin C. Woolley
-
 
 ## Sources Consulted
 * [Wikipedia Category: People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
