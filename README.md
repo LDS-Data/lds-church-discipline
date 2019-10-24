@@ -256,6 +256,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 Sources from which church discipline actions should be gleaned:
 * History of the Church
 * Kirtland High Council Minutes
+* Wikipedia: [List of former or dissident LDS](https://en.wikipedia.org/wiki/List_of_former_or_dissident_LDS)
 
 ## Dubious
 
