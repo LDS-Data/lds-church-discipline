@@ -1,4 +1,4 @@
-_Please send additions or corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com)._
+_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com)._
 
 ## 19th Century
 
