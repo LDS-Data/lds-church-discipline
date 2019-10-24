@@ -2,6 +2,8 @@
 
 * Burr Riggs (1811-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
 
+* James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
+
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
 ### Mass Excommunications at Quincy, Illinois Church Conference
@@ -23,6 +25,8 @@
 * Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
 ### Post-Quincy Conference
+
+* [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate then-former Governor of Missouri, Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to the join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties.
 
@@ -132,7 +136,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* Gladden Bishop
+
 * John F. Boynton
 * Josiah Butterfield
 * Joseph Coe
@@ -235,6 +239,10 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 ## Sources Consulted
 * [Wikipedia Category: People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
 * [Wikipedia Category: People excommunicated by the Church of Christ (Latter Day Saints)](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints))
+
+## Sources To Consult
+Sources from which church discipline actions should be gleaned:
+* History of the Church
 
 ## Dubious
 
