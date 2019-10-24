@@ -46,7 +46,11 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
-* [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy.
+* [John Singer](https://en.wikipedia.org/wiki/John_Singer_(anti-government_activist)) (1931-1979)—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). He entered a polygamous relationship and went on to defy the government in a fight over homeschooling his children. He was [shot in a confrontation with police](https://books.google.com/books?id=Fk6xCgAAQBAJ&pg=PA91&lpg=PA91&dq=john+singer+excommunication&source=bl&ots=w6kGWSHKwS&sig=ACfU3U2M0KyPzHiG3Ng2gm02U8QNbeLtsQ&hl=en&sa=X&ved=2ahUKEwiX1-Cj77PlAhU_FTQIHW7qDTcQ6AEwEHoECAkQAQ#v=onepage&q=john%20singer%20excommunication&f=false) when he [refused to surrender his second (polygamous) wife's children](https://www.uen.org/utah_history_encyclopedia/s/SINGER_JOHN.shtml) (in legal custody of her now-ex-husband) to the state.
+
+* Vickie Singer—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). Nearly a decade after her husband's death, she participated in [the bombing of an LDS chapel](https://en.wikipedia.org/wiki/Singer-Swapp_Standoff), for which she spent five years in prison after a violent standoff.
+
+* [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy. Friend of fellow excommunicants John and Vickie Singer, he later [acted as mediator in the Singer-Swapp standoff](https://www.sunstonemagazine.com/pdf/068-10-17.pdf).
 
 * Byron Merchant—14 Oct 1977—Race ban protester—[Excommunicated for opposition to the race-based priesthood and temple ban](https://ordainwomen.org/byrons-song/). His "opposed" vote in General Conference led to the instigation of disciplinary action against him.
 
@@ -222,7 +226,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Sarah Marinda Bates Pratt
 * W. H. Pugmire
 * Sidney Rigdon
-* John Singer (homeschooler)
 * Annalee Skarin
 * Hyrum W. Smith
 * William Smith
