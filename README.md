@@ -62,6 +62,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Matthias F. Cowley](https://en.wikipedia.org/wiki/Matthias_F._Cowley) (1858-1940)—11 May 1911—Resigned Apostle, Polygamist, Sermonizer—[Deprived of "the right and authority to exercise any of the functions of the priesthood" for "insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/), specifically for continued involvement with plural marriages not authorized by the church. Along with fellow apostle John W. Taylor, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings. His non-standard penalty for insubordination was removed and his priesthood restored 3 Apr 1936.
 
+* [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (1925-1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
+
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
 * [John Singer](https://en.wikipedia.org/wiki/John_Singer_(anti-government_activist)) (1931-1979)—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). He entered a polygamous relationship and went on to defy the government in a fight over homeschooling his children. He was [shot in a confrontation with police](https://books.google.com/books?id=Fk6xCgAAQBAJ&pg=PA91&lpg=PA91&dq=john+singer+excommunication&source=bl&ots=w6kGWSHKwS&sig=ACfU3U2M0KyPzHiG3Ng2gm02U8QNbeLtsQ&hl=en&sa=X&ved=2ahUKEwiX1-Cj77PlAhU_FTQIHW7qDTcQ6AEwEHoECAkQAQ#v=onepage&q=john%20singer%20excommunication&f=false) when he [refused to surrender his second (polygamous) wife's children](https://www.uen.org/utah_history_encyclopedia/s/SINGER_JOHN.shtml) (in legal custody of her now-ex-husband) to the state.
@@ -70,13 +72,21 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (b. 1927)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy. Friend of fellow excommunicants John and Vickie Singer, he later [acted as mediator in the Singer-Swapp standoff](https://www.sunstonemagazine.com/pdf/068-10-17.pdf).
 
+* [Richard McCoy, Jr.](https://en.wikipedia.org/wiki/Richard_McCoy_Jr.) (1942-1974)—6 Jun 1972—Sunday School teacher, copycat skyjacker—[Excommunicated "on the grounds of skyjacking and extortion"](https://web.archive.org/web/20190406214136/http://www.ldsfilm.com/movies/DBCooper.html). Richard McCoy, Jr., hijacked a United Airlines passenger jet for ransom in 1972, four months after the more infamous D.B. Cooper carried out a similar and still-unsolved hijacking. Due to the similarity, McCoy has been considered a suspect in the D.B. Cooper crime. He was excommunicated in response to his crimes. He was shot after escaping from prison.
+
+* [Ted Bundy](https://en.wikipedia.org/wiki/Ted_Bundy) (1946-1989)—1976 or soon thereafter—Convicted serial killer and rapist—[Excommunicated following his conviction for kidnapping](https://news.google.com/newspapers?id=xbMwAAAAIBAJ&sjid=-PoDAAAAIBAJ&dq=ted%20bundy%20mormon&pg=6890%2C1373449). His participation in Mormonism was brief: he was baptized in August or September 1975, jailed that year, convicted in 1976, and excommunicated in response. He had already been murdering people when he joined the church. He made two dramatic escapes and three further murders before being recaptured and thrice sentenced to death. He was executed for his crimes in 1989. Temple work was performed for him posthumously.
+
 * Byron Merchant—14 Oct 1977—Race ban protester—[Excommunicated for opposition to the race-based priesthood and temple ban](https://ordainwomen.org/byrons-song/). His "opposed" vote in General Conference led to the instigation of disciplinary action against him.
+
+* [Arthur Gary Bishop](https://en.wikipedia.org/wiki/Arthur_Gary_Bishop)—October 1978—Embezzler, serial killer, child molester—Excommunicated after being convicted of embezzlement. He went on to become a serial killer and child molester.
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson)—5 Dec 1979—Excommunicated for her work in promoting the ERA.
 
 * [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden) (b. 1956)—Summer 1980—Writer, science fiction editor, ERA proponent—Excommunicated [in response to a denunciatory letter](http://nielsenhayden.com/GodandI.html) she wrote church president Spencer W. Kimball upon the excommunication of Sonia Johnson.
 
 * [David Charles Manners](https://en.wikipedia.org/wiki/David_Charles_Manners) (b. 1965)—abt 1985—British writer and charity co-founder—Excommunicated for being gay.
+
+* [Mark Hofmann](https://en.wikipedia.org/wiki/Mark_Hofmann) (b. 1954)—abt 1988—Double murderer and expert forger—Excommunicated following his imprisonment for murder. Hofmann is widely regarded as one of the world's great forgers. He deceived LDS church leaders with forgeries of supposed early church documents, leading historians to investigate actual connections between Joseph Smith and folk beliefs regarding magic.
 
 * [George P. Lee](https://en.wikipedia.org/wiki/George_P._Lee) (1943-2010)—1 Sep 1989—First Native American General Authority—Excommunicated [for "apostasy and other conduct unbecoming a member of the Church."](https://www.thechurchnews.com/archives/1989-09-09/disciplinary-action-taken-sept-1-against-general-authority-150691). Later convicted of child sexual molestation, which apparently played a role in his excommunication though this was only hinted at at the time. The first General Authority excommunication since Richard R. Lyman in 1943.
 
@@ -141,17 +151,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/)
-
-## Due to Criminal Convictions Alone
-* [Arthur Gary Bishop](https://en.wikipedia.org/wiki/Arthur_Gary_Bishop)—October 1978—Excommunicated after being convicted of embezzlement. He went on to become a serial killer and child molester.
-* Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list[66]
-* Ted Bundy convicted serial killer and rapist
-* Mark Hofmann, double murderer and an expert forger; "considered by forensic experts to be the best forger yet caught"[69]
-* Richard McCoy, Jr., hijacker of a United Airliner passenger jet for ransom in 1972[80]
-
-
-## Excommunications without Disciplinary Council
-* [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (1925-1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
 
 ## Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
@@ -264,3 +263,5 @@ Sources from which church discipline actions should be gleaned:
 ## Dubious
 
 * Martha Nibley Beck – Scholar and author. Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
+
+* Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
