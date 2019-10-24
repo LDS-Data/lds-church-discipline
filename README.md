@@ -14,6 +14,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
+* [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
+
 ### Mass Excommunications at Quincy, Illinois Church Conference
 
 > After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
@@ -37,6 +39,10 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 * [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate then-former Governor of Missouri, Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to the join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties. He also became known for his promoting the tomato and certain breeds of chickens.
+
+### Interregnum
+
+* [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844——[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
 
 ### Brigham Young Era
 
@@ -152,8 +158,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* Josiah Butterfield
-* Joseph Coe
+
 * Leman Copley
 * Oliver Cowdery
 * Austin Cowles
