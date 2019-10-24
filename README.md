@@ -16,6 +16,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
+* [Oliver Cowdery](https://en.wikipedia.org/wiki/Oliver_Cowdery) (1806-1850)—12 Apr 1838—Book of Mormon Witness, Apostle, Second Elder, Assistant President—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/17) [on six different charges, including his accusation that Joseph Smith was an adulterer](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16) due to his relationship with Fanny Alger which Cowdery termed a "dirty, nasty, filthy affair". He was rebaptized into the LDS church in 1848.
+
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
 
 ### Mass Excommunications at Quincy, Illinois Church Conference
@@ -159,7 +161,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* Oliver Cowdery
 * Austin Cowles
 * Solomon Wilbur Denton
 * Charles A. Foster
