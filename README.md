@@ -8,6 +8,10 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
+* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—3 Sep 1837—Apostle, Geologist, Inventor—[Disfellowshipped by conference vote](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239). He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. [Reinstated a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244). [Repeatedly disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/255) (along with numerous others)<!--TODO--> for "dancing with the world" and [attending balls](https://www.josephsmithpapers.org/paper-summary/minute-book-1/260).
+
+* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton?highlight=John%20Farnham%20Boynton). It's quite possible, based on the prior disfellowshipments for dancing, that John F. Boynton was excommunicated for refusing to stop dancing.
+
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
 ### Mass Excommunications at Quincy, Illinois Church Conference
@@ -144,8 +148,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-
-* John F. Boynton
 * Josiah Butterfield
 * Joseph Coe
 * Leman Copley
@@ -249,6 +251,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 ## Sources To Consult
 Sources from which church discipline actions should be gleaned:
 * History of the Church
+* Kirtland High Council Minutes
 
 ## Dubious
 
