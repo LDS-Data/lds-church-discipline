@@ -6,6 +6,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Doctor Philastus Hurlbut](https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut)—3 Jun 1833—Amorous Apostate, Early Church Foe—[Excommunicated in absentia for "unchristian conduct with the female sex while on a mission to the east"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/16). He was found sufficiently penitent upon appeal that [his membership was restored 21 Jun 1833](https://www.josephsmithpapers.org/paper-summary/minute-book-1/25) only to be [revoked again two days later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/26) because he had reportedly claimed to have "deceived" the prior council. He went on to become a prominent—perhaps _notorious_—critic of Mormonism, being a major contributor to Eber D. Howe's _Mormonism Unvailed_, for which he collected affidavits against the character of Joseph Smith and his family.
 
+* Daniel Copley—21 Jun 1833—Reluctant missionary—[Excommunicated "because he refused to fulfil his mission according to the Council of the High Priesthood of the holy order of God"](https://www.josephsmithpapers.org/paper-summary/minutes-21-june-1833/1). Much like his likewise-excommunicated father, Leman Copley, Daniel Copley struggled to be "all in" on the church. When assigned to serve a mission with (later excommunicated) Doctor Philastus Hurlbut, [he refused](https://www.josephsmithpapers.org/person/daniel-copley). He later went on to serve in the First Regiment of Wisconsin Volunteers in the American Civil War.
+
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—3 Sep 1837—Apostle, Geologist, Inventor—[Disfellowshipped by conference vote](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239). He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. [Reinstated a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244). [Repeatedly disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/255) (along with numerous others)<!--TODO--> for "dancing with the world" and [attending balls](https://www.josephsmithpapers.org/paper-summary/minute-book-1/260).
@@ -154,12 +156,10 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 ## Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
-
+* [Leman Copley](https://en.wikipedia.org/wiki/Leman_Copley) (1781-1862)—bet. 1831 and 1836—Reluctant consecrator—[Excommunicated](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2012&context=byusq). [Reinstated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/193) 1 Apr 1836.
 
 ## Inbox
 
-
-* Leman Copley
 * Oliver Cowdery
 * Austin Cowles
 * Solomon Wilbur Denton
