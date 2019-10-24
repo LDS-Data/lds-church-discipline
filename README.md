@@ -1,3 +1,5 @@
+_Please send additions or corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com)._
+
 ## 19th Century
 
 * Burr Riggs (1811-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
@@ -247,6 +249,3 @@ Sources from which church discipline actions should be gleaned:
 ## Dubious
 
 * Martha Nibley Beck – Scholar and author. Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
-
-## Contact
-Please send omissions and corrections to _________.
