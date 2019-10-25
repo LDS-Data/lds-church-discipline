@@ -44,6 +44,14 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate former Governor of Missouri Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties. He also became known for his promotion of the tomato and certain breeds of chickens.
 
+* [Austin Cowles](https://en.wikipedia.org/wiki/Austin_Cowles) (1792-1872)—18 May 1844—Hymnist and anti-polygamy crusader—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19) on account of his strenuous opposition to polygamy. He went on to publicly denounce Mormon polygamy in the _Nauvoo Expositor_, whose first and only printing led to the arrest and death of Joseph Smith.
+
+* James Blakeslee [(1802-1866)](https://www.josephsmithpapers.org/person/james-blakeslee)—18 May 1844—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19).
+
+* [Francis M. Higbee](https://en.wikipedia.org/wiki/Francis_M._Higbee) (1820-1856)—18 May 1844—_Nauvoo Expositor_ editor, Nauvoo Legion colonel—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He went on to participate in the publication of the _Nauvoo Expositor_, leading to the arrest and death of Joseph Smith.
+
+* [Charles Ivins](https://en.wikipedia.org/wiki/Charles_Ivins) (1799-1875)—18 May 1844—Dissenting bishop—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He had been appointed bishop of a new church formed by dissenters. Following his excommunication, he was one of the publishers of the _Nauvoo Expositor_, the destruction of which resulted in the arrest and death of Joseph Smith.
+
 ### Interregnum
 
 * [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844——[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
@@ -163,7 +171,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* Austin Cowles
 * Solomon Wilbur Denton
 * Charles A. Foster
 * Robert D. Foster
@@ -171,11 +178,10 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * John Gaylord
 * J. E. Goodson
 * Chauncey L. Higbee
-* Francis M. Higbee
-* Charles Ivins
 * Luke Johnson
 * Lyman E. Johnson
 * William Law (Latter Day Saints)
+* Jane Law (wife of William Law) see https://en.wikipedia.org/wiki/Austin_Cowles
 * Wilson Law
 * William E. McLellin
 * Roger Orton
