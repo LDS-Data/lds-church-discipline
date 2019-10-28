@@ -44,7 +44,19 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
-### Post-Quincy Conference
+### The Followers of Isaac Russell
+
+* [Isaac Russell](https://en.wikipedia.org/wiki/Isaac_Russell) (1807-1844)—26 Apr 1839—Unapproved revelator—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for [attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites](https://rsc.byu.edu/archived/regional-studies-latter-day-saint-church-history-british-isles/remembering-impact-british) on the basis of revelation he claimed to have received. According to the official History of the Church, "[Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church](https://byustudies.byu.edu/content/volume-4-chapter-33). He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren." He does not appear to have rejoined the church, and died in 1844 of "swamp fever".
+
+* Mary Russell—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, Isaac Russell, who claimed revelations not approved by the church. In 1861 [she moved to Utah and rejoined the church](https://en.wikipedia.org/wiki/Isaac_Russell#Death).
+
+* [John Edward Goodson](https://en.wikipedia.org/wiki/J._E._Goodson) (1808-1892)—26 Apr 1839—Musician, early missionary to England—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for supposedly coming under the influence of Isaac Russell.
+
+* Margaret Goodson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, John Goodson, when they supposedly fell under the influence of the claimed revelations of her uncle, Isaac Russell.
+
+* Others [excommunicated 26 Apr 1839 in Far West](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html): Jacob Scott, Sen., and wife, Isaac Scott, Jacob Scott, Jun., Ann Scott, Sister Walton, Robert Walton, Sister Cavanaugh, Ann Wanlass, William Dawson, Jun., and wife, William Dawson, Sen., and wife, George Nelson, Joseph Nelson and wife and mother, William Warnock and wife, Jonathan Maynard, Nelson Maynard, George Miller, John Grigg and wife, Luman Gibbs, Simeon Gardner, and Freeborn Gardner.<!-- TODO -->
+
+### Late Joseph Smith Era
 
 * [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
 
@@ -193,7 +205,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* J. E. Goodson
 * Chauncey L. Higbee
 * Luke Johnson
 * Lyman E. Johnson
@@ -203,7 +214,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Warren Parrish
 * Orson Pratt
 * Leonard Rich
-* Isaac Russell
 * Harvey G. Whitlock
 * David Whitmer
 * Jacob Whitmer
@@ -269,6 +279,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Wikipedia Category: [People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
 * Wikipedia Category: [People excommunicated by the Church of Christ (Latter Day Saints)](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints))
 * Wikipedia: [List of former or dissident LDS](https://en.wikipedia.org/wiki/List_of_former_or_dissident_LDS)
+* [26 Apr 1839 Far West council minutes](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html)
 
 ## Sources To Consult
 Sources from which church discipline actions should be gleaned:
