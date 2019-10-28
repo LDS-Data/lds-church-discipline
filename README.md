@@ -90,6 +90,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Orson Pratt, Jr. (1837-1903)—18 Sep 1864—First son of Apostle Orson Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) after publicly stating his lack of belief in Joseph Smith at sacrament meeting.
 
+* [William Adams "Wild Bill" Hickman](https://en.wikipedia.org/wiki/Wild_Bill_Hickman) (1815-1883)—[12 Jun 1868](https://web.archive.org/web/20190715200439/https://murderpedia.org/male.H/h/hickman-wiliam-adams.htm)—"Brigham's Destroying Angel"—[Excommunicated (according to him) "for going away \[from Utah\] without permission"](https://archive.org/details/destroyibrighams00hickrich/page/182). A frontiersman and bodyguard for Joseph Smith and Brigham Young, he confessed to numerous murders which he claimed were ordered by Brigham Young in his autobiography, _Brigham's Destroying Angel_. He was posthumously re-baptized by proxy in 1934. (His granddaughter, Annalee Skarin, was excommunicated in 1952.)
+
 * [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869 (disfellowshipment) and 3 May 1874 (excommunication)—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped in 1869 and excommunicated in 1874 for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement.
 
 * [T. B. H. Stenhouse](https://en.wikipedia.org/wiki/T._B._H._Stenhouse) (1825-1882)—17 Aug 1870—Godbeite historian—[Excommunicated at his own request after joining the Godbeite movement](https://mormonhistoryassociation.org/wp-content/uploads/2015/01/Journal-of-Mormon-History-Vol.-1-1974.pdf) in criticizing Brigham Young's leadership. A failed polygamist (his plural wife Belinda obtained a divorce 25 Nov 1869) he went on to pen _Rocky Mountain Saints_, a groundbreaking (if biased) history of Mormonism, published in 1873. His wife, Fanny Stenhouse, was also excommunicated, for publishing and lecturing against the church.
@@ -109,6 +111,10 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
 * Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
+
+* [Annalee Skarin](https://en.wikipedia.org/wiki/Annalee_Skarin) (1899-1988)—11 Jun 1952—Self-proclaimed prophetess, New Age icon—[Excommunicated for refusing, at apostle Mark E. Peterson's insistence, to repudiate her book of revelations, _Ye Are Gods_](https://www.sunstonemagazine.com/pdf/081-42-46.pdf). Elder Peterson's rationale for the top-down decision to excommunicate Annalee Skarin reportedly included the objection that she "attempts to give revelations on her own part and defends this fact even though she is a woman." Soon after her excommunication she claimed to have been translated and seemingly spent the rest of her life in hiding with her husband, Reason Skarin. Her daughter, Hope Hilton, [wrote](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/081-47-48.pdf), "Annalee was a paranoid-schizophrenic who listened to an inner voice whose tapes were often garbled. She was a dramatic actress who sought center stage and applause while proclaiming her humility. She was a master of cover-up which only those on the inside could see."
+
+* Sally Franchow—1952?—Defender of Annalee Skarin—[Excommunicated (according to Annalee Skarin) for defending Annalee in her own excommunication trial](https://www.sunstonemagazine.com/pdf/081-42-46.pdf).
 
 * [John Singer](https://en.wikipedia.org/wiki/John_Singer_(anti-government_activist)) (1931-1979)—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). He entered a polygamous relationship and went on to defy the government in a fight over homeschooling his children. He was [shot in a confrontation with police](https://books.google.com/books?id=Fk6xCgAAQBAJ&pg=PA91&lpg=PA91&dq=john+singer+excommunication&source=bl&ots=w6kGWSHKwS&sig=ACfU3U2M0KyPzHiG3Ng2gm02U8QNbeLtsQ&hl=en&sa=X&ved=2ahUKEwiX1-Cj77PlAhU_FTQIHW7qDTcQ6AEwEHoECAkQAQ#v=onepage&q=john%20singer%20excommunication&f=false) when he [refused to surrender his second (polygamous) wife's children](https://www.uen.org/utah_history_encyclopedia/s/SINGER_JOHN.shtml) (in legal custody of her now-ex-husband) to the state.
 
@@ -245,7 +251,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * James D. Harmston
 * Elias L. T. Harrison
 * Glenn Helzer
-* Wild Bill Hickman
 * Leroy S. Johnson
 * Charles W. Kingston
 * John Hyrum Koyle
@@ -264,7 +269,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * Sarah Marinda Bates Pratt
 * W. H. Pugmire
 * Sidney Rigdon
-* Annalee Skarin
 * Hyrum W. Smith
 * William Smith
 * Third Convention
