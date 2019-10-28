@@ -1,4 +1,12 @@
-_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com)._
+_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#Contributing) for more information._
+
+## Call for...
+* acquittals / "no action" results
+* positive interactions with church discipline
+* unusual penalties or outcomes (e.g. revocation of authority to exercise the priesthood)
+
+## About the LDS Church Discipline Database
+The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
 
 ## 19th Century
 
@@ -300,3 +308,40 @@ Individuals for whom church discipline has been claimed but for which sufficient
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
 
 * [Charles A. Foster](https://en.wikipedia.org/wiki/Charles_A._Foster_(Latter_Day_Saints)) (1815-1904)——_Navuoo Expositor_ publisher—Excommunicated???
+
+## Contributing
+
+The scope of this project is too large for one human being to accomplish in a reasonable amount of time. In fact, I do not expect to finish but am hoping to lay a groundwork for others to build on. Here's how to contribute:
+
+### Email
+Tips, additions, corrections, or any other feedback are welcome at [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com).
+
+### Contributing Directly
+
+The database is hosted on the GitHub code sharing site. This makes it easy for contributors to directly edit the files involved, as follows:
+
+1. Click "View on GitHub" above
+2. If you have a GitHub account, log in; otherwise, create a new account and log in.
+3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is `README.dm`.
+4. When the file opens in your browser, click the pencil icon to edit the file.
+5. Make the desired changes, then add a description of the changes and click "Propose file change". This will make your changes available for me to review and (if accepted) incorporate into the database.
+
+## Format
+The database is maintained in a consistent format intended for consumption by both humans and computers. Every entry is a bulleted line with the following format:
+
+* NAME (birth and/or death dates if available)—Date of excommunication—A brief description of the individual (if known)—The outcome of the disciplinary action, followed by further notes about the person's life and the discipline experience.
+
+Be sure the parts are separated by the em-dash character (—) rather than a shorter character like a hyphen (-) or en-dash (–).
+
+If the individual has a Wikipedia page specific to them, their name should link to the Wikipedia page. Links are represented as follows:
+
+\[text\](https://example.com/)
+
+which will be rendered
+
+[text](https://example.com)
+
+Entries _must_ link to primary or secondary resources documenting all factual claims in the entry. It is acceptable to rely on Wikipedia if the Wikipedia article itself seems to justify its claims well; otherwise, you need to dig deeper to find more trustworthy sources.
+
+
+
