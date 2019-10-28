@@ -92,6 +92,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
+* Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
+
 * [John Singer](https://en.wikipedia.org/wiki/John_Singer_(anti-government_activist)) (1931-1979)—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). He entered a polygamous relationship and went on to defy the government in a fight over homeschooling his children. He was [shot in a confrontation with police](https://books.google.com/books?id=Fk6xCgAAQBAJ&pg=PA91&lpg=PA91&dq=john+singer+excommunication&source=bl&ots=w6kGWSHKwS&sig=ACfU3U2M0KyPzHiG3Ng2gm02U8QNbeLtsQ&hl=en&sa=X&ved=2ahUKEwiX1-Cj77PlAhU_FTQIHW7qDTcQ6AEwEHoECAkQAQ#v=onepage&q=john%20singer%20excommunication&f=false) when he [refused to surrender his second (polygamous) wife's children](https://www.uen.org/utah_history_encyclopedia/s/SINGER_JOHN.shtml) (in legal custody of her now-ex-husband) to the state.
 
 * Vickie Singer—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). Nearly a decade after her husband's death, she participated in [the bombing of an LDS chapel](https://en.wikipedia.org/wiki/Singer-Swapp_Standoff), for which she spent five years in prison after a violent standoff.
@@ -225,7 +227,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * John E. Forsgren
 * Walter M. Gibson
 * Matthew P. Gill
-* Maurice L. Glendenning
 * William S. Godbe
 * Gudmund Gudmundson
 * Isaac C. Haight
@@ -271,6 +272,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 Sources from which church discipline actions should be gleaned:
 * History of the Church
 * Kirtland High Council Minutes
+* [Order of Aaron thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd)
 
 ## Dubious
 
