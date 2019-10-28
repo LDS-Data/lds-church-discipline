@@ -1,14 +1,19 @@
-_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#Contributing) for more information._
+## About the LDS Church Discipline Database
+The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
 
-## Call for...
+## Call for Contributions
+This database is far from complete. We're calling for the following:
+
+* any _publicly documented_ instances of church discipline not represented here
 * acquittals / "no action" results
 * positive interactions with church discipline
 * unusual penalties or outcomes (e.g. revocation of authority to exercise the priesthood)
 
-## About the LDS Church Discipline Database
-The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
+_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#Contributing) for more information._
 
-## 19th Century
+## The LDS Church Discipline Database
+
+### 19th Century
 
 * [Jesse Gause](https://en.wikipedia.org/wiki/Jesse_Gause) (1785-1836)—prob. 3 Dec 1832—First Presidency member and missionary—[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.
 
@@ -34,7 +39,7 @@ The LDS Church Discipline Database is an effort to promote understanding of LDS 
 
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
 
-### Mass Excommunications at Quincy, Illinois Church Conference
+#### Mass Excommunications at Quincy, Illinois Church Conference
 
 > After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
 
@@ -52,7 +57,7 @@ The LDS Church Discipline Database is an effort to promote understanding of LDS 
 
 * Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
-### The Followers of Isaac Russell
+#### The Followers of Isaac Russell
 
 * [Isaac Russell](https://en.wikipedia.org/wiki/Isaac_Russell) (1807-1844)—26 Apr 1839—Unapproved revelator—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for [attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites](https://rsc.byu.edu/archived/regional-studies-latter-day-saint-church-history-british-isles/remembering-impact-british) on the basis of revelation he claimed to have received. According to the official History of the Church, "[Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church](https://byustudies.byu.edu/content/volume-4-chapter-33). He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren." He does not appear to have rejoined the church, and died in 1844 of "swamp fever".
 
@@ -64,7 +69,7 @@ The LDS Church Discipline Database is an effort to promote understanding of LDS 
 
 * Others [excommunicated 26 Apr 1839 in Far West](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html): Jacob Scott, Sen., and wife, Isaac Scott, Jacob Scott, Jun., Ann Scott, Sister Walton, Robert Walton, Sister Cavanaugh, Ann Wanlass, William Dawson, Jun., and wife, William Dawson, Sen., and wife, George Nelson, Joseph Nelson and wife and mother, William Warnock and wife, Jonathan Maynard, Nelson Maynard, George Miller, John Grigg and wife, Luman Gibbs, Simeon Gardner, and Freeborn Gardner.<!-- TODO -->
 
-### Late Joseph Smith Era
+#### Late Joseph Smith Era
 
 * [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
 
@@ -88,11 +93,11 @@ The LDS Church Discipline Database is an effort to promote understanding of LDS 
 
 * [Charles Ivins](https://en.wikipedia.org/wiki/Charles_Ivins) (1799-1875)—18 May 1844—Dissenting bishop, _Nauvoo Expositor_ publisher—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He had been appointed bishop of a new church formed by dissenters. Following his excommunication, he was one of the publishers of the _Nauvoo Expositor_, the destruction of which resulted in the arrest and death of Joseph Smith.
 
-### Interregnum
+#### Interregnum
 
 * [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844——[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
 
-### Brigham Young Era
+#### Brigham Young Era
 
 TODO: W. W. Phelps 1847 excommunication (#3)
 
@@ -108,7 +113,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf) subsequent to leaving her husband.
 
-## 20th Century
+### 20th Century
 
 * [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
 
@@ -152,7 +157,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
-### [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
+#### [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
 
 * Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven–[Disfellowshipped for apostasy and teaching false doctrine](https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html), on account of [comments made on television about the church's treatment of women](https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
@@ -166,7 +171,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn)—26 Sep 1993—Historian and BYU professor 1976-1988—Excommunicated for "conduct unbecoming a member of the Church and apostasy", including his writings about belief in seer stones in the early church and the practice of polygamy with official sanction after the 1890 manifesto. His gay sexual orientation may also have been a factor in his excommunication.
 
-### Post-September-Six
+#### Post-September-Six
 
 * David Wright—5 Apr 1994—Brandeis Hebrew prof—Excommunicated for [publishing his view that the Book of Mormon was a 19th-century production](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/096-65-77.pdf) in the Sunstone article [Historical Criticism: A Necessary Element In The Search For Religious Truth](https://www.sunstonemagazine.com/wp-content/uploads/sbi/issues/089.pdf) as well as _"In Plain  Terms That We May Understand":  Joseph Smith's Transformation of Hebrews in Alma 12-13_, a chapter in Brent Metcalfe's _New Approaches to the Book of Mormon_.
 
@@ -178,7 +183,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Margaret Toscano—2000—Mormon feminist, classics professor—[Excommunicated for apostasy](https://www.pbs.org/wgbh/americanexperience/features/mormons-toscano/) because she [refused to silence her views](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) on female ordination and an elevated theological status for Heavenly Mother. She was originally threatened with excommunication along with the September Six (including her husband Paul Toscano) and ordered silent on feminist issues. It was later determined that she had not sufficiently stifled her views.
 
-## 21st Century
+### 21st Century
 
 * Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband. 
 
@@ -212,12 +217,70 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/)
 
-## Uncertain Date
+### Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
 * [Leman Copley](https://en.wikipedia.org/wiki/Leman_Copley) (1781-1862)—bet. 1831 and 1836—Reluctant consecrator—[Excommunicated](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2012&context=byusq). [Reinstated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/193) 1 Apr 1836.
 
+
+
+## Sources Consulted
+* Wikipedia Category: [People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
+* Wikipedia Category: [People excommunicated by the Church of Christ (Latter Day Saints)](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints))
+* Wikipedia: [List of former or dissident LDS](https://en.wikipedia.org/wiki/List_of_former_or_dissident_LDS)
+* [26 Apr 1839 Far West council minutes](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html)
+
+
+
+
+## Contributing
+
+The scope of this project is too large for one human being to accomplish in a reasonable amount of time. I am hoping to do what I can and also to lay a groundwork for others to build on.
+
+The [Inbox](#Inbox) lists individuals who need to be investigated and documented. That's a great place to start.
+
+[Sources To Consult](#Sources-To-Consult) lists sources that are known to contain records of church disciplinary action, but which need to be combed through for specific individuals, which could go to the Inbox.
+
+If you know of additional individuals please add them to the Inbox.
+
+If you know of additional sources please add them to Sources To Consult.
+
+When you have a contribution to make, here's how to get it into the database:
+
+### Email
+Tips, additions, corrections, or any other feedback are welcome at [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com). This is the route to take if you wish to remain anonymous.
+
+### Contributing Directly on GitHub
+
+The database is hosted on the GitHub code sharing site. This makes it easy for contributors to directly edit the files involved, as follows:
+
+1. Click "View on GitHub" above
+2. If you have a GitHub account, log in; otherwise, create a new account and log in.
+3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is `README.dm`.
+4. When the file opens in your browser, click the pencil icon to edit the file.
+5. Make the desired changes, then add a description of the changes and click "Propose file change". This will make your changes available for me to review and (if accepted) incorporate into the database.
+
+## Format
+The database is maintained in a consistent format intended for consumption by both humans and computers. Every entry is a bulleted line with the following format:
+
+* NAME (birth and/or death dates if available)—Date of excommunication—A brief description of the individual (if known)—The outcome of the disciplinary action, followed by further notes about the person's life and the discipline experience.
+
+Be sure the parts are separated by the em-dash character (—) rather than a shorter character like a hyphen (-) or en-dash (–).
+
+If the individual has a Wikipedia page specific to them, their name should link to the Wikipedia page. Links are represented as follows:
+
+\[text\](https://example.com/)
+
+which will be rendered
+
+[text](https://example.com)
+
+Entries _must_ link to primary or secondary resources documenting all factual claims in the entry. It is acceptable to rely on Wikipedia if the Wikipedia article itself seems to justify its claims well; otherwise, you need to dig deeper to find more trustworthy sources.
+
+
 ## Inbox
+
+The following are believed to have undergone formal church discipline but need to be investigated and documented:
 
 * Chauncey L. Higbee
 * Luke Johnson
@@ -287,17 +350,15 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * John W. Woolley
 * Lorin C. Woolley
 
-## Sources Consulted
-* Wikipedia Category: [People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
-* Wikipedia Category: [People excommunicated by the Church of Christ (Latter Day Saints)](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints))
-* Wikipedia: [List of former or dissident LDS](https://en.wikipedia.org/wiki/List_of_former_or_dissident_LDS)
-* [26 Apr 1839 Far West council minutes](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html)
 
 ## Sources To Consult
 Sources from which church discipline actions should be gleaned:
+
 * History of the Church
 * Kirtland High Council Minutes
 * [Order of Aaron thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd)
+
+When a source has been fully combed through, move it to [Sources Consulted](#Sources-Consulted).
 
 ## Dubious
 
@@ -308,40 +369,3 @@ Individuals for whom church discipline has been claimed but for which sufficient
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
 
 * [Charles A. Foster](https://en.wikipedia.org/wiki/Charles_A._Foster_(Latter_Day_Saints)) (1815-1904)——_Navuoo Expositor_ publisher—Excommunicated???
-
-## Contributing
-
-The scope of this project is too large for one human being to accomplish in a reasonable amount of time. In fact, I do not expect to finish but am hoping to lay a groundwork for others to build on. Here's how to contribute:
-
-### Email
-Tips, additions, corrections, or any other feedback are welcome at [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com).
-
-### Contributing Directly
-
-The database is hosted on the GitHub code sharing site. This makes it easy for contributors to directly edit the files involved, as follows:
-
-1. Click "View on GitHub" above
-2. If you have a GitHub account, log in; otherwise, create a new account and log in.
-3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is `README.dm`.
-4. When the file opens in your browser, click the pencil icon to edit the file.
-5. Make the desired changes, then add a description of the changes and click "Propose file change". This will make your changes available for me to review and (if accepted) incorporate into the database.
-
-## Format
-The database is maintained in a consistent format intended for consumption by both humans and computers. Every entry is a bulleted line with the following format:
-
-* NAME (birth and/or death dates if available)—Date of excommunication—A brief description of the individual (if known)—The outcome of the disciplinary action, followed by further notes about the person's life and the discipline experience.
-
-Be sure the parts are separated by the em-dash character (—) rather than a shorter character like a hyphen (-) or en-dash (–).
-
-If the individual has a Wikipedia page specific to them, their name should link to the Wikipedia page. Links are represented as follows:
-
-\[text\](https://example.com/)
-
-which will be rendered
-
-[text](https://example.com)
-
-Entries _must_ link to primary or secondary resources documenting all factual claims in the entry. It is acceptable to rely on Wikipedia if the Wikipedia article itself seems to justify its claims well; otherwise, you need to dig deeper to find more trustworthy sources.
-
-
-
