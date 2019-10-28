@@ -2,6 +2,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 ## 19th Century
 
+* [Jesse Gause](https://en.wikipedia.org/wiki/Jesse_Gause) (1785-1836)—prob. 3 Dec 1832—First Presidency member and missionary—[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.
+
 * Burr Riggs (1811-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
 
 * [Doctor Philastus Hurlbut](https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut)—3 Jun 1833—Amorous Apostate, Early Church Foe—[Excommunicated in absentia for "unchristian conduct with the female sex while on a mission to the east"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/16). He was found sufficiently penitent upon appeal that [his membership was restored 21 Jun 1833](https://www.josephsmithpapers.org/paper-summary/minute-book-1/25) only to be [revoked again two days later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/26) because he had reportedly claimed to have "deceived" the prior council. He went on to become a prominent—perhaps _notorious_—critic of Mormonism, being a major contributor to Eber D. Howe's _Mormonism Unvailed_, for which he collected affidavits against the character of Joseph Smith and his family.
@@ -15,6 +17,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—3 Sep 1837—Apostle, Geologist, Inventor—[Disfellowshipped by conference vote](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239). He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. [Reinstated a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244). [Repeatedly disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/255) (along with numerous others)<!--TODO--> for "dancing with the world" and [attending balls](https://www.josephsmithpapers.org/paper-summary/minute-book-1/260).
 
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton?highlight=John%20Farnham%20Boynton). It's quite possible, based on the prior disfellowshipments for dancing, that John F. Boynton was excommunicated for refusing to stop dancing.
+
+* [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (1797-1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
@@ -189,8 +193,6 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* Jesse Gause
-* John Gaylord
 * J. E. Goodson
 * Chauncey L. Higbee
 * Luke Johnson
