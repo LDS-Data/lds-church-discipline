@@ -46,13 +46,23 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate former Governor of Missouri Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties. He also became known for his promotion of the tomato and certain breeds of chickens.
 
+* [William Law](https://en.wikipedia.org/wiki/William_Law_(Latter_Day_Saints)) (1809-1892)—18 Apr 1844—First Presidency member, founder and president of the dissident True Church of Jesus Christ of Latter Day Saints, _Nauvoo Expositor_ publisher—[Excommunicated in absentia](https://archive.org/details/WilliamLawNauvooDissenter/page/n13) for ["unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) due to his involvement with the _Nauvoo Expositor_. He had served in the First Presidency since 1841 but was [removed from that office for opposition to polygamy](https://archive.org/details/WilliamLawNauvooDissenter/page/n19). He expressed additional concerns about Joseph Smith's [doctrine of exaltation](https://archive.org/details/WilliamLawNauvooDissenter/page/n15) and [intermingling of ecclesiastical and economic affairs](https://archive.org/details/WilliamLawNauvooDissenter/page/n13). 
+
+* Jane (Silverthorn) Law ([1815-1882](https://www.josephsmithpapers.org/person/jane-silverthorn-law))—18 Apr 1844—Wife of William Law—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93). [Joseph Smith may have made her sealing to him a precondition for her sealing to her husband](https://archive.org/details/WilliamLawNauvooDissenter/page/n17). It is unclear whether she was actually sealed to Joseph Smith, though it appears that she eventually assented to the sealing.
+
+* [Wilson Law](https://en.wikipedia.org/wiki/Wilson_Law) (1806-1876)—18 Apr 1844—Nauvoo Legion Brigadier General, _Nauvoo Expositor_ publisher, brother of William Law—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) for his involvement with the _Nauvoo Expositor_.
+
+* [Robert D. Foster](https://en.wikipedia.org/wiki/Robert_D._Foster) (1811-1878)—18 Apr 1844—(Acting) Justice of the Peace, dissenter, _Nauvoo Expositor_ publisher—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) for his involvement with the _Nauvoo Expositor_.
+
+* Howard Smith—18 Apr 1844—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) alongside the _Nauvoo Expositor_ publishers, though his involvement is unclear.
+
 * [Austin Cowles](https://en.wikipedia.org/wiki/Austin_Cowles) (1792-1872)—18 May 1844—Hymnist and anti-polygamy crusader—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19) on account of his strenuous opposition to polygamy. He went on to publicly denounce Mormon polygamy in the _Nauvoo Expositor_, whose first and only printing led to the arrest and death of Joseph Smith.
 
 * James Blakeslee [(1802-1866)](https://www.josephsmithpapers.org/person/james-blakeslee)—18 May 1844—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19).
 
 * [Francis M. Higbee](https://en.wikipedia.org/wiki/Francis_M._Higbee) (1820-1856)—18 May 1844—_Nauvoo Expositor_ editor, Nauvoo Legion colonel—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He went on to participate in the publication of the _Nauvoo Expositor_, leading to the arrest and death of Joseph Smith.
 
-* [Charles Ivins](https://en.wikipedia.org/wiki/Charles_Ivins) (1799-1875)—18 May 1844—Dissenting bishop—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He had been appointed bishop of a new church formed by dissenters. Following his excommunication, he was one of the publishers of the _Nauvoo Expositor_, the destruction of which resulted in the arrest and death of Joseph Smith.
+* [Charles Ivins](https://en.wikipedia.org/wiki/Charles_Ivins) (1799-1875)—18 May 1844—Dissenting bishop, _Nauvoo Expositor_ publisher—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He had been appointed bishop of a new church formed by dissenters. Following his excommunication, he was one of the publishers of the _Nauvoo Expositor_, the destruction of which resulted in the arrest and death of Joseph Smith.
 
 ### Interregnum
 
@@ -177,17 +187,12 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 ## Inbox
 
-* Charles A. Foster
-* Robert D. Foster
 * Jesse Gause
 * John Gaylord
 * J. E. Goodson
 * Chauncey L. Higbee
 * Luke Johnson
 * Lyman E. Johnson
-* William Law (Latter Day Saints)
-* Jane Law (wife of William Law) see https://en.wikipedia.org/wiki/Austin_Cowles
-* Wilson Law
 * William E. McLellin
 * Roger Orton
 * Hiram Page
@@ -269,6 +274,10 @@ Sources from which church discipline actions should be gleaned:
 
 ## Dubious
 
+Individuals for whom church discipline has been claimed but for which sufficient evidence has not been found.
+
 * Martha Nibley Beck – Scholar and author. Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
 
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
+
+* [Charles A. Foster](https://en.wikipedia.org/wiki/Charles_A._Foster_(Latter_Day_Saints)) (1815-1904)——_Navuoo Expositor_ publisher—Excommunicated???
