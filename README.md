@@ -25,15 +25,23 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Solomon Wilbur Denton](https://en.wikipedia.org/wiki/Solomon_Wilbur_Denton) (1816-1864)—abt Apr 1837—Printer, bodyguard—[Excommunicated "for lack of faith, non-observance of duties and contempt for the quorum of High Priests"](https://archive.org/details/PainesvilleTelegraph9June1837/page/n1). He had testified in court that Joseph Smith had recruited him to murder Grandison Newell (a murder which never occurred).
 
-* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—3 Sep 1837—Apostle, Geologist, Inventor—[Disfellowshipped by conference vote](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239). He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. [Reinstated a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244). [Repeatedly disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/255) (along with numerous others)<!--TODO--> for "dancing with the world" and [attending balls](https://www.josephsmithpapers.org/paper-summary/minute-book-1/260).
+* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—3 Sep 1837—Original member of the Quorum of the Twelve Apostles, geologist, inventor—[Disfellowshipped by conference vote](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239). He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. [Reinstated a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244). [Repeatedly disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/255) (along with numerous others)<!--TODO--> for "dancing with the world" and [attending balls](https://www.josephsmithpapers.org/paper-summary/minute-book-1/260).
+
+* [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—3 Sep 1837—Original member of the Quorum of the Twelve Apostles—[Disfellowshiped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239) for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated [a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244).
+
+* [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—3 Sep 1837——[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239) for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated [a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244).
 
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton?highlight=John%20Farnham%20Boynton). It's quite possible, based on the prior disfellowshipments for dancing, that John F. Boynton was excommunicated for refusing to stop dancing.
+
+* [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/luke-johnson). He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.
 
 * [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (1797-1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
 
 * [Oliver Cowdery](https://en.wikipedia.org/wiki/Oliver_Cowdery) (1806-1850)—12 Apr 1838—Book of Mormon Witness, Apostle, Second Elder, Assistant President—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/17) [on six different charges, including his accusation that Joseph Smith was an adulterer](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16) due to his relationship with Fanny Alger which Cowdery termed a "dirty, nasty, filthy affair". He was rebaptized into the LDS church in 1848.
+
+* [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—13 Apr 1838——[Excommunicated](https://www.josephsmithpapers.org/paper-summary/minute-book-2/134) in Far West on [seven different charges](https://www.josephsmithpapers.org/paper-summary/minute-book-2/130), including "virtually denying the faith of the Church of Christ of Latter Day saints, by vindicating the cause of the enemies of this Church, who are dissenters from us", "seeking to injure the character of Joseph Smith jr", and "taking whiskey and making Weldon drink & then cheating him out of his property". The minutes record that "After some few appropriate remarks, by the Councellors, it was decided by the President that Lyman E. Johnson be no longer considered a member of the Church of Christ of Latter Day Saints, nor a member of the Quorum of the twelve Apostles of the Lamb and also be given over to the buffetings of Satan untill he learns to blaspheme no more against the authorities of God."
 
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
 
@@ -288,8 +296,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but need to be investigated and documented:
 
-* Luke Johnson
-* Lyman E. Johnson
 * William E. McLellin
 * Roger Orton
 * Hiram Page
