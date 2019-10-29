@@ -239,9 +239,9 @@ The [Inbox](#inbox) lists individuals who need to be investigated and documented
 
 [Sources To Consult](#sources-to-consult) lists sources that are known to contain records of church disciplinary action, but which need to be combed through for specific individuals, which could go to the Inbox.
 
-If you know of additional individuals please add them to the Inbox.
+If you know of additional individuals please add them to the [Inbox](#inbox).
 
-If you know of additional sources please add them to Sources To Consult.
+If you know of additional sources please add them to [Sources To Consult](#sources-to-consult).
 
 When you have a contribution to make, here's how to get it into the database:
 
@@ -254,7 +254,7 @@ The database is hosted on the GitHub code sharing site. This makes it easy for c
 
 1. Click "View on GitHub" above
 2. If you have a GitHub account, log in; otherwise, create a new account and log in.
-3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is `README.dm`.
+3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is [README.md](https://github.com/LDS-Data/lds-church-discipline/blob/master/README.md).
 4. When the file opens in your browser, click the pencil icon to edit the file.
 5. Make the desired changes, then add a description of the changes and click "Propose file change". This will make your changes available for me to review and (if accepted) incorporate into the database.
 
@@ -267,11 +267,15 @@ Be sure the parts are separated by the em-dash character (—) rather than a sho
 
 If the individual has a Wikipedia page specific to them, their name should link to the Wikipedia page. Links are represented as follows:
 
-\[text\](https://example.com/)
+\[text\](http://example.com)
 
-which will be rendered
+For example:
 
-[text](https://example.com)
+\[W. W. Phelps\](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon))
+
+will be rendered
+
+[W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon))
 
 Entries _must_ link to primary or secondary resources documenting all factual claims in the entry. It is acceptable to rely on Wikipedia if the Wikipedia article itself seems to justify its claims well; otherwise, you need to dig deeper to find more trustworthy sources.
 
