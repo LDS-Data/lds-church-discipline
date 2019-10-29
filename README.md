@@ -1,8 +1,8 @@
 ## Introduction
-The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
+The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of formal discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
 
 ## Call for Contributions
-This database is far from complete. We're calling for any _publicly documented_ instances of church discipline not represented here, especially:
+This database is far from complete. We're calling for any _publicly documented_ instances of formal church discipline not represented here, especially:
 * acquittals / "no action" results
 * positive interactions with church discipline
 * unusual penalties or outcomes (e.g. revocation of authority to exercise the priesthood)
