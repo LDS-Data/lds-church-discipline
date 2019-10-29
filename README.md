@@ -1,4 +1,4 @@
-## About the LDS Church Discipline Database
+## Introduction
 The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
 
 ## Call for Contributions
@@ -9,7 +9,7 @@ This database is far from complete. We're calling for any _publicly documented_ 
 
 _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#contributing) for more information._
 
-## The LDS Church Discipline Database
+## The Database
 
 ### 19th Century
 
