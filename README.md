@@ -145,6 +145,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Sonia Johnson](https://en.wikipedia.org/wiki/Sonia_Johnson) (b. 1936)—5 Dec 1979—Feminist—Excommunicated for her work in promoting the Equal Rights Amendment.
 
+* [W. H. Pugmire](https://en.wikipedia.org/wiki/W._H._Pugmire) (1951-2019)—abt 1980—Writer of weird and horror fiction, "totally queer Mormon, but celibate"—[Excommunicated at his own request in order to be "all-the-way gay"](https://motleyvision.org/2010/02/04/pugmire-interview/) in Seattle in 1980. Twenty-five years later, taking the missionary discussions a meeting with Mormon missionaries reconverted him, and he rejoined the church in 2004. Writing in the vein of H. P. Lovecraft, Pugmire was described as "perhaps the leading Lovecraftian author writing today".
+
 * [Teresa Nielsen Hayden](https://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden) (b. 1956)—Summer 1980—Writer, science fiction editor, ERA proponent—Excommunicated [in response to a denunciatory letter](http://nielsenhayden.com/GodandI.html) she wrote church president Spencer W. Kimball upon the excommunication of Sonia Johnson.
 
 * [David Charles Manners](https://en.wikipedia.org/wiki/David_Charles_Manners) (b. 1965)—abt 1985—British writer and charity co-founder—Excommunicated for being gay.
@@ -341,7 +343,6 @@ The following are believed to have undergone formal church discipline but need t
 * Joseph White Musser
 * John E. Page
 * Sarah Marinda Bates Pratt
-* W. H. Pugmire
 * Sidney Rigdon
 * Hyrum W. Smith
 * William Smith
