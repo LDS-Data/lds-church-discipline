@@ -2,14 +2,12 @@
 The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
 
 ## Call for Contributions
-This database is far from complete. We're calling for the following:
-
-* any _publicly documented_ instances of church discipline not represented here
+This database is far from complete. We're calling for any _publicly documented_ instances of church discipline not represented here, especially:
 * acquittals / "no action" results
 * positive interactions with church discipline
 * unusual penalties or outcomes (e.g. revocation of authority to exercise the priesthood)
 
-_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#Contributing) for more information._
+_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#contributing) for more information._
 
 ## The LDS Church Discipline Database
 
@@ -237,9 +235,9 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 The scope of this project is too large for one human being to accomplish in a reasonable amount of time. I am hoping to do what I can and also to lay a groundwork for others to build on.
 
-The [Inbox](#Inbox) lists individuals who need to be investigated and documented. That's a great place to start.
+The [Inbox](#inbox) lists individuals who need to be investigated and documented. That's a great place to start.
 
-[Sources To Consult](#Sources-To-Consult) lists sources that are known to contain records of church disciplinary action, but which need to be combed through for specific individuals, which could go to the Inbox.
+[Sources To Consult](#sources-to-consult) lists sources that are known to contain records of church disciplinary action, but which need to be combed through for specific individuals, which could go to the Inbox.
 
 If you know of additional individuals please add them to the Inbox.
 
@@ -358,7 +356,7 @@ Sources from which church discipline actions should be gleaned:
 * Kirtland High Council Minutes
 * [Order of Aaron thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd)
 
-When a source has been fully combed through, move it to [Sources Consulted](#Sources-Consulted).
+When a source has been fully combed through, move it to [Sources Consulted](#sources-consulted).
 
 ## Dubious
 
