@@ -13,6 +13,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 ### 19th Century
 
+* [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—3 Dec 1832—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/4).
+
 * [Jesse Gause](https://en.wikipedia.org/wiki/Jesse_Gause) (1785-1836)—prob. 3 Dec 1832—First Presidency member and missionary—[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.
 
 * Burr Riggs (1811-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
@@ -20,6 +22,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 * [Doctor Philastus Hurlbut](https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut)—3 Jun 1833—Amorous Apostate, Early Church Foe—[Excommunicated in absentia for "unchristian conduct with the female sex while on a mission to the east"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/16). He was found sufficiently penitent upon appeal that [his membership was restored 21 Jun 1833](https://www.josephsmithpapers.org/paper-summary/minute-book-1/25) only to be [revoked again two days later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/26) because he had reportedly claimed to have "deceived" the prior council. He went on to become a prominent—perhaps _notorious_—critic of Mormonism, being a major contributor to Eber D. Howe's _Mormonism Unvailed_, for which he collected affidavits against the character of Joseph Smith and his family.
 
 * Daniel Copley—21 Jun 1833—Reluctant missionary—[Excommunicated "because he refused to fulfil his mission according to the Council of the High Priesthood of the holy order of God"](https://www.josephsmithpapers.org/paper-summary/minutes-21-june-1833/1). Much like his likewise-excommunicated father, Leman Copley, Daniel Copley struggled to be "all in" on the church. When assigned to serve a mission with (later excommunicated) Doctor Philastus Hurlbut, [he refused](https://www.josephsmithpapers.org/person/daniel-copley). He later went on to serve in the First Regiment of Wisconsin Volunteers in the American Civil War.
+
+* [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—4 Aug 1835—Original member of the Quorum of the Twelve Apostles—[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/letter-to-quorum-of-the-twelve-4-august-1835/2) for failing to solicit donations for "a house in which to receive an endowment", and for a "libel" against the church due to this seemingly innocuous quotation from a letter he wrote his wife: "You say, that it will not be in your power to go to school this summer— I am glad that it is not, since Eld\[e\]r \[Orson\] Hyde has returned and given, me a description of the manner in which it is conducted. though we do not wish to cast any reflections."
 
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
@@ -42,6 +46,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 * [Oliver Cowdery](https://en.wikipedia.org/wiki/Oliver_Cowdery) (1806-1850)—12 Apr 1838—Book of Mormon Witness, Apostle, Second Elder, Assistant President—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/17) [on six different charges, including his accusation that Joseph Smith was an adulterer](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16) due to his relationship with Fanny Alger which Cowdery termed a "dirty, nasty, filthy affair". He was rebaptized into the LDS church in 1848.
 
 * [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—13 Apr 1838——[Excommunicated](https://www.josephsmithpapers.org/paper-summary/minute-book-2/134) in Far West on [seven different charges](https://www.josephsmithpapers.org/paper-summary/minute-book-2/130), including "virtually denying the faith of the Church of Christ of Latter Day saints, by vindicating the cause of the enemies of this Church, who are dissenters from us", "seeking to injure the character of Joseph Smith jr", and "taking whiskey and making Weldon drink & then cheating him out of his property". The minutes record that "After some few appropriate remarks, by the Councellors, it was decided by the President that Lyman E. Johnson be no longer considered a member of the Church of Christ of Latter Day Saints, nor a member of the Quorum of the twelve Apostles of the Lamb and also be given over to the buffetings of Satan untill he learns to blaspheme no more against the authorities of God."
+
+* [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—11 May 1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/26) because he expressed he had no confidence in the church's leaders, perhaps as a response to the failure of the Kirtland Safety Society.
 
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
 
@@ -294,9 +300,8 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 ## Inbox
 
-The following are believed to have undergone formal church discipline but need to be investigated and documented:
+The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* William E. McLellin
 * Roger Orton
 * Hiram Page
 * Warren Parrish
