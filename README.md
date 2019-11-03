@@ -27,6 +27,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
+* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton?highlight=John%20Farnham%20Boynton). It's quite possible, based on the prior disfellowshipments for dancing, that John F. Boynton was excommunicated for refusing to stop dancing.
+
 * [Solomon Wilbur Denton](https://en.wikipedia.org/wiki/Solomon_Wilbur_Denton) (1816-1864)—abt Apr 1837—Printer, bodyguard—[Excommunicated "for lack of faith, non-observance of duties and contempt for the quorum of High Priests"](https://archive.org/details/PainesvilleTelegraph9June1837/page/n1). He had testified in court that Joseph Smith had recruited him to murder Grandison Newell (a murder which never occurred).
 
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—3 Sep 1837—Original member of the Quorum of the Twelve Apostles, geologist, inventor—[Disfellowshipped by conference vote](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239). He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. [Reinstated a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244). [Repeatedly disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/255) (along with numerous others)<!--TODO--> for "dancing with the world" and [attending balls](https://www.josephsmithpapers.org/paper-summary/minute-book-1/260).
@@ -35,7 +37,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—3 Sep 1837——[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239) for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated [a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244).
 
-* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton?highlight=John%20Farnham%20Boynton). It's quite possible, based on the prior disfellowshipments for dancing, that John F. Boynton was excommunicated for refusing to stop dancing.
+* [Roger Orton](https://en.wikipedia.org/wiki/Roger_Orton) (1799-1851)—30 Nov 1837—Deadbeat president of the Seventy—[Excommunicated "for abusing Elder Brigham Young"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/268) and a ["general course of unchristian like conduct", and also for "showing contempt to the authorities of the church"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/269). He was later reinstated and [appointed to the presidency of the Seventy around 1844](https://www.josephsmithpapers.org/person/roger-orton) but did not accept the calling. He did not go to Utah but died in Iowa.
 
 * [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/luke-johnson). He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.
 
@@ -304,14 +306,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-
-
-
-On April 8, 1854, Hartley was in Salt Lake City for the general conference of the LDSchurch. On the first day, he was called to serve a mission to Texas. The next day, in the after-noon session, President Brigham Young arose andexclaimed, “If that Jesse T. Hartley that I voted for yesterday to go on a mission,is the Lawyer that came from oregon last fall—I re\[s\]cind my vote—forthat man is a vagrant—a thief, & a robber. He ought to be baptised in SaltLake with stones tied to him & hold him under 24 hou\[rs\] to wash away onehundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\]to preach to the damned. If that hartley appointed on a mission is not this onethat I speak of, this will not hurt him—but if he is the man, what I have saidis right! If the man is here he may come to the Stand and Speak for himself.”21
-
-
-
-* Roger Orton
 * Hiram Page
 * Warren Parrish
 * Orson Pratt
