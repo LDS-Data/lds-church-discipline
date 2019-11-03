@@ -115,6 +115,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 TODO: W. W. Phelps 1847 excommunication (#3)
 
+* Jesse T. Hartley (1831-1854)—9 Apr 1854—Doomed California lawyer accused of horse-thievery—[Excommunicated at the church's General Conference](https://web.archive.org/web/20191013205113/https://user.xmission.com/~research/mormonpdf/storm.pdf) on this denunciation by Brigham Young: "If that Jesse T. Hartley that I voted for yesterday to go on a mission, is the Lawyer that came from oregon last fall—I re\[s\]cind my vote—for that man is a vagrant—a thief, & a robber. He ought to be baptised in Salt Lake with stones tied to him & hold him under 24 hou\[rs\] to wash away one hundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\] to preach to the damned. If that hartley appointed on a mission is not this one that I speak of, this will not hurt him—but if he is the man, what I have said is right!" Hartley disputed the charges, but he was ultimately "cut off from the church" on a motion by Brigham Young. The cause of Brigham Young's wrath was almost certainly the letter Hartley had written shortly before to U.S. Secretary of War Jefferson Davis, urging him to get Brigham Young removed as territorial governor and to use federal troops to impose order. The letter never arrived at its destination, apparently being diverted due to its content and finding a home amid Brigham Young's own papers. Jesse T. Hartley was murdered by fellow excommunicant "Wild Bill" Hickman around 1 May 1854 as he attempted to flee eastward to urge action against Brigham Young.
+
 * Orson Pratt, Jr. (1837-1903)—18 Sep 1864—First son of Apostle Orson Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) after publicly stating his lack of belief in Joseph Smith at sacrament meeting.
 
 * [William Adams "Wild Bill" Hickman](https://en.wikipedia.org/wiki/Wild_Bill_Hickman) (1815-1883)—[12 Jun 1868](https://web.archive.org/web/20190715200439/https://murderpedia.org/male.H/h/hickman-wiliam-adams.htm)—"Brigham's Destroying Angel"—[Excommunicated (according to him) "for going away \[from Utah\] without permission"](https://archive.org/details/destroyibrighams00hickrich/page/182). A frontiersman and bodyguard for Joseph Smith and Brigham Young, he confessed to numerous murders which he claimed were ordered by Brigham Young in his autobiography, _Brigham's Destroying Angel_. He was posthumously re-baptized by proxy in 1934. (His granddaughter, Annalee Skarin, was excommunicated in 1952.)
@@ -301,6 +303,13 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 ## Inbox
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
+
+
+
+
+On April 8, 1854, Hartley was in Salt Lake City for the general conference of the LDSchurch. On the first day, he was called to serve a mission to Texas. The next day, in the after-noon session, President Brigham Young arose andexclaimed, “If that Jesse T. Hartley that I voted for yesterday to go on a mission,is the Lawyer that came from oregon last fall—I re\[s\]cind my vote—forthat man is a vagrant—a thief, & a robber. He ought to be baptised in SaltLake with stones tied to him & hold him under 24 hou\[rs\] to wash away onehundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\]to preach to the damned. If that hartley appointed on a mission is not this onethat I speak of, this will not hurt him—but if he is the man, what I have saidis right! If the man is here he may come to the Stand and Speak for himself.”21
+
+
 
 * Roger Orton
 * Hiram Page
