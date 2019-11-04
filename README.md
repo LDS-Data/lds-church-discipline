@@ -39,6 +39,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Roger Orton](https://en.wikipedia.org/wiki/Roger_Orton) (1799-1851)—30 Nov 1837—Deadbeat president of the Seventy—[Excommunicated "for abusing Elder Brigham Young"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/268) and a ["general course of unchristian like conduct", and also for "showing contempt to the authorities of the church"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/269). He was later reinstated and [appointed to the presidency of the Seventy around 1844](https://www.josephsmithpapers.org/person/roger-orton) but did not accept the calling. He did not go to Utah but died in Iowa.
 
+* [Warren Parrish](https://en.wikipedia.org/wiki/Warren_Parrish) (1803-1877)—Dec 1837—Seventy, accused embezzler, dissident—[Excommunicated while leading a group of dissidents opposed to Joseph Smith](https://www.josephsmithpapers.org/person/warren-farr-parrish). He had been accused of embezzling from the Kirtland Safety Society and thus participating in its downfall.
+
 * [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/luke-johnson). He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.
 
 * [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (1797-1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
@@ -134,6 +136,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf) subsequent to leaving her husband.
 
 ### 20th Century
+
+* [Nathaniel Baldwin](https://en.wikipedia.org/wiki/Nathaniel_Baldwin) (1878-1961)—1905—Monogomous polygamist technologist—[Excommunicated, perhaps for his sympathy with post-Manifesto polygamy.](https://www.deseret.com/2008/4/14/20082063/new-plans-for-old-factory). He was a technologist whose improvement on the headphones of the day brought financial success, which he channeled to support the nascent Mormon fundamentalist movement. However, he was only married to one woman.
 
 * [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
 
@@ -310,7 +314,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* Warren Parrish
 * Orson Pratt
 * Leonard Rich
 * Harvey G. Whitlock
@@ -320,7 +323,6 @@ The following are believed to have undergone formal church discipline but this n
 * Mary Mussleman Whitmer
 * Peter Whitmer Sr.
 * Frederick G. Williams
-* Nathaniel Baldwin
 * John Horne Blackmore
 * J. Leslie Broadbent
 * Fawn M. Brodie
