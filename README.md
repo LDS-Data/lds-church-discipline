@@ -139,6 +139,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Matthias F. Cowley](https://en.wikipedia.org/wiki/Matthias_F._Cowley) (1858-1940)—11 May 1911—Resigned Apostle, Polygamist, Sermonizer—[Deprived of "the right and authority to exercise any of the functions of the priesthood" for "insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/), specifically for continued involvement with plural marriages not authorized by the church. Along with fellow apostle John W. Taylor, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings. His non-standard penalty for insubordination was removed and his priesthood restored 3 Apr 1936.
 
+* [Owen A. Allred](https://en.wikipedia.org/wiki/Owen_A._Allred) (1914-2005)—1942—Polygamist, United Apostolic Brethren president, race ban supporter—[Excommunicated for taking a second wife](https://web.archive.org/web/20161022105501/https://www.theatlantic.com/magazine/archive/2005/05/the-marrying-kind/303925/) in 1942. [He became leader of the Apostalic United Brethren](https://web.archive.org/web/20150529185408/https://www.nytimes.com/2005/02/17/us/owen-allred-91-leader-of-polygamous-sect-dies.html) polygamist group when his brother was murdered by a rival faction. In 1978 when the LDS Church rescinded its ban on black members being ordained or participating in higher temple ordinances, [Allred voiced strident opposition to the change](https://web.archive.org/web/20190624172419/https://www.sltrib.com/news/polygamy/2018/05/25/right-after-the-mormon-church-gave-blacks-the-priesthood-a-polygamous-offshoot-saw-its-ranks-grow/), bringing "hundreds" of families into his sect.
+
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (1925-1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
@@ -318,7 +320,6 @@ The following are believed to have undergone formal church discipline but this n
 * Mary Mussleman Whitmer
 * Peter Whitmer Sr.
 * Frederick G. Williams
-* Owen A. Allred
 * Nathaniel Baldwin
 * John Horne Blackmore
 * J. Leslie Broadbent
