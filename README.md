@@ -161,6 +161,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
 
+* [John Horne Blackmore](https://en.wikipedia.org/wiki/John_Horne_Blackmore) (1890-1971)—1947—Non-polygamous polygamy advocate, educator, Canadian legislator—Excommunicated for "teaching and advocating the doctrine of plural marriage". He used his position in the Canadian House of Commons to advocate for the legalization of polygamy, though he did not practice it himself.
+
 * [Annalee Skarin](https://en.wikipedia.org/wiki/Annalee_Skarin) (1899-1988)—11 Jun 1952—Self-proclaimed prophetess, New Age icon—[Excommunicated for refusing, at apostle Mark E. Peterson's insistence, to repudiate her book of revelations, _Ye Are Gods_](https://www.sunstonemagazine.com/pdf/081-42-46.pdf). Elder Peterson's rationale for the top-down decision to excommunicate Annalee Skarin reportedly included the objection that she "attempts to give revelations on her own part and defends this fact even though she is a woman." Soon after her excommunication she claimed to have been translated and seemingly spent the rest of her life in hiding with her husband, Reason Skarin. Her daughter, Hope Hilton, [wrote](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/081-47-48.pdf), "Annalee was a paranoid-schizophrenic who listened to an inner voice whose tapes were often garbled. She was a dramatic actress who sought center stage and applause while proclaiming her humility. She was a master of cover-up which only those on the inside could see."
 
 * Sally Franchow—1952?—Defender of Annalee Skarin—[Excommunicated (according to Annalee Skarin) for defending Annalee in her own excommunication trial](https://www.sunstonemagazine.com/pdf/081-42-46.pdf).
@@ -328,7 +330,6 @@ The following are believed to have undergone formal church discipline but this n
 * Mary Mussleman Whitmer
 * Peter Whitmer Sr.
 * Frederick G. Williams
-* John Horne Blackmore
 * J. Leslie Broadbent
 * Fawn M. Brodie
 * Art Bulla
