@@ -235,6 +235,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Janice Merrill Allred](https://en.wikipedia.org/wiki/Janice_Merrill_Allred) (b. 1947)—9 May 1995—Mormon feminist, September Six collaborator—[Excommunicated for apostasy and teaching false doctrine](https://www.deseret.com/1995/5/11/19174734/lds-excommunicate-feminist-appeal-planned) on account of her teachings identifying Heavenly Mother as the Holy Ghost and thus equal standing to the Father and Christ, and her assertion that it is possible for the LDS church to be led astray. She had previously been subject to informal church discipline (probation) in October 1994. Her brother-in-law  Paul Toscano was excommunicated prior, and her sister Margaret Toscano was excommunicated subsequently.
 
+* [Hyrum W. Smith](https://en.wikipedia.org/wiki/Hyrum_W._Smith)—abt Oct 1998—_Franklin Quest_ founder, former mission president—[Excommunicated after confessing an extramarital affair](https://www.deseret.com/2004/4/3/19821074/utah-businessman-now-back-in-the-fold). He was rebaptized Jul 2001 and was fully restored to the priesthood Nov 2002.
+
 * Margaret Toscano—2000—Mormon feminist, classics professor—[Excommunicated for apostasy](https://www.pbs.org/wgbh/americanexperience/features/mormons-toscano/) because she [refused to silence her views](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) on female ordination and an elevated theological status for Heavenly Mother. She was originally threatened with excommunication along with the September Six (including her husband Paul Toscano) and ordered silent on feminist issues. It was later determined that she had not sufficiently stifled her views.
 
 ### 21st Century
@@ -378,7 +380,6 @@ The following are believed to have undergone formal church discipline but this n
 * Joseph White Musser
 * John E. Page
 * Sidney Rigdon
-* Hyrum W. Smith
 * William Smith
 * Gerald and Sandra Tanner
 * Third Convention
