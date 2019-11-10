@@ -127,7 +127,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 #### Interregnum
 
-* [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844——[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
+* [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844—Member of the Presidency of the Seventy—[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
 
 * [George J. Adams](https://en.wikipedia.org/wiki/George_J._Adams) (1810-1880)—Apr 1845—Actor, Apostle to Russia, Council of Fifty Member, Failed Colonizer of Israel—[Disfellowshipped and excommunicated for "the most disgraceful and diabolical conduct"](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/9468) for supporting Joseph Smith III as Joseph Smith's successor. He [testified in Augusta Cobb's divorce trial](https://web.archive.org/web/20191013205529/http://www.sidneyrigdon.com/dbroadhu/IL/whig1847.htm) in which her husband accused her of adultery after her 1843 plural marriage to Brigham Young. Adams later joined James J. Strang's movement and in 1850 personally placed a crown upon Strang's head on Beaver Island, Michigan, crowning Strang king of the Kingdom of God. He was likewise excommunicated from that church. He went on to found the Church of the Messiah and lead an ill-fated band of colonists to Palestine where they hoped to prepare the way for Christ's second coming.
 
@@ -269,7 +269,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.
 
-* Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/)
+* Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
 ### Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
@@ -379,7 +379,6 @@ The following are believed to have undergone formal church discipline but this n
 * William Smith
 * Third Convention
 * Edward Tullidge
-* Harvey G. Whitlock
 * Lyman Wight
 * Anne Wilde
 * John W. Woolley
