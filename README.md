@@ -263,7 +263,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Bill Reel—2 Dec 2018—_Mormon Dicussions_ podcaster—[Excommunicated for apostasy](https://www.mormonstories.org/podcast/bill-reel-excommunication/) largely for accusing church apostle Jeffrey R. Holland of repeated falsehoods which he called out in a podcast episode, "[Elder Holland – Liar Liar Pants on Fire](https://mormondiscussionpodcast.org/2018/10/mormon-discussion-premium-elder-holland-liar-liar-pants-on-fire/)".
 
-* Gina Colvin—[20 Dec 2018](https://religionnews.com/2018/12/19/mormon-podcaster-gina-colvin-faces-excommunication-tonight-feeling-both-saddened-and-enraged/)—_A Thoughtful Faith_ podcaster—[No action was taken](https://www.sltrib.com/religion/2018/12/20/mormonism-its-best/) in her disciplinary council, convened to hear charges of apostasy and "conduct unbecoming" a church member.
+* Gina Colvin—[20 Dec 2018](https://religionnews.com/2018/12/19/mormon-podcaster-gina-colvin-faces-excommunication-tonight-feeling-both-saddened-and-enraged/)—_A Thoughtful Faith_ podcaster—[No action was taken](https://www.sltrib.com/religion/2018/12/20/mormonism-its-best/) in her disciplinary council, convened to hear charges of apostasy and "conduct unbecoming" a church member. She has since [resigned from the LDS church and joined the Community of Christ](https://www.athoughtfulfaith.org/300-for-new-beginnings-gina-colvin/).
 
 * Leah and Cody Young—14 Apr 2019—Founded online support group for questioning Mormons—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->
 
@@ -342,6 +342,7 @@ The following are believed to have undergone formal church discipline but this n
 * Peter Whitmer Sr.
 * Frederick G. Williams
 * Art Bulla
+* Marisa and Carson Calderwood
 * Frank J. Cannon
 * John Q. Cannon
 * Albert Carrington
@@ -350,6 +351,7 @@ The following are believed to have undergone formal church discipline but this n
 * Ed Decker
 * Steven Fales
 * Antonio A. Feliz
+* John Fitzgerald—1973
 * John E. Forsgren
 * Walter M. Gibson
 * Matthew P. Gill
@@ -367,6 +369,7 @@ The following are believed to have undergone formal church discipline but this n
 * Verlan M. LeBaron
 * John D. Lee
 * Amasa Lyman
+* Amy and Jake Malouf
 * Leonard Matlovich
 * William McCary
 * Richard Miller (agent)
@@ -377,8 +380,10 @@ The following are believed to have undergone formal church discipline but this n
 * Sidney Rigdon
 * Hyrum W. Smith
 * William Smith
+* Gerald and Sandra Tanner
 * Third Convention
 * Edward Tullidge
+* Douglas A. Wallace—1976
 * Lyman Wight
 * Anne Wilde
 * John W. Woolley
