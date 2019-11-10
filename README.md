@@ -29,6 +29,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
+* [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—by 28 Sep 1835—Early Mormon physician, Book of Commandments witness—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/43), perhaps [for adultery](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266). He was [rebaptized](https://www.josephsmithpapers.org/paper-summary/minute-book-1/141) around 30 Jan 1836.
+
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (1811-1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton?highlight=John%20Farnham%20Boynton). It's quite possible, based on the prior disfellowshipments for dancing, that John F. Boynton was excommunicated for refusing to stop dancing.
 
 * [Solomon Wilbur Denton](https://en.wikipedia.org/wiki/Solomon_Wilbur_Denton) (1816-1864)—abt Apr 1837—Printer, bodyguard—[Excommunicated "for lack of faith, non-observance of duties and contempt for the quorum of High Priests"](https://archive.org/details/PainesvilleTelegraph9June1837/page/n1). He had testified in court that Joseph Smith had recruited him to murder Grandison Newell (a murder which never occurred).
@@ -46,6 +48,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 * [Leonard Rich](https://en.wikipedia.org/wiki/Leonard_Rich) (1800-1868)—Dec 1837—Inaugural member of the Seven Presidents of Seventy—Excommunicated after joining a group of dissenters led by fellow excommunicant Warren Parrish, attempting to restore the church to its prior form as the "Church of Christ".
 
 * [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/luke-johnson). He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.
+
+* [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—1838?—Early Mormon physician, Book of Commandments witness—[He "withdrew" from the church](https://www.josephsmithpapers.org/person/harvey-gilman-whitlock) and was presumably excommunicated as a result, as he was rebaptized in 1858. The "Journal History of the Church" in 1859 [reported](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266) that he had "apostatized" in 1838 and "went with Geo\[rge\] M. Hinkle", the later-excommunicated militia leader who turned Joseph Smith over to the Missourians.
 
 * [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (1797-1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
 
@@ -130,6 +134,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Jesse T. Hartley (1831-1854)—9 Apr 1854—Doomed California lawyer accused of horse-thievery—[Excommunicated at the church's General Conference](https://web.archive.org/web/20191013205113/https://user.xmission.com/~research/mormonpdf/storm.pdf) on this denunciation by Brigham Young: "If that Jesse T. Hartley that I voted for yesterday to go on a mission, is the Lawyer that came from oregon last fall—I re\[s\]cind my vote—for that man is a vagrant—a thief, & a robber. He ought to be baptised in Salt Lake with stones tied to him & hold him under 24 hou\[rs\] to wash away one hundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\] to preach to the damned. If that hartley appointed on a mission is not this one that I speak of, this will not hurt him—but if he is the man, what I have said is right!" Hartley disputed the charges, but he was ultimately "cut off from the church" on a motion by Brigham Young. The cause of Brigham Young's wrath was almost certainly the letter Hartley had written shortly before to U.S. Secretary of War Jefferson Davis, urging him to get Brigham Young removed as territorial governor and to use federal troops to impose order. The letter never arrived at its destination, apparently being diverted due to its content and finding a home amid Brigham Young's own papers. Jesse T. Hartley was murdered by fellow excommunicant "Wild Bill" Hickman around 1 May 1854 as he attempted to flee eastward to urge action against Brigham Young.
+
+* [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—probably by 29 Apr 1859—Early Mormon physician, Book of Commandments witness—Probably excommunicated by 29 Apr 1859 as the "Journal History of the Church" [deemed him an "apostate"](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=291) on that day. It had previously [reported](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266) that he came to Utah in 1849 but "soon became dissatisfied and left for California".
 
 * Orson Pratt, Jr. ([1837-1903](https://history.churchofjesuschrist.org/missionary/individual/orson-pratt-jr-1837?lang=eng))—18 Sep 1864—First son of apostle Orson Pratt and Sarah Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) by the St. George High Council, the same day he had [testified](https://archive.org/details/SarahPrattShapingOfAnApostate/page/n23) in sacrament meeting, "I have come to the conclusion that Joseph Smith was not especially sent by the Lord to establish this work, and I cannot help it, for I could not believe otherwise, even if I knew I was to suffer for it the next moment."
 
@@ -326,7 +332,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* Harvey G. Whitlock
 * David Whitmer
 * Jacob Whitmer
 * John Whitmer
