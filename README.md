@@ -43,6 +43,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Warren Parrish](https://en.wikipedia.org/wiki/Warren_Parrish) (1803-1877)—Dec 1837—Seventy, accused embezzler, dissident—[Excommunicated while leading a group of dissidents opposed to Joseph Smith](https://www.josephsmithpapers.org/person/warren-farr-parrish). He had been accused of embezzling from the Kirtland Safety Society and thus participating in its downfall.
 
+* [Leonard Rich](https://en.wikipedia.org/wiki/Leonard_Rich) (1800-1868)—Dec 1837—Inaugural member of the Seven Presidents of Seventy—Excommunicated after joining a group of dissenters led by fellow excommunicant Warren Parrish, attempting to restore the church to its prior form as the "Church of Christ".
+
 * [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/luke-johnson). He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.
 
 * [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (1797-1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
@@ -152,6 +154,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 * [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
 
 * [Matthias F. Cowley](https://en.wikipedia.org/wiki/Matthias_F._Cowley) (1858-1940)—11 May 1911—Resigned Apostle, Polygamist, Sermonizer—[Deprived of "the right and authority to exercise any of the functions of the priesthood" for "insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/), specifically for continued involvement with plural marriages not authorized by the church. Along with fellow apostle John W. Taylor, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings. His non-standard penalty for insubordination was removed and his priesthood restored 3 Apr 1936.
+
+* [J. Leslie Broadbent](https://en.wikipedia.org/wiki/J._Leslie_Broadbent) ([1891-1935](http://mormonpolygamydocuments.org/wp-content/uploads/2019/05/Louis-Alma-Kelsch-1905-1974.pdf))—18 Jul 1929—Early leader in Mormon Fundamentalism—Excommunicated for publications advocating plural marriage.
 
 * [Owen A. Allred](https://en.wikipedia.org/wiki/Owen_A._Allred) (1914-2005)—1942—Polygamist, United Apostolic Brethren president, race ban supporter—[Excommunicated for taking a second wife](https://web.archive.org/web/20161022105501/https://www.theatlantic.com/magazine/archive/2005/05/the-marrying-kind/303925/) in 1942. [He became leader of the Apostalic United Brethren](https://web.archive.org/web/20150529185408/https://www.nytimes.com/2005/02/17/us/owen-allred-91-leader-of-polygamous-sect-dies.html) polygamist group when his brother was murdered by a rival faction. In 1978 when the LDS Church rescinded its ban on black members being ordained or participating in higher temple ordinances, [Allred voiced strident opposition to the change](https://web.archive.org/web/20190624172419/https://www.sltrib.com/news/polygamy/2018/05/25/right-after-the-mormon-church-gave-blacks-the-priesthood-a-polygamous-offshoot-saw-its-ranks-grow/), bringing "hundreds" of families into his sect.
 
@@ -322,7 +326,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* Leonard Rich
 * Harvey G. Whitlock
 * David Whitmer
 * Jacob Whitmer
@@ -330,7 +333,6 @@ The following are believed to have undergone formal church discipline but this n
 * Mary Mussleman Whitmer
 * Peter Whitmer Sr.
 * Frederick G. Williams
-* J. Leslie Broadbent
 * Fawn M. Brodie
 * Art Bulla
 * Frank J. Cannon
