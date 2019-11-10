@@ -384,6 +384,30 @@ The following are believed to have undergone formal church discipline but this n
 * John W. Woolley
 * Lorin C. Woolley
 
+## Revision Needed
+Entries which (potentially) are not up to current standards:
+
+* Byron Merchant
+* Sonia Johnson
+* D. Michael Quinn
+* Lavina Fielding Anderson
+* Avraham Gileadi
+* Lynne Kyneval Whitesides
+* Maxine Hanks
+* Paul Toscano
+* David Wright
+* Brent Metcalfe
+* Janice Merrill Allred
+* Margaret Toscano
+* Shane Whelan
+* Rhonda Whelan
+* Kate Kelly
+* John Dehlin
+* Bruce Holt
+* Jeremy Runnells
+* Sam Young
+* Bill Reel
+* Leah and Cody Young
 
 ## Sources To Consult
 Sources from which church discipline actions should be gleaned:
