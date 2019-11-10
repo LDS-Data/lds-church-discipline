@@ -125,6 +125,10 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Charles Ivins](https://en.wikipedia.org/wiki/Charles_Ivins) (1799-1875)—18 May 1844—Dissenting bishop, _Nauvoo Expositor_ publisher—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He had been appointed bishop of a new church formed by dissenters. Following his excommunication, he was one of the publishers of the _Nauvoo Expositor_, the destruction of which resulted in the arrest and death of Joseph Smith.
 
+* [James Strang](https://en.wikipedia.org/wiki/James_Strang) (1813-1856)—26 Aug 1844—Legislator, naturalist, would-be successor to Joseph Smith, self-proclaimed King of the Kingdom of God—[Excommunicated by the church he sought to lead](https://web.archive.org/web/20180709010154/http://www.centerplace.org/history/ts/v5n16.htm) for claiming that Joseph Smith had appointed him as his successor, and that his calling had been confirmed by the appearance of an angel upon the prophet's death. Strang rejected the LDS Church's authority to excommunicate him, the (purported) president of the church, without trial. His claim to the prophetic mantle rested upon a controversial Letter of Appointment supposedly sent by Joseph Smith 18 Jun 1844, and upon his translation of the Voree Plates. His [Church of Jesus Christ of Latter Day Saints (Strangite)](https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)), headquartered on Beaver Island on Lake Michigan, became a substantial rival to Brigham Young's faction with 12,000 adherents. He later claimed to translate a portion of the "Plates of Laban", producing "The Book of the Law of the Lord". In 1849 he abruptly embraced polygamy, ultimately marrying four additional wives, and in 1850 he had himself crowned king of the Kingdom of God. He was assassinated in 1856.
+
+* Aaron Smith—26 Aug 1844—James Strang supporter—[Excommunicated for his part furthering James Strang's claim to church leadership](https://web.archive.org/web/20180709010154/http://www.centerplace.org/history/ts/v5n16.htm).
+
 #### Interregnum
 
 * [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844—Member of the Presidency of the Seventy—[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
@@ -414,6 +418,7 @@ Entries which (potentially) are not up to current standards:
 * Sam Young
 * Bill Reel
 * Leah and Cody Young
+* James Strang (wordsmithing needed)
 
 ## Sources To Consult
 Sources from which church discipline actions should be gleaned:
