@@ -215,19 +215,20 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
-#### [The September Six](https://www.sunstonemagazine.com/pdf/092-65-79.pdf)
+#### The September Six
 
-* Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven–[Disfellowshipped for apostasy and teaching false doctrine](https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html), on account of [comments made on television about the church's treatment of women](https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
+* Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven, [Salt Lake Mormon Women's Forum president](https://web.archive.org/web/20190114092733/https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html)–[Disfellowshipped on a charge of apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), using transcripts of her own public addresses as evidence, possibly including [comments made on television about the church's treatment of women](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
-* [Avraham Gileadi](https://en.wikipedia.org/wiki/Avraham_Gileadi) (b. 1940)—15 Sep 1993—Author and interpreter of the Book of Isaiah—Excommunicated for apostasy, reportedly because [Elder Boyd K. Packer disapproved of his teachings on Isaiah](https://www.sunstonemagazine.com/pdf/092-65-79.pdf). His excommunication was later rescinded and he was reinstated into the church. He continues to publish on the book of Isaiah.
+* [Avraham Gileadi](https://en.wikipedia.org/wiki/Avraham_Gileadi) (b. 1940)—15 Sep 1993—Author and interpreter of the Book of Isaiah—[Excommunicated for apostasy](
+https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), an outcome brought about [under the direction of the Correlation Committee](https://www.mormonstories.org/podcast/christine-jeppsen-clark-daughter-of-general-authority-malcolm-jeppsen/) which condemned some of Gileadi's teachings on Isaiah as false doctrine. [He was rebaptized](https://www.deseret.com/1996/3/8/19229461/scholar-rebaptized-into-lds-church) 27 Feb 1996 and reported later that [his excommunication had been expunged](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=CMSID).
 
-* Maxine Hanks—19 Sep 1993—Feminist who supported female ordination—[Excommunicated for "conduct contrary to the laws and order of the Church"](https://www.sunstonemagazine.com/pdf/092-65-79.pdf).
+* Maxine Hanks—19 Sep 1993—Feminist who supported female ordination—[Excommunicated for "conduct contrary to the laws and order of the Church"](https://www.sunstonemagazine.com/pdf/092-65-79.pdf). She edited _Women and Authority: Re-emerging Mormon Feminism_ published in 1992. [She was rebaptized](https://web.archive.org/web/20191018185738/https://archive.sltrib.com/article.php?id=54514350&itype=CMSID) in February 2012.
 
-* Paul Toscano—19 Sep 1993—Founder of the [Mormon Alliance](https://en.wikipedia.org/wiki/Mormon_Alliance) which documented ecclesiastical abuse—Excommunicated for apostasy, largely due to his Sunstone presentation, [_All is Not Well in Zion: False Teachings of the True Church_](http://signaturebookslibrary.org/sancity-of-dissent-09/) which explored "speculative theology" on a number of topics.
+* Paul Toscano—19 Sep 1993—Founder of the [Mormon Alliance](https://en.wikipedia.org/wiki/Mormon_Alliance) which documented perceived ecclesiastical abuses—[Excommunicated for apostasy](https://www.sunstonemagazine.com/pdf/092-65-79.pdf). He later reported that the disciplinary council focused on his presentation at the 1993 Sunstone Symposium, [_All is Not Well in Zion: False Teachings of the True Church_](http://signaturebookslibrary.org/sancity-of-dissent-09/), which explored "speculative theology" on a number of topics.
 
-* [Lavina Fielding Anderson](https://en.wikipedia.org/wiki/Lavina_Fielding_Anderson) (b. 1944)—23 Sep 1993—Scholar, writer, editor, and feminist—Excommunicated for documenting ecclesiastical abuse by Mormon leaders, particularly her [Spring 1993 _Dialogue_ article](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V26N01.pdf), _The LDS Intellectual Community and Church Leadership: A Contemporary Chronology_.
+* [Lavina Fielding Anderson](https://en.wikipedia.org/wiki/Lavina_Fielding_Anderson) (b. 1944)—23 Sep 1993—Scholar, writer, editor, and feminist—[Excommunicated for apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), a month after giving an "atrocity update" as part of the Mormon Alliance session at the Sunstone symposium highlighting perceived ecclesiastical abuses by the church. She reported that the disciplinary action against her was instigated in response to her Spring 1993 _Dialogue_ article, "[The LDS Intellectual Community and Church Leadership: A Contemporary Chronology](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V26N01.pdf)" which detailed perceived abuses against intellectuals and feminists.
 
-* [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn) (b. 1944)—26 Sep 1993—Historian and BYU professor 1976-1988—Excommunicated for "conduct unbecoming a member of the Church and apostasy", including his writings about belief in seer stones in the early church and the practice of polygamy with official sanction after the 1890 manifesto. His gay sexual orientation may also have been a factor in his excommunication.
+* [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn) (b. 1944)—26 Sep 1993—Historian, former BYU professor—[Excommunicated for apostasy and conduct unbecoming a member](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf). He had published on post-Manifesto plural marriage, in addition to proposing that folk magical beliefs had a substantial influence on Joseph Smith in _Early Mormonism and the Magic World View_. His stake president's letter referencing "very sensitive and highly confidential" matters aside from his historical writings may suggest that Quinn's gay sexual orientation was a factor in his excommunication.
 
 #### Post-September-Six
 
@@ -399,12 +400,6 @@ Entries which (potentially) are not up to current standards:
 
 * Byron Merchant
 * Sonia Johnson
-* D. Michael Quinn
-* Lavina Fielding Anderson
-* Avraham Gileadi
-* Lynne Kyneval Whitesides
-* Maxine Hanks
-* Paul Toscano
 * David Wright
 * Brent Metcalfe
 * Janice Merrill Allred
