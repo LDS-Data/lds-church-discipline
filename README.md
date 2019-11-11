@@ -394,6 +394,8 @@ The following are believed to have undergone formal church discipline but this n
 * Anne Wilde
 * John W. Woolley
 * Lorin C. Woolley
+* "a bunch of the people who were early mormon fundamentalists and after the second manifesto"
+* "the recent men convicted of child sexual abuse who were bishops or church leaders or part of scandals"
 
 ## Revision Needed
 Entries which (potentially) are not up to current standards:
