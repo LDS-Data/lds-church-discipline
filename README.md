@@ -27,7 +27,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—4 Aug 1835—Original member of the Quorum of the Twelve Apostles—[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/letter-to-quorum-of-the-twelve-4-august-1835/2) for failing to solicit donations for "a house in which to receive an endowment", and for a "libel" against the church due to this seemingly innocuous quotation from a letter he wrote his wife: "You say, that it will not be in your power to go to school this summer---I am glad that it is not, since Eld\[e\]r \[Orson\] Hyde has returned and given, me a description of the manner in which it is conducted. though we do not wish to cast any reflections."
 
-* James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
+* James Patten—7 Aug 1835——[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—by 28 Sep 1835—Early Mormon physician, Book of Commandments witness—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/43), perhaps [for adultery](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266). He was [rebaptized](https://www.josephsmithpapers.org/paper-summary/minute-book-1/141) around 30 Jan 1836.
 
