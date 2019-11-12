@@ -167,7 +167,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Robert D. Foster](https://en.wikipedia.org/wiki/Robert_D._Foster) (1811-1878)—18 Apr 1844—(Acting) Justice of the Peace, dissenter, _Nauvoo Expositor_ publisher—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) for his involvement with the _Nauvoo Expositor_.
 
-* Howard Smith—18 Apr 1844—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) alongside the _Nauvoo Expositor_ publishers, though his involvement is unclear.
+* Howard Smith—18 Apr 1844——[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) alongside the _Nauvoo Expositor_ publishers, though his involvement is unclear.
 
 * [Austin Cowles](https://en.wikipedia.org/wiki/Austin_Cowles) (1792-1872)—18 May 1844—Hymnist and anti-polygamy crusader—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19) on account of his strenuous opposition to polygamy. He went on to publicly denounce Mormon polygamy in the _Nauvoo Expositor_, whose first and only printing led to the arrest and death of Joseph Smith.
 
