@@ -171,7 +171,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Austin Cowles](https://en.wikipedia.org/wiki/Austin_Cowles) (1792-1872)—18 May 1844—Hymnist and anti-polygamy crusader—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19) on account of his strenuous opposition to polygamy. He went on to publicly denounce Mormon polygamy in the _Nauvoo Expositor_, whose first and only printing led to the arrest and death of Joseph Smith.
 
-* James Blakeslee [(1802-1866)](https://www.josephsmithpapers.org/person/james-blakeslee)—18 May 1844—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19).
+* James Blakeslee [(1802-1866)](https://www.josephsmithpapers.org/person/james-blakeslee)—18 May 1844——[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19).
 
 * [Francis M. Higbee](https://en.wikipedia.org/wiki/Francis_M._Higbee) (1820-1856)—18 May 1844—_Nauvoo Expositor_ editor, Nauvoo Legion colonel—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He went on to participate in the publication of the _Nauvoo Expositor_, leading to the arrest and death of Joseph Smith.
 
@@ -199,9 +199,11 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [William Adams "Wild Bill" Hickman](https://en.wikipedia.org/wiki/Wild_Bill_Hickman) (1815-1883)—[12 Jun 1868](https://web.archive.org/web/20190715200439/https://murderpedia.org/male.H/h/hickman-wiliam-adams.htm)—"Brigham's Destroying Angel"—[Excommunicated (according to him) "for going away \[from Utah\] without permission"](https://archive.org/details/destroyibrighams00hickrich/page/182). A frontiersman and bodyguard for Joseph Smith and Brigham Young, he confessed to numerous murders which he claimed were ordered by Brigham Young in his autobiography, _Brigham's Destroying Angel_. He was posthumously re-baptized by proxy in 1934. (His granddaughter, Annalee Skarin, was excommunicated in 1952.)
 
-* [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869 (disfellowshipment) and 3 May 1874 (excommunication)—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped in 1869 and excommunicated in 1874 for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement.
+* [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—1869—Brigham Young secretary, compiler of Journal of Discourses—Disfellowshipped, for following the teachings of dissident William S. Godbe.
 
 * [T. B. H. Stenhouse](https://en.wikipedia.org/wiki/T._B._H._Stenhouse) (1825-1882)—17 Aug 1870—Godbeite historian—[Excommunicated at his own request after joining the Godbeite movement](https://mormonhistoryassociation.org/wp-content/uploads/2015/01/Journal-of-Mormon-History-Vol.-1-1974.pdf) in criticizing Brigham Young's leadership. A failed polygamist (his plural wife Belinda obtained a divorce 25 Nov 1869) he went on to pen _Rocky Mountain Saints_, a groundbreaking (if biased) history of Mormonism, published in 1873. His wife, Fanny Stenhouse, was also excommunicated, for publishing and lecturing against the church.
+
+* [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—3 May 1874—Brigham Young secretary, compiler of Journal of Discourses—Excommunicatd for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement. He had been disfellowshipped in 1869.
 
 * [Sarah Marinda Bates Pratt](https://en.wikipedia.org/wiki/Sarah_Marinda_Bates_Pratt) (1817-1888)—4 Oct 1874—First wife of Orson Pratt, Anti-Polygamy Society supporter, self-proclaimed apostate—[Excommunicated for apostasy](https://archive.org/details/SarahPrattShapingOfAnApostate/page/n25) after rejecting polygamy and objecting to being placed on an equal footing with her husband's other wives. Her disaffection became pronounced after her 57 year-old husband Orson married as his tenth wife 16 year-old Margaret Graham, a teen younger than their own daughter.
 
