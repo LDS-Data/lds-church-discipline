@@ -91,9 +91,61 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [John Edward Goodson](https://en.wikipedia.org/wiki/J._E._Goodson) (1808-1892)—26 Apr 1839—Musician, early missionary to England—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for supposedly coming under the influence of Isaac Russell.
 
-* Margaret Goodson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, John Goodson, when they supposedly fell under the influence of the claimed revelations of her uncle, Isaac Russell.
+* Margaret Goodson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, John Goodson, when they supposedly fell under the influence of the claimed revelations of her uncle, Isaac Russell.
 
-* Others [excommunicated 26 Apr 1839 in Far West](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html): Jacob Scott, Sen., and wife, Isaac Scott, Jacob Scott, Jun., Ann Scott, Sister Walton, Robert Walton, Sister Cavanaugh, Ann Wanlass, William Dawson, Jun., and wife, William Dawson, Sen., and wife, George Nelson, Joseph Nelson and wife and mother, William Warnock and wife, Jonathan Maynard, Nelson Maynard, George Miller, John Grigg and wife, Luman Gibbs, Simeon Gardner, and Freeborn Gardner.<!-- TODO -->
+* Jacob Scott, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The wife of Jacob Scott, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Isaac Scott—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Jacob Scott, Jr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Ann Scott—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Sister Walton—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Robert Walton—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Sister Cavanaugh—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Ann Wanlass—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* William Dawson, Jr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The wife of William Dawson, Jr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* William Dawson, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The wife of William Dawson, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* George Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Joseph Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The wife of Joseph Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The mother of Joseph Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* William Warnock—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The wife of William Warnock—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Jonathan Maynard—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Nelson Maynard—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* George Miller—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* John Grigg—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* The wife of John Grigg—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Luman Gibbs—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Simeon Gardner—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+
+* Freeborn Gardner—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
 #### Late Joseph Smith Era
 
