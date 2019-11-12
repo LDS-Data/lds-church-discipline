@@ -271,7 +271,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 #### The September Six
 
-* Lynne Kanavel Whitesides–14 Sep 1993–Feminist noted for teachings on Mother in Heaven, [Salt Lake Mormon Women's Forum president](https://web.archive.org/web/20190114092733/https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html)–[Disfellowshipped on a charge of apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), using transcripts of her own public addresses as evidence, possibly including [comments made on television about the church's treatment of women](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
+* Lynne Kanavel Whitesides—14 Sep 1993—Feminist noted for teachings on Mother in Heaven, [Salt Lake Mormon Women's Forum president](https://web.archive.org/web/20190114092733/https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html)—[Disfellowshipped on a charge of apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), using transcripts of her own public addresses as evidence, possibly including [comments made on television about the church's treatment of women](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
 * [Avraham Gileadi](https://en.wikipedia.org/wiki/Avraham_Gileadi) (b. 1940)—15 Sep 1993—Author and interpreter of the Book of Isaiah—[Excommunicated for apostasy](
 https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), an outcome brought about [under the direction of the Correlation Committee](https://www.mormonstories.org/podcast/christine-jeppsen-clark-daughter-of-general-authority-malcolm-jeppsen/) which condemned some of Gileadi's teachings on Isaiah as false doctrine. [He was rebaptized](https://www.deseret.com/1996/3/8/19229461/scholar-rebaptized-into-lds-church) 27 Feb 1996 and reported later that [his excommunication had been expunged](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=CMSID).
@@ -484,7 +484,7 @@ When a source has been fully combed through, move it to [Sources Consulted](#sou
 
 Individuals for whom church discipline has been claimed but for which sufficient evidence has not been found.
 
-* Martha Nibley Beck – Scholar and author. Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
+* Martha Nibley Beck——Scholar and author—Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
 
 * Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
 
