@@ -396,7 +396,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* Jacob Whitmer
 * John Whitmer
 * Mary Mussleman Whitmer
 * Peter Whitmer Sr.
@@ -491,3 +490,5 @@ Individuals for whom church discipline has been claimed but for which sufficient
 * [Charles A. Foster](https://en.wikipedia.org/wiki/Charles_A._Foster_(Latter_Day_Saints)) (1815-1904)——_Navuoo Expositor_ publisher—Excommunicated???
 
 * [Hiram Page](https://en.wikipedia.org/wiki/Hiram_Page)—Wikipedia categorizes him as having been excommunicated, but I find no evidence of this. [A 1987 thesis](https://scholarsarchive.byu.edu/etd/5142/) states explicitly that there is no evidence of excommunication or withdrawal of his license (p. 57)
+
+* [Jacob Whitmer](https://en.wikipedia.org/wiki/Jacob_Whitmer) (2 Feb 1800-21 Apr 1856)——One of the Eight Witnesses of the Book of Mormon—Joseph Smith Papers says he was [disaffected from the church in 1838](https://www.josephsmithpapers.org/person/jacob-whitmer), but I find no record of disciplinary action. [A Feb 1989 Ensign article](https://web.archive.org/web/20191113003645/http://www.churchofjesuschrist.org/study/ensign/1989/02/true-to-the-book-of-mormon-the-whitmers?lang=eng) explicitly states that he was never tried for his church membership. The Encyclopedia of Mormonism simply [states that he became "inactive"](https://eom.byu.edu/index.php/Book_of_Mormon_Witnesses). Wikipedia is likely wrong to have categorized him as excommunicated.
