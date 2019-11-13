@@ -53,7 +53,9 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (1797-1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
 
-* [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated for alleged mishandling of Far West land, and temple donations](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110).
+* [John Whitmer](https://en.wikipedia.org/wiki/John_Whitmer) (27 Aug 1802-11 Jul 1878)—10 Mar 1838—One of the Eight Witnesses of the Book of Mormon—[Excommunicated alongside W. W. Phelps for "persisting in unchristian like conduct"](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110). The minutes of the Far West High Council recorded: "After some remarks by Presidents Marsh & Patten, setting forth the iniquity of those men, in claiming the $2.000 spoken of, which did not belong to them any more than any other person in the church; it was decided that William W. Phelps and John Whitmer be no longer members of the church of Christ of Latter Day Saints, & be given over to the buffetings of Satan, until they learn to blaspheme no more against the authorities of God, nor fleece the flock of Christ." He was driven from Far West along with other "dissenters". After Joseph Smith's death he supported his brother's (David Whitmer's) claim to church leadership.
+
+* [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—10 Mar 1838—Printer and hymnist—[Excommunicated alongside John Whitmer for "persisting in unchristian like conduct"](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110), specifically for alleged mishandling of Far West land, and temple donations.
 
 * [Oliver Cowdery](https://en.wikipedia.org/wiki/Oliver_Cowdery) (1806-1850)—12 Apr 1838—Book of Mormon Witness, Apostle, Second Elder, Assistant President—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/17) [on six different charges, including his accusation that Joseph Smith was an adulterer](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16) due to his relationship with Fanny Alger which Cowdery termed a "dirty, nasty, filthy affair". He was rebaptized into the LDS church in 1848.
 
@@ -396,7 +398,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* John Whitmer
 * Mary Mussleman Whitmer
 * Peter Whitmer Sr.
 * Frederick G. Williams
