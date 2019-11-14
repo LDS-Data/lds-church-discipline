@@ -13,6 +13,15 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 ## The Database
 
+{% include_relative discipline.md %}
+
+
+
+
+
+
+
+
 ### 19th Century
 
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—3 Dec 1832—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/4).
