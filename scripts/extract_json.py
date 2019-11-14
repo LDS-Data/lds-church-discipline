@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+import datetime
 import json
 import re
 
@@ -82,8 +83,20 @@ def discipline_data():
         # fields = name_with_link_groups
         # fields['lifespan'] = name_and_lifespan_groups['lifespan']
         fields.update(parse_lifespan(name_and_lifespan_groups['lifespan']))
+        fields['sections'] = sections
         fields['date_md'] = discipline_date
         fields['date_txt'] = markdown_to_txt(discipline_date)
+        fields['best_date_txt'] = date_txt_to_best_date_txt(fields['date_txt'])
+
+        date_fields = date_rgx.match(fields['best_date_txt']).groupdict()
+        fields['best_year'] = int(date_fields['year'])
+        fields['best_month'] = date_fields['month']
+        if date_fields['day'] is not None:
+            fields['best_day'] = int(date_fields['day'])
+        else:
+            fields['best_day'] = None
+
+        # print("date_txt: %s" % fields['best_date_txt'])
         fields['tagline_md'] = tagline
         fields['tagline_txt'] = markdown_to_txt(tagline)
         fields['notes_md'] = notes
@@ -101,11 +114,63 @@ def discipline_data():
         # }
 
 
+
 md = mistune.Markdown()
 html = html2text.HTML2Text()
 html.ignore_links = True
 def markdown_to_txt(markdown):
     return html.handle( md.render(markdown) ).strip().replace('\n',' ').replace('  ',' ')
+
+date_rgx = re.compile("(?:(?P<day>\d?\d) )?(?:(?P<month>Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) )?(?P<year>\d\d\d\d)")
+def date_fields_to_date(fields):
+    fmt_arr = []
+    date_arr = []
+
+    if fields['day'] is not None:
+        fmt_arr.append('%d')
+        fmt_arr.append(fields['day'])
+
+    if fields['month'] is not None:
+        fmt_arr.append('%b')
+        fmt_arr.append(fields['month'])
+
+    fmt_arr.append('%Y')
+    date_arr.append(fields['year'])
+
+    fmt = ' '.join(fmt_arr)
+    date = ' '.join(date_arr)
+
+    print("fmt: %s" % fmt)
+    print("date: %s" % date)
+
+    return datetime.datetime.strptime(date, fmt).date()
+
+bet_rgx = re.compile("bet[.] (?P<year1>\d\d\d\d) and (?P<year2>\d\d\d\d)")
+def date_txt_to_best_date_txt(date_txt):
+    best = date_txt\
+        .replace('?','')\
+        .replace("prob. ","")\
+        .replace('abt. ','')\
+        .replace('by ','')\
+        .replace("spring/summer", "21 Jun")\
+        .replace("summer", "7 Aug")
+
+    # print("best: %s" % best)
+
+    m = bet_rgx.match(best)
+    if m:
+        year1 = int(m.groupdict()['year1'])
+        year2 = int(m.groupdict()['year2'])
+        return str(int(year1 + (year2-year1)/2))
+        # return "2099"
+    #
+    # if best.startswith('bet. '):
+    #     date1,date2 = [date_fields_to_date(x.groupdict()) for x in date_rgx.finditer(best[5:])]
+    #     return date1 + (date2 - date1) / 2
+
+    date_txt = next(date_rgx.finditer(best)).group()
+    # print("date_txt: %s" %tdate_txt)
+    return date_txt
 
 token_rgx = re.compile('[a-z0-9-]+')
 def notes_txt_to_outcome(notes_txt):

@@ -1,20 +1,4 @@
-## Introduction
-The LDS Church Discipline Database is an effort to promote understanding of LDS church disciplinary practices by compiling all publicly documented instances of formal discipline by The Church of Jesus Christ of Latter-day Saints as well as its predecessors, the Church of Christ and the Church of Jesus Christ of Latter Day Saints (no hyphen).
-
-**This database is neither affiliated with nor endorsed by The Church of Jesus Christ of Latter-day Saints (also known as the LDS Church or Mormon Church). The title "LDS Church Discipline Database" is meant to accurately reflect the contents and focus of the database, but does not in any way imply that The Church of Jesus Christ of Latter-day Saints approves of or is in any way responsible for the contents of the database.**
-
-## Call for Contributions
-This database is far from complete. We're calling for any _publicly documented_ instances of formal church discipline not represented here, especially:
-* acquittals / "no action" results
-* positive interactions with church discipline
-* unusual penalties or outcomes (e.g. revocation of authority to exercise the priesthood)
-
-_Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com) or make edits directly in GitHub. See [Contributing](#contributing) for more information._
-
-## The Database
-
-### 19th Century
-
+# 19th Century
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—3 Dec 1832—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/4).
 
 * [Jesse Gause](https://en.wikipedia.org/wiki/Jesse_Gause) (1785-1836)—prob. 3 Dec 1832—First Presidency member and missionary—[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.
@@ -67,10 +51,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
 
-#### Mass Excommunications at Quincy, Illinois Church Conference
-
-> After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
-
+## Mass Excommunications at Quincy, Illinois Church Conference
 * [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard) (1800-1869)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—Excommunicated by a conference of the church.
 
 * [George M. Hinkle](https://en.wikipedia.org/wiki/George_M._Hinkle) (1801-1861)—17 Mar 1839—Militia leader who turned Joseph Smith over to the Missourians—Excommunicated by a conference of the church. It was later shown that [he turned the Mormon prophet over in bad faith](https://www.deseret.com/2010/2/14/20096307/speaker-says-militia-leader-betrayed-joseph-smith), expecting him to be executed.
@@ -85,8 +66,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
-#### The Followers of Isaac Russell
-
+## The Followers of Isaac Russell
 * [Isaac Russell](https://en.wikipedia.org/wiki/Isaac_Russell) (1807-1844)—26 Apr 1839—Unapproved revelator—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for [attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites](https://rsc.byu.edu/archived/regional-studies-latter-day-saint-church-history-british-isles/remembering-impact-british) on the basis of revelation he claimed to have received. According to the official History of the Church, "[Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church](https://byustudies.byu.edu/content/volume-4-chapter-33). He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren." He does not appear to have rejoined the church, and died in 1844 of "swamp fever".
 
 * Mary Russell—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, Isaac Russell, who claimed revelations not approved by the church. In 1861 [she moved to Utah and rejoined the church](https://en.wikipedia.org/wiki/Isaac_Russell#Death).
@@ -149,8 +129,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * Freeborn Gardner—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-#### Late Joseph Smith Era
-
+## Late Joseph Smith Era
 * [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate former Governor of Missouri Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties. He also became known for his promotion of the tomato and certain breeds of chickens.
@@ -161,7 +140,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * [Sarah Marinda Bates Pratt](https://en.wikipedia.org/wiki/Sarah_Marinda_Bates_Pratt) (1817-1888)—20? Aug 1842—First wife of Orson Pratt, Anti-Polygamy Society supporter, self-proclaimed apostate—[Probably excommunicated](https://www.josephsmithpapers.org/person/sarah-marinda-bates-pratt) for "adultery" on accusations that she had an affair with the excommunicated John C. Bennett. This followed John C. Bennett's own allegations that Joseph Smith had proposed plural marriage to Sarah Pratt while her husband, Orson, was abroad on a mission. She was [rebaptized](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-1-21-december-1842-10-march-1843/154) alongside her husband 20 Jan 1843.
 
-* [William Law](https://en.wikipedia.org/wiki/William_Law_(Latter_Day_Saints)) (1809-1892)—18 Apr 1844—First Presidency member, founder and president of the dissident True Church of Jesus Christ of Latter Day Saints, _Nauvoo Expositor_ publisher—[Excommunicated in absentia](https://archive.org/details/WilliamLawNauvooDissenter/page/n13) for ["unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) due to his involvement with the _Nauvoo Expositor_. He had served in the First Presidency since 1841 but was [removed from that office for opposition to polygamy](https://archive.org/details/WilliamLawNauvooDissenter/page/n19). He expressed additional concerns about Joseph Smith's [doctrine of exaltation](https://archive.org/details/WilliamLawNauvooDissenter/page/n15) and [intermingling of ecclesiastical and economic affairs](https://archive.org/details/WilliamLawNauvooDissenter/page/n13). 
+* [William Law](https://en.wikipedia.org/wiki/William_Law_(Latter_Day_Saints)) (1809-1892)—18 Apr 1844—First Presidency member, founder and president of the dissident True Church of Jesus Christ of Latter Day Saints, _Nauvoo Expositor_ publisher—[Excommunicated in absentia](https://archive.org/details/WilliamLawNauvooDissenter/page/n13) for ["unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) due to his involvement with the _Nauvoo Expositor_. He had served in the First Presidency since 1841 but was [removed from that office for opposition to polygamy](https://archive.org/details/WilliamLawNauvooDissenter/page/n19). He expressed additional concerns about Joseph Smith's [doctrine of exaltation](https://archive.org/details/WilliamLawNauvooDissenter/page/n15) and [intermingling of ecclesiastical and economic affairs](https://archive.org/details/WilliamLawNauvooDissenter/page/n13).
 
 * Jane Silverthorn Law (1815-1882)—18 Apr 1844—[Wife of William Law](https://www.josephsmithpapers.org/person/jane-silverthorn-law)—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93). [Joseph Smith may have made her sealing to him a precondition for her sealing to her husband](https://archive.org/details/WilliamLawNauvooDissenter/page/n17). It is unclear whether she was actually sealed to Joseph Smith, though it appears that she eventually assented to the sealing.
 
@@ -183,16 +162,12 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 * Aaron Smith—26 Aug 1844—James Strang supporter—[Excommunicated for his part furthering James Strang's claim to church leadership](https://web.archive.org/web/20180709010154/http://www.centerplace.org/history/ts/v5n16.htm).
 
-#### Interregnum
-
+## Interregnum
 * [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844—Member of the Presidency of the Seventy—[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
 
 * [George J. Adams](https://en.wikipedia.org/wiki/George_J._Adams) (1810-1880)—Apr 1845—Actor, Apostle to Russia, Council of Fifty Member, Failed Colonizer of Israel—[Disfellowshipped and excommunicated for "the most disgraceful and diabolical conduct"](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/9468) for supporting Joseph Smith III as Joseph Smith's successor. He [testified in Augusta Cobb's divorce trial](https://web.archive.org/web/20191013205529/http://www.sidneyrigdon.com/dbroadhu/IL/whig1847.htm) in which her husband accused her of adultery after her 1843 plural marriage to Brigham Young. Adams later joined James J. Strang's movement and in 1850 personally placed a crown upon Strang's head on Beaver Island, Michigan, crowning Strang king of the Kingdom of God. He was likewise excommunicated from that church. He went on to found the Church of the Messiah and lead an ill-fated band of colonists to Palestine where they hoped to prepare the way for Christ's second coming.
 
-#### Brigham Young Era
-
-TODO: W. W. Phelps 1847 excommunication (#3)
-
+## Brigham Young Era
 * Jesse T. Hartley (1831-1854)—9 Apr 1854—Doomed California lawyer accused of horse-thievery—[Excommunicated at the church's General Conference](https://web.archive.org/web/20191013205113/https://user.xmission.com/~research/mormonpdf/storm.pdf) on this denunciation by Brigham Young: "If that Jesse T. Hartley that I voted for yesterday to go on a mission, is the Lawyer that came from oregon last fall---I re\[s\]cind my vote---for that man is a vagrant---a thief, & a robber. He ought to be baptised in Salt Lake with stones tied to him & hold him under 24 hou\[rs\] to wash away one hundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\] to preach to the damned. If that hartley appointed on a mission is not this one that I speak of, this will not hurt him---but if he is the man, what I have said is right!" Hartley disputed the charges, but he was ultimately "cut off from the church" on a motion by Brigham Young. The cause of Brigham Young's wrath was almost certainly the letter Hartley had written shortly before to U.S. Secretary of War Jefferson Davis, urging him to get Brigham Young removed as territorial governor and to use federal troops to impose order. The letter never arrived at its destination, apparently being diverted due to its content and finding a home amid Brigham Young's own papers. Jesse T. Hartley was murdered by fellow excommunicant "Wild Bill" Hickman around 1 May 1854 as he attempted to flee eastward to urge action against Brigham Young.
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—prob. by 29 Apr 1859—Early Mormon physician, Book of Commandments witness—Probably excommunicated by 29 Apr 1859 as the "Journal History of the Church" [deemed him an "apostate"](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=291) on that day. It had previously [reported](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266) that he came to Utah in 1849 but "soon became dissatisfied and left for California".
@@ -215,8 +190,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf) subsequent to leaving her husband.
 
-### 20th Century
-
+# 20th Century
 * [Nathaniel Baldwin](https://en.wikipedia.org/wiki/Nathaniel_Baldwin) (1878-1961)—1905—Monogomous polygamist technologist—[Excommunicated, perhaps for his sympathy with post-Manifesto polygamy.](https://www.deseret.com/2008/4/14/20082063/new-plans-for-old-factory). He was a technologist whose improvement on the headphones of the day brought financial success, which he channeled to support the nascent Mormon fundamentalist movement. However, he was only married to one woman.
 
 * [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
@@ -275,8 +249,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
-#### The September Six
-
+## The September Six
 * Lynne Kanavel Whitesides—14 Sep 1993—Feminist noted for teachings on Mother in Heaven, [Salt Lake Mormon Women's Forum president](https://web.archive.org/web/20190114092733/https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html)—[Disfellowshipped on a charge of apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), using transcripts of her own public addresses as evidence, possibly including [comments made on television about the church's treatment of women](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
 * [Avraham Gileadi](https://en.wikipedia.org/wiki/Avraham_Gileadi) (b. 1940)—15 Sep 1993—Author and interpreter of the Book of Isaiah—[Excommunicated for apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), an outcome brought about [under the direction of the Correlation Committee](https://www.mormonstories.org/podcast/christine-jeppsen-clark-daughter-of-general-authority-malcolm-jeppsen/) which condemned some of Gileadi's teachings on Isaiah as false doctrine. [He was rebaptized](https://www.deseret.com/1996/3/8/19229461/scholar-rebaptized-into-lds-church) 27 Feb 1996 and reported later that [his excommunication had been expunged](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=CMSID).
@@ -289,8 +262,7 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn) (b. 1944)—26 Sep 1993—Historian, former BYU professor—[Excommunicated for apostasy and conduct unbecoming a member](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf). He had published on post-Manifesto plural marriage, in addition to proposing that folk magical beliefs had a substantial influence on Joseph Smith in _Early Mormonism and the Magic World View_. His stake president's letter referencing "very sensitive and highly confidential" matters aside from his historical writings may suggest that Quinn's gay sexual orientation was a factor in his excommunication.
 
-#### Post-September-Six
-
+## Post-September-Six
 * David Wright—5 Apr 1994—Brandeis Hebrew prof—Excommunicated for [publishing his view that the Book of Mormon was a 19th-century production](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/096-65-77.pdf) in the Sunstone article [Historical Criticism: A Necessary Element In The Search For Religious Truth](https://www.sunstonemagazine.com/wp-content/uploads/sbi/issues/089.pdf) as well as _"In Plain  Terms That We May Understand":  Joseph Smith's Transformation of Hebrews in Alma 12-13_, a chapter in Brent Metcalfe's _New Approaches to the Book of Mormon_.
 
 * Michael Barrett—24 Apr 1994—Assistant General Counsel for the CIA—[Excommunicated for disobeying his stake president's order](https://www.mrm.org/michael-j-barrett) to cease [writing letters to the editor](https://www.washingtonpost.com/archive/local/1994/04/25/mormons-remove-va-man/6c2aa907-d04f-4c7f-8b6d-9a663e74a731/) elaborating on unflattering aspects of Mormon history.
@@ -303,9 +275,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Margaret Toscano—2000—Mormon feminist, classics professor—[Excommunicated for apostasy](https://www.pbs.org/wgbh/americanexperience/features/mormons-toscano/) because she [refused to silence her views](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) on female ordination and an elevated theological status for Heavenly Mother. She was originally threatened with excommunication along with the September Six (including her husband Paul Toscano) and ordered silent on feminist issues. It was later determined that she had not sufficiently stifled her views.
 
-### 21st Century
-
-* Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband. 
+# 21st Century
+* Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband.
 
 * Rhonda Whelan—Aug 2002—Polygamy researcher—[Disfellowshipped for the research behind the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_. She subsequently disavowed the book and apparently returned to good standing with the church, divorcing her husband as well.
 
@@ -337,165 +308,8 @@ TODO: W. W. Phelps 1847 excommunication (#3)
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
-### Uncertain Date
+# Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
 * [Leman Copley](https://en.wikipedia.org/wiki/Leman_Copley) (1781-1862)—bet. 1831 and 1836—Reluctant consecrator—[Excommunicated](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2012&context=byusq). [Reinstated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/193) 1 Apr 1836.
 
-## Sources Consulted
-* Wikipedia Category: [People excommunicated by The Church of Jesus Christ of Latter-day Saints](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_The_Church_of_Jesus_Christ_of_Latter-day_Saints)
-* Wikipedia Category: [People excommunicated by the Church of Christ (Latter Day Saints)](https://en.wikipedia.org/wiki/Category:People_excommunicated_by_the_Church_of_Christ_(Latter_Day_Saints))
-* Wikipedia: [List of former or dissident LDS](https://en.wikipedia.org/wiki/List_of_former_or_dissident_LDS)
-* [26 Apr 1839 Far West council minutes](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html)
-* [Sarah Pratt: The Shaping of an Apostate](https://archive.org/details/SarahPrattShapingOfAnApostate) by Richard S. Van Wagoner.
-
-## Contributing
-
-The scope of this project is too large for one human being to accomplish in a reasonable amount of time. I am hoping to do what I can and also to lay a groundwork for others to build on.
-
-The [Inbox](#inbox) lists individuals who need to be investigated and documented. That's a great place to start.
-
-[Sources To Consult](#sources-to-consult) lists sources that are known to contain records of church disciplinary action, but which need to be combed through for specific individuals, which could go to the Inbox.
-
-If you know of additional individuals please add them to the [Inbox](#inbox).
-
-If you know of additional sources please add them to [Sources To Consult](#sources-to-consult).
-
-When you have a contribution to make, here's how to get it into the database:
-
-### Email
-Tips, additions, corrections, or any other feedback are welcome at [ldschurchdata@gmail.com](mailto:ldschurchdata@gmail.com). This is the route to take if you wish to remain anonymous.
-
-### Contributing Directly on GitHub
-
-The database is hosted on the GitHub code sharing site. This makes it easy for contributors to directly edit the files involved, as follows:
-
-1. Click "View on GitHub" above
-2. If you have a GitHub account, log in; otherwise, create a new account and log in.
-3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is [README.md](https://github.com/LDS-Data/lds-church-discipline/blob/master/README.md).
-4. When the file opens in your browser, click the pencil icon to edit the file.
-5. Make the desired changes, then add a description of the changes and click "Propose file change". This will make your changes available for me to review and (if accepted) incorporate into the database.
-
-## Format
-The database is maintained in a consistent format intended for consumption by both humans and computers. Every entry is a bulleted line with the following format:
-
-* NAME (birth and/or death dates if available)—Date of excommunication—A brief description of the individual (if known)—The outcome of the disciplinary action, followed by further notes about the person's life and the discipline experience.
-
-Be sure the parts are separated by the em-dash character (—) rather than a shorter character like a hyphen (-) or en-dash (–).
-
-If the individual has a Wikipedia page specific to them, their name should link to the Wikipedia page. Links are represented as follows:
-
-\[text\](http://example.com)
-
-For example:
-
-\[W. W. Phelps\](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon))
-
-will be rendered
-
-[W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon))
-
-Entries _must_ link to primary or secondary resources documenting all factual claims in the entry. It is acceptable to rely on Wikipedia if the Wikipedia article itself seems to justify its claims well; otherwise, you need to dig deeper to find more trustworthy sources.
-
-
-## Inbox
-
-The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
-
-* Frederick G. Williams
-* Art Bulla
-* Marisa and Carson Calderwood
-* Frank J. Cannon
-* John Q. Cannon
-* Albert Carrington
-* Benjamin L. Clapp
-* Alpheus Cutler
-* Ed Decker
-* Steven Fales
-* Antonio A. Feliz
-* John Fitzgerald—1973
-* John E. Forsgren
-* Walter M. Gibson
-* Matthew P. Gill
-* William S. Godbe
-* Gudmund Gudmundson
-* Isaac C. Haight
-* James D. Harmston
-* Elias L. T. Harrison
-* Glenn Helzer
-* Leroy S. Johnson
-* Charles W. Kingston
-* John Hyrum Koyle
-* Alma Dayer LeBaron Sr.
-* Joel LeBaron
-* Verlan M. LeBaron
-* John D. Lee
-* Amasa Lyman
-* Amy and Jake Malouf
-* Leonard Matlovich
-* William McCary
-* Richard Miller (agent)
-* Brian David Mitchell
-* Joseph Morris (Latter Day Saints)
-* Joseph White Musser
-* John E. Page
-* Sidney Rigdon
-* William Smith
-* Third Convention
-* Edward Tullidge
-* Douglas A. Wallace—1976
-* Lyman Wight
-* Anne Wilde
-* John W. Woolley
-* Lorin C. Woolley
-* "a bunch of the people who were early mormon fundamentalists and after the second manifesto"
-* "the recent men convicted of child sexual abuse who were bishops or church leaders or part of scandals"
-
-## Revision Needed
-Entries which (potentially) are not up to current standards:
-
-* Byron Merchant
-* Sonia Johnson
-* David Wright
-* Brent Metcalfe
-* Janice Merrill Allred
-* Margaret Toscano
-* Shane Whelan
-* Rhonda Whelan
-* Kate Kelly
-* John Dehlin
-* Bruce Holt
-* Jeremy Runnells
-* Sam Young
-* Bill Reel
-* Leah and Cody Young
-* James Strang (wordsmithing needed)
-
-## Sources To Consult
-Sources from which church discipline actions should be gleaned:
-
-* History of the Church
-* Kirtland High Council Minutes
-* [Order of Aaron thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd)
-* 1940s _Improvement Era_ excommunication notices
-* _Modern Polygamy and Mormon Fundamentalism: The Generations after the Manifesto_ by Brian Hales
-
-When a source has been fully combed through, move it to [Sources Consulted](#sources-consulted).
-
-## Unconfirmed
-
-Individuals for whom church discipline has been claimed but for which sufficient evidence has not been found.
-
-* Martha Nibley Beck——Scholar and author—Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
-
-* Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
-
-* [Charles A. Foster](https://en.wikipedia.org/wiki/Charles_A._Foster_(Latter_Day_Saints)) (1815-1904)——_Navuoo Expositor_ publisher—Excommunicated???
-
-* [Hiram Page](https://en.wikipedia.org/wiki/Hiram_Page)—Wikipedia categorizes him as having been excommunicated, but I find no evidence of this. [A 1987 thesis](https://scholarsarchive.byu.edu/etd/5142/) states explicitly that there is no evidence of excommunication or withdrawal of his license (p. 57)
-
-* [Jacob Whitmer](https://en.wikipedia.org/wiki/Jacob_Whitmer) (2 Feb 1800-21 Apr 1856)——One of the Eight Witnesses of the Book of Mormon—Joseph Smith Papers says he was [disaffected from the church in 1838](https://www.josephsmithpapers.org/person/jacob-whitmer), but I find no record of disciplinary action. [A Feb 1989 Ensign article](https://web.archive.org/web/20191113003645/http://www.churchofjesuschrist.org/study/ensign/1989/02/true-to-the-book-of-mormon-the-whitmers?lang=eng) explicitly states that he was never tried for his church membership. The Encyclopedia of Mormonism simply [states that he became "inactive"](https://eom.byu.edu/index.php/Book_of_Mormon_Witnesses). Wikipedia is likely wrong to have categorized him as excommunicated.
-
-* [Mary Mussleman Whitmer](https://en.wikipedia.org/wiki/Mary_Mussleman_Whitmer) (27 Aug 1778-Jan 1856)——Book of Mormon witness, early Mormon matriarch—She said that, in the time when the Book of Mormon was being translated, a heavenly messenger named Brother Nephi [showed her that golden plates](https://web.archive.org/web/20191113083221/https://journal.interpreterfoundation.org/another-account-of-mary-whitmers-viewing-of-the-golden-plates/) as she went out to milk the cows. I have not been able to find evidence she underwent church discipline, other than claims that the entire Whitmer family was excommunicated. Wikipedia may have her wrongly categorized as excommunicated.
-
-* [Peter Whitmer Sr.](https://en.wikipedia.org/wiki/Peter_Whitmer_Sr.) (14 Apr 1773-12 Aug 1854)——Early Mormon patriarch—With Mary Musselman Whitmer, the father of the Whitmer family influential in early Mormonism. [He became disaffected from the church in 1838](https://www.josephsmithpapers.org/person/peter-whitmer-sr) but I find no evidence he underwent church discipline, except that many articles claim the entire Whitmer family was excommunicated, and Wikipedia categorizes him as excommunicated.
