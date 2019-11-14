@@ -478,6 +478,7 @@ Sources from which church discipline actions should be gleaned:
 * Kirtland High Council Minutes
 * [Order of Aaron thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd)
 * 1940s _Improvement Era_ excommunication notices
+* _Modern Polygamy and Mormon Fundamentalism: The Generations after the Manifesto_ by Brian Hales
 
 When a source has been fully combed through, move it to [Sources Consulted](#sources-consulted).
 
