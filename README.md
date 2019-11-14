@@ -13,15 +13,6 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 ## The Database
 
-{% include_relative discipline.md %}
-
-
-
-
-
-
-
-
 ### 19th Century
 
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—3 Dec 1832—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/4).
@@ -78,21 +69,19 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 #### Mass Excommunications at Quincy, Illinois Church Conference
 
-> After the conference had fully expressed their feelings upon the subject it was unanimously voted that the following persons be excommunicated from the Church of Jesus Christ of Latter-day Saints, viz.: George M. Hinkle, Sampson Avard, John Corrill, Reed Peck, William W. Phelps, Frederick G. Williams, Thomas B. Marsh, Burr Riggs, and several others. After which the conference closed by prayer. [History of the Church, Vol. 3, Chapter 20](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667)
+* [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard) (1800-1869)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667).
 
-* [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard) (1800-1869)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—Excommunicated by a conference of the church.
+* [George M. Hinkle](https://en.wikipedia.org/wiki/George_M._Hinkle) (1801-1861)—17 Mar 1839—Militia leader who turned Joseph Smith over to the Missourians—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667). It was later shown that [he turned the Mormon prophet over in bad faith](https://www.deseret.com/2010/2/14/20096307/speaker-says-militia-leader-betrayed-joseph-smith), expecting him to be executed.
 
-* [George M. Hinkle](https://en.wikipedia.org/wiki/George_M._Hinkle) (1801-1861)—17 Mar 1839—Militia leader who turned Joseph Smith over to the Missourians—Excommunicated by a conference of the church. It was later shown that [he turned the Mormon prophet over in bad faith](https://www.deseret.com/2010/2/14/20096307/speaker-says-militia-leader-betrayed-joseph-smith), expecting him to be executed.
+* [John Corrill](https://en.wikipedia.org/wiki/John_Corrill) (1794-1842)—17 Mar 1839—Early Mormon leader, Missouri legislator involved with handing Joseph Smith over to the Missourians—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667). He also testified against Joseph Smith and the Mormons in court.
 
-* [John Corrill](https://en.wikipedia.org/wiki/John_Corrill) (1794-1842)—17 Mar 1839—Early Mormon leader, Missouri legislator involved with handing Joseph Smith over to the Missourians—Excommunicated by a conference of the church. He also testified against Joseph Smith and the Mormons in court.
+* Reed Peck (1814-1894)—17 Mar 1839—Attempted peaceful resolution of Mormon War—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667), not long after [his disaffection from the church and testifying against Joseph Smith in court](https://www.josephsmithpapers.org/person/reed-peck).
 
-* Reed Peck (1814-1894)—17 Mar 1839—Attempted peaceful resolution of Mormon War—Excommunicated by a conference of the church, not long after [his disaffection from the church and testifying against Joseph Smith in court](https://www.josephsmithpapers.org/person/reed-peck).
+* [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—17 Mar 1839—Printer and hymnist—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667), possibly for testifying against Joseph Smith in court, helping put him in Liberty Jail.
 
-* [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (1792-1872)—17 Mar 1839—Printer and hymnist—Excommunicated by a conference of the church for testifying against Joseph Smith in court, helping put him in Liberty Jail.
+* [Thomas B. Marsh](https://en.wikipedia.org/wiki/Thomas_B._Marsh) (1800-1866)—17 Mar 1839—First President of the Quorum of the Twelve Apostles—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667), likely because he drafted and signed an affidavit against Joseph Smith in connection with the Missouri Mormon War, in which he expressed his concerns over the violent tactics of the Mormons. Marsh's move away from the church [may have been initiated](https://juvenileinstructor.org/thomas-b-marshs-reconciliation-with-george-w-harris/) by a dispute between his wife Elizabeth and Lucinda Harris over a pint of milk skimmings, which the First Presidency supposedly decided in Lucinda's favor; then again, that story may be fabulous. Thomas B. Marsh is known to have made a reconciliation with Lucinda's husband George in 1857; soon thereafter he moved to Utah where he was rebaptized into the church. He lived his days out as a pauper.
 
-* [Thomas B. Marsh](https://en.wikipedia.org/wiki/Thomas_B._Marsh) (1800-1866)—17 Mar 1839—First President of the Quorum of the Twelve Apostles—Excommunicated by a conference of the church, likely because he drafted and signed an affidavit against Joseph Smith in connection with the Missouri Mormon War, in which he expressed his concerns over the violent tactics of the Mormons. Marsh's move away from the church [may have been initiated](https://juvenileinstructor.org/thomas-b-marshs-reconciliation-with-george-w-harris/) by a dispute between his wife Elizabeth and Lucinda Harris over a pint of milk skimmings, which the First Presidency supposedly decided in Lucinda's favor; then again, that story may be fabulous. Thomas B. Marsh is known to have made a reconciliation with Lucinda's husband George in 1857; soon thereafter he moved to Utah where he was rebaptized into the church. He lived his days out as a pauper.
-
-* Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
+* Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667), but [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs). He had previously been excommunicated, in 1833.
 
 #### The Followers of Isaac Russell
 
@@ -448,6 +437,7 @@ The following are believed to have undergone formal church discipline but this n
 * Joseph Morris (Latter Day Saints)
 * Joseph White Musser
 * John E. Page
+* W. W. Phelps 1847 excommunication (#3)
 * Sidney Rigdon
 * William Smith
 * Third Convention
