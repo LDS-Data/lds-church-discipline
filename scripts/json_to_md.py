@@ -32,7 +32,7 @@ if __name__=="__main__":
             obj = json.loads(line)
 
             if obj['sections'] != current_sections:
-                print("%s %s" % ('#'*len(obj['sections']), obj['sections'][-1]))
+                print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
 
             current_sections = obj['sections']
 

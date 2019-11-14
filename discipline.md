@@ -1,4 +1,4 @@
-# 19th Century
+### 19th Century
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—3 Dec 1832—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/4).
 
 * [Jesse Gause](https://en.wikipedia.org/wiki/Jesse_Gause) (1785-1836)—prob. 3 Dec 1832—First Presidency member and missionary—[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.
@@ -51,7 +51,7 @@
 
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (1784-1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
 
-## Mass Excommunications at Quincy, Illinois Church Conference
+#### Mass Excommunications at Quincy, Illinois Church Conference
 * [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard) (1800-1869)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—Excommunicated by a conference of the church.
 
 * [George M. Hinkle](https://en.wikipedia.org/wiki/George_M._Hinkle) (1801-1861)—17 Mar 1839—Militia leader who turned Joseph Smith over to the Missourians—Excommunicated by a conference of the church. It was later shown that [he turned the Mormon prophet over in bad faith](https://www.deseret.com/2010/2/14/20096307/speaker-says-militia-leader-betrayed-joseph-smith), expecting him to be executed.
@@ -66,7 +66,7 @@
 
 * Burr Riggs (1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://www.josephsmithpapers.org/person/burr-riggs), for reasons unclear.
 
-## The Followers of Isaac Russell
+#### The Followers of Isaac Russell
 * [Isaac Russell](https://en.wikipedia.org/wiki/Isaac_Russell) (1807-1844)—26 Apr 1839—Unapproved revelator—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for [attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites](https://rsc.byu.edu/archived/regional-studies-latter-day-saint-church-history-british-isles/remembering-impact-british) on the basis of revelation he claimed to have received. According to the official History of the Church, "[Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church](https://byustudies.byu.edu/content/volume-4-chapter-33). He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren." He does not appear to have rejoined the church, and died in 1844 of "swamp fever".
 
 * Mary Russell—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, Isaac Russell, who claimed revelations not approved by the church. In 1861 [she moved to Utah and rejoined the church](https://en.wikipedia.org/wiki/Isaac_Russell#Death).
@@ -129,7 +129,7 @@
 
 * Freeborn Gardner—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-## Late Joseph Smith Era
+#### Late Joseph Smith Era
 * [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate former Governor of Missouri Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties. He also became known for his promotion of the tomato and certain breeds of chickens.
@@ -162,12 +162,12 @@
 
 * Aaron Smith—26 Aug 1844—James Strang supporter—[Excommunicated for his part furthering James Strang's claim to church leadership](https://web.archive.org/web/20180709010154/http://www.centerplace.org/history/ts/v5n16.htm).
 
-## Interregnum
+#### Interregnum
 * [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844—Member of the Presidency of the Seventy—[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
 
 * [George J. Adams](https://en.wikipedia.org/wiki/George_J._Adams) (1810-1880)—Apr 1845—Actor, Apostle to Russia, Council of Fifty Member, Failed Colonizer of Israel—[Disfellowshipped and excommunicated for "the most disgraceful and diabolical conduct"](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/9468) for supporting Joseph Smith III as Joseph Smith's successor. He [testified in Augusta Cobb's divorce trial](https://web.archive.org/web/20191013205529/http://www.sidneyrigdon.com/dbroadhu/IL/whig1847.htm) in which her husband accused her of adultery after her 1843 plural marriage to Brigham Young. Adams later joined James J. Strang's movement and in 1850 personally placed a crown upon Strang's head on Beaver Island, Michigan, crowning Strang king of the Kingdom of God. He was likewise excommunicated from that church. He went on to found the Church of the Messiah and lead an ill-fated band of colonists to Palestine where they hoped to prepare the way for Christ's second coming.
 
-## Brigham Young Era
+#### Brigham Young Era
 * Jesse T. Hartley (1831-1854)—9 Apr 1854—Doomed California lawyer accused of horse-thievery—[Excommunicated at the church's General Conference](https://web.archive.org/web/20191013205113/https://user.xmission.com/~research/mormonpdf/storm.pdf) on this denunciation by Brigham Young: "If that Jesse T. Hartley that I voted for yesterday to go on a mission, is the Lawyer that came from oregon last fall---I re\[s\]cind my vote---for that man is a vagrant---a thief, & a robber. He ought to be baptised in Salt Lake with stones tied to him & hold him under 24 hou\[rs\] to wash away one hundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\] to preach to the damned. If that hartley appointed on a mission is not this one that I speak of, this will not hurt him---but if he is the man, what I have said is right!" Hartley disputed the charges, but he was ultimately "cut off from the church" on a motion by Brigham Young. The cause of Brigham Young's wrath was almost certainly the letter Hartley had written shortly before to U.S. Secretary of War Jefferson Davis, urging him to get Brigham Young removed as territorial governor and to use federal troops to impose order. The letter never arrived at its destination, apparently being diverted due to its content and finding a home amid Brigham Young's own papers. Jesse T. Hartley was murdered by fellow excommunicant "Wild Bill" Hickman around 1 May 1854 as he attempted to flee eastward to urge action against Brigham Young.
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—prob. by 29 Apr 1859—Early Mormon physician, Book of Commandments witness—Probably excommunicated by 29 Apr 1859 as the "Journal History of the Church" [deemed him an "apostate"](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=291) on that day. It had previously [reported](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266) that he came to Utah in 1849 but "soon became dissatisfied and left for California".
@@ -190,7 +190,7 @@
 
 * [Ann Eliza Young](https://en.wikipedia.org/wiki/Ann_Eliza_Young) (1844-1917)—10 Oct 1874—Polygamy opponent, ex-wife of Brigham Young—[Excommunicated](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V20N03.pdf) subsequent to leaving her husband.
 
-# 20th Century
+### 20th Century
 * [Nathaniel Baldwin](https://en.wikipedia.org/wiki/Nathaniel_Baldwin) (1878-1961)—1905—Monogomous polygamist technologist—[Excommunicated, perhaps for his sympathy with post-Manifesto polygamy.](https://www.deseret.com/2008/4/14/20082063/new-plans-for-old-factory). He was a technologist whose improvement on the headphones of the day brought financial success, which he channeled to support the nascent Mormon fundamentalist movement. However, he was only married to one woman.
 
 * [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
@@ -249,7 +249,7 @@
 
 * [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html).
 
-## The September Six
+#### The September Six
 * Lynne Kanavel Whitesides—14 Sep 1993—Feminist noted for teachings on Mother in Heaven, [Salt Lake Mormon Women's Forum president](https://web.archive.org/web/20190114092733/https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html)—[Disfellowshipped on a charge of apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), using transcripts of her own public addresses as evidence, possibly including [comments made on television about the church's treatment of women](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
 * [Avraham Gileadi](https://en.wikipedia.org/wiki/Avraham_Gileadi) (b. 1940)—15 Sep 1993—Author and interpreter of the Book of Isaiah—[Excommunicated for apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), an outcome brought about [under the direction of the Correlation Committee](https://www.mormonstories.org/podcast/christine-jeppsen-clark-daughter-of-general-authority-malcolm-jeppsen/) which condemned some of Gileadi's teachings on Isaiah as false doctrine. [He was rebaptized](https://www.deseret.com/1996/3/8/19229461/scholar-rebaptized-into-lds-church) 27 Feb 1996 and reported later that [his excommunication had been expunged](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=CMSID).
@@ -262,7 +262,7 @@
 
 * [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn) (b. 1944)—26 Sep 1993—Historian, former BYU professor—[Excommunicated for apostasy and conduct unbecoming a member](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf). He had published on post-Manifesto plural marriage, in addition to proposing that folk magical beliefs had a substantial influence on Joseph Smith in _Early Mormonism and the Magic World View_. His stake president's letter referencing "very sensitive and highly confidential" matters aside from his historical writings may suggest that Quinn's gay sexual orientation was a factor in his excommunication.
 
-## Post-September-Six
+#### Post-September-Six
 * David Wright—5 Apr 1994—Brandeis Hebrew prof—Excommunicated for [publishing his view that the Book of Mormon was a 19th-century production](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/096-65-77.pdf) in the Sunstone article [Historical Criticism: A Necessary Element In The Search For Religious Truth](https://www.sunstonemagazine.com/wp-content/uploads/sbi/issues/089.pdf) as well as _"In Plain  Terms That We May Understand":  Joseph Smith's Transformation of Hebrews in Alma 12-13_, a chapter in Brent Metcalfe's _New Approaches to the Book of Mormon_.
 
 * Michael Barrett—24 Apr 1994—Assistant General Counsel for the CIA—[Excommunicated for disobeying his stake president's order](https://www.mrm.org/michael-j-barrett) to cease [writing letters to the editor](https://www.washingtonpost.com/archive/local/1994/04/25/mormons-remove-va-man/6c2aa907-d04f-4c7f-8b6d-9a663e74a731/) elaborating on unflattering aspects of Mormon history.
@@ -275,7 +275,7 @@
 
 * Margaret Toscano—2000—Mormon feminist, classics professor—[Excommunicated for apostasy](https://www.pbs.org/wgbh/americanexperience/features/mormons-toscano/) because she [refused to silence her views](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) on female ordination and an elevated theological status for Heavenly Mother. She was originally threatened with excommunication along with the September Six (including her husband Paul Toscano) and ordered silent on feminist issues. It was later determined that she had not sufficiently stifled her views.
 
-# 21st Century
+### 21st Century
 * Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband.
 
 * Rhonda Whelan—Aug 2002—Polygamy researcher—[Disfellowshipped for the research behind the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_. She subsequently disavowed the book and apparently returned to good standing with the church, divorcing her husband as well.
@@ -308,7 +308,7 @@
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
-# Uncertain Date
+### Uncertain Date
 * [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
 * [Leman Copley](https://en.wikipedia.org/wiki/Leman_Copley) (1781-1862)—bet. 1831 and 1836—Reluctant consecrator—[Excommunicated](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2012&context=byusq). [Reinstated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/193) 1 Apr 1836.
