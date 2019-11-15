@@ -13,8 +13,6 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 ## The Database
 
-### 19th Century
-
 {% include_relative discipline.md %}
 
 ## Sources Consulted
