@@ -190,5 +190,4 @@ def notes_txt_to_outcome(notes_txt):
     return parts[0]
 
 if __name__=="__main__":
-    for d in discipline_data():
-        print(json.dumps(d))
+    print(json.dumps([d for d in discipline_data()], indent=2))

@@ -25,16 +25,15 @@ if __name__=="__main__":
     import json
 
     with open('discipline.json') as r:
+        data = json.load(r)
 
-        current_sections = None
-        for line in r:
+    current_sections = None
+    for obj in data:
 
-            obj = json.loads(line)
+        if obj['sections'] != current_sections:
+            print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
 
-            if obj['sections'] != current_sections:
-                print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
+        current_sections = obj['sections']
 
-            current_sections = obj['sections']
-
-            print("* %s" % SEP.join([name_and_lifespan(obj), obj['date_md'], obj['tagline_md'], obj['notes_md']]))
-            print()
+        print("* %s" % SEP.join([name_and_lifespan(obj), obj['date_md'], obj['tagline_md'], obj['notes_md']]))
+        print()
