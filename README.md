@@ -13,6 +13,8 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 
 ## The Database
 
+Strictly speaking the database is contained in [discipline.json](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline.json) and [discipline.tsv](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline.tsv), but we also present it for your perusal here:
+
 {% include_relative discipline.md %}
 
 ## Sources Consulted
@@ -45,28 +47,35 @@ The database is hosted on the GitHub code sharing site. This makes it easy for c
 
 1. Click "View on GitHub" above
 2. If you have a GitHub account, log in; otherwise, create a new account and log in.
-3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is [README.md](https://github.com/LDS-Data/lds-church-discipline/blob/master/README.md).
+3. Open the file within the project that you wish to edit by clicking on its filename. For example, this file is [README.md](https://github.com/LDS-Data/lds-church-discipline/blob/master/README.md), and the main data file is [discipline_base.json](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline_base.json).
 4. When the file opens in your browser, click the pencil icon to edit the file.
 5. Make the desired changes, then add a description of the changes and click "Propose file change". This will make your changes available for me to review and (if accepted) incorporate into the database.
 
 ## Format
-The database is maintained in a consistent format intended for consumption by both humans and computers. Every entry is a bulleted line with the following format:
+The database is stored in JSON format in [discipline_base.json](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline_base.json). The build script `scripts/build.sh` transforms this into an expanded form, [discipline.json](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline.json) as well as [discipline.tsv](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline.tsv) and the Markdown document [discipline.md](https://github.com/LDS-Data/lds-church-discipline/blob/master/discipline.md).
 
-* NAME (birth and/or death dates if available)—Date of excommunication—A brief description of the individual (if known)—The outcome of the disciplinary action, followed by further notes about the person's life and the discipline experience.
+An entry in `discipline_base.json` looks like this:
 
-Be sure the parts are separated by the em-dash character (—) rather than a shorter character like a hyphen (-) or en-dash (–).
+```json
+  {
+    "name": "Jesse Gause",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Gause",
+    "jsp_url": "https://www.josephsmithpapers.org/person/jesse-gause",
+    "birth_date": "1785",
+    "death_date": "1836?",
+    "sections": [
+      "19th Century"
+    ],
+    "date_md": "prob. 3 Dec 1832",
+    "tagline_md": "First Presidency member and missionary",
+    "notes_md": "[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.",
+    "outcome": "excommunicated"
+  }
+```
 
-If the individual has a Wikipedia page specific to them, their name should link to the Wikipedia page. Links are represented as follows:
+`name`, `date_md`, and `outcome` are required. Other fields should be included if possible, but can be omitted. The fields are documented in more detail [here](docs/fields.md).
 
-\[text\](http://example.com)
-
-For example:
-
-\[W. W. Phelps\](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon))
-
-will be rendered
-
-[W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon))
+Fields ending with `_md` are in the Markdown format. That allows links and italics and other formatting to be included. We're using Github-flavored markdown. You can learn more about it [here](https://guides.github.com/features/mastering-markdown/).
 
 Entries _must_ link to primary or secondary resources documenting all factual claims in the entry. It is acceptable to rely on Wikipedia if the Wikipedia article itself seems to justify its claims well; otherwise, you need to dig deeper to find more trustworthy sources.
 
