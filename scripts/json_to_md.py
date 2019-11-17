@@ -35,5 +35,5 @@ if __name__=="__main__":
 
         current_sections = obj['sections']
 
-        print("* %s" % SEP.join([name_and_lifespan(obj), obj['date_md'], obj['tagline_md'], obj['notes_md']]))
+        print("* %s" % SEP.join([name_and_lifespan(obj), obj['date_md'], obj.get('tagline_md', ""), obj['notes_md']]))
         print()

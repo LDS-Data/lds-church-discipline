@@ -21,6 +21,7 @@ _Please send additions and corrections to [ldschurchdata@gmail.com](mailto:ldsch
 * Wikipedia: [List of former or dissident LDS](https://en.wikipedia.org/wiki/List_of_former_or_dissident_LDS)
 * [26 Apr 1839 Far West council minutes](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html)
 * [Sarah Pratt: The Shaping of an Apostate](https://archive.org/details/SarahPrattShapingOfAnApostate) by Richard S. Van Wagoner.
+* [History and Doctrinal Development of the Order of Aaron](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) by Ralph D. Erickson
 
 ## Contributing
 
@@ -150,7 +151,6 @@ Sources from which church discipline actions should be gleaned:
 
 * History of the Church
 * Kirtland High Council Minutes
-* [Order of Aaron thesis](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd)
 * 1940s _Improvement Era_ excommunication notices
 * _Modern Polygamy and Mormon Fundamentalism: The Generations after the Manifesto_ by Brian Hales
 

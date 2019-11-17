@@ -40,6 +40,8 @@ def date_txt_to_best_date_txt(date_txt):
     # print("date_txt: %s" %tdate_txt)
     return date_txt
 
+md_to_txt = ("date", "tagline", "notes", "location", "unit")
+
 if __name__=="__main__":
     import json
 
@@ -49,8 +51,14 @@ if __name__=="__main__":
     data2 = list()
 
     for fields in data:
-        fields['date_txt'] = markdown_to_txt(fields['date_md'])
-        fields['best_date_txt'] = date_txt_to_best_date_txt(fields['date_txt'])
+        for txt_field in md_to_txt:
+            try:
+                fields[txt_field] = markdown_to_txt(fields["%s_md" % txt_field])
+            except KeyError:
+                pass
+
+        # fields['date_txt'] = markdown_to_txt(fields['date_md'])
+        fields['best_date_txt'] = date_txt_to_best_date_txt(fields['date'])
 
         date_fields = date_rgx.match(fields['best_date_txt']).groupdict()
         fields['best_year'] = int(date_fields['year'])
@@ -60,8 +68,8 @@ if __name__=="__main__":
         else:
             fields['best_day'] = None
 
-        fields['tagline_txt'] = markdown_to_txt(fields['tagline_md'])
-        fields['notes_txt'] = markdown_to_txt(fields['notes_md'])
+        # fields['tagline'] = markdown_to_txt(fields['tagline_md'])
+        # fields['notes'] = markdown_to_txt(fields['notes_md'])
 
         data2.append(fields)
 
