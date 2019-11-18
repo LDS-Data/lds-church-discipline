@@ -186,7 +186,46 @@ Sources from which church discipline actions should be gleaned:
 
 * History of the Church
 * Kirtland High Council Minutes
-* 1940s _Improvement Era_ excommunication notices
+* [_Improvement Era_ excommunication notices](https://archive.org/search.php?query=excommunications&and%5B%5D=collection%3A%22improvementera%22&sin=TXT)
+  * [Mar 1942](https://archive.org/details/improvementera4503unse/page/n31?q=excommunications)
+  * [Apr 1942](https://archive.org/details/improvementera4504unse/page/n31?q=excommunications)
+  * [Jun 1942](https://archive.org/details/improvementera4506unse/page/n31?q=excommunications)
+  * [Jul 1942](https://archive.org/details/improvementera4507unse/page/n31?q=excommunications)
+  * [Sep 1942](https://archive.org/details/improvementera4509unse/page/n43?q=excommunications)
+  * [Oct 1942](https://archive.org/details/improvementera4510unse/page/n29?q=excommunications)
+  * [Nov 1942](https://archive.org/details/improvementera4511unse/page/n47?q=excommunications)
+  * [Feb 1943](https://archive.org/details/improvementera4602unse/page/n31?q=excommunications)
+  * [Mar 1943](https://archive.org/details/improvementera4603unse/page/n31?q=excommunications)
+  * [May 1943](https://archive.org/details/improvementera4605unse/page/n43?q=excommunications)
+  * [Oct 1943](https://archive.org/details/improvementera4610unse/page/n31?q=excommunications)
+  * [Nov 1943](https://archive.org/details/improvementera4611unse/page/n47?q=excommunications)
+  * [Jan 1944](https://archive.org/details/improvementera4701unse/page/n31?q=excommunications)
+  * [Feb 1944](https://archive.org/details/improvementera4702unse/page/n31?q=excommunications)
+  * [Mar 1944](https://archive.org/details/improvementera4703unse/page/n31?q=excommunications)
+  * [Jun 1944](https://archive.org/details/improvementera4706unse/page/n43?q=excommunications)
+  * [Sep 1944](https://archive.org/details/improvementera4709unse/page/n23?q=excommunications)
+  * [Dec 1944](https://archive.org/details/improvementera4712unse/page/n55?q=excommunications)
+  * [Jan 1945](https://archive.org/details/improvementera4801unse/page/n43?q=excommunications)
+  * [Feb 1945](https://archive.org/details/improvementera4802unse/page/n51?q=excommunications)
+  * [Mar 1945](https://archive.org/details/improvementera4803unse/page/n35?q=excommunications)
+  * [Apr 1945](https://archive.org/details/improvementera4804unse/page/n45?q=excommunications)
+  * [May 1945](https://archive.org/details/improvementera4805unse/page/n47?q=excommunications)
+  * [Jun 1945](https://archive.org/details/improvementera4806unse/page/n25?q=excommunications)
+  * [Aug 1945](https://archive.org/details/improvementera4808unse/page/n45?q=excommunications)
+  * [Sep 1945](https://archive.org/details/improvementera4809unse/page/n51?q=excommunications)
+  * [Oct 1945](https://archive.org/details/improvementera4810unse/page/n55?q=excommunications)
+  * [Dec 1945](https://archive.org/details/improvementera4812unse/page/n41?q=excommunications)
+  * [Jan 1946](https://archive.org/details/improvementera4901unse/page/n53?q=excommunications)
+  * [Feb 1946](https://archive.org/details/improvementera4902unse/page/n49?q=excommunications)
+  * [Mar 1946](https://archive.org/details/improvementera4903unse/page/n51?q=excommunications)
+  * [Apr 1946](https://archive.org/details/improvementera4904unse/page/n31?q=excommunications)
+  * [Jun 1946](https://archive.org/details/improvementera4906unse/page/n37?q=excommunications)
+  * [Jul 1946](https://archive.org/details/improvementera4907unse/page/n55?q=excommunications)
+  * [Aug 1946](https://archive.org/details/improvementera4908unse/page/n31?q=excommunications)
+  * [Sep 1946](https://archive.org/details/improvementera4909unse/page/n31?q=excommunications)
+  * [Jan 1947](https://archive.org/details/improvementera5001unse/page/n39?q=excommunications)
+  * [Feb 1947](https://archive.org/details/improvementera5002unse/page/n53?q=excommunications)
+  * [Mar 1947](https://archive.org/details/improvementera5003unse/page/n41?q=excommunications)
 * _Modern Polygamy and Mormon Fundamentalism: The Generations after the Manifesto_ by Brian Hales
 
 When a source has been fully combed through, move it to [Sources Consulted](#sources-consulted).
@@ -195,16 +234,4 @@ When a source has been fully combed through, move it to [Sources Consulted](#sou
 
 Individuals for whom church discipline has been claimed but for which sufficient evidence has not been found.
 
-* Martha Nibley Beck——Scholar and author—Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.
-
-* Jason Derek Brown, 489th fugitive to be placed on the FBI Ten Most Wanted list. No evidence of excommunication yet found.
-
-* [Charles A. Foster](https://en.wikipedia.org/wiki/Charles_A._Foster_(Latter_Day_Saints)) (1815-1904)——_Navuoo Expositor_ publisher—Excommunicated???
-
-* [Hiram Page](https://en.wikipedia.org/wiki/Hiram_Page)—Wikipedia categorizes him as having been excommunicated, but I find no evidence of this. [A 1987 thesis](https://scholarsarchive.byu.edu/etd/5142/) states explicitly that there is no evidence of excommunication or withdrawal of his license (p. 57)
-
-* [Jacob Whitmer](https://en.wikipedia.org/wiki/Jacob_Whitmer) (2 Feb 1800-21 Apr 1856)——One of the Eight Witnesses of the Book of Mormon—Joseph Smith Papers says he was [disaffected from the church in 1838](https://www.josephsmithpapers.org/person/jacob-whitmer), but I find no record of disciplinary action. [A Feb 1989 Ensign article](https://web.archive.org/web/20191113003645/http://www.churchofjesuschrist.org/study/ensign/1989/02/true-to-the-book-of-mormon-the-whitmers?lang=eng) explicitly states that he was never tried for his church membership. The Encyclopedia of Mormonism simply [states that he became "inactive"](https://eom.byu.edu/index.php/Book_of_Mormon_Witnesses). Wikipedia is likely wrong to have categorized him as excommunicated.
-
-* [Mary Mussleman Whitmer](https://en.wikipedia.org/wiki/Mary_Mussleman_Whitmer) (27 Aug 1778-Jan 1856)——Book of Mormon witness, early Mormon matriarch—She said that, in the time when the Book of Mormon was being translated, a heavenly messenger named Brother Nephi [showed her that golden plates](https://web.archive.org/web/20191113083221/https://journal.interpreterfoundation.org/another-account-of-mary-whitmers-viewing-of-the-golden-plates/) as she went out to milk the cows. I have not been able to find evidence she underwent church discipline, other than claims that the entire Whitmer family was excommunicated. Wikipedia may have her wrongly categorized as excommunicated.
-
-* [Peter Whitmer Sr.](https://en.wikipedia.org/wiki/Peter_Whitmer_Sr.) (14 Apr 1773-12 Aug 1854)——Early Mormon patriarch—With Mary Musselman Whitmer, the father of the Whitmer family influential in early Mormonism. [He became disaffected from the church in 1838](https://www.josephsmithpapers.org/person/peter-whitmer-sr) but I find no evidence he underwent church discipline, except that many articles claim the entire Whitmer family was excommunicated, and Wikipedia categorizes him as excommunicated.
+{% include_relative unconfirmed.md %}
