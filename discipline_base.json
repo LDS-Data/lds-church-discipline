@@ -1420,21 +1420,25 @@
     "outcome": "excommunicated",
     "sex": "female",
     "location_md": "Baltimore, Maryland",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "apostasy",
     "unit_md": "Baltimore Branch, Washington Stake"
   },
   {
     "name": "Rulon T. Jeffs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rulon_Jeffs",
+    "birth_date": "6 Dec 1909",
+    "death_date": "8 Sep 2002",
     "sections": [
       "20th Century"
     ],
     "date_md": "14 Apr 1941",
-    "notes_md": "[Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"](https://archive.org/details/improvementera4503unse/page/n31)",
+    "tagline_md": "Polygamist, FLDS president",
+    "notes_md": "[Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"](https://archive.org/details/improvementera4503unse/page/n31) after taking a second wife in 1940. (His first wife divorced him.) He became a prolific polygamist and eventual president of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. He was [estimated to have 75 wives upon his death](https://www.npr.org/2005/05/03/4629320/warren-jeffs-and-the-flds).",
     "outcome": "excommunicated",
     "sex": "male",
     "unit_md": "LeGrand Ward, Bonneville Stake",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "advocating doctrines contrary to the teachings of the Church"
   },
   {
@@ -1446,7 +1450,7 @@
     "notes_md": "[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)",
     "outcome": "excommunicated",
     "sex": "male",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "adultery"
   },
   {
@@ -1460,7 +1464,7 @@
     "sex": "female",
     "location_md": "Los Angeles, California",
     "unit_md": "Wilshire Ward, Los Angeles Stake",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "apostasy"
   },
   {
@@ -1473,7 +1477,7 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location_md": "East Orange?, New Jersey?",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "apostasy",
     "unit_md": "East Orange Ward, New York Stake"
   },
@@ -1488,7 +1492,7 @@
     "sex": "female",
     "location_md": "Utah",
     "unit_md": "Sugar House Ward, Highland Stake",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "advocating doctrines contrary to the teachings of the Church"
   },
   {
@@ -1502,7 +1506,7 @@
     "sex": "female",
     "location_md": "Caldwell, Idaho",
     "unit_md": "Caldwell Ward, Nampa Stake",
-    "source": "improvement-era",
+    "tags": ["improvement-era"],
     "reasons_given": "apostasy"
   },
   {

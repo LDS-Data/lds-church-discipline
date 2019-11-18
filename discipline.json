@@ -2172,7 +2172,9 @@
     "outcome": "excommunicated",
     "sex": "female",
     "location_md": "Baltimore, Maryland",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "apostasy",
     "unit_md": "Baltimore Branch, Washington Stake",
     "date": "23 Mar 1941",
@@ -2186,18 +2188,25 @@
   },
   {
     "name": "Rulon T. Jeffs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rulon_Jeffs",
+    "birth_date": "6 Dec 1909",
+    "death_date": "8 Sep 2002",
     "sections": [
       "20th Century"
     ],
     "date_md": "14 Apr 1941",
-    "notes_md": "[Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"](https://archive.org/details/improvementera4503unse/page/n31)",
+    "tagline_md": "Polygamist, FLDS president",
+    "notes_md": "[Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"](https://archive.org/details/improvementera4503unse/page/n31) after taking a second wife in 1940. (His first wife divorced him.) He became a prolific polygamist and eventual president of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. He was [estimated to have 75 wives upon his death](https://www.npr.org/2005/05/03/4629320/warren-jeffs-and-the-flds).",
     "outcome": "excommunicated",
     "sex": "male",
     "unit_md": "LeGrand Ward, Bonneville Stake",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "advocating doctrines contrary to the teachings of the Church",
     "date": "14 Apr 1941",
-    "notes": "Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"",
+    "tagline": "Polygamist, FLDS president",
+    "notes": "Excommunicated for \"advocating doctrines contrary to the teachings of the Church\" after taking a second wife in 1940. (His first wife divorced him.) He became a prolific polygamist and eventual president of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. He was estimated to have 75 wives upon his death.",
     "unit": "LeGrand Ward, Bonneville Stake",
     "best_date_txt": "14 Apr 1941",
     "best_year": 1941,
@@ -2213,7 +2222,9 @@
     "notes_md": "[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)",
     "outcome": "excommunicated",
     "sex": "male",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "adultery",
     "date": "11 May 1941",
     "notes": "Excommunicated for adultery",
@@ -2233,7 +2244,9 @@
     "sex": "female",
     "location_md": "Los Angeles, California",
     "unit_md": "Wilshire Ward, Los Angeles Stake",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "apostasy",
     "date": "25 Sep 1941",
     "notes": "Excommunicated for apostasy",
@@ -2254,7 +2267,9 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location_md": "East Orange?, New Jersey?",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "apostasy",
     "unit_md": "East Orange Ward, New York Stake",
     "date": "10 Nov 1941",
@@ -2277,7 +2292,9 @@
     "sex": "female",
     "location_md": "Utah",
     "unit_md": "Sugar House Ward, Highland Stake",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "advocating doctrines contrary to the teachings of the Church",
     "date": "2 Dec 1941",
     "notes": "Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"",
@@ -2299,7 +2316,9 @@
     "sex": "female",
     "location_md": "Caldwell, Idaho",
     "unit_md": "Caldwell Ward, Nampa Stake",
-    "source": "improvement-era",
+    "tags": [
+      "improvement-era"
+    ],
     "reasons_given": "apostasy",
     "date": "17 Dec 1941",
     "notes": "Excommunicated for apostasy",

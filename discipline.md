@@ -199,7 +199,7 @@
 
 * Edith D. Koester Bohnet—23 Mar 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
 
-* Rulon T. Jeffs—14 Apr 1941——[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31)
+* [Rulon T. Jeffs](https://en.wikipedia.org/wiki/Rulon_Jeffs) (6 Dec 1909-8 Sep 2002)—14 Apr 1941—Polygamist, FLDS president—[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31) after taking a second wife in 1940. (His first wife divorced him.) He became a prolific polygamist and eventual president of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. He was [estimated to have 75 wives upon his death](https://www.npr.org/2005/05/03/4629320/warren-jeffs-and-the-flds).
 
 * Romero G. Martinez—11 May 1941——[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)
 
