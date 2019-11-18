@@ -1,5 +1,5 @@
-
 import re
+import sys
 
 import html2text
 import mistune
@@ -40,12 +40,33 @@ def date_txt_to_best_date_txt(date_txt):
     # print("date_txt: %s" %tdate_txt)
     return date_txt
 
+def expand_date(date):
+    fields = {
+        'best_date_txt': date_txt_to_best_date_txt(date)
+    }
+
+    date_fields = date_rgx.match(fields['best_date_txt']).groupdict()
+    fields['best_year'] = int(date_fields['year'])
+    fields['best_month'] = date_fields['month']
+    if date_fields['day'] is not None:
+        fields['best_day'] = int(date_fields['day'])
+    else:
+        fields['best_day'] = None
+
+    return fields
+
 md_to_txt = ("date", "tagline", "notes", "location", "unit")
 
 if __name__=="__main__":
+    import argparse
     import json
 
-    with open('discipline_base.json') as r:
+    parser = argparse.ArgumentParser(description='Expand JSON by processing various fields.')
+    parser.add_argument("filename", help="Path to JSON to expand")
+
+    args = parser.parse_args()
+
+    with open(args.filename) as r:
         data = json.load(r)
 
     data2 = list()
@@ -57,19 +78,10 @@ if __name__=="__main__":
             except KeyError:
                 pass
 
-        # fields['date_txt'] = markdown_to_txt(fields['date_md'])
-        fields['best_date_txt'] = date_txt_to_best_date_txt(fields['date'])
-
-        date_fields = date_rgx.match(fields['best_date_txt']).groupdict()
-        fields['best_year'] = int(date_fields['year'])
-        fields['best_month'] = date_fields['month']
-        if date_fields['day'] is not None:
-            fields['best_day'] = int(date_fields['day'])
-        else:
-            fields['best_day'] = None
-
-        # fields['tagline'] = markdown_to_txt(fields['tagline_md'])
-        # fields['notes'] = markdown_to_txt(fields['notes_md'])
+        try:
+            fields.update(expand_date(fields['date']))
+        except KeyError:
+            sys.stderr.write("No date for %s\n" % fields['name'])
 
         data2.append(fields)
 

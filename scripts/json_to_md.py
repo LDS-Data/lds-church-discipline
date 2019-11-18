@@ -22,9 +22,15 @@ def name_and_lifespan(obj):
     return "".join([name_maybe_with_link(obj), lifespan(obj)])
 
 if __name__=="__main__":
+    import argparse
     import json
 
-    with open('discipline.json') as r:
+    parser = argparse.ArgumentParser(description='Expand JSON by processing various fields.')
+    parser.add_argument("filename", help="Path to JSON to expand")
+
+    args = parser.parse_args()
+
+    with open(args.filename) as r:
         data = json.load(r)
 
     current_sections = None
