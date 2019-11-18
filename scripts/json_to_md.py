@@ -1,3 +1,5 @@
+import sys
+
 SEP='—'
 
 def lifespan(obj):
@@ -36,10 +38,13 @@ if __name__=="__main__":
     current_sections = None
     for obj in data:
 
-        if obj['sections'] != current_sections:
-            print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
+        try:
+            if obj['sections'] != current_sections:
+                print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
 
-        current_sections = obj['sections']
+            current_sections = obj['sections']
+        except KeyError:
+            sys.stderr.write("No 'sections' for %s\n" % obj['name'])
 
-        print("* %s" % SEP.join([name_and_lifespan(obj), obj['date_md'], obj.get('tagline_md', ""), obj['notes_md']]))
+        print("* %s" % SEP.join([name_and_lifespan(obj), obj.get("date_md", ""), obj.get('tagline_md', ""), obj['notes_md']]))
         print()
