@@ -24,6 +24,8 @@ Strictly speaking the database is contained in [discipline.json](https://github.
 * [26 Apr 1839 Far West council minutes](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html)
 * [Sarah Pratt: The Shaping of an Apostate](https://archive.org/details/SarahPrattShapingOfAnApostate) by Richard S. Van Wagoner.
 * [History and Doctrinal Development of the Order of Aaron](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) by Ralph D. Erickson
+* [_Improvement Era_ excommunication notices](https://archive.org/search.php?query=excommunications&and%5B%5D=collection%3A%22improvementera%22&sin=TXT)
+  * [Mar 1942](https://archive.org/details/improvementera4503unse/page/n31)
 
 ## Contributing
 
@@ -187,7 +189,6 @@ Sources from which church discipline actions should be gleaned:
 * History of the Church
 * Kirtland High Council Minutes
 * [_Improvement Era_ excommunication notices](https://archive.org/search.php?query=excommunications&and%5B%5D=collection%3A%22improvementera%22&sin=TXT)
-  * [Mar 1942](https://archive.org/details/improvementera4503unse/page/n31)
   * [Apr 1942](https://archive.org/details/improvementera4504unse/page/n31)
   * [Jun 1942](https://archive.org/details/improvementera4506unse/page/n31)
   * [Jul 1942](https://archive.org/details/improvementera4507unse/page/n31)

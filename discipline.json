@@ -2163,6 +2163,154 @@
     "best_day": 18
   },
   {
+    "name": "Edith D. Koester Bohnet",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "23 Mar 1941",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location_md": "Baltimore, Maryland",
+    "source": "improvement-era",
+    "reasons_given": "apostasy",
+    "unit_md": "Baltimore Branch, Washington Stake",
+    "date": "23 Mar 1941",
+    "notes": "Excommunicated for apostasy",
+    "location": "Baltimore, Maryland",
+    "unit": "Baltimore Branch, Washington Stake",
+    "best_date_txt": "23 Mar 1941",
+    "best_year": 1941,
+    "best_month": "Mar",
+    "best_day": 23
+  },
+  {
+    "name": "Rulon T. Jeffs",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "14 Apr 1941",
+    "notes_md": "[Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "unit_md": "LeGrand Ward, Bonneville Stake",
+    "source": "improvement-era",
+    "reasons_given": "advocating doctrines contrary to the teachings of the Church",
+    "date": "14 Apr 1941",
+    "notes": "Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"",
+    "unit": "LeGrand Ward, Bonneville Stake",
+    "best_date_txt": "14 Apr 1941",
+    "best_year": 1941,
+    "best_month": "Apr",
+    "best_day": 14
+  },
+  {
+    "name": "Romero G. Martinez",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "11 May 1941",
+    "notes_md": "[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "source": "improvement-era",
+    "reasons_given": "adultery",
+    "date": "11 May 1941",
+    "notes": "Excommunicated for adultery",
+    "best_date_txt": "11 May 1941",
+    "best_year": 1941,
+    "best_month": "May",
+    "best_day": 11
+  },
+  {
+    "name": "Florence Runswick",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "25 Sep 1941",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location_md": "Los Angeles, California",
+    "unit_md": "Wilshire Ward, Los Angeles Stake",
+    "source": "improvement-era",
+    "reasons_given": "apostasy",
+    "date": "25 Sep 1941",
+    "notes": "Excommunicated for apostasy",
+    "location": "Los Angeles, California",
+    "unit": "Wilshire Ward, Los Angeles Stake",
+    "best_date_txt": "25 Sep 1941",
+    "best_year": 1941,
+    "best_month": "Sep",
+    "best_day": 25
+  },
+  {
+    "name": "Hendrikus DeBuizer",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "10 Nov 1941",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location_md": "East Orange?, New Jersey?",
+    "source": "improvement-era",
+    "reasons_given": "apostasy",
+    "unit_md": "East Orange Ward, New York Stake",
+    "date": "10 Nov 1941",
+    "notes": "Excommunicated for apostasy",
+    "location": "East Orange?, New Jersey?",
+    "unit": "East Orange Ward, New York Stake",
+    "best_date_txt": "10 Nov 1941",
+    "best_year": 1941,
+    "best_month": "Nov",
+    "best_day": 10
+  },
+  {
+    "name": "Amelia Volmer",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "2 Dec 1941",
+    "notes_md": "[Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location_md": "Utah",
+    "unit_md": "Sugar House Ward, Highland Stake",
+    "source": "improvement-era",
+    "reasons_given": "advocating doctrines contrary to the teachings of the Church",
+    "date": "2 Dec 1941",
+    "notes": "Excommunicated for \"advocating doctrines contrary to the teachings of the Church\"",
+    "location": "Utah",
+    "unit": "Sugar House Ward, Highland Stake",
+    "best_date_txt": "2 Dec 1941",
+    "best_year": 1941,
+    "best_month": "Dec",
+    "best_day": 2
+  },
+  {
+    "name": "Mercedes L. Hardy",
+    "sections": [
+      "20th Century"
+    ],
+    "date_md": "17 Dec 1941",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location_md": "Caldwell, Idaho",
+    "unit_md": "Caldwell Ward, Nampa Stake",
+    "source": "improvement-era",
+    "reasons_given": "apostasy",
+    "date": "17 Dec 1941",
+    "notes": "Excommunicated for apostasy",
+    "location": "Caldwell, Idaho",
+    "unit": "Caldwell Ward, Nampa Stake",
+    "best_date_txt": "17 Dec 1941",
+    "best_year": 1941,
+    "best_month": "Dec",
+    "best_day": 17
+  },
+  {
     "name": "Owen A. Allred",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Owen_A._Allred",
     "birth_date": "1914",

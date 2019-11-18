@@ -197,6 +197,20 @@
 
 * [J. Leslie Broadbent](https://en.wikipedia.org/wiki/J._Leslie_Broadbent) (1891-1935)—18 Jul 1929—Polygamist, early leader in Mormon Fundamentalism—[Excommunicated](https://web.archive.org/web/20191112073750/http://mormonpolygamydocuments.org/wp-content/uploads/2019/05/Louis-Alma-Kelsch-1905-1974.pdf). He took a plural second wife in 1925, and his 1927 pamphlet _Celestial Marriage_ was an influential early Mormon fundamentalist document.
 
+* Edith D. Koester Bohnet—23 Mar 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Rulon T. Jeffs—14 Apr 1941——[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Romero G. Martinez—11 May 1941——[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Florence Runswick—25 Sep 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Hendrikus DeBuizer—10 Nov 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Amelia Volmer—2 Dec 1941——[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Mercedes L. Hardy—17 Dec 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+
 * [Owen A. Allred](https://en.wikipedia.org/wiki/Owen_A._Allred) (1914-2005)—1942—Polygamist, United Apostolic Brethren president, race ban supporter—[Excommunicated for taking a second wife](https://web.archive.org/web/20161022105501/https://www.theatlantic.com/magazine/archive/2005/05/the-marrying-kind/303925/) in 1942. [He became leader of the Apostolic United Brethren](https://web.archive.org/web/20150529185408/https://www.nytimes.com/2005/02/17/us/owen-allred-91-leader-of-polygamous-sect-dies.html) polygamist group when his brother was murdered by a rival faction. In 1978 when the LDS Church rescinded its ban on black members being ordained or participating in higher temple ordinances, [Allred voiced strident opposition to the change](https://web.archive.org/web/20190624172419/https://www.sltrib.com/news/polygamy/2018/05/25/right-after-the-mormon-church-gave-blacks-the-priesthood-a-polygamous-offshoot-saw-its-ranks-grow/), bringing "hundreds" of families into his sect.
 
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (8 Jan 1925-27 Oct 1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
