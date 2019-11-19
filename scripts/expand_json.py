@@ -69,6 +69,8 @@ if __name__=="__main__":
     with open(args.filename) as r:
         data = json.load(r)
 
+    sys.stderr.write("Expanding %s entries in %s\n" % (len(data), args.filename))
+
     data2 = list()
 
     for fields in data:

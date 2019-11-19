@@ -1377,6 +1377,19 @@
     "sex": "male"
   },
   {
+    "name": "Agnes Katherine Anderson",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1941",
+    "notes_md": "[Excommunicated at her own request](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated-at-own-request",
+    "sex": "female",
+    "location": "Vallejo, California",
+    "unit": "Vallejo Ward, Oakland Stake",
+    "tags": ["improvement-era", "jun-1942"]
+  },
+  {
     "name": "Andrew C. Schade",
     "sections": [
       "20th Century"
@@ -1415,7 +1428,7 @@
     "sex": "female",
     "location_md": "Baltimore, Maryland",
     "tags": ["improvement-era"],
-    "reasons_given": "apostasy",
+    "for": "apostasy",
     "unit_md": "Baltimore Branch, Washington Stake"
   },
   {
@@ -1433,7 +1446,7 @@
     "sex": "male",
     "unit_md": "LeGrand Ward, Bonneville Stake",
     "tags": ["improvement-era"],
-    "reasons_given": "advocating doctrines contrary to the teachings of the Church"
+    "for": "advocating doctrines contrary to the teachings of the Church"
   },
   {
     "name": "Romero G. Martinez",
@@ -1445,7 +1458,7 @@
     "outcome": "excommunicated",
     "sex": "male",
     "tags": ["improvement-era"],
-    "reasons_given": "adultery"
+    "for": "adultery"
   },
   {
     "name": "Ray L. Cheney",
@@ -1473,7 +1486,21 @@
     "location_md": "Los Angeles, California",
     "unit_md": "Wilshire Ward, Los Angeles Stake",
     "tags": ["improvement-era"],
-    "reasons_given": "apostasy"
+    "for": "apostasy"
+  },
+  {
+    "name": "Ruth Bohnett",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "25 Sep 1941",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "Los Angeles, California",
+    "unit": "Wilshire Ward, Los Angeles",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
   },
   {
     "name": "Hendrikus DeBuizer",
@@ -1486,7 +1513,7 @@
     "sex": "male",
     "location_md": "East Orange, New Jersey",
     "tags": ["improvement-era"],
-    "reasons_given": "apostasy",
+    "for": "apostasy",
     "unit_md": "East Orange Ward, New York Stake"
   },
   {
@@ -1501,7 +1528,7 @@
     "location_md": "Utah",
     "unit_md": "Sugar House Ward, Highland Stake",
     "tags": ["improvement-era"],
-    "reasons_given": "advocating doctrines contrary to the teachings of the Church"
+    "for": "advocating doctrines contrary to the teachings of the Church"
   },
   {
     "name": "Mercedes L. Hardy",
@@ -1515,7 +1542,7 @@
     "location_md": "Caldwell, Idaho",
     "unit_md": "Caldwell Ward, Nampa Stake",
     "tags": ["improvement-era"],
-    "reasons_given": "apostasy"
+    "for": "apostasy"
   },
   {
     "name": "Marie Moss",
@@ -1544,6 +1571,118 @@
     "notes_md": "[Excommunicated for taking a second wife](https://web.archive.org/web/20161022105501/https://www.theatlantic.com/magazine/archive/2005/05/the-marrying-kind/303925/) in 1942. [He became leader of the Apostolic United Brethren](https://web.archive.org/web/20150529185408/https://www.nytimes.com/2005/02/17/us/owen-allred-91-leader-of-polygamous-sect-dies.html) polygamist group when his brother was murdered by a rival faction. In 1978 when the LDS Church rescinded its ban on black members being ordained or participating in higher temple ordinances, [Allred voiced strident opposition to the change](https://web.archive.org/web/20190624172419/https://www.sltrib.com/news/polygamy/2018/05/25/right-after-the-mormon-church-gave-blacks-the-priesthood-a-polygamous-offshoot-saw-its-ranks-grow/), bringing \"hundreds\" of families into his sect.",
     "outcome": "excommunicated",
     "sex": "male"
+  },
+  {
+    "name": "Charlotte M. Staedtler Engel",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Hilde M. Staedtler Brandon",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Richard L. Staedtler",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Frieda M. L. Staedtler",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Hildegard E. Staedtler",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "George J. Lambros",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Olga Lambros",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Yiota P. Lambros",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "1 Feb 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "New York, New York",
+    "unit": "Manhattan Ward, New York Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
   },
   {
     "name": "Henry Deelstra",
@@ -1590,6 +1729,95 @@
     "for": "apostasy"
   },
   {
+    "name": "Frederick W. Fink",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "9 Mar 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "South Salt Lake, Utah",
+    "unit": "Southgate Ward, South Salt Lake Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Hyrum Francis Syndergaard",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "8 Apr 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "Salt Lake City, Utah",
+    "unit": "14th Ward, Salt Lake Stake",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy",
+    "office": "elder"
+  },
+  {
+    "name": "Essie F. Stokes Zitting",
+    "sections": [
+      "20th Century"
+    ],
+    "tagline": "plural marriage advocate",
+    "date": "14 Apr 1942",
+    "notes_md": "[Excommunicated for \"advocating plural marriage\"](https://archive.org/details/improvementera4506unse/page/n31).",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "Salt Lake County, Utah",
+    "unit": "Mill Creek Ward",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "\"advocating plural marriage\""
+  },
+  {
+    "name": "James Russell Tolman",
+    "sections": [
+      "20th Century"
+    ],
+    "tagline": "missionary-turned-soldier",
+    "date": "15 Apr 1942",
+    "notes_md": "[Excommunicated for \"unchristian-like conduct in [the] Mission Field\"](https://archive.org/details/improvementera4506unse/page/n31). He had been [released from his missionary service 22 Jan 1942, and was inducted into the U.S. army 18 May 1942](https://web.archive.org/web/20191119104356/http://thomastolmanfamily.org/james-russell-tolman-1917-2008/). (The order of his names appears to have been mistaken in the _Improvement Era_.)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "New England",
+    "unit": "New England Mission",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "\"unchristian-like conduct in [the] Mission Field\"",
+    "office": "seventy"
+  },
+  {
+    "name": "Martha Good",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "15 Apr 1942",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "female",
+    "location": "New England",
+    "unit": "New England Mission",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy"
+  },
+  {
+    "name": "Walter Vernal Morgan",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "15 Apr 1942",
+    "notes_md": "[Excommunicated for ](https://archive.org/details/improvementera4506unse/page/n31)",
+    "outcome": "excommunicated",
+    "sex": "male",
+    "location": "Tooele, Utah",
+    "unit": "Tooele 3rd",
+    "tags": ["improvement-era", "jun-1942"],
+    "for": "apostasy",
+    "office": "priest"
+  },
+  {
     "name": "Richard R. Lyman",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
     "birth_date": "1870",
@@ -1603,7 +1831,8 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location_md": "Salt Lake City, Utah",
-    "rebaptism_date": "27 Oct 1954"
+    "rebaptism_date": "27 Oct 1954",
+    "office": "apostle"
   },
   {
     "name": "Maurice Lerrie Glendenning",
