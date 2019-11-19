@@ -11,7 +11,7 @@
 
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (1806-1883)—4 Aug 1835—Original member of the Quorum of the Twelve Apostles—[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/letter-to-quorum-of-the-twelve-4-august-1835/2) for failing to solicit donations for "a house in which to receive an endowment", and for a "libel" against the church due to this seemingly innocuous quotation from a letter he wrote his wife: "You say, that it will not be in your power to go to school this summer---I am glad that it is not, since Eld\[e\]r \[Orson\] Hyde has returned and given, me a description of the manner in which it is conducted. though we do not wish to cast any reflections."
 
-* James Patten—7 Aug 1835——[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
+* James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—by 28 Sep 1835—Early Mormon physician, Book of Commandments witness—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/43), perhaps [for adultery](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266). He was [rebaptized](https://www.josephsmithpapers.org/paper-summary/minute-book-1/141) around 30 Jan 1836.
 
@@ -23,7 +23,7 @@
 
 * [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (1807-1861)—3 Sep 1837—Original member of the Quorum of the Twelve Apostles—[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239) for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated [a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244).
 
-* [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—3 Sep 1837——[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239) for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated [a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244).
+* [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—3 Sep 1837—[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/minute-book-1/239) for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated [a week later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/244).
 
 * [Roger Orton](https://en.wikipedia.org/wiki/Roger_Orton) (1799-1851)—30 Nov 1837—Deadbeat president of the Seventy—[Excommunicated "for abusing Elder Brigham Young"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/268) and a ["general course of unchristian like conduct", and also for "showing contempt to the authorities of the church"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/269). He was later reinstated and [appointed to the presidency of the Seventy around 1844](https://www.josephsmithpapers.org/person/roger-orton) but did not accept the calling. He did not go to Utah but died in Iowa.
 
@@ -43,7 +43,7 @@
 
 * [Oliver Cowdery](https://en.wikipedia.org/wiki/Oliver_Cowdery) (1806-1850)—12 Apr 1838—Book of Mormon Witness, Apostle, Second Elder, Assistant President—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/17) [on six different charges, including his accusation that Joseph Smith was an adulterer](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16) due to his relationship with Fanny Alger which Cowdery termed a "dirty, nasty, filthy affair". He was rebaptized into the LDS church in 1848.
 
-* [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—13 Apr 1838——[Excommunicated](https://www.josephsmithpapers.org/paper-summary/minute-book-2/134) in Far West on [seven different charges](https://www.josephsmithpapers.org/paper-summary/minute-book-2/130), including "virtually denying the faith of the Church of Christ of Latter Day saints, by vindicating the cause of the enemies of this Church, who are dissenters from us", "seeking to injure the character of Joseph Smith jr", and "taking whiskey and making Weldon drink & then cheating him out of his property". The minutes record that "After some few appropriate remarks, by the Councellors, it was decided by the President that Lyman E. Johnson be no longer considered a member of the Church of Christ of Latter Day Saints, nor a member of the Quorum of the twelve Apostles of the Lamb and also be given over to the buffetings of Satan untill he learns to blaspheme no more against the authorities of God."
+* [Lyman E. Johnson](https://en.wikipedia.org/wiki/Lyman_E._Johnson) (1811-1859)—13 Apr 1838—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/minute-book-2/134) in Far West on [seven different charges](https://www.josephsmithpapers.org/paper-summary/minute-book-2/130), including "virtually denying the faith of the Church of Christ of Latter Day saints, by vindicating the cause of the enemies of this Church, who are dissenters from us", "seeking to injure the character of Joseph Smith jr", and "taking whiskey and making Weldon drink & then cheating him out of his property". The minutes record that "After some few appropriate remarks, by the Councellors, it was decided by the President that Lyman E. Johnson be no longer considered a member of the Church of Christ of Latter Day Saints, nor a member of the Quorum of the twelve Apostles of the Lamb and also be given over to the buffetings of Satan untill he learns to blaspheme no more against the authorities of God."
 
 * [David Whitmer](https://en.wikipedia.org/wiki/David_Whitmer) (1805-1888)—13 Apr 1838—Book of Mormon Witness, founding church member—[Withdrew his membership from the church](https://www.josephsmithpapers.org/paper-summary/minute-book-2/136) in response to [numerous charges](https://www.josephsmithpapers.org/paper-summary/minute-book-2/135): "First, For not observing the word of wisdom, 2 for unchristian-like conduct in neglecting to attend to meetings, in uniting, with, and possessing the same spirit with the Dissenters, in writing letters to the Dissenters in Kirtland unfavorable to the cause and to Br Joseph Smith jr. 3nd For neglecting the duties of his calling. 4th, For seperating himself from the cause and the Church while he has a name among us. 5 For signing himself President of the Church of Christ in an insulting letter to the High Council." Along with other dissenters, [he was driven from Missouri a few months later](https://www.josephsmithpapers.org/person/david-whitmer), presumably by "Danites" inspired by Sidney Rigdon's "Salt Sermon". These removals added to Mormon-Missourian tensions that resulted in the 1838 Mormon War and ultimately the infamous [Missouri Executive Order 44](https://en.wikipedia.org/wiki/Missouri_Executive_Order_44) ordering the Mormons "treated as enemies" and "exterminated or driven from the state if necessary for the public peace." David Whitmer maintained his belief in the Book of Mormon throughout his life. He never rejoined the LDS church.
 
@@ -69,65 +69,65 @@
 #### The Followers of Isaac Russell
 * [Isaac Russell](https://en.wikipedia.org/wiki/Isaac_Russell) (1807-1844)—26 Apr 1839—Unapproved revelator—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for [attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites](https://rsc.byu.edu/archived/regional-studies-latter-day-saint-church-history-british-isles/remembering-impact-british) on the basis of revelation he claimed to have received. According to the official History of the Church, "[Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church](https://byustudies.byu.edu/content/volume-4-chapter-33). He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren." He does not appear to have rejoined the church, and died in 1844 of "swamp fever".
 
-* Mary Russell—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, Isaac Russell, who claimed revelations not approved by the church. In 1861 [she moved to Utah and rejoined the church](https://en.wikipedia.org/wiki/Isaac_Russell#Death).
+* Mary Russell—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, Isaac Russell, who claimed revelations not approved by the church. In 1861 [she moved to Utah and rejoined the church](https://en.wikipedia.org/wiki/Isaac_Russell#Death).
 
 * [John Edward Goodson](https://en.wikipedia.org/wiki/J._E._Goodson) (1808-1892)—26 Apr 1839—Musician, early missionary to England—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for supposedly coming under the influence of Isaac Russell.
 
-* Margaret Goodson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, John Goodson, when they supposedly fell under the influence of the claimed revelations of her uncle, Isaac Russell.
+* Margaret Goodson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) along with her husband, John Goodson, when they supposedly fell under the influence of the claimed revelations of her uncle, Isaac Russell.
 
-* Jacob Scott, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Jacob Scott, Sr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The wife of Jacob Scott, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The wife of Jacob Scott, Sr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Isaac Scott—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Isaac Scott—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Jacob Scott, Jr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Jacob Scott, Jr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Ann Scott—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Ann Scott—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Sister Walton—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Sister Walton—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Robert Walton—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Robert Walton—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Sister Cavanaugh—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Sister Cavanaugh—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Ann Wanlass—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Ann Wanlass—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* William Dawson, Jr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* William Dawson, Jr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The wife of William Dawson, Jr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The wife of William Dawson, Jr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* William Dawson, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* William Dawson, Sr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The wife of William Dawson, Sr.—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The wife of William Dawson, Sr.—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* George Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* George Nelson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Joseph Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Joseph Nelson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The wife of Joseph Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The wife of Joseph Nelson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The mother of Joseph Nelson—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The mother of Joseph Nelson—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* William Warnock—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* William Warnock—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The wife of William Warnock—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The wife of William Warnock—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Jonathan Maynard—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Jonathan Maynard—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Nelson Maynard—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Nelson Maynard—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* George Miller—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* George Miller—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* John Grigg—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* John Grigg—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* The wife of John Grigg—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* The wife of John Grigg—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Luman Gibbs—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Luman Gibbs—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Simeon Gardner—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Simeon Gardner—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
-* Freeborn Gardner—26 Apr 1839——[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
+* Freeborn Gardner—26 Apr 1839—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html), in Far West.
 
 #### Late Joseph Smith Era
 * [Gladden Bishop](https://en.wikipedia.org/wiki/Gladden_Bishop) (1809-1864)—11 Mar 1842—Would-be Prophet—[Excommunicated for promulgating his own revelations deemed inconsistent with those of the church](https://www.josephsmithpapers.org/paper-summary/journal-december-1841-december-1842/21). His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a "warrant" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed "the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism". The revelations were then ["condemned" and "committed to the flames" and he was "cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus](https://catalog.churchofjesuschrist.org/assets?id=28b53d73-2ba2-418b-8ef7-dafcc935bee3&crate=0&index=140)."
@@ -148,11 +148,11 @@
 
 * [Robert D. Foster](https://en.wikipedia.org/wiki/Robert_D._Foster) (1811-1878)—18 Apr 1844—(Acting) Justice of the Peace, dissenter, _Nauvoo Expositor_ publisher—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) for his involvement with the _Nauvoo Expositor_.
 
-* Howard Smith—18 Apr 1844——[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) alongside the _Nauvoo Expositor_ publishers, though his involvement is unclear.
+* Howard Smith—18 Apr 1844—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) alongside the _Nauvoo Expositor_ publishers, though his involvement is unclear.
 
 * [Austin Cowles](https://en.wikipedia.org/wiki/Austin_Cowles) (1792-1872)—18 May 1844—Hymnist and anti-polygamy crusader—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19) on account of his strenuous opposition to polygamy. He went on to publicly denounce Mormon polygamy in the _Nauvoo Expositor_, whose first and only printing led to the arrest and death of Joseph Smith.
 
-* James Blakeslee (1802-1866)—18 May 1844——[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). In a _tour de schism_ he [followed](https://www.josephsmithpapers.org/person/james-blakeslee) Sidney Rigdon after Joseph Smith's death, then James J. Strang, then Charles B. Thompson (the "Baneemyites"), finally finding a spiritual home in the Reorganized Church of Jesus Christ of Latter Day Saints where he became an apostle.
+* James Blakeslee (1802-1866)—18 May 1844—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). In a _tour de schism_ he [followed](https://www.josephsmithpapers.org/person/james-blakeslee) Sidney Rigdon after Joseph Smith's death, then James J. Strang, then Charles B. Thompson (the "Baneemyites"), finally finding a spiritual home in the Reorganized Church of Jesus Christ of Latter Day Saints where he became an apostle.
 
 * [Francis M. Higbee](https://en.wikipedia.org/wiki/Francis_M._Higbee) (1820-1856)—18 May 1844—_Nauvoo Expositor_ editor, Nauvoo Legion colonel—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He went on to participate in the publication of the _Nauvoo Expositor_, leading to the arrest and death of Joseph Smith.
 
@@ -197,77 +197,77 @@
 
 * [J. Leslie Broadbent](https://en.wikipedia.org/wiki/J._Leslie_Broadbent) (1891-1935)—18 Jul 1929—Polygamist, early leader in Mormon Fundamentalism—[Excommunicated](https://web.archive.org/web/20191112073750/http://mormonpolygamydocuments.org/wp-content/uploads/2019/05/Louis-Alma-Kelsch-1905-1974.pdf). He took a plural second wife in 1925, and his 1927 pamphlet _Celestial Marriage_ was an influential early Mormon fundamentalist document.
 
-* Agnes Katherine Anderson—1941——[Excommunicated at her own request](https://archive.org/details/improvementera4506unse/page/n31)
+* Agnes Katherine Anderson—1941—[Excommunicated at her own request](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Andrew C. Schade—9 Mar 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31)
+* Andrew C. Schade—9 Mar 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31)
 
-* Byrle Elton Blades—9 Mar 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31)
+* Byrle Elton Blades—9 Mar 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31)
 
-* Edith D. Koester Bohnet—23 Mar 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+* Edith D. Koester Bohnet—23 Mar 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
 
 * [Rulon T. Jeffs](https://en.wikipedia.org/wiki/Rulon_Jeffs) (6 Dec 1909-8 Sep 2002)—14 Apr 1941—Polygamist, FLDS president—[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31) after taking a second wife in 1940. (His first wife divorced him.) He became a prolific polygamist and eventual president of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. He was [estimated to have 75 wives upon his death](https://www.npr.org/2005/05/03/4629320/warren-jeffs-and-the-flds).
 
-* Romero G. Martinez—11 May 1941——[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)
+* Romero G. Martinez—11 May 1941—[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31)
 
-* Ray L. Cheney—6 Jun 1941——[Excommunicated for adultery](https://archive.org/details/improvementera4504unse/page/n31)
+* Ray L. Cheney—6 Jun 1941—[Excommunicated for adultery](https://archive.org/details/improvementera4504unse/page/n31)
 
-* Florence Runswick—25 Sep 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+* Florence Runswick—25 Sep 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
 
-* Ruth Bohnett—25 Sep 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Ruth Bohnett—25 Sep 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Hendrikus DeBuizer—10 Nov 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31). A likely relative, Gerrit B. J. DeBuizer, Jr., was excommunicated 22 Feb 1942.
+* Hendrikus DeBuizer—10 Nov 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31). A likely relative, Gerrit B. J. DeBuizer, Jr., was excommunicated 22 Feb 1942.
 
-* Amelia Volmer—2 Dec 1941——[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31)
+* Amelia Volmer—2 Dec 1941—[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31)
 
-* Mercedes L. Hardy—17 Dec 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
+* Mercedes L. Hardy—17 Dec 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31)
 
-* Marie Moss—28 Dec 1941——[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31)
+* Marie Moss—28 Dec 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31)
 
 * [Owen A. Allred](https://en.wikipedia.org/wiki/Owen_A._Allred) (1914-2005)—1942—Polygamist, United Apostolic Brethren president, race ban supporter—[Excommunicated for taking a second wife](https://web.archive.org/web/20161022105501/https://www.theatlantic.com/magazine/archive/2005/05/the-marrying-kind/303925/) in 1942. [He became leader of the Apostolic United Brethren](https://web.archive.org/web/20150529185408/https://www.nytimes.com/2005/02/17/us/owen-allred-91-leader-of-polygamous-sect-dies.html) polygamist group when his brother was murdered by a rival faction. In 1978 when the LDS Church rescinded its ban on black members being ordained or participating in higher temple ordinances, [Allred voiced strident opposition to the change](https://web.archive.org/web/20190624172419/https://www.sltrib.com/news/polygamy/2018/05/25/right-after-the-mormon-church-gave-blacks-the-priesthood-a-polygamous-offshoot-saw-its-ranks-grow/), bringing "hundreds" of families into his sect.
 
-* Charlotte M. Staedtler Engel—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Charlotte M. Staedtler Engel—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Hilde M. Staedtler Brandon—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Hilde M. Staedtler Brandon—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Richard L. Staedtler—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Richard L. Staedtler—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Frieda M. L. Staedtler—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Frieda M. L. Staedtler—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Hildegard E. Staedtler—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Hildegard E. Staedtler—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* George J. Lambros—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* George J. Lambros—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Olga Lambros—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Olga Lambros—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Yiota P. Lambros—1 Feb 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Yiota P. Lambros—1 Feb 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Henry Deelstra—2 Feb 1942——[Excommunicated for adultery](https://archive.org/details/improvementera4504unse/page/n31)
+* Henry Deelstra—2 Feb 1942—[Excommunicated for adultery](https://archive.org/details/improvementera4504unse/page/n31)
 
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (8 Jan 1925-27 Oct 1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
 
 * Gerrit B. J. DeBuizer, Jr.—22 Feb 1942——[Excommunicated](https://archive.org/details/improvementera4504unse/page/n31) for [apostasy](https://archive.org/details/improvementera4508unse/page/n31). A likely relative, Hendrikus DeBuizer, was excommunicated 10 Nov 1941.
 
-* Frederick W. Fink—9 Mar 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Frederick W. Fink—9 Mar 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Hyrum Francis Syndergaard—8 Apr 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Hyrum Francis Syndergaard—8 Apr 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
 * Essie F. Stokes Zitting—14 Apr 1942—plural marriage advocate—[Excommunicated for "advocating plural marriage"](https://archive.org/details/improvementera4506unse/page/n31).
 
 * James Russell Tolman—15 Apr 1942—missionary-turned-soldier—[Excommunicated for "unchristian-like conduct in [the] Mission Field"](https://archive.org/details/improvementera4506unse/page/n31). He had been [released from his missionary service 22 Jan 1942, and was inducted into the U.S. army 18 May 1942](https://web.archive.org/web/20191119104356/http://thomastolmanfamily.org/james-russell-tolman-1917-2008/). (The order of his names appears to have been mistaken in the _Improvement Era_.)
 
-* Martha Good—15 Apr 1942——[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
+* Martha Good—15 Apr 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 
-* Walter Vernal Morgan—15 Apr 1942——[Excommunicated for ](https://archive.org/details/improvementera4506unse/page/n31)
+* Walter Vernal Morgan—15 Apr 1942—[Excommunicated for ](https://archive.org/details/improvementera4506unse/page/n31)
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
 * Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
 
-* Walter Clare Card—16 Apr 1945——[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
+* Walter Clare Card—16 Apr 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
 
-* Viola Stone Card—8 Aug 1945——[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
+* Viola Stone Card—8 Aug 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
 
-* Murtle Maus Andrew—8 Aug 1945——[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
+* Murtle Maus Andrew—8 Aug 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
 
 * [Fawn M. Brodie](https://en.wikipedia.org/wiki/Fawn_M._Brodie) (1915-1981)—19 Jun 1946—Psychobiographer, professor of history, David O. McKay niece—[Excommunicated for publishing _No Man Knows My History_](https://web.archive.org/web/20190207184806/http://www.salamandersociety.com/x-files/460523brodie_excom.pdf), a biography of Joseph Smith in which she was said to have "assert\[ed\] matters as truths which deny the divine origin of the Book of Mormon, the restoration of the Priesthood and of Christ's Church through the instrumentality of the Prophet Joseph Smith, contrary to the beliefs, doctrines and teachings of the Church." She [later stated](https://web.archive.org/web/20191110061253/https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V22N02_81.pdf) that she was "convinced before \[she\] ever began writing \[_No Man Knows My History_\] that Joseph Smith was not a true Prophet." Brodie's biography of Joseph Smith stands alongside Bushman's _Joseph Smith: Rough Stone Rolling_ as a preeminent account of Joseph Smith's life. She went on to write numerous biographies including the prescient _Thomas Jefferson: An Intimate History_ which was the first major work to argue that Thomas Jefferson had a sexual relationship with his slave, Sally Hemings.
 

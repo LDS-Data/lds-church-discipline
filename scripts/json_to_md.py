@@ -46,5 +46,19 @@ if __name__=="__main__":
         except KeyError:
             sys.stderr.write("No 'sections' for %s\n" % obj['name'])
 
-        print("* %s" % SEP.join([name_and_lifespan(obj), obj.get("date_md", ""), obj.get('tagline_md', ""), obj['notes_md']]))
+        parts = [name_and_lifespan(obj)]
+
+        try:
+            parts.append(obj['date_md'])
+        except KeyError:
+            sys.stderr.write("No 'date_md' for %s\n" % obj['name'])
+
+        try:
+            parts.append(obj['tagline_md'])
+        except KeyError:
+            pass
+
+        parts.append(obj['notes_md'])
+
+        print("* %s" % SEP.join(parts))
         print()
