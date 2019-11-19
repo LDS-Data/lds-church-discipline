@@ -73,10 +73,14 @@ if __name__=="__main__":
 
     for fields in data:
         for txt_field in md_to_txt:
+            # plaintext -> Markdown, otherwise Markdown -> plaintext
             try:
-                fields[txt_field] = markdown_to_txt(fields["%s_md" % txt_field])
+                fields["%s_md" % txt_field] = fields[txt_field]
             except KeyError:
-                pass
+                try:
+                    fields[txt_field] = markdown_to_txt(fields["%s_md" % txt_field])
+                except KeyError:
+                    pass
 
         try:
             fields.update(expand_date(fields['date']))

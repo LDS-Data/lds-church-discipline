@@ -19,6 +19,7 @@ Some directions to take things:
 * Replace lifespan years with specific dates if known
 * Better define the scope of the project. Are we including people who simply resigned? Do we only include notable figures, or everybody? Are all sorts of reasons included?
 * Extract cleaned versions of all locations and dates
+* Convert $FIELD_md to $FIELD when it contains no Markdown
 
 ## 1.0
 
