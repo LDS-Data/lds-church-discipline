@@ -245,7 +245,7 @@
 
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (8 Jan 1925-27 Oct 1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
 
-* Gerrit B. J. DeBuizer, Jr.—22 Feb 1942——[Excommunicated](https://archive.org/details/improvementera4504unse/page/n31) for [apostasy](https://archive.org/details/improvementera4508unse/page/n31). A likely relative, Hendrikus DeBuizer, was excommunicated 10 Nov 1941.
+* Gerrit B. J. DeBuizer, Jr.—22 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4504unse/page/n31) for [apostasy](https://archive.org/details/improvementera4508unse/page/n31). A likely relative, Hendrikus DeBuizer, was excommunicated 10 Nov 1941.
 
 * Frederick W. Fink—9 Mar 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31)
 

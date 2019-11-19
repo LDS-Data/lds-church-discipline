@@ -74,6 +74,19 @@ if __name__=="__main__":
     data2 = list()
 
     for fields in data:
+
+        try:
+            if fields['tagline'] == "":
+                sys.stderr.write("Empty 'tagline' for %s\n" % fields['name'])
+        except KeyError:
+            pass
+
+        try:
+            if fields['tagline_md'] == "":
+                sys.stderr.write("Empty 'tagline_md' for %s\n" % fields['name'])
+        except KeyError:
+            pass
+
         for txt_field in md_to_txt:
             # plaintext -> Markdown, otherwise Markdown -> plaintext
             try:
