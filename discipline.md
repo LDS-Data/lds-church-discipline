@@ -197,9 +197,43 @@
 
 * [J. Leslie Broadbent](https://en.wikipedia.org/wiki/J._Leslie_Broadbent) (1891-1935)—18 Jul 1929—Polygamist, early leader in Mormon Fundamentalism—[Excommunicated](https://web.archive.org/web/20191112073750/http://mormonpolygamydocuments.org/wp-content/uploads/2019/05/Louis-Alma-Kelsch-1905-1974.pdf). He took a plural second wife in 1925, and his 1927 pamphlet _Celestial Marriage_ was an influential early Mormon fundamentalist document.
 
+* John William Oakley (b. )—1 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* Alice Maud Prescott Oakley (b. 5 Jan 1894)—8 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* George Oakley (b. 18 Jan 1894)—8 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* Ellen Mary Maude Brown (b. 16 Feb 1889)—8 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Dennis Hy Clarence Brown (b. 29 May 1916)—8 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Edith Oakley Dobell (b. 26 Apr 1899)—8 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
 * Agnes Katherine Anderson—1941—[Excommunicated at her own request](https://archive.org/details/improvementera4506unse/page/n31).
 
+* Edward Cline (b. 13 Nov 1867)—1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Robert Laurence Cummings (b. 25 Feb 1917)—1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49). (The _Improvement Era_ appears to give the branch erroneously as "Kaui Branch, Japanese Mission". We take this to mean Kauai in the Hawaiian islands, where the Japanese Mission [operated between 1937 and 1950](https://en.wikipedia.org/w/index.php?title=The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Hawaii&oldid=907875291#History).)
+
+* Pedro Martinez (b. 9 Oct 1905)—1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Jessie M. S. McIntyre (b. 27 May 1900)—8 Jan 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Stewart Davis Livingston (b. 8 Jun 1907)—9 Jan 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49) in the "York Branch, Eastern States Mission" (says the _Improvement Era_), which probably means the _New_ York Branch.
+
+* Frieda M. Czaia Cope (b. 22 Jul 1910)—[13 Jan 1941](https://archive.org/details/improvementera4509unse/page/n49)—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Claricy Flynn Hubbs (b. 10 Feb 1894)—13 Jan 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Belinda Arregui (b. 11 Aug 1891)—23 Jan 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43). (The _Improvement Era_ says she was excommunicated in the "Cordola Branch, Argentine Mission", which we take to mean the [_Córdoba_ Branch in the Argentine Mission](https://en.wikipedia.org/w/index.php?title=The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Argentina&oldid=926388964#Establishment_of_the_mission)).
+
+* Nina W. Sims DeYoung (b. 22 Oct 1902)—29 Jan 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49). (The _Improvement Era_ has her being excommunicated in the "Rapids Branch, Northern States Mission" but I find no evidence of such a branch. However, [there was a Grand Rapids Branch in the Northern States Mission](https://books.google.com/books?id=f2jUAAAAMAAJ&pg=PA316&lpg=PA316&dq=rapids+branch,+northern+states+mission&source=bl&ots=yp1BDR9P53&sig=ACfU3U0MakD9Ou5KDzzq1MuAr08pR0p7Xw&hl=en&ppis=_e&sa=X&ved=2ahUKEwjR3erouPjlAhVDIDQIHTYKDfMQ6AEwC3oECAkQAQ#v=onepage&q&f=false), so we interpret it as such.)
+
+* Wilhelm Ramsdorf (b. 20 Jan 1905)—3 Feb 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
 * [Alma A. Timpson](https://en.wikipedia.org/?title=Alma_A._Timpson)—13 Feb 1941—fundamentalist Mormon leader—[Excommunicated for "advocating plural marriage"](https://archive.org/details/improvementera4507unse/page/n31). He went on to become leader of the [Centennial Park group](https://en.wikipedia.org/wiki/Centennial_Park_group) of polygamists in Centennial Park, Arizona.
+
+* Martin Enid Mortenson (b. 23 Apr 1900)—16 Feb 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
 
 * Andrew C. Schade—9 Mar 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4504unse/page/n31).
 
@@ -207,19 +241,77 @@
 
 * Edith D. Koester Bohnet—23 Mar 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31).
 
+* E. G. Dunn Hoffmann (b. 25 Sep 1912)—28 Mar 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
 * [Rulon T. Jeffs](https://en.wikipedia.org/wiki/Rulon_Jeffs) (6 Dec 1909-8 Sep 2002)—14 Apr 1941—Polygamist, FLDS president—[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31) after taking a second wife in 1940. (His first wife divorced him.) He became a prolific polygamist and eventual president of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. He was [estimated to have 75 wives upon his death](https://www.npr.org/2005/05/03/4629320/warren-jeffs-and-the-flds).
+
+* M. L. F. Hunt (b. 11 Dec 1910)—16 Apr 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Moirie Alford Measley (b. [27 Apr 1912](https://archive.org/details/improvementera4509unse/page/n61))—18 Apr 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Edward Everett Nolan (b. 14 Nov 1877)—27 Apr 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* Martha Elizabeth Nolan (b. 9 Jun 1914)—27 Apr 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* Mary Elizabeth Kusch Nolan (b. 25 Dec 1887)—27 Apr 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
 
 * Romero G. Martinez—11 May 1941—[Excommunicated for adultery](https://archive.org/details/improvementera4503unse/page/n31).
 
 * Ray L. Cheney—6 Jun 1941—[Excommunicated for adultery](https://archive.org/details/improvementera4504unse/page/n31).
 
+* Bessie O. Rhoades (b. 1 Dec 1892)—9 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61) in the "Munice Branch, Northern States Mission" (according to the _Improvement Era_), which [must mean _Muncie_](https://books.google.com/books?id=tFMoAAAAYAAJ&pg=PA30&lpg=PA30&dq=muncie+branch,+northern+states+mission&source=bl&ots=a_sVUkV3IJ&sig=ACfU3U10qpbkdDLhJ6HTByrMSNvaVENOSQ&hl=en&ppis=_e&sa=X&ved=2ahUKEwj9qpWj0fjlAhXxCTQIHQQnAQIQ6AEwCXoECAoQAQ#v=onepage&q&f=false).
+
+* Beatrice Inskup (b. 19 Jan 1905)—12 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* China M. Guildner (b. 23 Feb 1888)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49). (The _Improvement Era_ has her excommunicated in the "Penchatoula Branch, Texas Mission" which seems to be a reference to Ponchatoula, Louisiana, as [the Texas Mission included Louisiana at the time](https://web.archive.org/web/20191120095324/https://history.churchofjesuschrist.org/missionary/mission/texas?lang=eng#1930).)
+
+* Oscar William Guildner (b. 20 Apr 1905)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49), seemingly in Hammond, Louisiana given the presence of the church there [around that time](https://en.wikipedia.org/w/index.php?title=The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Louisiana&oldid=906835008) and the shared "Guilder" name with China M. Guilder, excommunicated on the same day.
+
+* Mary E. Lambton (b. 4 Feb 1919)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Willie Persick (b. 12 Sep 1883)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* Ida Burriss (b. 2 May 1886)—27 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Etta Chadduck Mulkey (b. 27 Sep 1894)—10 Jul 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+
+* Andalina Lujan (b. 10 Mar 1885)—15 Jul 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Chloe Mae Crandall Beld (b. 19 Mar 1889)—21 Jul 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Arthur Lee Crandall (b. 17 May 1920)—21 Jul 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Chester Joseph Crandall (b. 7 Sep 1895)—21 Jul 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* William C. Deichmiller (b. 8 Apr 1876)—24 Jul 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Martha Carr (b. 23 Mar 1865)—4 Sep 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Lydia Loraze Clendenen (b. 11 Feb 1885)—4 Sep 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Lorene Edna Kalinksi (b. 22 Sep 1913)—11 Sep 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Emma Elizabeth Cochran—13 Sep 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
 * Florence Runswick—25 Sep 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31).
 
 * Ruth Bohnett—25 Sep 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31).
 
+* Henry James Harmon (b. 19 Nov 1878)—28 Sep 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49) in the "Vaughn Branch, Northwestern States Mission", which is difficult to locate specifically.
+
+* Virginia Miller Green (b. 1 Dec 1914)—1 Oct 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49) in the Chinook Branch in the Northwestern States Mission, which [appears to have been located in Chinook, Montana](https://web.archive.org/web/20191120093904/https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=6631&context=etd).
+
+* Elsie Reed Henegar (b. 18 Aug 1914)—12 Oct 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Margaret Leola Bird Harris (b. 29 Oct 1915)—20 Oct 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
+
+* Lorenzo Rangel—30 Oct 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
 * Hendrikus DeBuizer—10 Nov 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31). A likely relative, Gerrit B. J. DeBuizer, Jr., was excommunicated 22 Feb 1942.
 
 * Amelia Volmer—2 Dec 1941—[Excommunicated for "advocating doctrines contrary to the teachings of the Church"](https://archive.org/details/improvementera4503unse/page/n31)
+
+* Eugene Houston Henegar (b. 19 Apr 1902)—12 Dec 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
 
 * Mercedes L. Hardy—17 Dec 1941—[Excommunicated for apostasy](https://archive.org/details/improvementera4503unse/page/n31).
 
@@ -269,7 +361,25 @@
 
 * Walter Vernal Morgan—15 Apr 1942—[Excommunicated for ](https://archive.org/details/improvementera4506unse/page/n31).
 
+* Catherine Lucy Collinwood—16 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
 * Joseph Detton (26 Dec 1884-[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/))—26 Apr 1942—[Excommunicated for "immorality"](https://archive.org/details/improvementera4507unse/page/n41).
+
+* Kathrine Unfried Jones (b. 28 Dec 1884)—17 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Parley Kelo Willis (b. 24 Apr 1902)—17 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Leland George Taylor (b. 11 Jul 1901)—29 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Robert Cecil Clements (b. 5 Dec 1892)—10 Jun 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Glen Melvin Hays (b. 20 Jul 1909)—17 Jun 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Lucille Evelyn Hays Pederson (b. 29 Apr 1917)—18 Jun 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Pearl Gammon—12 Jul 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Carl Eugene Chatel (b. 3 Jan 1899)—13 Jul 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 
@@ -285,9 +395,9 @@
 
 * [John Horne Blackmore](https://en.wikipedia.org/wiki/John_Horne_Blackmore) (1890-1971)—1947—Non-polygamous polygamy advocate, educator, Canadian legislator—Excommunicated for "teaching and advocating the doctrine of plural marriage". He used his position in the Canadian House of Commons to advocate for the legalization of polygamy, though he did not practice it himself.
 
-* [Annalee Skarin](https://en.wikipedia.org/wiki/Annalee_Skarin) (1899-1988)—11 Jun 1952—Self-proclaimed prophetess, New Age icon—[Excommunicated for refusing, at apostle Mark E. Peterson's insistence, to repudiate her book of revelations, _Ye Are Gods_](https://www.sunstonemagazine.com/pdf/081-42-46.pdf). Elder Peterson's rationale for the top-down decision to excommunicate Annalee Skarin reportedly included the objection that she "attempts to give revelations on her own part and defends this fact even though she is a woman." Soon after her excommunication she claimed to have been translated and seemingly spent the rest of her life in hiding with her husband, Reason Skarin. Her daughter, Hope Hilton, [wrote](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/081-47-48.pdf), "Annalee was a paranoid-schizophrenic who listened to an inner voice whose tapes were often garbled. She was a dramatic actress who sought center stage and applause while proclaiming her humility. She was a master of cover-up which only those on the inside could see."
-
 * Sally Franchow—1952?—Defender of Annalee Skarin—[Excommunicated (according to Annalee Skarin) for defending Annalee in her own excommunication trial](https://www.sunstonemagazine.com/pdf/081-42-46.pdf).
+
+* [Annalee Skarin](https://en.wikipedia.org/wiki/Annalee_Skarin) (1899-1988)—11 Jun 1952—Self-proclaimed prophetess, New Age icon—[Excommunicated for refusing, at apostle Mark E. Peterson's insistence, to repudiate her book of revelations, _Ye Are Gods_](https://www.sunstonemagazine.com/pdf/081-42-46.pdf). Elder Peterson's rationale for the top-down decision to excommunicate Annalee Skarin reportedly included the objection that she "attempts to give revelations on her own part and defends this fact even though she is a woman." Soon after her excommunication she claimed to have been translated and seemingly spent the rest of her life in hiding with her husband, Reason Skarin. Her daughter, Hope Hilton, [wrote](https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/081-47-48.pdf), "Annalee was a paranoid-schizophrenic who listened to an inner voice whose tapes were often garbled. She was a dramatic actress who sought center stage and applause while proclaiming her humility. She was a master of cover-up which only those on the inside could see."
 
 * [Sandra Tanner](https://en.wikipedia.org/wiki/Jerald_and_Sandra_Tanner) (b. 14 Jan 1941)—7 Jul 1960—_Utah Lighthouse Ministry_ co-founder, publisher on Mormonism—[Excommunicated at her own request for "\[a\]postacy, and engaging in activities contrary to the best interests of the church"](https://web.archive.org/web/20191113065419/https://collections.lib.utah.edu/file?id=788232&nocache=true). She and her husband, Jerald Tanner, left the church shortly after their wedding objecting to the church's treatment of its black members as well as historical research that painted a picture of early church leaders which they could not reconcile with belief. They went on to found the _Utah Lighthouse Ministry_ and publish widely on church topics, missionizing Mormons into mainstream Christianity.
 
@@ -295,11 +405,11 @@
 
 * [John Singer](https://en.wikipedia.org/wiki/John_Singer_(anti-government_activist)) (1931-1979)—1972?—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). He entered a polygamous relationship and went on to defy the government in a fight over homeschooling his children. He was [shot in a confrontation with police](https://books.google.com/books?id=Fk6xCgAAQBAJ&pg=PA91&lpg=PA91&dq=john+singer+excommunication&source=bl&ots=w6kGWSHKwS&sig=ACfU3U2M0KyPzHiG3Ng2gm02U8QNbeLtsQ&hl=en&sa=X&ved=2ahUKEwiX1-Cj77PlAhU_FTQIHW7qDTcQ6AEwEHoECAkQAQ#v=onepage&q=john%20singer%20excommunication&f=false) when he [refused to surrender his second (polygamous) wife's children](https://www.uen.org/utah_history_encyclopedia/s/SINGER_JOHN.shtml) (in legal custody of her now-ex-husband) to the state.
 
-* Vickie Singer—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). Nearly a decade after her husband's death, she participated in [the bombing of an LDS chapel](https://en.wikipedia.org/wiki/Singer-Swapp_Standoff), for which she spent five years in prison after a violent standoff.
-
 * [Ogden Kraut](https://en.wikipedia.org/wiki/Ogden_Kraut) (21 Jun 1927-17 Jul 2002)—1972—Independent Mormon fundamentalist author—Excommunicated for advocating polygamy. A friend of fellow excommunicants John and Vickie Singer, he later [acted as mediator in the Singer-Swapp standoff](https://www.sunstonemagazine.com/pdf/068-10-17.pdf).
 
 * [Richard McCoy, Jr.](https://en.wikipedia.org/wiki/Richard_McCoy_Jr.) (1942-1974)—6 Jun 1972—Sunday School teacher, copycat skyjacker—[Excommunicated "on the grounds of skyjacking and extortion"](https://web.archive.org/web/20190406214136/http://www.ldsfilm.com/movies/DBCooper.html). Richard McCoy, Jr., hijacked a United Airlines passenger jet for ransom in 1972, four months after the more infamous D.B. Cooper carried out a similar and still-unsolved hijacking. Due to the similarity, McCoy has been considered a suspect in the D.B. Cooper crime. He was excommunicated in response to his crimes, and was shot after escaping from prison.
+
+* Vickie Singer—1970 or 1972—Polygamist, anti-government activist—[Excommunicated for refusal to sustain Joseph Fielding Smith as a prophet](https://reason.com/1979/07/01/man-vs-state/). Nearly a decade after her husband's death, she participated in [the bombing of an LDS chapel](https://en.wikipedia.org/wiki/Singer-Swapp_Standoff), for which she spent five years in prison after a violent standoff.
 
 * [Ted Bundy](https://en.wikipedia.org/wiki/Ted_Bundy) (1946-1989)—1976?—Convicted serial killer and rapist—[Excommunicated following his conviction for kidnapping](https://news.google.com/newspapers?id=xbMwAAAAIBAJ&sjid=-PoDAAAAIBAJ&dq=ted%20bundy%20mormon&pg=6890%2C1373449). His participation in Mormonism was brief: he was baptized in August or September 1975, jailed that year, convicted in 1976, and excommunicated in response. He had already been murdering people when he joined the church. He made two dramatic escapes and three further murders before being recaptured and thrice sentenced to death. He was executed for his crimes in 1989. Temple work was performed for him posthumously.
 
@@ -321,8 +431,6 @@
 
 * [George P. Lee](https://en.wikipedia.org/wiki/George_P._Lee) (1943-2010)—1 Sep 1989—First Native American General Authority—Excommunicated [for "apostasy and other conduct unbecoming a member of the Church."](https://www.thechurchnews.com/archives/1989-09-09/disciplinary-action-taken-sept-1-against-general-authority-150691). Later convicted of child sexual molestation, which apparently played a role in his excommunication though this was only hinted at at the time. The first General Authority excommunication since Richard R. Lyman in 1943.
 
-* [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html). She committed suicide in 2000.
-
 #### The September Six
 * Lynne Kanavel Whitesides—14 Sep 1993—Feminist noted for teachings on Mother in Heaven, [Salt Lake Mormon Women's Forum president](https://web.archive.org/web/20190114092733/https://www.nytimes.com/1993/09/19/us/mormons-penalize-dissident-members.html)—[Disfellowshipped on a charge of apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), using transcripts of her own public addresses as evidence, possibly including [comments made on television about the church's treatment of women](https://web.archive.org/web/20190905222333/https://archive.sltrib.com/article.php?id=58060420&itype=cmsid).
 
@@ -335,6 +443,9 @@
 * [Lavina Fielding Anderson](https://en.wikipedia.org/wiki/Lavina_Fielding_Anderson) (b. 1944)—23 Sep 1993—Scholar, writer, editor, and feminist—[Excommunicated for apostasy](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf), a month after giving an "atrocity update" as part of the Mormon Alliance session at the Sunstone symposium highlighting perceived ecclesiastical abuses by the church. She reported that the disciplinary action against her was instigated in response to her Spring 1993 _Dialogue_ article, "[The LDS Intellectual Community and Church Leadership: A Contemporary Chronology](https://www.dialoguejournal.com/wp-content/uploads/sbi/issues/V26N01.pdf)" which detailed perceived abuses against intellectuals and feminists.
 
 * [D. Michael Quinn](https://en.wikipedia.org/wiki/D._Michael_Quinn) (b. 1944)—26 Sep 1993—Historian, former BYU professor—[Excommunicated for apostasy and conduct unbecoming a member](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf). He had published on post-Manifesto plural marriage, in addition to proposing that folk magical beliefs had a substantial influence on Joseph Smith in _Early Mormonism and the Magic World View_. His stake president's letter referencing "very sensitive and highly confidential" matters aside from his historical writings may suggest that Quinn's gay sexual orientation was a factor in his excommunication.
+
+### 20th Century
+* [Deborah Laake](https://en.wikipedia.org/wiki/Deborah_Laake) (1953-2000)—spring/summer 1993—Wrote an ex-Mormon memoir—[Excommunicated for apostasy](https://web.archive.org/web/20110131045553/http://www.salon.com/people/feature/2000/10/27/laake/index.html) and [revealing secret temple rituals in her memoir](https://www.nytimes.com/1993/07/25/style/secrets-revealed.html). She committed suicide in 2000.
 
 #### Post-September-Six
 * David Wright—5 Apr 1994—Brandeis Hebrew prof—Excommunicated for [publishing his view that the Book of Mormon was a 19th-century production](https://web.archive.org/web/20180514212034/https://www.sunstonemagazine.com/wp-content/uploads/sbi/articles/096-65-77.pdf) in the Sunstone article [Historical Criticism: A Necessary Element In The Search For Religious Truth](https://web.archive.org/web/20180814071722/https://www.sunstonemagazine.com/wp-content/uploads/sbi/issues/089.pdf) as well as _"In Plain  Terms That We May Understand":  Joseph Smith's Transformation of Hebrews in Alma 12-13_, a chapter in Brent Metcalfe's _New Approaches to the Book of Mormon_.
@@ -350,13 +461,13 @@
 * Margaret Toscano—2000—Mormon feminist, classics professor—[Excommunicated for apostasy](https://www.pbs.org/wgbh/americanexperience/features/mormons-toscano/) because she [refused to silence her views](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) on female ordination and an elevated theological status for Heavenly Mother. She was originally threatened with excommunication along with the September Six (including her husband Paul Toscano) and ordered silent on feminist issues. It was later determined that she had not sufficiently stifled her views.
 
 ### 21st Century
-* Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband.
-
 * Rhonda Whelan—Aug 2002—Polygamy researcher—[Disfellowshipped for the research behind the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_. She subsequently disavowed the book and apparently returned to good standing with the church, divorcing her husband as well.
 
-* [Simon Southerton](https://en.wikipedia.org/wiki/Simon_Southerton) (b. abt. 1965)—31 Jul 2005—Geneticist and author—[Excommunicated for "having an inappropriate relationship with a woman" he was not married to](https://www.deseret.com/2005/8/5/19905648/church-excommunicates-dna-author). The year prior he had published _Losing a Lost Tribe: Native Americans, DNA and the Book of Mormon_ which argued that DNA evidence does not support the Book of Mormon's apparent claims regarding Native American ancestry. He believed his excommunication was in response to his publications and that the charges of an inappropriate relationship were a way of preventing him from discussing his criticisms of the church during the disciplinary council.
+* Shane LeGrande Whelan—11 Aug 2002—Author, polygamy defender—[Excommunicated for "apostasy and conduct inappropriate of a member of the church"](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church) for writing _More Than One: Plural Marriage, A Sacred Heritage - A Promise For Tomorrow_ and [promoting it with a series of billboards](https://www.deseret.com/2002/7/15/19666462/polygamy-book-making-waves). The "conduct inappropriate of a member of the church" referred to accusations of verbal abuse against his stepdaughter. His wife Rhonda was [disfellowshipped for her role researching the book](https://www.heraldextra.com/news/local/dissident-lds-intellectuals-say-excommunications-will-continue/article_76202a5a-4c5c-5129-9fcd-aefbe0988466.html) and subsequently divorced her husband.
 
 * [Grant Palmer](https://en.wikipedia.org/wiki/Grant_H._Palmer) (1940-2017)—12 Dec 2004—Long-time CES educator—[Disfellowshipped for apostasy](https://web.archive.org/save/https://archive.sltrib.com/article.php?id=2487004&itype=NGPSID). He had published _An Insider's View of Mormon Origins_, a work that challenged traditional LDS narratives and argued for a strong 19th-century influence on the Book of Mormon and other revelations of Joseph Smith. [His 1968 master's thesis](https://web.archive.org/web/20191112055018/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=6012&context=etd) had focused on the movement of excommunicant William S. Godbe. He resigned his church membership in 2010.
+
+* [Simon Southerton](https://en.wikipedia.org/wiki/Simon_Southerton) (b. abt. 1965)—31 Jul 2005—Geneticist and author—[Excommunicated for "having an inappropriate relationship with a woman" he was not married to](https://www.deseret.com/2005/8/5/19905648/church-excommunicates-dna-author). The year prior he had published _Losing a Lost Tribe: Native Americans, DNA and the Book of Mormon_ which argued that DNA evidence does not support the Book of Mormon's apparent claims regarding Native American ancestry. He believed his excommunication was in response to his publications and that the charges of an inappropriate relationship were a way of preventing him from discussing his criticisms of the church during the disciplinary council.
 
 * [Denver Snuffer](https://en.wikipedia.org/wiki/Denver_Snuffer_Jr.)—10 Sep 2013—Utah lawyer and author of books on LDS doctrine—[Excommunicated for apostasy](https://www.sltrib.com/religion/2013/09/12/controversial-mormon-writer-gets-the-word-hes-out-of-the-church/), namely his refusal to cease publication of his book, _Passing the Heavenly Gift_. His appeal of the excommunication was [denied by the First Presidency](http://denversnuffer.blogspot.com/2013/11/appeal-letter.html) the following November.
 
@@ -376,16 +487,16 @@
 
 * Gina Colvin—[20 Dec 2018](https://religionnews.com/2018/12/19/mormon-podcaster-gina-colvin-faces-excommunication-tonight-feeling-both-saddened-and-enraged/)—_A Thoughtful Faith_ podcaster—[No action was taken](https://www.sltrib.com/religion/2018/12/20/mormonism-its-best/) in her disciplinary council, convened to hear charges of apostasy and "conduct unbecoming" a church member. She has since [resigned from the LDS church and joined the Community of Christ](https://www.athoughtfulfaith.org/300-for-new-beginnings-gina-colvin/).
 
+* [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.<!--FIXME-->
+
 * Leah Young—14 Apr 2019—Support group co-founder—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->
 
 * Cody Young—14 Apr 2019—Support group co-founder—[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->
 
-* [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.<!--FIXME-->
-
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
 ### Uncertain Date
-* [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
-
 * [Leman Copley](https://en.wikipedia.org/wiki/Leman_Copley) (1781-1862)—bet. 1831 and 1836—Reluctant consecrator—[Excommunicated](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2012&context=byusq). [Reinstated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/193) 1 Apr 1836.
+
+* [Bob Lonsberry](https://en.wikipedia.org/wiki/Bob_Lonsberry) (b. 1959)—by 2001—writer and talk radio host—[Excommunicated for "bad conduct"](http://www.lonsberry.com/writings.cfm?story=725)
 
