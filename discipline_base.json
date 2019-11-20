@@ -1390,6 +1390,22 @@
     "tags": ["improvement-era", "jun-1942"]
   },
   {
+    "name": "Alma A. Timpson",
+    "wikipedia_url": "https://en.wikipedia.org/?title=Alma_A._Timpson",
+    "sex": "male",
+    "outcome": "excommunicated",
+    "for": "\"advocating plural marriage\"",
+    "tagline": "fundamentalist Mormon leader",
+    "notes_md": "[Excommunicated for \"advocating plural marriage\"](https://archive.org/details/improvementera4507unse/page/n31). He went on to become leader of the [Centennial Park group](https://en.wikipedia.org/wiki/Centennial_Park_group) of polygamists in Centennial Park, Arizona.",
+    "date": "13 Feb 1941",
+    "unit": "Twentieth Ward, Ensign Stake",
+    "location": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065440/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Ensign_Stake,_Utah)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": ["improvement-era", "jul-1942"]
+  },
+  {
     "name": "Andrew C. Schade",
     "sections": [
       "20th Century"
@@ -1742,6 +1758,69 @@
     "for": "apostasy"
   },
   {
+    "name": "Arthur Frederick Holland",
+    "sex": "male",
+    "outcome": "excommunicated",
+    "for": "apostasy",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4507unse/page/n41).",
+    "date": "22 Mar 1942",
+    "unit": "Canadian Mission",
+    "location": "Canada?",
+    "birth_date": "30 Apr 1898",
+    "office": "priest",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": ["improvement-era", "jul-1942"]
+  },
+  {
+    "name": "Annie Evelyn Gorton Holland",
+    "sex": "female",
+    "outcome": "excommunicated",
+    "for": "apostasy",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4507unse/page/n41).",
+    "date": "22 Mar 1942",
+    "unit": "Canadian Mission",
+    "location": "Canada?",
+    "birth_date": "3 May 1901",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": ["improvement-era", "jul-1942"]
+  },
+  {
+    "name": "Hugh J. Freshwater",
+    "sex": "male",
+    "outcome": "excommunicated",
+    "for": "apostasy",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4507unse/page/n31).",
+    "date": "31 Mar 1942",
+    "unit": "Second Ward, Liberty Stake",
+    "location_md": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065553/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Liberty_Stake,_Utah)",
+    "birth_date": "22 Mar 1910",
+    "office": "deacon",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": ["improvement-era", "jul-1942"]
+  },
+  {
+    "name": "Frank Dubois",
+    "sex": "male",
+    "outcome": "excommunicated",
+    "for": "apostasy",
+    "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4507unse/page/n31).",
+    "date": "31 Mar 1942",
+    "unit": "Second Ward, Liberty Stake",
+    "location": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065553/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Liberty_Stake,_Utah)",
+    "birth_date": "26 Jan 1914",
+    "office": "no priesthood",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": ["improvement-era", "jul-1942"]
+  },
+  {
     "name": "Hyrum Francis Syndergaard",
     "sections": [
       "20th Century"
@@ -1815,6 +1894,23 @@
     "tags": ["improvement-era", "jun-1942"],
     "for": "apostasy",
     "office": "priest"
+  },
+  {
+    "name": "Joseph Detton",
+    "sex": "male",
+    "outcome": "excommunicated",
+    "for": "immorality",
+    "notes_md": "[Excommunicated for \"immorality\"](https://archive.org/details/improvementera4507unse/page/n41).",
+    "date": "26 Apr 1942",
+    "unit": "Nampa 2nd Ward, Nampa Stake",
+    "location": "Nampa, Idaho",
+    "birth_date": "26 Dec 1884",
+    "death_date_md": "[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/)",
+    "office": "seventy",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": ["improvement-era", "jul-1942"]
   },
   {
     "name": "Richard R. Lyman",

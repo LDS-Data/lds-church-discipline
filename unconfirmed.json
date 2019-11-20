@@ -15,6 +15,8 @@
     "date": "1905",
     "tagline": "Monogomous polygamist technologist",
     "notes": "He was fired from his BYU job probably due to his support for post-Manifesto polygamy, but I find no support that he was excommunicated. He was a technologist whose improvement on the headphones of the day brought financial success, which he channeled to support the nascent Mormon fundamentalist movement. However, he was only married to one woman.",
+    "birth_date_md": "1878",
+    "death_date_md": "1961",
     "best_date_txt": "1905",
     "best_year": 1905,
     "best_month": null,
@@ -48,7 +50,9 @@
     "outcome": "excommunicated???",
     "sex": "male",
     "tagline": "_Nauvoo Expositor_ publisher",
-    "notes": "Excommunicated???"
+    "notes": "Excommunicated???",
+    "birth_date_md": "1815",
+    "death_date_md": "1904"
   },
   {
     "name": "Hiram Page",
@@ -68,7 +72,9 @@
     "outcome": "excommunicated???",
     "sex": "male",
     "tagline": "One of the Eight Witnesses of the Book of Mormon",
-    "notes": "Joseph Smith Papers says he was disaffected from the church in 1838, but I find no record of disciplinary action. A Feb 1989 Ensign article explicitly states that he was never tried for his church membership. The Encyclopedia of Mormonism simply states that he became \"inactive\". Wikipedia is likely wrong to have categorized him as excommunicated."
+    "notes": "Joseph Smith Papers says he was disaffected from the church in 1838, but I find no record of disciplinary action. A Feb 1989 Ensign article explicitly states that he was never tried for his church membership. The Encyclopedia of Mormonism simply states that he became \"inactive\". Wikipedia is likely wrong to have categorized him as excommunicated.",
+    "birth_date_md": "2 Feb 1800",
+    "death_date_md": "21 Apr 1856"
   },
   {
     "name": "Mary Mussleman Whitmer",
@@ -80,7 +86,9 @@
     "outcome": "excommunicated???",
     "sex": "female",
     "tagline": "Book of Mormon witness, early Mormon matriarch",
-    "notes": "She said that, in the time when the Book of Mormon was being translated, a heavenly messenger named Brother Nephi showed her that golden plates as she went out to milk the cows. I have not been able to find evidence she underwent church discipline, other than claims that the entire Whitmer family was excommunicated. Wikipedia may have her wrongly categorized as excommunicated."
+    "notes": "She said that, in the time when the Book of Mormon was being translated, a heavenly messenger named Brother Nephi showed her that golden plates as she went out to milk the cows. I have not been able to find evidence she underwent church discipline, other than claims that the entire Whitmer family was excommunicated. Wikipedia may have her wrongly categorized as excommunicated.",
+    "birth_date_md": "27 Aug 1778",
+    "death_date_md": "Jan 1856"
   },
   {
     "name": "Peter Whitmer Sr.",
@@ -92,6 +100,8 @@
     "outcome": "excommunicated???",
     "sex": "female",
     "tagline": "Early Mormon patriarch",
-    "notes": "With Mary Musselman Whitmer, the father of the Whitmer family influential in early Mormonism. He became disaffected from the church in 1838 but I find no evidence he underwent church discipline, except that many articles claim the entire Whitmer family was excommunicated, and Wikipedia categorizes him as excommunicated."
+    "notes": "With Mary Musselman Whitmer, the father of the Whitmer family influential in early Mormonism. He became disaffected from the church in 1838 but I find no evidence he underwent church discipline, except that many articles claim the entire Whitmer family was excommunicated, and Wikipedia categorizes him as excommunicated.",
+    "birth_date_md": "14 Apr 1773",
+    "death_date_md": "12 Aug 1854"
   }
 ]

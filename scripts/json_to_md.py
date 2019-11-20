@@ -3,14 +3,14 @@ import sys
 SEP='—'
 
 def lifespan(obj):
-    if 'birth_date' in obj:
-        if 'death_date' in obj:
-            return " (%s-%s)" % (obj['birth_date'], obj['death_date'])
+    if 'birth_date_md' in obj:
+        if 'death_date_md' in obj:
+            return " (%s-%s)" % (obj['birth_date_md'], obj['death_date_md'])
         else:
-            return " (b. %s)" % obj['birth_date']
+            return " (b. %s)" % obj['birth_date_md']
     else:
-        if 'death_date' in obj:
-            return " (d. %s)" % obj['death_date']
+        if 'death_date_md' in obj:
+            return " (d. %s)" % obj['death_date_md']
         else:
             return ""
 
