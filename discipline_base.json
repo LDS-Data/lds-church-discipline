@@ -1846,7 +1846,8 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location_md": "South Salt Lake, Utah",
-    "unit_md": "Eldredge Ward, South Salt Lake Stake"
+    "unit_md": "Eldredge Ward, South Salt Lake Stake",
+    "tags": ["order-of-aaron-thesis"]
   },
   {
     "name": "Walter Clare Card",
@@ -1858,7 +1859,8 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location_md": "South Salt Lake, Utah",
-    "unit_md": "Eldredge Ward, South Salt Lake Stake"
+    "unit_md": "Eldredge Ward, South Salt Lake Stake",
+    "tags": ["order-of-aaron-thesis"]
   },
    {
     "name": "Viola Stone Card",
@@ -1870,7 +1872,8 @@
     "outcome": "excommunicated",
     "sex": "female",
     "location_md": "South Salt Lake, Utah",
-    "unit_md": "Eldredge Ward, South Salt Lake Stake"
+    "unit_md": "Eldredge Ward, South Salt Lake Stake",
+    "tags": ["order-of-aaron-thesis"]
   },
    {
     "name": "Murtle Maus Andrew",
@@ -1882,7 +1885,8 @@
     "outcome": "excommunicated",
     "sex": "female",
     "location_md": "South Salt Lake, Utah",
-    "unit_md": "Eldredge Ward, South Salt Lake Stake"
+    "unit_md": "Eldredge Ward, South Salt Lake Stake",
+    "tags": ["order-of-aaron-thesis"]
   },
   {
     "name": "Fawn M. Brodie",
