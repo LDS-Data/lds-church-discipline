@@ -22,6 +22,7 @@ Some directions to take things:
 * Extract cleaned versions of all locations and dates
 * Convert $FIELD_md to $FIELD when it contains no Markdown
 * Populate "office"
+* Populate "for"
 
 ## 1.0
 
