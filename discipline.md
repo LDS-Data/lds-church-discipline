@@ -359,7 +359,7 @@
 
 * Martha Good—15 Apr 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31).
 
-* Walter Vernal Morgan—15 Apr 1942—[Excommunicated for ](https://archive.org/details/improvementera4506unse/page/n31).
+* Walter Vernal Morgan—15 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4506unse/page/n31).
 
 * Catherine Lucy Collinwood—16 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
