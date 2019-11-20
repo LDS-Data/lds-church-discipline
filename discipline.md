@@ -197,7 +197,7 @@
 
 * [J. Leslie Broadbent](https://en.wikipedia.org/wiki/J._Leslie_Broadbent) (1891-1935)—18 Jul 1929—Polygamist, early leader in Mormon Fundamentalism—[Excommunicated](https://web.archive.org/web/20191112073750/http://mormonpolygamydocuments.org/wp-content/uploads/2019/05/Louis-Alma-Kelsch-1905-1974.pdf). He took a plural second wife in 1925, and his 1927 pamphlet _Celestial Marriage_ was an influential early Mormon fundamentalist document.
 
-* John William Oakley (b. )—1 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
+* John William Oakley (b. 11 May 1891)—1 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
 
 * Alice Maud Prescott Oakley (b. 5 Jan 1894)—8 Jan 1940—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).
 

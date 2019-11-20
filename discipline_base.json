@@ -1378,8 +1378,8 @@
   },
   {
     "name": "John William Oakley",
-    "sex": "11 May 1891",
-    "birth_date": "",
+    "sex": "male",
+    "birth_date": "11 May 1891",
     "outcome": "excommunicated",
     "notes_md": "[Excommunicated](https://archive.org/details/improvementera4509unse/page/n61).",
     "date": "1 Jan 1940",
@@ -1675,7 +1675,7 @@
     "notes_md": "[Excommunicated for \"advocating plural marriage\"](https://archive.org/details/improvementera4507unse/page/n31). He went on to become leader of the [Centennial Park group](https://en.wikipedia.org/wiki/Centennial_Park_group) of polygamists in Centennial Park, Arizona.",
     "date": "13 Feb 1941",
     "unit": "Twentieth Ward, Ensign Stake",
-    "location": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065440/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Ensign_Stake,_Utah)",
+    "location_md": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065440/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Ensign_Stake,_Utah)",
     "sections": [
       "20th Century"
     ],
@@ -2143,7 +2143,7 @@
     "notes_md": "[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).",
     "date": "4 Sep 1941",
     "unit": "Evansville Branch, Northern States Mission",
-    "location": "[Evansville, Illinois](https://archive.org/details/reliefsocietymag03reli/page/272)",
+    "location_md": "[Evansville, Illinois](https://archive.org/details/reliefsocietymag03reli/page/272)",
     "birth_date": "11 Feb 1885",
     "sections": [
       "20th Century"
@@ -2664,7 +2664,7 @@
     "notes_md": "[Excommunicated for apostasy](https://archive.org/details/improvementera4507unse/page/n31).",
     "date": "31 Mar 1942",
     "unit": "Second Ward, Liberty Stake",
-    "location": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065553/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Liberty_Stake,_Utah)",
+    "location_md": "[Salt Lake City, Utah](https://web.archive.org/web/20191120065553/https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Liberty_Stake,_Utah)",
     "birth_date": "26 Jan 1914",
     "office": "no priesthood",
     "sections": [
