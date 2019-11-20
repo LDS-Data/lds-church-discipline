@@ -265,7 +265,7 @@
 
 * China M. Guildner (b. 23 Feb 1888)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49). (The _Improvement Era_ has her excommunicated in the "Penchatoula Branch, Texas Mission" which seems to be a reference to Ponchatoula, Louisiana, as [the Texas Mission included Louisiana at the time](https://web.archive.org/web/20191120095324/https://history.churchofjesuschrist.org/missionary/mission/texas?lang=eng#1930).)
 
-* Oscar William Guildner (b. 20 Apr 1905)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49), seemingly in Hammond, Louisiana given the presence of the church there [around that time](https://en.wikipedia.org/w/index.php?title=The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Louisiana&oldid=906835008) and the shared "Guilder" name with China M. Guilder, excommunicated on the same day.
+* Oscar William Guildner (b. 20 Apr 1905)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49), seemingly in Hammond, Louisiana given the presence of the church there [around that time](https://en.wikipedia.org/w/index.php?title=The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Louisiana&oldid=906835008) and the shared "Guildner" name with China M. Guildner, excommunicated on the same day.
 
 * Mary E. Lambton (b. 4 Feb 1919)—26 Jun 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
 
