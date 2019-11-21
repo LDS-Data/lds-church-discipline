@@ -339,6 +339,14 @@
 
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (8 Jan 1925-27 Oct 1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
 
+* Kenneth Edward Livingston (b. 16 May 1916)—17 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Sarah Dean Tussey Livingston (b. 10 Jan 1893)—17 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* William Livingston (b. 28 Jul 1885)—17 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Ruth Jane Livingston Porter (b. 23 Apr 1913)—17 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
 * Gerrit B. J. DeBuizer, Jr.—22 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4504unse/page/n31) for [apostasy](https://archive.org/details/improvementera4508unse/page/n31). A likely relative, Hendrikus DeBuizer, was excommunicated 10 Nov 1941.
 
 * Frederick W. Fink—9 Mar 1942—[Excommunicated for apostasy](https://archive.org/details/improvementera4506unse/page/n31).
@@ -364,6 +372,10 @@
 * Catherine Lucy Collinwood—16 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
 * Joseph Detton (26 Dec 1884-[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/))—26 Apr 1942—[Excommunicated for "immorality"](https://archive.org/details/improvementera4507unse/page/n41).
+
+* Inez Edna Penrod Welsh (b. 6 Sep 1903)—4 May 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Clair Edwin Patterson (b. 1 Aug 1913)—4 May 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
 
 * Elizabeth Cecila Matuszzak Bauman (b. 5 Apr 1899)—12 May 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
 
@@ -396,6 +408,16 @@
 * Martha Mae Villers (b. 3 Jun 1922)—3 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
 
 * Bert Conrad Silverthorne (b. 1 Sep 1894)—5 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
+* John Joseph Deichmiller (b. 7 Nov 1909)—13 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Martha Ann Bybee Wattis (b. 23 Dec 1862)—17 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Efraim Amara (b. 10 Mar 1919)—3 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Francisco Sandoval (b. 17 Sep 1910)—8 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Brigida Belmont (b. 8 Oct 1922)—8 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 

@@ -2461,7 +2461,7 @@
     "notes_md": "[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).",
     "date": "1941",
     "unit": "San Pedro Branch, Mexican Mission",
-    "location": "San Pedro?, Mexico",
+    "location": "San Pedro?, Mexico?",
     "sections": [
       "20th Century"
     ],
@@ -2471,7 +2471,7 @@
     ],
     "date_md": "1941",
     "notes": "Excommunicated.",
-    "location_md": "San Pedro?, Mexico",
+    "location_md": "San Pedro?, Mexico?",
     "unit_md": "San Pedro Branch, Mexican Mission",
     "birth_date_md": "9 Oct 1905",
     "best_date_txt": "1941",
@@ -4028,6 +4028,110 @@
     "best_day": 15
   },
   {
+    "name": "Kenneth Edward Livingston",
+    "sex": "male",
+    "birth_date": "16 May 1916",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "17 Feb 1942",
+    "unit": "Portsmouth Branch, Northern States Mission",
+    "location_md": "[Portsmouth, Ohio](https://www.familysearch.org/service/records/storage/das-mem/patron/v2/TH-300-44968-189-34/dist.txt?ctx=ArtCtxPublic)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "17 Feb 1942",
+    "notes": "Excommunicated.",
+    "location": "Portsmouth, Ohio",
+    "unit_md": "Portsmouth Branch, Northern States Mission",
+    "birth_date_md": "16 May 1916",
+    "best_date_txt": "17 Feb 1942",
+    "best_year": 1942,
+    "best_month": "Feb",
+    "best_day": 17
+  },
+  {
+    "name": "Sarah Dean Tussey Livingston",
+    "sex": "female",
+    "birth_date": "10 Jan 1893",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "17 Feb 1942",
+    "unit": "Portsmouth Branch, Northern States Mission",
+    "location_md": "[Portsmouth, Ohio](https://www.familysearch.org/service/records/storage/das-mem/patron/v2/TH-300-44968-189-34/dist.txt?ctx=ArtCtxPublic)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "17 Feb 1942",
+    "notes": "Excommunicated.",
+    "location": "Portsmouth, Ohio",
+    "unit_md": "Portsmouth Branch, Northern States Mission",
+    "birth_date_md": "10 Jan 1893",
+    "best_date_txt": "17 Feb 1942",
+    "best_year": 1942,
+    "best_month": "Feb",
+    "best_day": 17
+  },
+  {
+    "name": "William Livingston",
+    "sex": "male",
+    "birth_date": "28 Jul 1885",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "17 Feb 1942",
+    "unit": "Portsmouth Branch, Northern States Mission",
+    "location_md": "[Portsmouth, Ohio](https://www.familysearch.org/service/records/storage/das-mem/patron/v2/TH-300-44968-189-34/dist.txt?ctx=ArtCtxPublic)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "17 Feb 1942",
+    "notes": "Excommunicated.",
+    "location": "Portsmouth, Ohio",
+    "unit_md": "Portsmouth Branch, Northern States Mission",
+    "birth_date_md": "28 Jul 1885",
+    "best_date_txt": "17 Feb 1942",
+    "best_year": 1942,
+    "best_month": "Feb",
+    "best_day": 17
+  },
+  {
+    "name": "Ruth Jane Livingston Porter",
+    "sex": "female",
+    "birth_date": "23 Apr 1913",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "17 Feb 1942",
+    "unit": "Portsmouth Branch, Northern States Mission",
+    "location_md": "[Portsmouth, Ohio](https://www.familysearch.org/service/records/storage/das-mem/patron/v2/TH-300-44968-189-34/dist.txt?ctx=ArtCtxPublic)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "17 Feb 1942",
+    "notes": "Excommunicated.",
+    "location": "Portsmouth, Ohio",
+    "unit_md": "Portsmouth Branch, Northern States Mission",
+    "birth_date_md": "23 Apr 1913",
+    "best_date_txt": "17 Feb 1942",
+    "best_year": 1942,
+    "best_month": "Feb",
+    "best_day": 17
+  },
+  {
     "name": "Gerrit B. J. DeBuizer, Jr.",
     "sections": [
       "20th Century"
@@ -4372,6 +4476,58 @@
     "best_year": 1942,
     "best_month": "Apr",
     "best_day": 26
+  },
+  {
+    "name": "Inez Edna Penrod Welsh",
+    "sex": "female",
+    "birth_date": "6 Sep 1903",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "4 May 1942",
+    "unit": "Central Ohio District, Northern States Mission",
+    "location": "Ohio?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "4 May 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Ohio?",
+    "unit_md": "Central Ohio District, Northern States Mission",
+    "birth_date_md": "6 Sep 1903",
+    "best_date_txt": "4 May 1942",
+    "best_year": 1942,
+    "best_month": "May",
+    "best_day": 4
+  },
+  {
+    "name": "Clair Edwin Patterson",
+    "sex": "female",
+    "birth_date": "1 Aug 1913",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "4 May 1942",
+    "unit": "Central Ohio District, Northern States Mission",
+    "location": "Ohio?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "4 May 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Ohio?",
+    "unit_md": "Central Ohio District, Northern States Mission",
+    "birth_date_md": "1 Aug 1913",
+    "best_date_txt": "4 May 1942",
+    "best_year": 1942,
+    "best_month": "May",
+    "best_day": 4
   },
   {
     "name": "Elizabeth Cecila Matuszzak Bauman",
@@ -4788,6 +4944,138 @@
     "best_year": 1942,
     "best_month": "Aug",
     "best_day": 5
+  },
+  {
+    "name": "John Joseph Deichmiller",
+    "sex": "male",
+    "birth_date": "7 Nov 1909",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "13 Aug 1942",
+    "unit": "South Illinois District, Northern States Mission",
+    "location": "Illinois?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "13 Aug 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Illinois?",
+    "unit_md": "South Illinois District, Northern States Mission",
+    "birth_date_md": "7 Nov 1909",
+    "best_date_txt": "13 Aug 1942",
+    "best_year": 1942,
+    "best_month": "Aug",
+    "best_day": 13
+  },
+  {
+    "name": "Martha Ann Bybee Wattis",
+    "sex": "female",
+    "birth_date": "23 Dec 1862",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "17 Aug 1942",
+    "unit": "Riverdale Ward, Lakeview Stake",
+    "location": "Riverdale?, Utah?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "17 Aug 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Riverdale?, Utah?",
+    "unit_md": "Riverdale Ward, Lakeview Stake",
+    "birth_date_md": "23 Dec 1862",
+    "best_date_txt": "17 Aug 1942",
+    "best_year": 1942,
+    "best_month": "Aug",
+    "best_day": 17
+  },
+  {
+    "name": "Efraim Amara",
+    "sex": "male",
+    "birth_date": "10 Mar 1919",
+    "office": "no priesthood",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "3 Sep 1942",
+    "unit": "Chimal Branch, Mexican Mission",
+    "location": "Chimal?, Mexico",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "3 Sep 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Chimal?, Mexico",
+    "unit_md": "Chimal Branch, Mexican Mission",
+    "birth_date_md": "10 Mar 1919",
+    "best_date_txt": "3 Sep 1942",
+    "best_year": 1942,
+    "best_month": "Sep",
+    "best_day": 3
+  },
+  {
+    "name": "Francisco Sandoval",
+    "sex": "male",
+    "birth_date": "17 Sep 1910",
+    "office": "elder",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "8 Sep 1942",
+    "unit": "La Libertad Branch, Mexican Mission",
+    "location": "La Libertad, Chiapas, Mexico",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "8 Sep 1942",
+    "notes": "Excommunicated.",
+    "location_md": "La Libertad, Chiapas, Mexico",
+    "unit_md": "La Libertad Branch, Mexican Mission",
+    "birth_date_md": "17 Sep 1910",
+    "best_date_txt": "8 Sep 1942",
+    "best_year": 1942,
+    "best_month": "Sep",
+    "best_day": 8
+  },
+  {
+    "name": "Brigida Belmont",
+    "sex": "female",
+    "birth_date": "8 Oct 1922",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).",
+    "date": "8 Sep 1942",
+    "unit": "San Pedro Branch, Mexican Mission",
+    "location": "San Pedro?, Mexico?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "nov-1942"
+    ],
+    "date_md": "8 Sep 1942",
+    "notes": "Excommunicated.",
+    "location_md": "San Pedro?, Mexico?",
+    "unit_md": "San Pedro Branch, Mexican Mission",
+    "birth_date_md": "8 Oct 1922",
+    "best_date_txt": "8 Sep 1942",
+    "best_year": 1942,
+    "best_month": "Sep",
+    "best_day": 8
   },
   {
     "name": "Richard R. Lyman",
