@@ -104,4 +104,4 @@ if __name__=="__main__":
 
         data2.append(fields)
 
-    print(json.dumps(data, indent=2))
+    print(json.dumps(data, indent=2, ensure_ascii=False))

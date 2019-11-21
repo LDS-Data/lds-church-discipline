@@ -59,4 +59,4 @@ if __name__=="__main__":
     resorted.extend(undated_data)
 
     with open("discipline_base.json", "w") as w:
-        json.dump(resorted, w, indent=2)
+        json.dump(resorted, w, indent=2, ensure_ascii=False)
