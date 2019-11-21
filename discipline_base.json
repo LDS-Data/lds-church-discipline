@@ -2802,6 +2802,40 @@
     ]
   },
   {
+    "name": "Elizabeth Cecila Matuszzak Bauman",
+    "sex": "female",
+    "birth_date": "5 Apr 1899",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "12 May 1942",
+    "unit": "Lyndhurst Branch, Northern States Mission",
+    "location": "Lyndhurst, Wisconsin",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ]
+  },
+  {
+    "name": "Martin John Schrieber",
+    "sex": "male",
+    "birth_date": "12 Apr 1908",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "12 May 1942",
+    "unit": "Lyndhurst Branch, Northern States Mission",
+    "location": "Lyndhurst, Wisconsin",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ]
+  },
+  {
     "name": "Kathrine Unfried Jones",
     "sex": "female",
     "outcome": "excommunicated",
@@ -2851,6 +2885,23 @@
     "tags": [
       "improvement-era",
       "sep-1942"
+    ]
+  },
+  {
+    "name": "Frederick J. Landis",
+    "sex": "male",
+    "birth_date": "11 Jun 1902",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "8 Jun 1942",
+    "unit": "Jamestown Branch, Eastern States Mission",
+    "location": "Jamestown, New York",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
     ]
   },
   {
@@ -2936,6 +2987,91 @@
     "tags": [
       "improvement-era",
       "sep-1942"
+    ]
+  },
+  {
+    "name": "Violet Fraser Barlow",
+    "sex": "female",
+    "birth_date": "17 Jun 1913",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "13 Jul 1942",
+    "unit": "Whittier Ward, Wells Stake",
+    "location": "Salt Lake City, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ]
+  },
+  {
+    "name": "Fern Pierce Pendrak",
+    "sex": "female",
+    "birth_date": "22 May 1914",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "Aug 1942",
+    "unit": "Park City Second Ward, South Summit Stake",
+    "location": "Park City, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ]
+  },
+  {
+    "name": "Vada Triffena Powell Lewis",
+    "sex": "female",
+    "birth_date": "18 Sep 1911",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "3 Aug 1942",
+    "unit": "North Indiana District, Northern States Mission",
+    "location": "Indiana?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ]
+  },
+  {
+    "name": "Martha Mae Villers",
+    "sex": "female",
+    "birth_date": "3 Jun 1922",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "3 Aug 1942",
+    "unit": "North Indiana District, Northern States Mission",
+    "location": "Indiana?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ]
+  },
+  {
+    "name": "Bert Conrad Silverthorne",
+    "sex": "male",
+    "birth_date": "1 Sep 1894",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "5 Aug 1942",
+    "unit": "Ogden Twelfth Ward, Mt. Ogden Stake",
+    "location": "Ogden, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
     ]
   },
   {

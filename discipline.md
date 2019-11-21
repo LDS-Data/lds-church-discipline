@@ -365,11 +365,17 @@
 
 * Joseph Detton (26 Dec 1884-[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/))—26 Apr 1942—[Excommunicated for "immorality"](https://archive.org/details/improvementera4507unse/page/n41).
 
+* Elizabeth Cecila Matuszzak Bauman (b. 5 Apr 1899)—12 May 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
+* Martin John Schrieber (b. 12 Apr 1908)—12 May 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
 * Kathrine Unfried Jones (b. 28 Dec 1884)—17 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
 * Parley Kelo Willis (b. 24 Apr 1902)—17 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
 * Leland George Taylor (b. 11 Jul 1901)—29 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Frederick J. Landis (b. 11 Jun 1902)—8 Jun 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
 
 * Robert Cecil Clements (b. 5 Dec 1892)—10 Jun 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
@@ -380,6 +386,16 @@
 * Pearl Gammon—12 Jul 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
 * Carl Eugene Chatel (b. 3 Jan 1899)—13 Jul 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Violet Fraser Barlow (b. 17 Jun 1913)—13 Jul 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
+* Fern Pierce Pendrak (b. 22 May 1914)—Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
+* Vada Triffena Powell Lewis (b. 18 Sep 1911)—3 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
+* Martha Mae Villers (b. 3 Jun 1922)—3 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
+
+* Bert Conrad Silverthorne (b. 1 Sep 1894)—5 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 

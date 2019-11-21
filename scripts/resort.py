@@ -43,6 +43,11 @@ def obj_to_key(obj):
 
 if __name__=="__main__":
 
+    import shutil
+
+    # Make a backup
+    shutil.copyfile("discipline_base.json", "discipline_base.json.bak")
+
     with open("discipline_base.json") as r:
         data = json.load(r)
 
@@ -53,4 +58,5 @@ if __name__=="__main__":
 
     resorted.extend(undated_data)
 
-    print(json.dumps(resorted, indent=2))
+    with open("discipline_base.json", "w") as w:
+        json.dump(resorted, w, indent=2)

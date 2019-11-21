@@ -4374,6 +4374,58 @@
     "best_day": 26
   },
   {
+    "name": "Elizabeth Cecila Matuszzak Bauman",
+    "sex": "female",
+    "birth_date": "5 Apr 1899",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "12 May 1942",
+    "unit": "Lyndhurst Branch, Northern States Mission",
+    "location": "Lyndhurst, Wisconsin",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "12 May 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Lyndhurst, Wisconsin",
+    "unit_md": "Lyndhurst Branch, Northern States Mission",
+    "birth_date_md": "5 Apr 1899",
+    "best_date_txt": "12 May 1942",
+    "best_year": 1942,
+    "best_month": "May",
+    "best_day": 12
+  },
+  {
+    "name": "Martin John Schrieber",
+    "sex": "male",
+    "birth_date": "12 Apr 1908",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "12 May 1942",
+    "unit": "Lyndhurst Branch, Northern States Mission",
+    "location": "Lyndhurst, Wisconsin",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "12 May 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Lyndhurst, Wisconsin",
+    "unit_md": "Lyndhurst Branch, Northern States Mission",
+    "birth_date_md": "12 Apr 1908",
+    "best_date_txt": "12 May 1942",
+    "best_year": 1942,
+    "best_month": "May",
+    "best_day": 12
+  },
+  {
     "name": "Kathrine Unfried Jones",
     "sex": "female",
     "outcome": "excommunicated",
@@ -4451,6 +4503,32 @@
     "best_year": 1942,
     "best_month": "May",
     "best_day": 29
+  },
+  {
+    "name": "Frederick J. Landis",
+    "sex": "male",
+    "birth_date": "11 Jun 1902",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "8 Jun 1942",
+    "unit": "Jamestown Branch, Eastern States Mission",
+    "location": "Jamestown, New York",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "8 Jun 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Jamestown, New York",
+    "unit_md": "Jamestown Branch, Eastern States Mission",
+    "birth_date_md": "11 Jun 1902",
+    "best_date_txt": "8 Jun 1942",
+    "best_year": 1942,
+    "best_month": "Jun",
+    "best_day": 8
   },
   {
     "name": "Robert Cecil Clements",
@@ -4580,6 +4658,136 @@
     "best_year": 1942,
     "best_month": "Jul",
     "best_day": 13
+  },
+  {
+    "name": "Violet Fraser Barlow",
+    "sex": "female",
+    "birth_date": "17 Jun 1913",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "13 Jul 1942",
+    "unit": "Whittier Ward, Wells Stake",
+    "location": "Salt Lake City, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "13 Jul 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Salt Lake City, Utah",
+    "unit_md": "Whittier Ward, Wells Stake",
+    "birth_date_md": "17 Jun 1913",
+    "best_date_txt": "13 Jul 1942",
+    "best_year": 1942,
+    "best_month": "Jul",
+    "best_day": 13
+  },
+  {
+    "name": "Fern Pierce Pendrak",
+    "sex": "female",
+    "birth_date": "22 May 1914",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "Aug 1942",
+    "unit": "Park City Second Ward, South Summit Stake",
+    "location": "Park City, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "Aug 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Park City, Utah",
+    "unit_md": "Park City Second Ward, South Summit Stake",
+    "birth_date_md": "22 May 1914",
+    "best_date_txt": "Aug 1942",
+    "best_year": 1942,
+    "best_month": "Aug",
+    "best_day": null
+  },
+  {
+    "name": "Vada Triffena Powell Lewis",
+    "sex": "female",
+    "birth_date": "18 Sep 1911",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "3 Aug 1942",
+    "unit": "North Indiana District, Northern States Mission",
+    "location": "Indiana?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "3 Aug 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Indiana?",
+    "unit_md": "North Indiana District, Northern States Mission",
+    "birth_date_md": "18 Sep 1911",
+    "best_date_txt": "3 Aug 1942",
+    "best_year": 1942,
+    "best_month": "Aug",
+    "best_day": 3
+  },
+  {
+    "name": "Martha Mae Villers",
+    "sex": "female",
+    "birth_date": "3 Jun 1922",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "3 Aug 1942",
+    "unit": "North Indiana District, Northern States Mission",
+    "location": "Indiana?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "3 Aug 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Indiana?",
+    "unit_md": "North Indiana District, Northern States Mission",
+    "birth_date_md": "3 Jun 1922",
+    "best_date_txt": "3 Aug 1942",
+    "best_year": 1942,
+    "best_month": "Aug",
+    "best_day": 3
+  },
+  {
+    "name": "Bert Conrad Silverthorne",
+    "sex": "male",
+    "birth_date": "1 Sep 1894",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).",
+    "date": "5 Aug 1942",
+    "unit": "Ogden Twelfth Ward, Mt. Ogden Stake",
+    "location": "Ogden, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "oct-1942"
+    ],
+    "date_md": "5 Aug 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Ogden, Utah",
+    "unit_md": "Ogden Twelfth Ward, Mt. Ogden Stake",
+    "birth_date_md": "1 Sep 1894",
+    "best_date_txt": "5 Aug 1942",
+    "best_year": 1942,
+    "best_month": "Aug",
+    "best_day": 5
   },
   {
     "name": "Richard R. Lyman",
