@@ -31,6 +31,10 @@
 * best_month: the best estimate of the month, if known
 * best_day: the best estimate of the day of month, if known
 
+### Sporadically Used
+
+* birth_place: where the person was born. Sometimes we know this, might as well keep track of it.
+
 ### Contemplated
 
 * best_birth_date: the text representation of the best estimate for the date on which the person was born, if known

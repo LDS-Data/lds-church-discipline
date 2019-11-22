@@ -45,7 +45,11 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location": "Kirtland, Ohio",
-    "for": ["neglecting to make satisfaction to the church as he had agreed", "disgracing the high priesthood by neglect of ", "saying he did not care how soon he was cut off from the church"]
+    "for": [
+      "neglecting to make satisfaction to the church as he had agreed",
+      "disgracing the high priesthood by neglect of ",
+      "saying he did not care how soon he was cut off from the church"
+    ]
   },
   {
     "name": "Doctor Philastus Hurlbut",
@@ -103,7 +107,10 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location": "Bradford, Massachusetts",
-    "for": ["improper conduct", "refusing to give up his license"]
+    "for": [
+      "improper conduct",
+      "refusing to give up his license"
+    ]
   },
   {
     "name": "Harvey G. Whitlock",
@@ -149,7 +156,11 @@
     "notes_md": "[Excommunicated \"for lack of faith, non-observance of duties and contempt for the quorum of High Priests\"](https://archive.org/details/PainesvilleTelegraph9June1837/page/n1). He had testified in court that Joseph Smith had recruited him to murder Grandison Newell (a murder which never occurred).",
     "outcome": "excommunicated",
     "sex": "male",
-    "for": ["lack of faith", "non-observance of duties", "contempt for the quorum of High Priests"]
+    "for": [
+      "lack of faith",
+      "non-observance of duties",
+      "contempt for the quorum of High Priests"
+    ]
   },
   {
     "name": "John F. Boynton",
@@ -209,7 +220,11 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location": "Kirtland, Ohio",
-    "for": ["abusing Elder Brigham Young", "a general course of unchristian like conduct", "showing contempt to the authorities of the church"]
+    "for": [
+      "abusing Elder Brigham Young",
+      "a general course of unchristian like conduct",
+      "showing contempt to the authorities of the church"
+    ]
   },
   {
     "name": "Warren Parrish",
@@ -1337,7 +1352,7 @@
     ],
     "date": "5 Oct 1874",
     "tagline": "Anti-polygamy memoirist and polemicist",
-    "notes_md": "[Excommunicated after delivering her anti-polygamy lecture in Salt Lake City](https://mormonhistoryassociation.org/wp-content/uploads/2015/01/Journal-of-Mormon-History-Vol.-1-1974.pdf). She published her anti-polygamy memoir, _Expos\u00e9 of Polygamy in Utah: A Lady\u2019s Life among the Mormons_, in 1872, and lectured widely on the same theme, leading to her excommunication. A reworked and more polemical version of her book, _Tell It All: The Story of a Life's Experience in Mormonism_ came out in 1875. Her husband, T. B. H. Stenhouse, preceded her in excommunication on account of his adherence to Godbeitism.",
+    "notes_md": "[Excommunicated after delivering her anti-polygamy lecture in Salt Lake City](https://mormonhistoryassociation.org/wp-content/uploads/2015/01/Journal-of-Mormon-History-Vol.-1-1974.pdf). She published her anti-polygamy memoir, _Exposé of Polygamy in Utah: A Lady’s Life among the Mormons_, in 1872, and lectured widely on the same theme, leading to her excommunication. A reworked and more polemical version of her book, _Tell It All: The Story of a Life's Experience in Mormonism_ came out in 1875. Her husband, T. B. H. Stenhouse, preceded her in excommunication on account of his adherence to Godbeitism.",
     "outcome": "excommunicated",
     "sex": "female",
     "location": "Utah"
@@ -2581,7 +2596,7 @@
     "for": "adultery"
   },
   {
-    "name": "Helmuth H\u00fcbener",
+    "name": "Helmuth Hübener",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener",
     "birth_date": "8 Jan 1925",
     "death_date": "27 Oct 1942",
@@ -2889,13 +2904,29 @@
     "birth_date": "26 Dec 1884",
     "death_date_md": "[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/)",
     "office": "seventy",
-    "for": "immorality",
     "sections": [
       "20th Century"
     ],
     "tags": [
       "improvement-era",
       "jul-1942"
+    ]
+  },
+  {
+    "name": "Lavona Rugg",
+    "sex": "female",
+    "birth_date": "25 Dec 1920",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "29 Apr 1942",
+    "unit": "Elmo Ward, Emery Stake",
+    "location": "Elmo, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
     ]
   },
   {
@@ -3293,6 +3324,126 @@
     ]
   },
   {
+    "name": "Bernice Edel May Smith",
+    "sex": "female",
+    "birth_date": "5 Mar 1897",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Sep 1942",
+    "unit": "Indianapolis Branch, Northern States Mission",
+    "location": "Indianapolis, Indiana",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
+    "name": "Adrian Leonard Kearl",
+    "sex": "male",
+    "birth_date": "11 Apr 1900",
+    "birth_place": "Lake Town, Utah",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "2 Nov 1942",
+    "unit": "Ogden Twentyfirst Ward, Ogden Stake",
+    "location": "Ogden, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
+    "name": "Wilhelmina Jacoba DeBuizer Fillipi",
+    "sex": "female",
+    "birth_date": "19 Jul 1910",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "24 Nov 1942",
+    "unit": "East Orange Ward, New York Stake",
+    "location": "East Orange, New Jersey",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
+    "name": "Edna May Tonek",
+    "sex": "female",
+    "birth_date": "5 Oct 1901",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "3 Dec 1942",
+    "unit": "Bridgeport Branch, New England Mission",
+    "location": "Bridgeport, Connecticut",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
+    "name": "Maude Emma M. S. Richards Lackey",
+    "sex": "female",
+    "birth_date": "13 Jan 1877",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Dec 1942",
+    "unit": "Peoria Branch, Northern States Mission",
+    "location": "Peoria, Illinois",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
+    "name": "Phyllis Anthea Coburn Nyborg Priebe",
+    "sex": "female",
+    "birth_date": "11 Apr 1908",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Dec 1942",
+    "unit": "Peoria Branch, Northern States Mission",
+    "location": "Peoria, Illinois",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
+    "name": "Thelma Sutrella Richards Tohme",
+    "sex": "female",
+    "birth_date": "26 Sep 1913",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Dec 1942",
+    "unit": "Peoria Branch, Northern States Mission",
+    "location": "Peoria, Illinois",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ]
+  },
+  {
     "name": "Richard R. Lyman",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
     "birth_date": "1870",
@@ -3511,7 +3662,10 @@
     "sex": "male",
     "location": "Provo, Utah",
     "unit": "Provo Stake",
-    "for": ["skyjacking", "extortion"]
+    "for": [
+      "skyjacking",
+      "extortion"
+    ]
   },
   {
     "name": "Vickie Singer",
@@ -3662,7 +3816,10 @@
     "outcome": "excommunicated",
     "sex": "male",
     "location": "Salt Lake City, Utah",
-    "for": ["apostasy", "other conduct unbecoming a member of the Church"]
+    "for": [
+      "apostasy",
+      "other conduct unbecoming a member of the Church"
+    ]
   },
   {
     "name": "Lynne Kanavel Whitesides",
@@ -3753,7 +3910,10 @@
     "notes_md": "[Excommunicated for apostasy and conduct unbecoming a member](https://web.archive.org/web/20161022121013/https://www.sunstonemagazine.com/pdf/092-65-79.pdf). He had published on post-Manifesto plural marriage, in addition to proposing that folk magical beliefs had a substantial influence on Joseph Smith in _Early Mormonism and the Magic World View_. His stake president's letter referencing \"very sensitive and highly confidential\" matters aside from his historical writings may suggest that Quinn's gay sexual orientation was a factor in his excommunication.",
     "outcome": "excommunicated",
     "sex": "male",
-    "for": ["apostasy", "conduct unbecoming a member"]
+    "for": [
+      "apostasy",
+      "conduct unbecoming a member"
+    ]
   },
   {
     "name": "Deborah Laake",
@@ -3824,7 +3984,10 @@
     "notes_md": "[Excommunicated for apostasy and teaching false doctrine](https://www.deseret.com/1995/5/11/19174734/lds-excommunicate-feminist-appeal-planned) on account of her teachings identifying Heavenly Mother as the Holy Ghost and thus equal standing to the Father and Christ, and her assertion that it is possible for the LDS church to be led astray. She had previously been subject to informal church discipline (probation) in October 1994. Her brother-in-law  Paul Toscano was excommunicated prior, and her sister Margaret Toscano was excommunicated subsequently.",
     "outcome": "excommunicated",
     "sex": "female",
-    "for": ["apostasy", "teaching false doctrine"]
+    "for": [
+      "apostasy",
+      "teaching false doctrine"
+    ]
   },
   {
     "name": "Hyrum W. Smith",
@@ -3879,7 +4042,10 @@
     "sex": "male",
     "location_md": "[Woods Cross, Utah](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church)",
     "unit_md": "[Woods Cross, Utah North Stake](https://www.deseret.com/2002/12/12/19693542/more-than-one-writer-cut-from-lds-church)",
-    "for": ["apostasy", "conduct inappropriate of a member of the church"]
+    "for": [
+      "apostasy",
+      "conduct inappropriate of a member of the church"
+    ]
   },
   {
     "name": "Grant Palmer",
@@ -3957,7 +4123,10 @@
     "sex": "male",
     "location_md": "[North Logan, Utah](https://web.archive.org/web/20190404143456/https://archive.sltrib.com/article.php?id=2163720&itype=CMSID)",
     "unit_md": "[North Logan Stake](https://web.archive.org/web/20190404143456/https://archive.sltrib.com/article.php?id=2163720&itype=CMSID)",
-    "for": ["apostasy", "conduct contrary to the laws and order of the church"]
+    "for": [
+      "apostasy",
+      "conduct contrary to the laws and order of the church"
+    ]
   },
   {
     "name": "Bruce Holt",
@@ -4017,7 +4186,7 @@
     ],
     "date": "2 Dec 2018",
     "tagline_md": "_Mormon Dicussions_ podcaster",
-    "notes_md": "[Excommunicated for apostasy](https://www.mormonstories.org/podcast/bill-reel-excommunication/) largely for accusing church apostle Jeffrey R. Holland of repeated falsehoods in a podcast episode titled \"[Elder Holland \u2013 Liar Liar Pants on Fire](https://mormondiscussionpodcast.org/2018/10/mormon-discussion-premium-elder-holland-liar-liar-pants-on-fire/)\".",
+    "notes_md": "[Excommunicated for apostasy](https://www.mormonstories.org/podcast/bill-reel-excommunication/) largely for accusing church apostle Jeffrey R. Holland of repeated falsehoods in a podcast episode titled \"[Elder Holland – Liar Liar Pants on Fire](https://mormondiscussionpodcast.org/2018/10/mormon-discussion-premium-elder-holland-liar-liar-pants-on-fire/)\".",
     "outcome": "excommunicated",
     "sex": "male",
     "location_md": "[St. George, Utah](https://www.abc4.com/news/local-news/former-lds-bishop-excommunicated-over-podcast/)",
@@ -4046,7 +4215,11 @@
     "notes_md": "[Excommunicated for \"apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church\"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of \"spurious materials in circulation\"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.<!--FIXME-->",
     "outcome": "excommunicated",
     "sex": "female",
-    "for": ["apostasy", "teaching false doctrine", "defaming the good name of the church"]
+    "for": [
+      "apostasy",
+      "teaching false doctrine",
+      "defaming the good name of the church"
+    ]
   },
   {
     "name": "Leah Young",
