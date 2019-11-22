@@ -2596,6 +2596,23 @@
     "for": "adultery"
   },
   {
+    "name": "Afton Williams Johnson",
+    "sex": "female",
+    "birth_date": "6 Jun 1913",
+    "date": "11 Feb 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). A pamphlet titled [\"Something better than Mormonism\"](https://catalog.princeton.edu/catalog/2697580) was written by a Mrs. Afton Williams Johnson for the Utah Christian Mission.",
+    "location": "Pocatello, Idaho",
+    "unit": "Pocatello Fifth Ward, Pocatello Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ]
+  },
+  {
     "name": "Helmuth Hübener",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener",
     "birth_date": "8 Jan 1925",
@@ -3341,6 +3358,40 @@
     ]
   },
   {
+    "name": "Wentelina Vandervis",
+    "sex": "female",
+    "birth_date": "17 Apr 1872",
+    "date": "29 Sep 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Salt Lake City, Utah",
+    "unit": "Second Ward, Liberty Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ]
+  },
+  {
+    "name": "Jacob Cornelius Vandervis",
+    "sex": "male",
+    "birth_date": "18 Jun 1876",
+    "date": "12 Oct 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). He [sang bass in the Mormon Tabernacle Choir](https://web.archive.org/web/20191122214219/https://www.thetabernaclechoir.org/about/roster.all.v.html) 1935-1936. It appears he published [a booklet titled _Why I Left the Mormon Church_](https://books.google.com/books/about/Why_I_Left_the_Mormon_Church.html?id=UYnEQwAACAAJ) in 1944.",
+    "location": "Salt Lake City, Utah",
+    "unit": "Second Ward, Liberty Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ]
+  },
+  {
     "name": "Adrian Leonard Kearl",
     "sex": "male",
     "birth_date": "11 Apr 1900",
@@ -3441,6 +3492,57 @@
     "tags": [
       "improvement-era",
       "feb-1943"
+    ]
+  },
+  {
+    "name": "John William Shurrum",
+    "sex": "male",
+    "birth_date": "6 Nov 1887",
+    "date": "21 Dec 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Buhl, Idaho",
+    "unit": "Buhl Ward, Twin Falls Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ]
+  },
+  {
+    "name": "Hannah Wilson Shurrum",
+    "sex": "female",
+    "birth_date": "6 Nov 1885",
+    "date": "21 Dec 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Buhl, Idaho",
+    "unit": "Buhl Ward, Twin Falls Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ]
+  },
+  {
+    "name": "Ruth Massey",
+    "sex": "female",
+    "birth_date": "2 Sep 1901",
+    "date": "28 Dec 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Los Angeles, California",
+    "unit": "Hollywood Ward, Los Angeles Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
     ]
   },
   {
