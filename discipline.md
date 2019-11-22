@@ -337,6 +337,8 @@
 
 * Henry Deelstra—2 Feb 1942—[Excommunicated for adultery](https://archive.org/details/improvementera4504unse/page/n31).
 
+* Afton Williams Johnson (b. 6 Jun 1913)—11 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). A pamphlet titled ["Something better than Mormonism"](https://catalog.princeton.edu/catalog/2697580) was written by a Mrs. Afton Williams Johnson for the Utah Christian Mission.
+
 * [Helmuth Hübener](https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener) (8 Jan 1925-27 Oct 1942)—15 Feb 1942—Opponent of the Third Reich—Excommunicated without disciplinary council by his branch president, Nazi Supporter Arthur Zander. Posthumously reinstated by the LDS Church in 1946.
 
 * Kenneth Edward Livingston (b. 16 May 1916)—17 Feb 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
@@ -373,6 +375,8 @@
 
 * Joseph Detton (26 Dec 1884-[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/))—26 Apr 1942—[Excommunicated for "immorality"](https://archive.org/details/improvementera4507unse/page/n41).
 
+* Lavona Rugg (b. 25 Dec 1920)—29 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
 * Inez Edna Penrod Welsh (b. 6 Sep 1903)—4 May 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
 
 * Clair Edwin Patterson (b. 1 Aug 1913)—4 May 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
@@ -386,6 +390,8 @@
 * Parley Kelo Willis (b. 24 Apr 1902)—17 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
 * Leland George Taylor (b. 11 Jul 1901)—29 May 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
+
+* Margaret Price—Jun 1942—[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).
 
 * Frederick J. Landis (b. 11 Jun 1902)—8 Jun 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
 
@@ -418,6 +424,36 @@
 * Francisco Sandoval (b. 17 Sep 1910)—8 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
 
 * Brigida Belmont (b. 8 Oct 1922)—8 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
+
+* Bernice Edel May Smith (b. 5 Mar 1897)—21 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Wentelina Vandervis (b. 17 Apr 1872)—29 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).
+
+* Jacob Cornelius Vandervis (b. 18 Jun 1876)—12 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). He [sang bass in the Mormon Tabernacle Choir](https://web.archive.org/web/20191122214219/https://www.thetabernaclechoir.org/about/roster.all.v.html) 1935-1936. It appears he published [a booklet titled _Why I Left the Mormon Church_](https://books.google.com/books/about/Why_I_Left_the_Mormon_Church.html?id=UYnEQwAACAAJ) in 1944.
+
+* Adrian Leonard Kearl (b. 11 Apr 1900)—2 Nov 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Wilhelmina Jacoba DeBuizer Fillipi (b. 19 Jul 1910)—24 Nov 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Edna May Tonek (b. 5 Oct 1901)—3 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Maude Emma M. S. Richards Lackey (b. 13 Jan 1877)—21 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Phyllis Anthea Coburn Nyborg Priebe (b. 11 Apr 1908)—21 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Thelma Sutrella Richards Tohme (b. 26 Sep 1913)—21 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* John William Shurrum (b. 6 Nov 1887)—21 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).
+
+* Hannah Wilson Shurrum (b. 6 Nov 1885)—21 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).
+
+* Ruth Massey (b. 2 Sep 1901)—28 Dec 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).
+
+* Gladys Arlena Burns Beck (b. 5 Feb 1899)—23 Feb 1943—[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).
+
+* John Jongkindt (b. 10 Jan 1896)—Mar 1943—[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43), probably for practicing polygamy as he had published a piece titled "Acquiescence" in prior excommunicant Joseph White Musser's [_Truth Magazine_, vol. 3, no. 11](https://web.archive.org/web/20190603211809/https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/MF0019.doc).
+
+* Thomas William Collings (b. 27 Apr 1887)—8 Mar 1943—[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 

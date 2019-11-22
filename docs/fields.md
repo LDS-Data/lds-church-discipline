@@ -10,7 +10,7 @@
 * sections: the groupings or headings to which this entry belongs, broadest first. For example: ["19th Century", "The Followers of Isaac Russell"]
 * date_md: the Markdown representation of the date on which this disciplinary action took place.
 * date: the plain text representation of the date on which this disciplinary action took place.
-* for: the formal reasons given for the disciplinary action (if any), e.g. "apostasy", "teaching false doctrine", "committing a hijacking", etc.
+* for: the formal reasons given for the disciplinary action (if any), e.g. "apostasy", "teaching false doctrine", "committing a hijacking", etc. Either a string or an array of strings.
 * tagline_md: the Markdown representation of the tagline which attempts to succinctly summarize the person and their contribution
 * tagline: the plaintext representation of the tagline which attempts to succinctly summarize the person and their contribution
 * notes_md: the Markdown representation of the notes
@@ -34,6 +34,8 @@
 ### Sporadically Used
 
 * birth_place: where the person was born. Sometimes we know this, might as well keep track of it.
+* alt_for: unofficial reasons for the disciplinary action. Either a string or an array of strings.
+* rebaptism_date: the text representation of the date of the person's next baptism after being excommunicated in this action (if applicable)
 
 ### Contemplated
 
@@ -48,8 +50,6 @@
 
 
 * baptism_date: the text representation of the date of the person's first baptism into the church (since they last were not in the church).
-
-* rebaptism_date: the text representation of the date of the person's next baptism after being excommunicated in this action (if applicable)
 
 * marital_status: "married", "single", "divorced", "widowed"
 

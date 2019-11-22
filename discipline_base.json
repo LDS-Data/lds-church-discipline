@@ -3067,6 +3067,22 @@
     ]
   },
   {
+    "name": "Margaret Price",
+    "sex": "female",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).",
+    "date": "Jun 1942",
+    "unit": "Helper Ward, Carbon Stake",
+    "location": "Helper, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ]
+  },
+  {
     "name": "Frederick J. Landis",
     "sex": "male",
     "birth_date": "11 Jun 1902",
@@ -3543,6 +3559,61 @@
     "tags": [
       "improvement-era",
       "mar-1943"
+    ]
+  },
+  {
+    "name": "Gladys Arlena Burns Beck",
+    "sex": "female",
+    "birth_date": "5 Feb 1899",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).",
+    "date": "23 Feb 1943",
+    "unit": "Oakland Ward, Oakland Stake",
+    "location": "Oakland, California",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ]
+  },
+  {
+    "name": "John Jongkindt",
+    "sex": "male",
+    "office": "seventy",
+    "birth_date": "10 Jan 1896",
+    "birth_place": "Papendrecht, Netherlands",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43), probably for practicing polygamy as he had published a piece titled \"Acquiescence\" in prior excommunicant Joseph White Musser's [_Truth Magazine_, vol. 3, no. 11](https://web.archive.org/web/20190603211809/https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/MF0019.doc).",
+    "alt_for": "polygamy?",
+    "date": "Mar 1943",
+    "unit": "Centinela Ward, Inglewood Stake",
+    "location": "Hawthorne?, California",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ]
+  },
+  {
+    "name": "Thomas William Collings",
+    "sex": "male",
+    "office": "elder",
+    "birth_date": "27 Apr 1887",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).",
+    "date": "8 Mar 1943",
+    "unit": "Pleasant Green Ward, Oquirrh Stake",
+    "location": "Magna, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
     ]
   },
   {

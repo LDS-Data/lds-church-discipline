@@ -4046,6 +4046,32 @@
     "best_day": 2
   },
   {
+    "name": "Afton Williams Johnson",
+    "sex": "female",
+    "birth_date": "6 Jun 1913",
+    "date": "11 Feb 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). A pamphlet titled [\"Something better than Mormonism\"](https://catalog.princeton.edu/catalog/2697580) was written by a Mrs. Afton Williams Johnson for the Utah Christian Mission.",
+    "location": "Pocatello, Idaho",
+    "unit": "Pocatello Fifth Ward, Pocatello Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ],
+    "date_md": "11 Feb 1942",
+    "notes": "Excommunicated. A pamphlet titled \"Something better than Mormonism\" was written by a Mrs. Afton Williams Johnson for the Utah Christian Mission.",
+    "location_md": "Pocatello, Idaho",
+    "unit_md": "Pocatello Fifth Ward, Pocatello Stake",
+    "birth_date_md": "6 Jun 1913",
+    "best_date_txt": "11 Feb 1942",
+    "best_year": 1942,
+    "best_month": "Feb",
+    "best_day": 11
+  },
+  {
     "name": "Helmuth Hübener",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Helmuth_H%C3%BCbener",
     "birth_date": "8 Jan 1925",
@@ -4521,6 +4547,32 @@
     "best_day": 26
   },
   {
+    "name": "Lavona Rugg",
+    "sex": "female",
+    "birth_date": "25 Dec 1920",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "29 Apr 1942",
+    "unit": "Elmo Ward, Emery Stake",
+    "location": "Elmo, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "29 Apr 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Elmo, Utah",
+    "unit_md": "Elmo Ward, Emery Stake",
+    "birth_date_md": "25 Dec 1920",
+    "best_date_txt": "29 Apr 1942",
+    "best_year": 1942,
+    "best_month": "Apr",
+    "best_day": 29
+  },
+  {
     "name": "Inez Edna Penrod Welsh",
     "sex": "female",
     "birth_date": "6 Sep 1903",
@@ -4702,6 +4754,30 @@
     "best_year": 1942,
     "best_month": "May",
     "best_day": 29
+  },
+  {
+    "name": "Margaret Price",
+    "sex": "female",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).",
+    "date": "Jun 1942",
+    "unit": "Helper Ward, Carbon Stake",
+    "location": "Helper, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ],
+    "date_md": "Jun 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Helper, Utah",
+    "unit_md": "Helper Ward, Carbon Stake",
+    "best_date_txt": "Jun 1942",
+    "best_year": 1942,
+    "best_month": "Jun",
+    "best_day": null
   },
   {
     "name": "Frederick J. Landis",
@@ -5118,6 +5194,401 @@
     "best_date_txt": "8 Sep 1942",
     "best_year": 1942,
     "best_month": "Sep",
+    "best_day": 8
+  },
+  {
+    "name": "Bernice Edel May Smith",
+    "sex": "female",
+    "birth_date": "5 Mar 1897",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Sep 1942",
+    "unit": "Indianapolis Branch, Northern States Mission",
+    "location": "Indianapolis, Indiana",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "21 Sep 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Indianapolis, Indiana",
+    "unit_md": "Indianapolis Branch, Northern States Mission",
+    "birth_date_md": "5 Mar 1897",
+    "best_date_txt": "21 Sep 1942",
+    "best_year": 1942,
+    "best_month": "Sep",
+    "best_day": 21
+  },
+  {
+    "name": "Wentelina Vandervis",
+    "sex": "female",
+    "birth_date": "17 Apr 1872",
+    "date": "29 Sep 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Salt Lake City, Utah",
+    "unit": "Second Ward, Liberty Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ],
+    "date_md": "29 Sep 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Salt Lake City, Utah",
+    "unit_md": "Second Ward, Liberty Stake",
+    "birth_date_md": "17 Apr 1872",
+    "best_date_txt": "29 Sep 1942",
+    "best_year": 1942,
+    "best_month": "Sep",
+    "best_day": 29
+  },
+  {
+    "name": "Jacob Cornelius Vandervis",
+    "sex": "male",
+    "birth_date": "18 Jun 1876",
+    "date": "12 Oct 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). He [sang bass in the Mormon Tabernacle Choir](https://web.archive.org/web/20191122214219/https://www.thetabernaclechoir.org/about/roster.all.v.html) 1935-1936. It appears he published [a booklet titled _Why I Left the Mormon Church_](https://books.google.com/books/about/Why_I_Left_the_Mormon_Church.html?id=UYnEQwAACAAJ) in 1944.",
+    "location": "Salt Lake City, Utah",
+    "unit": "Second Ward, Liberty Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ],
+    "date_md": "12 Oct 1942",
+    "notes": "Excommunicated. He sang bass in the Mormon Tabernacle Choir 1935-1936. It appears he published a booklet titled _Why I Left the Mormon Church_ in 1944.",
+    "location_md": "Salt Lake City, Utah",
+    "unit_md": "Second Ward, Liberty Stake",
+    "birth_date_md": "18 Jun 1876",
+    "best_date_txt": "12 Oct 1942",
+    "best_year": 1942,
+    "best_month": "Oct",
+    "best_day": 12
+  },
+  {
+    "name": "Adrian Leonard Kearl",
+    "sex": "male",
+    "birth_date": "11 Apr 1900",
+    "birth_place": "Lake Town, Utah",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "2 Nov 1942",
+    "unit": "Ogden Twentyfirst Ward, Ogden Stake",
+    "location": "Ogden, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "2 Nov 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Ogden, Utah",
+    "unit_md": "Ogden Twentyfirst Ward, Ogden Stake",
+    "birth_date_md": "11 Apr 1900",
+    "best_date_txt": "2 Nov 1942",
+    "best_year": 1942,
+    "best_month": "Nov",
+    "best_day": 2
+  },
+  {
+    "name": "Wilhelmina Jacoba DeBuizer Fillipi",
+    "sex": "female",
+    "birth_date": "19 Jul 1910",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "24 Nov 1942",
+    "unit": "East Orange Ward, New York Stake",
+    "location": "East Orange, New Jersey",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "24 Nov 1942",
+    "notes": "Excommunicated.",
+    "location_md": "East Orange, New Jersey",
+    "unit_md": "East Orange Ward, New York Stake",
+    "birth_date_md": "19 Jul 1910",
+    "best_date_txt": "24 Nov 1942",
+    "best_year": 1942,
+    "best_month": "Nov",
+    "best_day": 24
+  },
+  {
+    "name": "Edna May Tonek",
+    "sex": "female",
+    "birth_date": "5 Oct 1901",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "3 Dec 1942",
+    "unit": "Bridgeport Branch, New England Mission",
+    "location": "Bridgeport, Connecticut",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "3 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Bridgeport, Connecticut",
+    "unit_md": "Bridgeport Branch, New England Mission",
+    "birth_date_md": "5 Oct 1901",
+    "best_date_txt": "3 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 3
+  },
+  {
+    "name": "Maude Emma M. S. Richards Lackey",
+    "sex": "female",
+    "birth_date": "13 Jan 1877",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Dec 1942",
+    "unit": "Peoria Branch, Northern States Mission",
+    "location": "Peoria, Illinois",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "21 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Peoria, Illinois",
+    "unit_md": "Peoria Branch, Northern States Mission",
+    "birth_date_md": "13 Jan 1877",
+    "best_date_txt": "21 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 21
+  },
+  {
+    "name": "Phyllis Anthea Coburn Nyborg Priebe",
+    "sex": "female",
+    "birth_date": "11 Apr 1908",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Dec 1942",
+    "unit": "Peoria Branch, Northern States Mission",
+    "location": "Peoria, Illinois",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "21 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Peoria, Illinois",
+    "unit_md": "Peoria Branch, Northern States Mission",
+    "birth_date_md": "11 Apr 1908",
+    "best_date_txt": "21 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 21
+  },
+  {
+    "name": "Thelma Sutrella Richards Tohme",
+    "sex": "female",
+    "birth_date": "26 Sep 1913",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).",
+    "date": "21 Dec 1942",
+    "unit": "Peoria Branch, Northern States Mission",
+    "location": "Peoria, Illinois",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "feb-1943"
+    ],
+    "date_md": "21 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Peoria, Illinois",
+    "unit_md": "Peoria Branch, Northern States Mission",
+    "birth_date_md": "26 Sep 1913",
+    "best_date_txt": "21 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 21
+  },
+  {
+    "name": "John William Shurrum",
+    "sex": "male",
+    "birth_date": "6 Nov 1887",
+    "date": "21 Dec 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Buhl, Idaho",
+    "unit": "Buhl Ward, Twin Falls Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ],
+    "date_md": "21 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Buhl, Idaho",
+    "unit_md": "Buhl Ward, Twin Falls Stake",
+    "birth_date_md": "6 Nov 1887",
+    "best_date_txt": "21 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 21
+  },
+  {
+    "name": "Hannah Wilson Shurrum",
+    "sex": "female",
+    "birth_date": "6 Nov 1885",
+    "date": "21 Dec 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Buhl, Idaho",
+    "unit": "Buhl Ward, Twin Falls Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ],
+    "date_md": "21 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Buhl, Idaho",
+    "unit_md": "Buhl Ward, Twin Falls Stake",
+    "birth_date_md": "6 Nov 1885",
+    "best_date_txt": "21 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 21
+  },
+  {
+    "name": "Ruth Massey",
+    "sex": "female",
+    "birth_date": "2 Sep 1901",
+    "date": "28 Dec 1942",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).",
+    "location": "Los Angeles, California",
+    "unit": "Hollywood Ward, Los Angeles Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "mar-1943"
+    ],
+    "date_md": "28 Dec 1942",
+    "notes": "Excommunicated.",
+    "location_md": "Los Angeles, California",
+    "unit_md": "Hollywood Ward, Los Angeles Stake",
+    "birth_date_md": "2 Sep 1901",
+    "best_date_txt": "28 Dec 1942",
+    "best_year": 1942,
+    "best_month": "Dec",
+    "best_day": 28
+  },
+  {
+    "name": "Gladys Arlena Burns Beck",
+    "sex": "female",
+    "birth_date": "5 Feb 1899",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).",
+    "date": "23 Feb 1943",
+    "unit": "Oakland Ward, Oakland Stake",
+    "location": "Oakland, California",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ],
+    "date_md": "23 Feb 1943",
+    "notes": "Excommunicated.",
+    "location_md": "Oakland, California",
+    "unit_md": "Oakland Ward, Oakland Stake",
+    "birth_date_md": "5 Feb 1899",
+    "best_date_txt": "23 Feb 1943",
+    "best_year": 1943,
+    "best_month": "Feb",
+    "best_day": 23
+  },
+  {
+    "name": "John Jongkindt",
+    "sex": "male",
+    "office": "seventy",
+    "birth_date": "10 Jan 1896",
+    "birth_place": "Papendrecht, Netherlands",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43), probably for practicing polygamy as he had published a piece titled \"Acquiescence\" in prior excommunicant Joseph White Musser's [_Truth Magazine_, vol. 3, no. 11](https://web.archive.org/web/20190603211809/https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/MF0019.doc).",
+    "alt_for": "polygamy?",
+    "date": "Mar 1943",
+    "unit": "Centinela Ward, Inglewood Stake",
+    "location": "Hawthorne?, California",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ],
+    "date_md": "Mar 1943",
+    "notes": "Excommunicated, probably for practicing polygamy as he had published a piece titled \"Acquiescence\" in prior excommunicant Joseph White Musser's _Truth Magazine_ , vol. 3, no. 11.",
+    "location_md": "Hawthorne?, California",
+    "unit_md": "Centinela Ward, Inglewood Stake",
+    "birth_date_md": "10 Jan 1896",
+    "best_date_txt": "Mar 1943",
+    "best_year": 1943,
+    "best_month": "Mar",
+    "best_day": null
+  },
+  {
+    "name": "Thomas William Collings",
+    "sex": "male",
+    "office": "elder",
+    "birth_date": "27 Apr 1887",
+    "outcome": "excommunicated",
+    "notes_md": "[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).",
+    "date": "8 Mar 1943",
+    "unit": "Pleasant Green Ward, Oquirrh Stake",
+    "location": "Magna, Utah",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1943-may"
+    ],
+    "date_md": "8 Mar 1943",
+    "notes": "Excommunicated.",
+    "location_md": "Magna, Utah",
+    "unit_md": "Pleasant Green Ward, Oquirrh Stake",
+    "birth_date_md": "27 Apr 1887",
+    "best_date_txt": "8 Mar 1943",
+    "best_year": 1943,
+    "best_month": "Mar",
     "best_day": 8
   },
   {
