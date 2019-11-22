@@ -1,4 +1,3 @@
-### 20th Century
 * [Nathaniel Baldwin](https://en.wikipedia.org/wiki/Nathaniel_Baldwin) (1878-1961)—1905—Monogomous polygamist technologist—He was [fired from his BYU job](https://www.deseret.com/2008/4/14/20082063/new-plans-for-old-factory) probably due to his support for post-Manifesto polygamy, but I find no support that he was excommunicated. He was a technologist whose improvement on the headphones of the day brought financial success, which he channeled to support the nascent Mormon fundamentalist movement. However, he was only married to one woman.
 
 * Martha Nibley Beck—Scholar and author—Excommunicated??? for her public writings which were deemed to be critical of the church. She was a part time faculty at BYU at the time and is the daughter of Hugh Nibley, a well-known Mormon apologist.

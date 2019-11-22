@@ -6,4 +6,4 @@
 
 ./venv/bin/python scripts/expand_json.py ./unconfirmed_base.json > ./unconfirmed.json
 ./venv/bin/python scripts/json_to_tsv.py ./unconfirmed.json
-./venv/bin/python scripts/json_to_md.py ./unconfirmed.json > ./unconfirmed.md
+./venv/bin/python scripts/json_to_md.py --noheaders ./unconfirmed.json > ./unconfirmed.md

@@ -29,6 +29,7 @@ if __name__=="__main__":
 
     parser = argparse.ArgumentParser(description='Expand JSON by processing various fields.')
     parser.add_argument("filename", help="Path to JSON to expand")
+    parser.add_argument("--noheaders", help="Suppress output of section headers", action="store_true")
 
     args = parser.parse_args()
 
@@ -38,13 +39,14 @@ if __name__=="__main__":
     current_sections = None
     for obj in data:
 
-        try:
-            if obj['sections'] != current_sections:
-                print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
-
-            current_sections = obj['sections']
-        except KeyError:
-            sys.stderr.write("No 'sections' for %s\n" % obj['name'])
+        if not args.noheaders:
+            try:
+                if obj['sections'] != current_sections:
+                    print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
+    
+                current_sections = obj['sections']
+            except KeyError:
+                sys.stderr.write("No 'sections' for %s\n" % obj['name'])
 
         parts = [name_and_lifespan(obj)]
 
