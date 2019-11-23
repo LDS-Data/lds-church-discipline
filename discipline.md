@@ -373,6 +373,8 @@
 
 * Catherine Lucy Collinwood—16 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n43).
 
+* Irene McAllister Reeves (b. 1 Nov 1881)—18 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
 * Joseph Detton (26 Dec 1884-[13 Mar 1977](https://web.archive.org/web/20191120071910/https://www.newspapers.com/clip/5121267/detton_joseph_the_salt_lake_tribune/))—26 Apr 1942—[Excommunicated for "immorality"](https://archive.org/details/improvementera4507unse/page/n41).
 
 * Lavona Rugg (b. 25 Dec 1920)—29 Apr 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
@@ -415,6 +417,8 @@
 
 * Bert Conrad Silverthorne (b. 1 Sep 1894)—5 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4510unse/page/n29).
 
+* Fern Amack Clark (b. 11 Aug 1918)—11 Aug 1942—[Excommunicated on her birthday](https://archive.org/details/improvementera4610unse/page/n31).
+
 * John Joseph Deichmiller (b. 7 Nov 1909)—13 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
 
 * Martha Ann Bybee Wattis (b. 23 Dec 1862)—17 Aug 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
@@ -429,9 +433,27 @@
 
 * Wentelina Vandervis (b. 17 Apr 1872)—29 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31).
 
+* Florence Eva Ritter Hall (b. 17 Dec 1883)—5 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
 * Jacob Cornelius Vandervis (b. 18 Jun 1876)—12 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4603unse/page/n31). He [sang bass in the Mormon Tabernacle Choir](https://web.archive.org/web/20191122214219/https://www.thetabernaclechoir.org/about/roster.all.v.html) 1935-1936. It appears he published [a booklet titled _Why I Left the Mormon Church_](https://books.google.com/books/about/Why_I_Left_the_Mormon_Church.html?id=UYnEQwAACAAJ) in 1944.
 
+* William Keave Chau (b. 22 Feb 1914)—30 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Rebecca Wailau Kanipae Chau (b. 25 May 1912)—30 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Beatrice Kaualana Kahimae Kaaeamaku (b. 8 Jan 1905)—30 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Suse Soares (b. 26 Jun 1896)—30 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Annie Soares (b. 4 Dec 1896)—30 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Mary Ann Homelani Kahinu Brighter (b. 1888)—31 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* James Kalemaemae Brighter (b. 14 Aug 1877)—31 Oct 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
 * Adrian Leonard Kearl (b. 11 Apr 1900)—2 Nov 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
+
+* Sylvia Stella Dunwoody Draves (b. 17 Feb 1884)—16 Nov 1942—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31), possibly due to involvement with the Church of Christ (Temple Lot) in which [she was baptized](https://en.wikipedia.org/wiki/W._A._Draves). Her son (with Wilhelm August Heinrich Draves), [William August Draves](https://en.wikipedia.org/wiki/W._A._Draves), founded the Church of Christ with the Elijah Message.
 
 * Wilhelmina Jacoba DeBuizer Fillipi (b. 19 Jul 1910)—24 Nov 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
 
@@ -454,6 +476,30 @@
 * John Jongkindt (b. 10 Jan 1896)—Mar 1943—[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43), probably for practicing polygamy as he had published a piece titled "Acquiescence" in prior excommunicant Joseph White Musser's [_Truth Magazine_, vol. 3, no. 11](https://web.archive.org/web/20190603211809/https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/MF0019.doc).
 
 * Thomas William Collings (b. 27 Apr 1887)—8 Mar 1943—[Excommunicated](https://archive.org/details/improvementera4605unse/page/n43).
+
+* Lulu Geraldine Varney Richardson (b. 25 Nov 1909)—9 Apr 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Richard Cleave Fitzpatrick (b. 4 May 1906)—20 Apr 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Erwin Campbell (b. 5 Aug 1895)—30 May 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Robert Garfield Terrell (b. 15 Jan 1907)—21 Jun 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Lawrence Clyde Gowell (b. 23 Sep 1909)—16 Jul 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Della Estella Gowell (b. 3 Jun 1901)—16 Jul 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Ina May Gowell (b. 14 Jun 1900)—16 Jul 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Karl Gottlieb Kirstein—9 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4611unse/page/n47).
+
+* Ethel Walker Holly (b. 1 Apr 1887)—10 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4611unse/page/n47).
+
+* Carl James Brown—20 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
+
+* Grant Holly (b. 22 Oct 1886)—30 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4611unse/page/n47).
+
+* Archibald Hoffman (b. 2 Jul 1892)—19 Sep 1943—[Excommunicated](https://archive.org/details/improvementera4611unse/page/n47).
 
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
 

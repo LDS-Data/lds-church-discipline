@@ -42,10 +42,10 @@ def date_txt_to_best_date_txt(date_txt):
 
 def expand_date(date):
     fields = {
-        'best_date_txt': date_txt_to_best_date_txt(date)
+        'best_date': date_txt_to_best_date_txt(date)
     }
 
-    date_fields = date_rgx.match(fields['best_date_txt']).groupdict()
+    date_fields = date_rgx.match(fields['best_date']).groupdict()
     fields['best_year'] = int(date_fields['year'])
     fields['best_month'] = date_fields['month']
     if date_fields['day'] is not None:

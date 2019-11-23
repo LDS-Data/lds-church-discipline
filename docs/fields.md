@@ -26,7 +26,7 @@
 
 ### Derived
 
-* best_date_txt: the text representation of the best estimate for the date on which this disciplinary action took place. If date_txt is "abt. 1888" then this would be "1888". If date_txt is "abt. 3 Jul 1919" then this would be "3 Jul 1919".
+* best_date: the text representation of the best estimate for the date on which this disciplinary action took place. If date_txt is "abt. 1888" then this would be "1888". If date_txt is "abt. 3 Jul 1919" then this would be "3 Jul 1919".
 * best_year: the best estimate of the year
 * best_month: the best estimate of the month, if known
 * best_day: the best estimate of the day of month, if known
