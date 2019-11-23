@@ -54,7 +54,7 @@
   {
     "name": "Burr Riggs",
     "jsp_url": "https://www.josephsmithpapers.org/person/burr-riggs",
-    "birth_date": "1811",
+    "birth_date_md": "[17 Apr 1811](https://www.josephsmithpapers.org/person/burr-riggs)",
     "death_date": "1860",
     "sections": [
       "19th Century"
@@ -74,7 +74,7 @@
     "tagline_md": "Zelph Co-discoverer",
     "notes": "Excommunicated by a conference of high priests in Kirtland, for \"neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c\" On February 13th, a \"council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility.\" After his excommunication he was later reinstated in the church, and also later excommunicated, and reinstated yet again.",
     "location_md": "Kirtland, Ohio",
-    "birth_date_md": "1811",
+    "birth_date": "17 Apr 1811",
     "death_date_md": "1860",
     "best_date": "26 Feb 1833",
     "best_year": 1833,
@@ -84,8 +84,8 @@
   {
     "name": "Doctor Philastus Hurlbut",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut",
-    "birth_date": "1809",
-    "death_date": "1883",
+    "birth_date": "3 Feb 1809",
+    "death_date": "16 Jun 1883",
     "sections": [
       "19th Century"
     ],
@@ -100,8 +100,8 @@
     "tagline_md": "Amorous Apostate, Early Church Foe",
     "notes": "Excommunicated in absentia for \"unchristian conduct with the female sex while on a mission to the east\". He was found sufficiently penitent upon appeal that his membership was restored 21 Jun 1833 only to be revoked again two days later because he had reportedly claimed to have \"deceived\" the prior council. He went on to become a notorious critic of Mormonism, being a major contributor to Eber D. Howe's _Mormonism Unvailed_ , for which he collected affidavits against the character of Joseph Smith and his family.",
     "location_md": "Kirtland, Ohio",
-    "birth_date_md": "1809",
-    "death_date_md": "1883",
+    "birth_date_md": "3 Feb 1809",
+    "death_date_md": "16 Jun 1883",
     "best_date": "3 Jun 1833",
     "best_year": 1833,
     "best_month": "Jun",
@@ -109,8 +109,9 @@
   },
   {
     "name": "Daniel Copley",
+    "jsp_url": "https://www.josephsmithpapers.org/person/daniel-copley",
     "birth_date": "abt. 1811",
-    "death_date": "1862",
+    "death_date": "6 Jul 1862",
     "sections": [
       "19th Century"
     ],
@@ -126,7 +127,7 @@
     "notes": "Excommunicated \"because he refused to fulfill his mission according to the Council of the High Priesthood of the holy order of God\". Much like his likewise-excommunicated father, Leman Copley, Daniel Copley struggled to be \"all in\" on the church. When assigned to serve a mission with (later excommunicated) Doctor Philastus Hurlbut, he refused. He later went on to serve in the First Regiment of Wisconsin Volunteers in the American Civil War.",
     "location_md": "Kirtland, Ohio",
     "birth_date_md": "abt. 1811",
-    "death_date_md": "1862",
+    "death_date_md": "6 Jul 1862",
     "best_date": "21 Jun 1833",
     "best_year": 1833,
     "best_month": "Jun",
@@ -136,8 +137,8 @@
     "name": "William E. McLellin",
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-earl-mclellin",
-    "birth_date": "1806",
-    "death_date": "1883",
+    "birth_date": "18 Jan 1806",
+    "death_date": "24 Apr 1883",
     "sections": [
       "19th Century"
     ],
@@ -149,8 +150,8 @@
     "date_md": "4 Aug 1835",
     "tagline_md": "Original member of the Quorum of the Twelve Apostles",
     "notes": "Disfellowshipped for failing to solicit donations for \"a house in which to receive an endowment\", and for a \"libel\" against the church due to this seemingly innocuous quotation from a letter he wrote his wife: \"You say, that it will not be in your power to go to school this summer---I am glad that it is not, since Eld[e]r [Orson] Hyde has returned and given, me a description of the manner in which it is conducted. though we do not wish to cast any reflections.\"",
-    "birth_date_md": "1806",
-    "death_date_md": "1883",
+    "birth_date_md": "18 Jan 1806",
+    "death_date_md": "24 Apr 1883",
     "best_date": "4 Aug 1835",
     "best_year": 1835,
     "best_month": "Aug",
@@ -206,8 +207,8 @@
     "name": "John F. Boynton",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Boynton",
     "jsp_url": "https://www.josephsmithpapers.org/person/john-farnham-boynton",
-    "birth_date": "1811",
-    "death_date": "1890",
+    "birth_date": "20 Sep 1811",
+    "death_date": "20 Oct 1890",
     "sections": [
       "19th Century"
     ],
@@ -221,8 +222,8 @@
     "tagline_md": "Apostle, Geologist, Inventor",
     "notes": "Excommunicated.",
     "location_md": "Kirtland, Ohio",
-    "birth_date_md": "1811",
-    "death_date_md": "1890",
+    "birth_date_md": "20 Sep 1811",
+    "death_date_md": "20 Oct 1890",
     "best_date": "1837",
     "best_year": 1837,
     "best_month": null,
@@ -259,8 +260,8 @@
   {
     "name": "John F. Boynton",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Boynton",
-    "birth_date": "1811",
-    "death_date": "1890",
+    "birth_date": "20 Sep 1811",
+    "death_date": "20 Oct 1890",
     "sections": [
       "19th Century"
     ],
@@ -274,8 +275,8 @@
     "tagline_md": "Original member of the Quorum of the Twelve Apostles, geologist, inventor",
     "notes": "Disfellowshipped by conference vote. He was a founding member of the Quorum of the Twelve Apostles who grew dissatisfied after the failure of the Kirtland Safety Society. Reinstated a week later. Repeatedly disfellowshipped (along with numerous others) for \"dancing with the world\" and attending balls.",
     "location_md": "Kirtland, Ohio",
-    "birth_date_md": "1811",
-    "death_date_md": "1890",
+    "birth_date_md": "20 Sep 1811",
+    "death_date_md": "20 Oct 1890",
     "best_date": "3 Sep 1837",
     "best_year": 1837,
     "best_month": "Sep",
@@ -284,8 +285,8 @@
   {
     "name": "Luke Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)",
-    "birth_date": "1807",
-    "death_date": "1861",
+    "birth_date": "3 Nov 1807",
+    "death_date": "9 Dec 1861",
     "sections": [
       "19th Century"
     ],
@@ -299,8 +300,8 @@
     "tagline_md": "Original member of the Quorum of the Twelve Apostles",
     "notes": "Disfellowshipped for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated a week later.",
     "location_md": "Kirtland, Ohio",
-    "birth_date_md": "1807",
-    "death_date_md": "1861",
+    "birth_date_md": "3 Nov 1807",
+    "death_date_md": "9 Dec 1861",
     "best_date": "3 Sep 1837",
     "best_year": 1837,
     "best_month": "Sep",
@@ -309,8 +310,8 @@
   {
     "name": "Lyman E. Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
-    "birth_date": "1811",
-    "death_date": "1859",
+    "birth_date": "24 Oct 1811",
+    "death_date": "20 Dec 1859",
     "sections": [
       "19th Century"
     ],
@@ -322,8 +323,8 @@
     "date_md": "3 Sep 1837",
     "notes": "Disfellowshipped for reasons not given but likely in connection with the failure of the Kirtland Safety Society. Reinstated a week later.",
     "location_md": "Kirtland, Ohio",
-    "birth_date_md": "1811",
-    "death_date_md": "1859",
+    "birth_date_md": "24 Oct 1811",
+    "death_date_md": "20 Dec 1859",
     "best_date": "3 Sep 1837",
     "best_year": 1837,
     "best_month": "Sep",
@@ -363,8 +364,8 @@
     "name": "Warren Parrish",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Parrish",
     "jsp_url": "https://www.josephsmithpapers.org/person/warren-farr-parrish",
-    "birth_date": "1803",
-    "death_date": "1877",
+    "birth_date": "10 Jan 1803",
+    "death_date": "3 Jan 1877",
     "sections": [
       "19th Century"
     ],
@@ -376,8 +377,8 @@
     "date_md": "Dec 1837",
     "tagline_md": "Seventy, accused embezzler, dissident",
     "notes": "Excommunicated while leading a group of dissidents opposed to Joseph Smith. He had been accused of embezzling from the Kirtland Safety Society and thus participating in its downfall.",
-    "birth_date_md": "1803",
-    "death_date_md": "1877",
+    "birth_date_md": "10 Jan 1803",
+    "death_date_md": "3 Jan 1877",
     "best_date": "Dec 1837",
     "best_year": 1837,
     "best_month": "Dec",
@@ -411,8 +412,8 @@
     "name": "Luke Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)",
     "jsp_url": "https://www.josephsmithpapers.org/person/luke-johnson",
-    "birth_date": "1807",
-    "death_date": "1861",
+    "birth_date": "3 Nov 1807",
+    "death_date": "9 Dec 1861",
     "sections": [
       "19th Century"
     ],
@@ -424,8 +425,8 @@
     "date_md": "1838",
     "tagline_md": "Original member of the Quorum of the Twelve Apostles",
     "notes": "Excommunicated. He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.",
-    "birth_date_md": "1807",
-    "death_date_md": "1861",
+    "birth_date_md": "3 Nov 1807",
+    "death_date_md": "9 Dec 1861",
     "best_date": "1838",
     "best_year": 1838,
     "best_month": null,
@@ -458,8 +459,8 @@
   {
     "name": "John Gaylord",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_Gaylord",
-    "birth_date": "1797",
-    "death_date": "1874",
+    "birth_date": "12 Jul 1797",
+    "death_date": "17 Jul 1874",
     "sections": [
       "19th Century"
     ],
@@ -472,8 +473,8 @@
     "date_md": "13 Jan 1838",
     "tagline_md": "Member of the Presidency of the Seventy",
     "notes": "Excommunicated for \"rising up in rebellion against the church\", reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.",
-    "birth_date_md": "1797",
-    "death_date_md": "1874",
+    "birth_date_md": "12 Jul 1797",
+    "death_date_md": "17 Jul 1874",
     "best_date": "13 Jan 1838",
     "best_year": 1838,
     "best_month": "Jan",
@@ -510,8 +511,8 @@
     "name": "W. W. Phelps",
     "wikipedia_url": "https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-wines-phelps",
-    "birth_date": "1792",
-    "death_date": "1872",
+    "birth_date": "17 Feb 1792",
+    "death_date": "7 Mar 1872",
     "sections": [
       "19th Century"
     ],
@@ -526,8 +527,8 @@
     "tagline_md": "Printer and hymnist",
     "notes": "Excommunicated alongside John Whitmer for \"persisting in unchristian like conduct\", specifically for alleged mishandling of Far West land, and temple donations.",
     "location_md": "Far West, Missouri",
-    "birth_date_md": "1792",
-    "death_date_md": "1872",
+    "birth_date_md": "17 Feb 1792",
+    "death_date_md": "7 Mar 1872",
     "best_date": "10 Mar 1838",
     "best_year": 1838,
     "best_month": "Mar",
@@ -536,8 +537,8 @@
   {
     "name": "Oliver Cowdery",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Cowdery",
-    "birth_date": "1806",
-    "death_date": "1850",
+    "birth_date": "3 Oct 1806",
+    "death_date": "3 Mar 1850",
     "sections": [
       "19th Century"
     ],
@@ -552,8 +553,8 @@
     "tagline_md": "Book of Mormon Witness, Apostle, Second Elder, Assistant President",
     "notes": "Excommunicated on six different charges, including his accusation that Joseph Smith was an adulterer due to his relationship with Fanny Alger which Cowdery termed a \"dirty, nasty, filthy affair\". He was rebaptized into the LDS church in 1848.",
     "location_md": "Far West, Missouri",
-    "birth_date_md": "1806",
-    "death_date_md": "1850",
+    "birth_date_md": "3 Oct 1806",
+    "death_date_md": "3 Mar 1850",
     "best_date": "12 Apr 1838",
     "best_year": 1838,
     "best_month": "Apr",
@@ -562,8 +563,8 @@
   {
     "name": "Lyman E. Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
-    "birth_date": "1811",
-    "death_date": "1859",
+    "birth_date": "24 Oct 1811",
+    "death_date": "20 Dec 1859",
     "sections": [
       "19th Century"
     ],
@@ -576,8 +577,8 @@
     "date_md": "13 Apr 1838",
     "notes": "Excommunicated in Far West on seven different charges, including \"virtually denying the faith of the Church of Christ of Latter Day saints, by vindicating the cause of the enemies of this Church, who are dissenters from us\", \"seeking to injure the character of Joseph Smith jr\", and \"taking whiskey and making Weldon drink & then cheating him out of his property\". The minutes record that \"After some few appropriate remarks, by the Councellors, it was decided by the President that Lyman E. Johnson be no longer considered a member of the Church of Christ of Latter Day Saints, nor a member of the Quorum of the twelve Apostles of the Lamb and also be given over to the buffetings of Satan untill he learns to blaspheme no more against the authorities of God.\"",
     "location_md": "Far West, Missouri",
-    "birth_date_md": "1811",
-    "death_date_md": "1859",
+    "birth_date_md": "24 Oct 1811",
+    "death_date_md": "20 Dec 1859",
     "best_date": "13 Apr 1838",
     "best_year": 1838,
     "best_month": "Apr",
@@ -587,8 +588,8 @@
     "name": "David Whitmer",
     "wikipedia_url": "https://en.wikipedia.org/wiki/David_Whitmer",
     "jsp_url": "https://www.josephsmithpapers.org/person/david-whitmer",
-    "birth_date": "1805",
-    "death_date": "1888",
+    "birth_date": "7 Jan 1805",
+    "death_date": "25 Jan 1888",
     "sections": [
       "19th Century"
     ],
@@ -602,8 +603,8 @@
     "tagline_md": "Book of Mormon Witness, founding church member",
     "notes": "Withdrew his membership from the church in response to numerous charges: \"First, For not observing the word of wisdom, 2 for unchristian-like conduct in neglecting to attend to meetings, in uniting, with, and possessing the same spirit with the Dissenters, in writing letters to the Dissenters in Kirtland unfavorable to the cause and to Br Joseph Smith jr. 3nd For neglecting the duties of his calling. 4th, For seperating himself from the cause and the Church while he has a name among us. 5 For signing himself President of the Church of Christ in an insulting letter to the High Council.\" Along with other dissenters, he was driven from Missouri a few months later, presumably by \"Danites\" inspired by Sidney Rigdon's \"Salt Sermon\". These removals added to Mormon-Missourian tensions that resulted in the 1838 Mormon War and ultimately the infamous Missouri Executive Order 44 ordering the Mormons \"treated as enemies\" and \"exterminated or driven from the state if necessary for the public peace.\" David Whitmer maintained his belief in the Book of Mormon throughout his life. He never rejoined the LDS church.",
     "location_md": "Far West, Missouri",
-    "birth_date_md": "1805",
-    "death_date_md": "1888",
+    "birth_date_md": "7 Jan 1805",
+    "death_date_md": "25 Jan 1888",
     "best_date": "13 Apr 1838",
     "best_year": 1838,
     "best_month": "Apr",
@@ -613,8 +614,8 @@
     "name": "William E. McLellin",
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-earl-mclellin",
-    "birth_date": "1806",
-    "death_date": "1883",
+    "birth_date": "18 Jan 1806",
+    "death_date": "24 Apr 1883",
     "sections": [
       "19th Century"
     ],
@@ -626,8 +627,8 @@
     "date_md": "11 May 1838",
     "tagline_md": "Original member of the Quorum of the Twelve Apostles",
     "notes": "Excommunicated because he expressed he had no confidence in the church's leaders, perhaps as a response to the failure of the Kirtland Safety Society.",
-    "birth_date_md": "1806",
-    "death_date_md": "1883",
+    "birth_date_md": "18 Jan 1806",
+    "death_date_md": "24 Apr 1883",
     "best_date": "11 May 1838",
     "best_year": 1838,
     "best_month": "May",
@@ -662,8 +663,8 @@
     "name": "Joseph Coe",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Coe",
     "jsp_url": "https://www.josephsmithpapers.org/person/joseph-coe",
-    "birth_date": "1784",
-    "death_date": "1854",
+    "birth_date": "12 Nov 1784",
+    "death_date": "17 Oct 1854",
     "sections": [
       "19th Century"
     ],
@@ -675,8 +676,8 @@
     "date_md": "Dec 1838",
     "tagline_md": "Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter",
     "notes": "Excommunicated following the collapse of the Kirtland Safety Society.",
-    "birth_date_md": "1784",
-    "death_date_md": "1854",
+    "birth_date_md": "12 Nov 1784",
+    "death_date_md": "17 Oct 1854",
     "best_date": "Dec 1838",
     "best_year": 1838,
     "best_month": "Dec",
@@ -685,8 +686,8 @@
   {
     "name": "Sampson Avard",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sampson_Avard",
-    "birth_date": "1800",
-    "death_date": "1869",
+    "birth_date": "23 Oct 1800",
+    "death_date": "15 Apr 1869",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -701,8 +702,8 @@
     "tagline_md": "Founding Danite who testified against Joseph Smith in court",
     "notes": "Excommunicated by a conference of the church.",
     "location_md": "Quincy, Illinois",
-    "birth_date_md": "1800",
-    "death_date_md": "1869",
+    "birth_date_md": "23 Oct 1800",
+    "death_date_md": "15 Apr 1869",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
@@ -711,8 +712,8 @@
   {
     "name": "George M. Hinkle",
     "wikipedia_url": "https://en.wikipedia.org/wiki/George_M._Hinkle",
-    "birth_date": "1801",
-    "death_date": "1861",
+    "birth_date": "13 Nov 1801",
+    "death_date": "9 Nov 1861",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -727,8 +728,8 @@
     "tagline_md": "Militia leader who turned Joseph Smith over to the Missourians",
     "notes": "Excommunicated by a conference of the church. It was later shown that he turned the Mormon prophet over in bad faith, expecting him to be executed.",
     "location_md": "Quincy, Illinois",
-    "birth_date_md": "1801",
-    "death_date_md": "1861",
+    "birth_date_md": "13 Nov 1801",
+    "death_date_md": "9 Nov 1861",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
@@ -737,8 +738,8 @@
   {
     "name": "John Corrill",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_Corrill",
-    "birth_date": "1794",
-    "death_date": "1842",
+    "birth_date": "17 Sep 1794",
+    "death_date": "26 Sep 1842",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -753,8 +754,8 @@
     "tagline_md": "Early Mormon leader, Missouri legislator involved with handing Joseph Smith over to the Missourians",
     "notes": "Excommunicated by a conference of the church. He also testified against Joseph Smith and the Mormons in court.",
     "location_md": "Quincy, Illinois",
-    "birth_date_md": "1794",
-    "death_date_md": "1842",
+    "birth_date_md": "17 Sep 1794",
+    "death_date_md": "26 Sep 1842",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
@@ -763,7 +764,7 @@
   {
     "name": "Reed Peck",
     "birth_date": "1814",
-    "death_date": "1894",
+    "death_date": "23 Aug 1894",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -779,7 +780,7 @@
     "notes": "Excommunicated by a conference of the church, not long after his disaffection from the church and testifying against Joseph Smith in court.",
     "location_md": "Quincy, Illinois",
     "birth_date_md": "1814",
-    "death_date_md": "1894",
+    "death_date_md": "23 Aug 1894",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
@@ -788,8 +789,8 @@
   {
     "name": "W. W. Phelps",
     "wikipedia_url": "https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)",
-    "birth_date": "1792",
-    "death_date": "1872",
+    "birth_date": "17 Feb 1792",
+    "death_date": "7 Mar 1872",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -804,8 +805,8 @@
     "tagline_md": "Printer and hymnist",
     "notes": "Excommunicated by a conference of the church, possibly for testifying against Joseph Smith in court, helping put him in Liberty Jail.",
     "location_md": "Quincy, Illinois",
-    "birth_date_md": "1792",
-    "death_date_md": "1872",
+    "birth_date_md": "17 Feb 1792",
+    "death_date_md": "7 Mar 1872",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
@@ -814,8 +815,8 @@
   {
     "name": "Thomas B. Marsh",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_B._Marsh",
-    "birth_date": "1800",
-    "death_date": "1866",
+    "birth_date": "1 Nov 1800",
+    "death_date": "Jan 1866",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -830,8 +831,8 @@
     "tagline_md": "First President of the Quorum of the Twelve Apostles",
     "notes": "Excommunicated by a conference of the church, likely because he drafted and signed an affidavit against Joseph Smith in connection with the Missouri Mormon War, in which he expressed his concerns over the violent tactics of the Mormons. Marsh's move away from the church may have been initiated by a dispute between his wife Elizabeth and Lucinda Harris over a pint of milk skimmings, which the First Presidency supposedly decided in Lucinda's favor; then again, that story may be fabulous. Thomas B. Marsh is known to have made a reconciliation with Lucinda's husband George in 1857; soon thereafter he moved to Utah where he was rebaptized into the church. He lived his days out as a pauper.",
     "location_md": "Quincy, Illinois",
-    "birth_date_md": "1800",
-    "death_date_md": "1866",
+    "birth_date_md": "1 Nov 1800",
+    "death_date_md": "Jan 1866",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
@@ -839,7 +840,8 @@
   },
   {
     "name": "Burr Riggs",
-    "birth_date": "1811",
+    "jsp_url": "https://www.josephsmithpapers.org/person/burr-riggs",
+    "birth_date": "17 Apr 1811",
     "death_date": "1860",
     "sections": [
       "19th Century",
@@ -855,7 +857,7 @@
     "tagline_md": "Zelph Co-discoverer",
     "notes": "Excommunicated by a conference of the church, but later reinstated. He had previously been excommunicated, in 1833.",
     "location_md": "Quincy, Illinois",
-    "birth_date_md": "1811",
+    "birth_date_md": "17 Apr 1811",
     "death_date_md": "1860",
     "best_date": "17 Mar 1839",
     "best_year": 1839,
@@ -890,8 +892,8 @@
   {
     "name": "Isaac Russell",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Russell",
-    "birth_date": "1807",
-    "death_date": "1844",
+    "birth_date": "13 Apr 1807",
+    "death_date": "25 Sep 1844",
     "sections": [
       "19th Century",
       "The Followers of Isaac Russell"
@@ -906,8 +908,8 @@
     "tagline_md": "Unapproved revelator",
     "notes": "Excommunicated for attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites on the basis of revelation he claimed to have received. According to the official History of the Church, \"Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church. He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren.\" He does not appear to have rejoined the church, and died in 1844 of \"swamp fever\".",
     "location_md": "Far West, Missouri",
-    "birth_date_md": "1807",
-    "death_date_md": "1844",
+    "birth_date_md": "13 Apr 1807",
+    "death_date_md": "25 Sep 1844",
     "best_date": "26 Apr 1839",
     "best_year": 1839,
     "best_month": "Apr",
@@ -1493,8 +1495,8 @@
   {
     "name": "Gladden Bishop",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gladden_Bishop",
-    "birth_date": "1809",
-    "death_date": "1864",
+    "birth_date": "18 Jun 1809",
+    "death_date": "30 Nov 1864",
     "sections": [
       "19th Century",
       "Late Joseph Smith Era"
@@ -1509,8 +1511,8 @@
     "tagline_md": "Would-be Prophet",
     "notes": "Excommunicated for promulgating his own revelations deemed inconsistent with those of the church. His trial was held before the Nauvoo High Council with Joseph Smith presiding. When asked to present his revelations, Bishop initially refused, but Joseph Smith invoked his mayoral authority to issue a \"warrant\" for the revelations which were then obtained. Bishop read portions of his revelations aloud and was met with laughter for what the official record termed \"the extreme of folly, nonsense, absurdity, falsehood, and bombastic egotism\". The revelations were then \"condemned\" and \"committed to the flames\" and he was \"cut off from the church and given over to the buffetings of Satan untill the day of the Lord Jesus.\"",
     "location_md": "Nauvoo, Illinois",
-    "birth_date_md": "1809",
-    "death_date_md": "1864",
+    "birth_date_md": "18 Jun 1809",
+    "death_date_md": "30 Nov 1864",
     "best_date": "11 Mar 1842",
     "best_year": 1842,
     "best_month": "Mar",

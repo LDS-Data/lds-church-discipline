@@ -34,7 +34,7 @@
   {
     "name": "Burr Riggs",
     "jsp_url": "https://www.josephsmithpapers.org/person/burr-riggs",
-    "birth_date": "1811",
+    "birth_date_md": "[17 Apr 1811](https://www.josephsmithpapers.org/person/burr-riggs)",
     "death_date": "1860",
     "sections": [
       "19th Century"
@@ -54,8 +54,8 @@
   {
     "name": "Doctor Philastus Hurlbut",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut",
-    "birth_date": "1809",
-    "death_date": "1883",
+    "birth_date": "3 Feb 1809",
+    "death_date": "16 Jun 1883",
     "sections": [
       "19th Century"
     ],
@@ -69,8 +69,9 @@
   },
   {
     "name": "Daniel Copley",
+    "jsp_url": "https://www.josephsmithpapers.org/person/daniel-copley",
     "birth_date": "abt. 1811",
-    "death_date": "1862",
+    "death_date": "6 Jul 1862",
     "sections": [
       "19th Century"
     ],
@@ -86,8 +87,8 @@
     "name": "William E. McLellin",
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-earl-mclellin",
-    "birth_date": "1806",
-    "death_date": "1883",
+    "birth_date": "18 Jan 1806",
+    "death_date": "24 Apr 1883",
     "sections": [
       "19th Century"
     ],
@@ -131,8 +132,8 @@
     "name": "John F. Boynton",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Boynton",
     "jsp_url": "https://www.josephsmithpapers.org/person/john-farnham-boynton",
-    "birth_date": "1811",
-    "death_date": "1890",
+    "birth_date": "20 Sep 1811",
+    "death_date": "20 Oct 1890",
     "sections": [
       "19th Century"
     ],
@@ -165,8 +166,8 @@
   {
     "name": "John F. Boynton",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Boynton",
-    "birth_date": "1811",
-    "death_date": "1890",
+    "birth_date": "20 Sep 1811",
+    "death_date": "20 Oct 1890",
     "sections": [
       "19th Century"
     ],
@@ -180,8 +181,8 @@
   {
     "name": "Luke Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)",
-    "birth_date": "1807",
-    "death_date": "1861",
+    "birth_date": "3 Nov 1807",
+    "death_date": "9 Dec 1861",
     "sections": [
       "19th Century"
     ],
@@ -195,8 +196,8 @@
   {
     "name": "Lyman E. Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
-    "birth_date": "1811",
-    "death_date": "1859",
+    "birth_date": "24 Oct 1811",
+    "death_date": "20 Dec 1859",
     "sections": [
       "19th Century"
     ],
@@ -230,8 +231,8 @@
     "name": "Warren Parrish",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Parrish",
     "jsp_url": "https://www.josephsmithpapers.org/person/warren-farr-parrish",
-    "birth_date": "1803",
-    "death_date": "1877",
+    "birth_date": "10 Jan 1803",
+    "death_date": "3 Jan 1877",
     "sections": [
       "19th Century"
     ],
@@ -260,8 +261,8 @@
     "name": "Luke Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)",
     "jsp_url": "https://www.josephsmithpapers.org/person/luke-johnson",
-    "birth_date": "1807",
-    "death_date": "1861",
+    "birth_date": "3 Nov 1807",
+    "death_date": "9 Dec 1861",
     "sections": [
       "19th Century"
     ],
@@ -289,8 +290,8 @@
   {
     "name": "John Gaylord",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_Gaylord",
-    "birth_date": "1797",
-    "death_date": "1874",
+    "birth_date": "12 Jul 1797",
+    "death_date": "17 Jul 1874",
     "sections": [
       "19th Century"
     ],
@@ -322,8 +323,8 @@
     "name": "W. W. Phelps",
     "wikipedia_url": "https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-wines-phelps",
-    "birth_date": "1792",
-    "death_date": "1872",
+    "birth_date": "17 Feb 1792",
+    "death_date": "7 Mar 1872",
     "sections": [
       "19th Century"
     ],
@@ -338,8 +339,8 @@
   {
     "name": "Oliver Cowdery",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Cowdery",
-    "birth_date": "1806",
-    "death_date": "1850",
+    "birth_date": "3 Oct 1806",
+    "death_date": "3 Mar 1850",
     "sections": [
       "19th Century"
     ],
@@ -354,8 +355,8 @@
   {
     "name": "Lyman E. Johnson",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
-    "birth_date": "1811",
-    "death_date": "1859",
+    "birth_date": "24 Oct 1811",
+    "death_date": "20 Dec 1859",
     "sections": [
       "19th Century"
     ],
@@ -370,8 +371,8 @@
     "name": "David Whitmer",
     "wikipedia_url": "https://en.wikipedia.org/wiki/David_Whitmer",
     "jsp_url": "https://www.josephsmithpapers.org/person/david-whitmer",
-    "birth_date": "1805",
-    "death_date": "1888",
+    "birth_date": "7 Jan 1805",
+    "death_date": "25 Jan 1888",
     "sections": [
       "19th Century"
     ],
@@ -386,8 +387,8 @@
     "name": "William E. McLellin",
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-earl-mclellin",
-    "birth_date": "1806",
-    "death_date": "1883",
+    "birth_date": "18 Jan 1806",
+    "death_date": "24 Apr 1883",
     "sections": [
       "19th Century"
     ],
@@ -415,8 +416,8 @@
     "name": "Joseph Coe",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Coe",
     "jsp_url": "https://www.josephsmithpapers.org/person/joseph-coe",
-    "birth_date": "1784",
-    "death_date": "1854",
+    "birth_date": "12 Nov 1784",
+    "death_date": "17 Oct 1854",
     "sections": [
       "19th Century"
     ],
@@ -429,8 +430,8 @@
   {
     "name": "Sampson Avard",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sampson_Avard",
-    "birth_date": "1800",
-    "death_date": "1869",
+    "birth_date": "23 Oct 1800",
+    "death_date": "15 Apr 1869",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -445,8 +446,8 @@
   {
     "name": "George M. Hinkle",
     "wikipedia_url": "https://en.wikipedia.org/wiki/George_M._Hinkle",
-    "birth_date": "1801",
-    "death_date": "1861",
+    "birth_date": "13 Nov 1801",
+    "death_date": "9 Nov 1861",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -461,8 +462,8 @@
   {
     "name": "John Corrill",
     "wikipedia_url": "https://en.wikipedia.org/wiki/John_Corrill",
-    "birth_date": "1794",
-    "death_date": "1842",
+    "birth_date": "17 Sep 1794",
+    "death_date": "26 Sep 1842",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -477,7 +478,7 @@
   {
     "name": "Reed Peck",
     "birth_date": "1814",
-    "death_date": "1894",
+    "death_date": "23 Aug 1894",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -492,8 +493,8 @@
   {
     "name": "W. W. Phelps",
     "wikipedia_url": "https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)",
-    "birth_date": "1792",
-    "death_date": "1872",
+    "birth_date": "17 Feb 1792",
+    "death_date": "7 Mar 1872",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -508,8 +509,8 @@
   {
     "name": "Thomas B. Marsh",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_B._Marsh",
-    "birth_date": "1800",
-    "death_date": "1866",
+    "birth_date": "1 Nov 1800",
+    "death_date": "Jan 1866",
     "sections": [
       "19th Century",
       "Mass Excommunications at Quincy, Illinois Church Conference"
@@ -523,7 +524,8 @@
   },
   {
     "name": "Burr Riggs",
-    "birth_date": "1811",
+    "jsp_url": "https://www.josephsmithpapers.org/person/burr-riggs",
+    "birth_date": "17 Apr 1811",
     "death_date": "1860",
     "sections": [
       "19th Century",
@@ -553,8 +555,8 @@
   {
     "name": "Isaac Russell",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Russell",
-    "birth_date": "1807",
-    "death_date": "1844",
+    "birth_date": "13 Apr 1807",
+    "death_date": "25 Sep 1844",
     "sections": [
       "19th Century",
       "The Followers of Isaac Russell"
@@ -933,8 +935,8 @@
   {
     "name": "Gladden Bishop",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gladden_Bishop",
-    "birth_date": "1809",
-    "death_date": "1864",
+    "birth_date": "18 Jun 1809",
+    "death_date": "30 Nov 1864",
     "sections": [
       "19th Century",
       "Late Joseph Smith Era"
