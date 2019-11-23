@@ -51,8 +51,8 @@ if __name__=="__main__":
     with open("discipline_base.json") as r:
         data = json.load(r)
 
-    dated_data =  list(filter(lambda obj: 'Uncertain Date' not in obj['sections'], data))
-    undated_data = list(filter(lambda obj: 'Uncertain Date'     in obj['sections'], data))
+    dated_data =  list(filter(lambda obj: 'sections' not in obj or 'Uncertain Date' not in obj['sections'], data))
+    undated_data = list(filter(lambda obj: 'sections' in obj and 'Uncertain Date'     in obj['sections'], data))
 
     resorted = [x for x in sorted(dated_data, key=obj_to_key)]
 

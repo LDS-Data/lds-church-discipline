@@ -43,10 +43,10 @@ if __name__=="__main__":
             try:
                 if obj['sections'] != current_sections:
                     print("%s %s" % ('#'*(2+len(obj['sections'])), obj['sections'][-1]))
-    
+
                 current_sections = obj['sections']
             except KeyError:
-                sys.stderr.write("No 'sections' for %s\n" % obj['name'])
+                pass
 
         parts = [name_and_lifespan(obj)]
 

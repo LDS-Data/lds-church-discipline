@@ -28,7 +28,10 @@ default_column_order = [
     'sections',
     'tags',
     'birth_place',
-    'rebaptism_date'
+    'rebaptism_date',
+    'rebaptism_date_md',
+    'baptism_date',
+    'baptism_date_md'
 ]
 
 if __name__=="__main__":

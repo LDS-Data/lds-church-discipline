@@ -55,7 +55,7 @@ def expand_date(date):
 
     return fields
 
-md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date")
+md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date", "baptism_date", "rebaptism_date")
 
 if __name__=="__main__":
     import argparse

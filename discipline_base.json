@@ -398,6 +398,20 @@
     "sex": "male"
   },
   {
+    "name": "Frederick G. Williams",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_G._Williams",
+    "jsp_url": "https://www.josephsmithpapers.org/person/frederick-granger-williams",
+    "sex": "male",
+    "birth_date": "28 Oct 1787",
+    "death_date": "10 Oct 1842",
+    "baptism_date_md": "[Oct/Nov 1830](https://www.josephsmithpapers.org/person/frederick-granger-williams)",
+    "outcome": "excommunicated?",
+    "date_md": "[by 5 Aug 1838](https://www.josephsmithpapers.org/person/frederick-granger-williams)",
+    "tagline": "physician, publisher, first presidency member",
+    "notes_md": "[Probably excommunicated](https://www.josephsmithpapers.org/person/frederick-granger-williams) as he was rebaptized 5 Aug 1838.",
+    "rebaptism_date_md": "[5 Aug 1838](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/49)"
+  },
+  {
     "name": "Joseph Coe",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Coe",
     "jsp_url": "https://www.josephsmithpapers.org/person/joseph-coe",
@@ -520,6 +534,20 @@
     "notes_md": "[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667), but [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs). He had previously been excommunicated, in 1833.",
     "outcome": "excommunicated",
     "sex": "male",
+    "location": "Quincy, Illinois"
+  },
+  {
+    "name": "Frederick G. Williams",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_G._Williams",
+    "jsp_url": "https://www.josephsmithpapers.org/person/frederick-granger-williams",
+    "sex": "male",
+    "birth_date": "28 Oct 1787",
+    "death_date": "10 Oct 1842",
+    "baptism_date_md": "[5 Aug 1838](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/49)",
+    "outcome": "excommunicated",
+    "date_md": "[17 Mar 1839](https://www.josephsmithpapers.org/person/frederick-granger-williams)",
+    "tagline": "physician, publisher, first presidency member",
+    "notes_md": "[Excommunicated](https://www.josephsmithpapers.org/person/frederick-granger-williams). \"Restored to fellowship\" Apr 1840.",
     "location": "Quincy, Illinois"
   },
   {
@@ -984,7 +1012,7 @@
     "date": "20? Aug 1842",
     "tagline": "First wife of Orson Pratt, Anti-Polygamy Society supporter, self-proclaimed apostate",
     "notes_md": "[Probably excommunicated](https://www.josephsmithpapers.org/person/sarah-marinda-bates-pratt) for \"adultery\" on accusations that she had an affair with the excommunicated John C. Bennett. This followed John C. Bennett's own allegations that Joseph Smith had proposed plural marriage to Sarah Pratt while her husband, Orson, was abroad on a mission. She was [rebaptized](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-1-21-december-1842-10-march-1843/154) alongside her husband 20 Jan 1843.",
-    "outcome": "excommunicated",
+    "outcome": "excommunicated?",
     "sex": "female",
     "location": "Nauvoo, Illinois",
     "for": "adultery"

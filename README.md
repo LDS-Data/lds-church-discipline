@@ -124,7 +124,6 @@ Entries _must_ link to primary or secondary resources documenting all factual cl
 
 The following are believed to have undergone formal church discipline but this needs to be investigated and documented:
 
-* Frederick G. Williams
 * Art Bulla
 * Marisa and Carson Calderwood
 * Frank J. Cannon

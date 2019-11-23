@@ -16,7 +16,7 @@
 * notes_md: the Markdown representation of the notes
 * notes: the plaintext representation of the notes
 * office: the priesthood office at time of disciplinary action, if known
-* outcome: the outcome of the disciplinary action. Usually either "excommunicated", "disfellowhipped", "resigned" or "no action". The main exception is Matthias Cowley's "priesthood deauthorization".
+* outcome: the outcome of the disciplinary action. Usually either "excommunicated", "disfellowhipped", "resigned" or "no action"; or those with a following "?" to indicate uncertainty. The main exception is Matthias Cowley's "priesthood deauthorization".
 * sex: "male" or "female" (we can add other options if we come across them)
 * tags: an array of plaintext strings marking distinguishing features of this entry. Examples include sources ("improvement-era") to help separate particular groups of entries.
 * location_md: the Markdown representation of the location at which the disciplinary action was carried out, if known
