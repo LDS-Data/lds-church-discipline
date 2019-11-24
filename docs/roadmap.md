@@ -18,9 +18,9 @@ Some directions to take things:
 * ~~Allow fields to be specified as plaintext or Markdown, whichever is more appropriate.~~
 * ~~Extract cleaned versions of all locations and dates~~
 * ~~Convert $FIELD_md to $FIELD when it contains no Markdown~~
+* ~~Better define the scope of the project. Are we including people who simply resigned? Do we only include notable figures, or everybody? Are all sorts of reasons included?~~
 * Add a license
 * Replace lifespan years with specific dates if known
-* Better define the scope of the project. Are we including people who simply resigned? Do we only include notable figures, or everybody? Are all sorts of reasons included?
 * Populate "office"
 * Populate "for"
 

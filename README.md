@@ -3,6 +3,14 @@ The LDS Church Discipline Database is an effort to promote understanding of LDS 
 
 **This database is neither affiliated with nor endorsed by The Church of Jesus Christ of Latter-day Saints (also known as the LDS Church or Mormon Church). The title "LDS Church Discipline Database" is meant to accurately reflect the contents and focus of the database, but does not in any way imply that The Church of Jesus Christ of Latter-day Saints approves of or is in any way responsible for the contents of the database.**
 
+## Scope
+This database concerns events of formal discipline by the LDS church documented as part of the public record. Events of
+formal discipline are defined as any occurrence of a disciplinary council either occurring or having been scheduled,
+or of disciplinary actions being carried out unilaterally by decision of a leader.
+
+Additionally, individuals who have resigned their membership from the church---even without threat of disciplinary
+action---will be included.
+
 ## Call for Contributions
 This database is far from complete. We're calling for any _publicly documented_ instances of formal church discipline not represented here, especially:
 * acquittals / "no action" results
