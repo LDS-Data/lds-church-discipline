@@ -40,7 +40,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Jesse Gause",
@@ -83,7 +84,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Burr Riggs",
@@ -130,7 +132,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Doctor Philastus Hurlbut",
@@ -173,7 +176,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Daniel Copley",
@@ -216,7 +220,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "William E. McLellin",
@@ -279,7 +284,8 @@
     "adm2": "Essex",
     "best_adm2": "Essex",
     "adm3": "Bradford",
-    "best_adm3": "Bradford"
+    "best_adm3": "Bradford",
+    "friendly_location": "Bradford, Massachusetts"
   },
   {
     "name": "Harvey G. Whitlock",
@@ -354,7 +360,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Solomon Wilbur Denton",
@@ -432,7 +439,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Luke Johnson",
@@ -474,7 +482,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Lyman E. Johnson",
@@ -514,7 +523,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Roger Orton",
@@ -561,7 +571,8 @@
     "adm2": "Lake",
     "best_adm2": "Lake",
     "adm3": "Kirtland",
-    "best_adm3": "Kirtland"
+    "best_adm3": "Kirtland",
+    "friendly_location": "Kirtland, Ohio"
   },
   {
     "name": "Warren Parrish",
@@ -765,7 +776,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "W. W. Phelps",
@@ -809,7 +821,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Oliver Cowdery",
@@ -852,7 +865,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Lyman E. Johnson",
@@ -893,7 +907,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "David Whitmer",
@@ -936,7 +951,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "William E. McLellin",
@@ -1076,7 +1092,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "George M. Hinkle",
@@ -1119,7 +1136,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "John Corrill",
@@ -1162,7 +1180,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "Reed Peck",
@@ -1204,7 +1223,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "W. W. Phelps",
@@ -1247,7 +1267,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "Thomas B. Marsh",
@@ -1290,7 +1311,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "Burr Riggs",
@@ -1333,7 +1355,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "Frederick G. Williams",
@@ -1375,7 +1398,8 @@
     "adm2": "Adams",
     "best_adm2": "Adams",
     "adm3": "Quincy",
-    "best_adm3": "Quincy"
+    "best_adm3": "Quincy",
+    "friendly_location": "Quincy, Illinois"
   },
   {
     "name": "Isaac Russell",
@@ -1418,7 +1442,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Mary Russell",
@@ -1446,7 +1471,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "John Edward Goodson",
@@ -1489,7 +1515,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Margaret Goodson",
@@ -1517,7 +1544,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Jacob Scott, Sr.",
@@ -1545,7 +1573,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The wife of Jacob Scott, Sr.",
@@ -1573,7 +1602,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Isaac Scott",
@@ -1601,7 +1631,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Jacob Scott, Jr.",
@@ -1629,7 +1660,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Ann Scott",
@@ -1657,7 +1689,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Sister Walton",
@@ -1685,7 +1718,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Robert Walton",
@@ -1713,7 +1747,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Sister Cavanaugh",
@@ -1741,7 +1776,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Ann Wanlass",
@@ -1769,7 +1805,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "William Dawson, Jr.",
@@ -1797,7 +1834,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The wife of William Dawson, Jr.",
@@ -1825,7 +1863,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "William Dawson, Sr.",
@@ -1853,7 +1892,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The wife of William Dawson, Sr.",
@@ -1881,7 +1921,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "George Nelson",
@@ -1909,7 +1950,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Joseph Nelson",
@@ -1937,7 +1979,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The wife of Joseph Nelson",
@@ -1965,7 +2008,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The mother of Joseph Nelson",
@@ -1993,7 +2037,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "William Warnock",
@@ -2021,7 +2066,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The wife of William Warnock",
@@ -2049,7 +2095,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Jonathan Maynard",
@@ -2077,7 +2124,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Nelson Maynard",
@@ -2105,7 +2153,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "George Miller",
@@ -2133,7 +2182,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "John Grigg",
@@ -2161,7 +2211,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "The wife of John Grigg",
@@ -2189,7 +2240,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Luman Gibbs",
@@ -2217,7 +2269,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Simeon Gardner",
@@ -2245,7 +2298,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Freeborn Gardner",
@@ -2273,7 +2327,8 @@
     "adm2": "Caldwell",
     "best_adm2": "Caldwell",
     "adm3": "Far West",
-    "best_adm3": "Far West"
+    "best_adm3": "Far West",
+    "friendly_location": "Far West, Missouri"
   },
   {
     "name": "Gladden Bishop",
@@ -2316,7 +2371,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "John C. Bennett",
@@ -2361,7 +2417,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Chauncey L. Higbee",
@@ -2406,7 +2463,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Orson Pratt",
@@ -2450,7 +2508,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Sarah Marinda Bates Pratt",
@@ -2495,7 +2554,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "William Law",
@@ -2539,7 +2599,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Jane Silverthorn Law",
@@ -2583,7 +2644,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Wilson Law",
@@ -2627,7 +2689,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Robert D. Foster",
@@ -2671,7 +2734,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Howard Smith",
@@ -2700,7 +2764,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Austin Cowles",
@@ -2745,7 +2810,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "James Blakeslee",
@@ -2787,7 +2853,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Francis M. Higbee",
@@ -2832,7 +2899,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Charles Ivins",
@@ -2877,7 +2945,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "James Strang",
@@ -3005,7 +3074,8 @@
     "adm2": "Hancock",
     "best_adm2": "Hancock",
     "adm3": "Nauvoo",
-    "best_adm3": "Nauvoo"
+    "best_adm3": "Nauvoo",
+    "friendly_location": "Nauvoo, Illinois"
   },
   {
     "name": "Jesse T. Hartley",
@@ -3047,7 +3117,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Harvey G. Whitlock",
@@ -3123,7 +3194,8 @@
     "adm2": "Washington",
     "best_adm2": "Washington",
     "adm3": "St. George",
-    "best_adm3": "St. George"
+    "best_adm3": "St. George",
+    "friendly_location": "St. George, Utah"
   },
   {
     "name": "William Adams \"Wild Bill\" Hickman",
@@ -3194,7 +3266,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "T. B. H. Stenhouse",
@@ -3233,7 +3306,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "George D. Watt",
@@ -3272,7 +3346,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Sarah Marinda Bates Pratt",
@@ -3312,7 +3387,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Arthur Pratt",
@@ -3339,7 +3415,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Fanny Stenhouse",
@@ -3378,7 +3455,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Ann Eliza Young",
@@ -3417,7 +3495,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "John W. Taylor",
@@ -3460,7 +3539,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Matthias F. Cowley",
@@ -3503,7 +3583,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "J. Leslie Broadbent",
@@ -3573,7 +3654,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Handsworth",
-    "best_adm3": "Handsworth"
+    "best_adm3": "Handsworth",
+    "friendly_location": "Handsworth, England, United Kingdom"
   },
   {
     "name": "Alice Maud Prescott Oakley",
@@ -3612,7 +3694,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Handsworth",
-    "best_adm3": "Handsworth"
+    "best_adm3": "Handsworth",
+    "friendly_location": "Handsworth, England, United Kingdom"
   },
   {
     "name": "George Oakley",
@@ -3651,7 +3734,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Handsworth",
-    "best_adm3": "Handsworth"
+    "best_adm3": "Handsworth",
+    "friendly_location": "Handsworth, England, United Kingdom"
   },
   {
     "name": "Ellen Mary Maude Brown",
@@ -3690,7 +3774,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Handsworth",
-    "best_adm3": "Handsworth"
+    "best_adm3": "Handsworth",
+    "friendly_location": "Handsworth, England, United Kingdom"
   },
   {
     "name": "Dennis Hy Clarence Brown",
@@ -3729,7 +3814,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Handsworth",
-    "best_adm3": "Handsworth"
+    "best_adm3": "Handsworth",
+    "friendly_location": "Handsworth, England, United Kingdom"
   },
   {
     "name": "Edith Oakley Dobell",
@@ -3768,7 +3854,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Handsworth",
-    "best_adm3": "Handsworth"
+    "best_adm3": "Handsworth",
+    "friendly_location": "Handsworth, England, United Kingdom"
   },
   {
     "name": "Agnes Katherine Anderson",
@@ -3801,7 +3888,8 @@
     "adm2": "Solano",
     "best_adm2": "Solano",
     "adm3": "Vallejo",
-    "best_adm3": "Vallejo"
+    "best_adm3": "Vallejo",
+    "friendly_location": "Vallejo, California"
   },
   {
     "name": "Edward Cline",
@@ -3834,7 +3922,8 @@
     "best_birth_day": 13,
     "best_location": "United States",
     "country": "United States",
-    "best_country": "United States"
+    "best_country": "United States",
+    "friendly_location": "United States"
   },
   {
     "name": "Robert Laurence Cummings",
@@ -3872,7 +3961,8 @@
     "adm1": "Hawaii",
     "best_adm1": "Hawaii",
     "adm2": "Kauai",
-    "best_adm2": "Kauai"
+    "best_adm2": "Kauai",
+    "friendly_location": "Kauai, Hawaii"
   },
   {
     "name": "Pedro Martinez",
@@ -3911,7 +4001,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "San Pedro?",
-    "best_adm3": "San Pedro"
+    "best_adm3": "San Pedro",
+    "friendly_location": "San Pedro, , Mexico"
   },
   {
     "name": "Jessie M. S. McIntyre",
@@ -3949,7 +4040,8 @@
     "adm2": "Randolph",
     "best_adm2": "Randolph",
     "adm3": "Evansville",
-    "best_adm3": "Evansville"
+    "best_adm3": "Evansville",
+    "friendly_location": "Evansville, Illinois"
   },
   {
     "name": "Stewart Davis Livingston",
@@ -3986,7 +4078,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Frieda M. Czaia Cope",
@@ -4021,7 +4114,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Illinois",
-    "best_adm1": "Illinois"
+    "best_adm1": "Illinois",
+    "friendly_location": "Illinois"
   },
   {
     "name": "Claricy Flynn Hubbs",
@@ -4056,7 +4150,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Illinois",
-    "best_adm1": "Illinois"
+    "best_adm1": "Illinois",
+    "friendly_location": "Illinois"
   },
   {
     "name": "Belinda Arregui",
@@ -4095,7 +4190,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Córdoba?",
-    "best_adm3": "Córdoba"
+    "best_adm3": "Córdoba",
+    "friendly_location": "Córdoba, Capital Department, Argentina"
   },
   {
     "name": "Nina W. Sims DeYoung",
@@ -4134,7 +4230,8 @@
     "adm2": "Kent",
     "best_adm2": "Kent",
     "adm3": "Grand Rapids",
-    "best_adm3": "Grand Rapids"
+    "best_adm3": "Grand Rapids",
+    "friendly_location": "Grand Rapids, Michigan"
   },
   {
     "name": "Wilhelm Ramsdorf",
@@ -4174,7 +4271,8 @@
     "adm2": "",
     "best_adm2": "",
     "adm3": "Joinville",
-    "best_adm3": "Joinville"
+    "best_adm3": "Joinville",
+    "friendly_location": "Joinville, Santa Catarina, Brazil"
   },
   {
     "name": "Alma A. Timpson",
@@ -4211,7 +4309,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Martin Enid Mortenson",
@@ -4251,7 +4350,8 @@
     "adm2": "Cochise",
     "best_adm2": "Cochise",
     "adm3": "Douglas",
-    "best_adm3": "Douglas"
+    "best_adm3": "Douglas",
+    "friendly_location": "Douglas, Arizona"
   },
   {
     "name": "Andrew C. Schade",
@@ -4284,7 +4384,8 @@
     "adm2": "Multnomah",
     "best_adm2": "Multnomah",
     "adm3": "Portland",
-    "best_adm3": "Portland"
+    "best_adm3": "Portland",
+    "friendly_location": "Portland, Oregon"
   },
   {
     "name": "Byrle Elton Blades",
@@ -4317,7 +4418,8 @@
     "adm2": "Multnomah",
     "best_adm2": "Multnomah",
     "adm3": "Portland",
-    "best_adm3": "Portland"
+    "best_adm3": "Portland",
+    "friendly_location": "Portland, Oregon"
   },
   {
     "name": "Edith D. Koester Bohnet",
@@ -4348,7 +4450,8 @@
     "adm1": "Maryland",
     "best_adm1": "Maryland",
     "adm2": "Baltimore",
-    "best_adm2": "Baltimore"
+    "best_adm2": "Baltimore",
+    "friendly_location": "Baltimore, Maryland"
   },
   {
     "name": "E. G. Dunn Hoffmann",
@@ -4382,7 +4485,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Michigan",
-    "best_adm1": "Michigan"
+    "best_adm1": "Michigan",
+    "friendly_location": "Michigan"
   },
   {
     "name": "Rulon T. Jeffs",
@@ -4457,7 +4561,8 @@
     "adm2": "Winnebago",
     "best_adm2": "Winnebago",
     "adm3": "Rockford",
-    "best_adm3": "Rockford"
+    "best_adm3": "Rockford",
+    "friendly_location": "Rockford, Illinois"
   },
   {
     "name": "Moirie Alford Measley",
@@ -4495,7 +4600,8 @@
     "adm2": "Lucas?",
     "best_adm2": "Lucas",
     "adm3": "Toledo?",
-    "best_adm3": "Toledo"
+    "best_adm3": "Toledo",
+    "friendly_location": "Toledo, Ohio"
   },
   {
     "name": "Edward Everett Nolan",
@@ -4534,7 +4640,8 @@
     "adm2": "Yellowstone",
     "best_adm2": "Yellowstone",
     "adm3": "Billings",
-    "best_adm3": "Billings"
+    "best_adm3": "Billings",
+    "friendly_location": "Billings, Montana"
   },
   {
     "name": "Martha Elizabeth Nolan",
@@ -4573,7 +4680,8 @@
     "adm2": "Yellowstone",
     "best_adm2": "Yellowstone",
     "adm3": "Billings",
-    "best_adm3": "Billings"
+    "best_adm3": "Billings",
+    "friendly_location": "Billings, Montana"
   },
   {
     "name": "Mary Elizabeth Kusch Nolan",
@@ -4612,7 +4720,8 @@
     "adm2": "Yellowstone",
     "best_adm2": "Yellowstone",
     "adm3": "Billings",
-    "best_adm3": "Billings"
+    "best_adm3": "Billings",
+    "friendly_location": "Billings, Montana"
   },
   {
     "name": "Romero G. Martinez",
@@ -4665,7 +4774,8 @@
     "adm2": "Sanpete",
     "best_adm2": "Sanpete",
     "adm3": "Fairview",
-    "best_adm3": "Fairview"
+    "best_adm3": "Fairview",
+    "friendly_location": "Fairview, Utah"
   },
   {
     "name": "Bessie O. Rhoades",
@@ -4704,7 +4814,8 @@
     "adm2": "Delaware",
     "best_adm2": "Delaware",
     "adm3": "Muncie",
-    "best_adm3": "Muncie"
+    "best_adm3": "Muncie",
+    "friendly_location": "Muncie, Indiana"
   },
   {
     "name": "Beatrice Inskup",
@@ -4743,7 +4854,8 @@
     "adm2": "Peoria",
     "best_adm2": "Peoria",
     "adm3": "Peoria",
-    "best_adm3": "Peoria"
+    "best_adm3": "Peoria",
+    "friendly_location": "Peoria, Illinois"
   },
   {
     "name": "China M. Guildner",
@@ -4782,7 +4894,8 @@
     "adm2": "Tangipahoa",
     "best_adm2": "Tangipahoa",
     "adm3": "Ponchatoula",
-    "best_adm3": "Ponchatoula"
+    "best_adm3": "Ponchatoula",
+    "friendly_location": "Ponchatoula, Louisiana"
   },
   {
     "name": "Oscar William Guildner",
@@ -4821,7 +4934,8 @@
     "adm2": "Tangipahoa",
     "best_adm2": "Tangipahoa",
     "adm3": "Hammond",
-    "best_adm3": "Hammond"
+    "best_adm3": "Hammond",
+    "friendly_location": "Hammond, Louisiana"
   },
   {
     "name": "Mary E. Lambton",
@@ -4860,7 +4974,8 @@
     "adm2": "Randolph",
     "best_adm2": "Randolph",
     "adm3": "Evansville",
-    "best_adm3": "Evansville"
+    "best_adm3": "Evansville",
+    "friendly_location": "Evansville, Illinois"
   },
   {
     "name": "Willie Persick",
@@ -4899,7 +5014,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Holden",
-    "best_adm3": "Holden"
+    "best_adm3": "Holden",
+    "friendly_location": "Holden, Texas or Louisiana"
   },
   {
     "name": "Ida Burriss",
@@ -4932,7 +5048,8 @@
     "best_birth_day": 2,
     "best_location": "United States",
     "country": "United States?",
-    "best_country": "United States"
+    "best_country": "United States",
+    "friendly_location": "United States"
   },
   {
     "name": "Etta Chadduck Mulkey",
@@ -4967,7 +5084,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Oklahoma?",
-    "best_adm1": "Oklahoma"
+    "best_adm1": "Oklahoma",
+    "friendly_location": "Oklahoma"
   },
   {
     "name": "Andalina Lujan",
@@ -5006,7 +5124,8 @@
     "adm2": "",
     "best_adm2": "",
     "adm3": "Santa Fe",
-    "best_adm3": "Santa Fe"
+    "best_adm3": "Santa Fe",
+    "friendly_location": "Santa Fe, Santa Fe, Argentina"
   },
   {
     "name": "Chloe Mae Crandall Beld",
@@ -5039,7 +5158,8 @@
     "best_birth_day": 19,
     "best_location": "United States",
     "country": "United States",
-    "best_country": "United States"
+    "best_country": "United States",
+    "friendly_location": "United States"
   },
   {
     "name": "Arthur Lee Crandall",
@@ -5074,7 +5194,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Indiana",
-    "best_adm1": "Indiana"
+    "best_adm1": "Indiana",
+    "friendly_location": "Indiana"
   },
   {
     "name": "Chester Joseph Crandall",
@@ -5109,7 +5230,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Indiana",
-    "best_adm1": "Indiana"
+    "best_adm1": "Indiana",
+    "friendly_location": "Indiana"
   },
   {
     "name": "William C. Deichmiller",
@@ -5144,7 +5266,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Illinois",
-    "best_adm1": "Illinois"
+    "best_adm1": "Illinois",
+    "friendly_location": "Illinois"
   },
   {
     "name": "Martha Carr",
@@ -5183,7 +5306,8 @@
     "adm2": "Randolph",
     "best_adm2": "Randolph",
     "adm3": "Evansville",
-    "best_adm3": "Evansville"
+    "best_adm3": "Evansville",
+    "friendly_location": "Evansville, Illinois"
   },
   {
     "name": "Lydia Loraze Clendenen",
@@ -5222,7 +5346,8 @@
     "adm2": "Randolph",
     "best_adm2": "Randolph",
     "adm3": "Evansville",
-    "best_adm3": "Evansville"
+    "best_adm3": "Evansville",
+    "friendly_location": "Evansville, Illinois"
   },
   {
     "name": "Lorene Edna Kalinksi",
@@ -5257,7 +5382,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Illinois",
-    "best_adm1": "Illinois"
+    "best_adm1": "Illinois",
+    "friendly_location": "Illinois"
   },
   {
     "name": "Emma Elizabeth Cochran",
@@ -5286,7 +5412,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Nebraska",
-    "best_adm1": "Nebraska"
+    "best_adm1": "Nebraska",
+    "friendly_location": "Nebraska"
   },
   {
     "name": "Florence Runswick",
@@ -5319,7 +5446,8 @@
     "adm2": "Los Angeles",
     "best_adm2": "Los Angeles",
     "adm3": "Los Angeles",
-    "best_adm3": "Los Angeles"
+    "best_adm3": "Los Angeles",
+    "friendly_location": "Los Angeles, California"
   },
   {
     "name": "Ruth Bohnett",
@@ -5353,7 +5481,8 @@
     "adm2": "Los Angeles",
     "best_adm2": "Los Angeles",
     "adm3": "Los Angeles",
-    "best_adm3": "Los Angeles"
+    "best_adm3": "Los Angeles",
+    "friendly_location": "Los Angeles, California"
   },
   {
     "name": "Henry James Harmon",
@@ -5387,7 +5516,8 @@
     "best_birth_day": 19,
     "best_location": "United States",
     "country": "United States",
-    "best_country": "United States"
+    "best_country": "United States",
+    "friendly_location": "United States"
   },
   {
     "name": "Virginia Miller Green",
@@ -5426,7 +5556,8 @@
     "adm2": "Blaine",
     "best_adm2": "Blaine",
     "adm3": "Chinook",
-    "best_adm3": "Chinook"
+    "best_adm3": "Chinook",
+    "friendly_location": "Chinook, Montana"
   },
   {
     "name": "Elsie Reed Henegar",
@@ -5461,7 +5592,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Oklahoma",
-    "best_adm1": "Oklahoma"
+    "best_adm1": "Oklahoma",
+    "friendly_location": "Oklahoma"
   },
   {
     "name": "Margaret Leola Bird Harris",
@@ -5500,7 +5632,8 @@
     "adm2": "Vigo",
     "best_adm2": "Vigo",
     "adm3": "Terre Haute",
-    "best_adm3": "Terre Haute"
+    "best_adm3": "Terre Haute",
+    "friendly_location": "Terre Haute, Indiana"
   },
   {
     "name": "Lorenzo Rangel",
@@ -5533,7 +5666,8 @@
     "adm2": "",
     "best_adm2": "",
     "adm3": "Piedras Negras",
-    "best_adm3": "Piedras Negras"
+    "best_adm3": "Piedras Negras",
+    "friendly_location": "Piedras Negras, Coahuila, Mexico"
   },
   {
     "name": "Hendrikus DeBuizer",
@@ -5566,7 +5700,8 @@
     "adm2": "Essex",
     "best_adm2": "Essex",
     "adm3": "East Orange",
-    "best_adm3": "East Orange"
+    "best_adm3": "East Orange",
+    "friendly_location": "East Orange, New Jersey"
   },
   {
     "name": "Amelia Volmer",
@@ -5595,7 +5730,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Eugene Houston Henegar",
@@ -5631,7 +5767,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Oklahoma",
-    "best_adm1": "Oklahoma"
+    "best_adm1": "Oklahoma",
+    "friendly_location": "Oklahoma"
   },
   {
     "name": "Mercedes L. Hardy",
@@ -5664,7 +5801,8 @@
     "adm2": "Canyon",
     "best_adm2": "Canyon",
     "adm3": "Caldwell",
-    "best_adm3": "Caldwell"
+    "best_adm3": "Caldwell",
+    "friendly_location": "Caldwell, Idaho"
   },
   {
     "name": "Marie Moss",
@@ -5697,7 +5835,8 @@
     "adm2": "Santa Clara",
     "best_adm2": "Santa Clara",
     "adm3": "San Jose",
-    "best_adm3": "San Jose"
+    "best_adm3": "San Jose",
+    "friendly_location": "San Jose, California"
   },
   {
     "name": "Owen A. Allred",
@@ -5760,7 +5899,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Hilde M. Staedtler Brandon",
@@ -5792,7 +5932,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Richard L. Staedtler",
@@ -5824,7 +5965,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Frieda M. L. Staedtler",
@@ -5856,7 +5998,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Hildegard E. Staedtler",
@@ -5888,7 +6031,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "George J. Lambros",
@@ -5920,7 +6064,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Olga Lambros",
@@ -5952,7 +6097,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Yiota P. Lambros",
@@ -5984,7 +6130,8 @@
     "adm1": "New York",
     "best_adm1": "New York",
     "adm2": "New York",
-    "best_adm2": "New York"
+    "best_adm2": "New York",
+    "friendly_location": "New York, New York"
   },
   {
     "name": "Henry Deelstra",
@@ -6017,7 +6164,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Afton Williams Johnson",
@@ -6056,7 +6204,8 @@
     "adm2": "Bannock",
     "best_adm2": "Bannock",
     "adm3": "Pocatello",
-    "best_adm3": "Pocatello"
+    "best_adm3": "Pocatello",
+    "friendly_location": "Pocatello, Idaho"
   },
   {
     "name": "Helmuth Hübener",
@@ -6092,7 +6241,8 @@
     "best_death_day": 27,
     "best_location": "Germany",
     "country": "Germany",
-    "best_country": "Germany"
+    "best_country": "Germany",
+    "friendly_location": "Germany"
   },
   {
     "name": "Kenneth Edward Livingston",
@@ -6131,7 +6281,8 @@
     "adm2": "Scioto",
     "best_adm2": "Scioto",
     "adm3": "Portsmouth",
-    "best_adm3": "Portsmouth"
+    "best_adm3": "Portsmouth",
+    "friendly_location": "Portsmouth, Ohio"
   },
   {
     "name": "Sarah Dean Tussey Livingston",
@@ -6170,7 +6321,8 @@
     "adm2": "Scioto",
     "best_adm2": "Scioto",
     "adm3": "Portsmouth",
-    "best_adm3": "Portsmouth"
+    "best_adm3": "Portsmouth",
+    "friendly_location": "Portsmouth, Ohio"
   },
   {
     "name": "William Livingston",
@@ -6209,7 +6361,8 @@
     "adm2": "Scioto",
     "best_adm2": "Scioto",
     "adm3": "Portsmouth",
-    "best_adm3": "Portsmouth"
+    "best_adm3": "Portsmouth",
+    "friendly_location": "Portsmouth, Ohio"
   },
   {
     "name": "Ruth Jane Livingston Porter",
@@ -6248,7 +6401,8 @@
     "adm2": "Scioto",
     "best_adm2": "Scioto",
     "adm3": "Portsmouth",
-    "best_adm3": "Portsmouth"
+    "best_adm3": "Portsmouth",
+    "friendly_location": "Portsmouth, Ohio"
   },
   {
     "name": "Gerrit B. J. DeBuizer, Jr.",
@@ -6281,7 +6435,8 @@
     "adm2": "Essex",
     "best_adm2": "Essex",
     "adm3": "East Orange",
-    "best_adm3": "East Orange"
+    "best_adm3": "East Orange",
+    "friendly_location": "East Orange, New Jersey"
   },
   {
     "name": "Frederick W. Fink",
@@ -6315,7 +6470,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "South Salt Lake",
-    "best_adm3": "South Salt Lake"
+    "best_adm3": "South Salt Lake",
+    "friendly_location": "South Salt Lake, Utah"
   },
   {
     "name": "Arthur Frederick Holland",
@@ -6350,7 +6506,8 @@
     "best_birth_day": 30,
     "best_location": "Canada",
     "country": "Canada?",
-    "best_country": "Canada"
+    "best_country": "Canada",
+    "friendly_location": "Canada"
   },
   {
     "name": "Annie Evelyn Gorton Holland",
@@ -6384,7 +6541,8 @@
     "best_birth_day": 3,
     "best_location": "Canada",
     "country": "Canada?",
-    "best_country": "Canada"
+    "best_country": "Canada",
+    "friendly_location": "Canada"
   },
   {
     "name": "Hugh J. Freshwater",
@@ -6425,7 +6583,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Frank Dubois",
@@ -6466,7 +6625,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Hyrum Francis Syndergaard",
@@ -6501,7 +6661,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Essie F. Stokes Zitting",
@@ -6535,7 +6696,8 @@
     "adm1": "Utah",
     "best_adm1": "Utah",
     "adm2": "Salt Lake County",
-    "best_adm2": "Salt Lake County"
+    "best_adm2": "Salt Lake County",
+    "friendly_location": "Salt Lake County, Utah"
   },
   {
     "name": "James Russell Tolman",
@@ -6568,7 +6730,8 @@
     "country": "United States?",
     "best_country": "United States",
     "adm1": "New England?",
-    "best_adm1": "New England"
+    "best_adm1": "New England",
+    "friendly_location": "New England"
   },
   {
     "name": "Martha Good",
@@ -6598,7 +6761,8 @@
     "country": "United States?",
     "best_country": "United States",
     "adm1": "New England?",
-    "best_adm1": "New England"
+    "best_adm1": "New England",
+    "friendly_location": "New England"
   },
   {
     "name": "Walter Vernal Morgan",
@@ -6633,7 +6797,8 @@
     "adm2": "Tooele",
     "best_adm2": "Tooele",
     "adm3": "Tooele",
-    "best_adm3": "Tooele"
+    "best_adm3": "Tooele",
+    "friendly_location": "Tooele, Utah"
   },
   {
     "name": "Catherine Lucy Collinwood",
@@ -6666,7 +6831,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Irene McAllister Reeves",
@@ -6701,7 +6867,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Kansas?",
-    "best_adm1": "Kansas"
+    "best_adm1": "Kansas",
+    "friendly_location": "Kansas"
   },
   {
     "name": "Joseph Detton",
@@ -6748,7 +6915,8 @@
     "adm2": "Canyon",
     "best_adm2": "Canyon",
     "adm3": "Nampa",
-    "best_adm3": "Nampa"
+    "best_adm3": "Nampa",
+    "friendly_location": "Nampa, Idaho"
   },
   {
     "name": "Lavona Rugg",
@@ -6787,7 +6955,8 @@
     "adm2": "Emery",
     "best_adm2": "Emery",
     "adm3": "Elmo",
-    "best_adm3": "Elmo"
+    "best_adm3": "Elmo",
+    "friendly_location": "Elmo, Utah"
   },
   {
     "name": "Inez Edna Penrod Welsh",
@@ -6822,7 +6991,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Ohio?",
-    "best_adm1": "Ohio"
+    "best_adm1": "Ohio",
+    "friendly_location": "Ohio"
   },
   {
     "name": "Clair Edwin Patterson",
@@ -6857,7 +7027,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Ohio?",
-    "best_adm1": "Ohio"
+    "best_adm1": "Ohio",
+    "friendly_location": "Ohio"
   },
   {
     "name": "Elizabeth Cecila Matuszzak Bauman",
@@ -6898,7 +7069,8 @@
     "adm3": "Herman",
     "best_adm3": "Herman",
     "adm4": "Lyndhurst",
-    "best_adm4": "Lyndhurst"
+    "best_adm4": "Lyndhurst",
+    "friendly_location": "Lyndhurst, Herman, Wisconsin"
   },
   {
     "name": "Martin John Schrieber",
@@ -6939,7 +7111,8 @@
     "adm3": "Herman",
     "best_adm3": "Herman",
     "adm4": "Lyndhurst",
-    "best_adm4": "Lyndhurst"
+    "best_adm4": "Lyndhurst",
+    "friendly_location": "Lyndhurst, Herman, Wisconsin"
   },
   {
     "name": "Kathrine Unfried Jones",
@@ -6978,7 +7151,8 @@
     "adm2": "Los Angeles",
     "best_adm2": "Los Angeles",
     "adm3": "Los Angeles",
-    "best_adm3": "Los Angeles"
+    "best_adm3": "Los Angeles",
+    "friendly_location": "Los Angeles, California"
   },
   {
     "name": "Parley Kelo Willis",
@@ -7018,7 +7192,8 @@
     "adm2": "Coconino",
     "best_adm2": "Coconino",
     "adm3": "Flagstaff",
-    "best_adm3": "Flagstaff"
+    "best_adm3": "Flagstaff",
+    "friendly_location": "Flagstaff, Arizona"
   },
   {
     "name": "Leland George Taylor",
@@ -7057,7 +7232,8 @@
     "adm2": "Weber",
     "best_adm2": "Weber",
     "adm3": "Ogden",
-    "best_adm3": "Ogden"
+    "best_adm3": "Ogden",
+    "friendly_location": "Ogden, Utah"
   },
   {
     "name": "Margaret Price",
@@ -7090,7 +7266,8 @@
     "adm2": "Carbon",
     "best_adm2": "Carbon",
     "adm3": "Helper",
-    "best_adm3": "Helper"
+    "best_adm3": "Helper",
+    "friendly_location": "Helper, Utah"
   },
   {
     "name": "Frederick J. Landis",
@@ -7129,7 +7306,8 @@
     "adm2": "Chautauqua",
     "best_adm2": "Chautauqua",
     "adm3": "Jamestown",
-    "best_adm3": "Jamestown"
+    "best_adm3": "Jamestown",
+    "friendly_location": "Jamestown, New York"
   },
   {
     "name": "Robert Cecil Clements",
@@ -7164,7 +7342,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Wisconsin?",
-    "best_adm1": "Wisconsin"
+    "best_adm1": "Wisconsin",
+    "friendly_location": "Wisconsin"
   },
   {
     "name": "Glen Melvin Hays",
@@ -7199,7 +7378,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Wisconsin?",
-    "best_adm1": "Wisconsin"
+    "best_adm1": "Wisconsin",
+    "friendly_location": "Wisconsin"
   },
   {
     "name": "Lucille Evelyn Hays Pederson",
@@ -7234,7 +7414,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Wisconsin?",
-    "best_adm1": "Wisconsin"
+    "best_adm1": "Wisconsin",
+    "friendly_location": "Wisconsin"
   },
   {
     "name": "Pearl Gammon",
@@ -7267,7 +7448,8 @@
     "adm2": "Utah",
     "best_adm2": "Utah",
     "adm3": "Provo",
-    "best_adm3": "Provo"
+    "best_adm3": "Provo",
+    "friendly_location": "Provo, Utah"
   },
   {
     "name": "Carl Eugene Chatel",
@@ -7307,7 +7489,8 @@
     "adm2": "Denver",
     "best_adm2": "Denver",
     "adm3": "Denver",
-    "best_adm3": "Denver"
+    "best_adm3": "Denver",
+    "friendly_location": "Denver, Colorado"
   },
   {
     "name": "Violet Fraser Barlow",
@@ -7346,7 +7529,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Fern Pierce Pendrak",
@@ -7385,7 +7569,8 @@
     "adm2": "Summit",
     "best_adm2": "Summit",
     "adm3": "Park City",
-    "best_adm3": "Park City"
+    "best_adm3": "Park City",
+    "friendly_location": "Park City, Utah"
   },
   {
     "name": "Vada Triffena Powell Lewis",
@@ -7420,7 +7605,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Indiana?",
-    "best_adm1": "Indiana"
+    "best_adm1": "Indiana",
+    "friendly_location": "Indiana"
   },
   {
     "name": "Martha Mae Villers",
@@ -7455,7 +7641,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Indiana?",
-    "best_adm1": "Indiana"
+    "best_adm1": "Indiana",
+    "friendly_location": "Indiana"
   },
   {
     "name": "Bert Conrad Silverthorne",
@@ -7494,7 +7681,8 @@
     "adm2": "Weber",
     "best_adm2": "Weber",
     "adm3": "Ogden",
-    "best_adm3": "Ogden"
+    "best_adm3": "Ogden",
+    "friendly_location": "Ogden, Utah"
   },
   {
     "name": "Fern Amack Clark",
@@ -7529,7 +7717,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Kansas?",
-    "best_adm1": "Kansas"
+    "best_adm1": "Kansas",
+    "friendly_location": "Kansas"
   },
   {
     "name": "John Joseph Deichmiller",
@@ -7564,7 +7753,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Illinois?",
-    "best_adm1": "Illinois"
+    "best_adm1": "Illinois",
+    "friendly_location": "Illinois"
   },
   {
     "name": "Martha Ann Bybee Wattis",
@@ -7603,7 +7793,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Riverdale?",
-    "best_adm3": "Riverdale"
+    "best_adm3": "Riverdale",
+    "friendly_location": "Riverdale, Utah"
   },
   {
     "name": "Efraim Amara",
@@ -7643,7 +7834,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "Chimal?",
-    "best_adm3": "Chimal"
+    "best_adm3": "Chimal",
+    "friendly_location": "Chimal, , Mexico"
   },
   {
     "name": "Francisco Sandoval",
@@ -7683,7 +7875,8 @@
     "adm2": "La Libertad",
     "best_adm2": "La Libertad",
     "adm3": "La Libertad",
-    "best_adm3": "La Libertad"
+    "best_adm3": "La Libertad",
+    "friendly_location": "La Libertad, Chiapas, Mexico"
   },
   {
     "name": "Brigida Belmont",
@@ -7722,7 +7915,8 @@
     "adm2": "?",
     "best_adm2": "",
     "adm3": "San Pedro?",
-    "best_adm3": "San Pedro"
+    "best_adm3": "San Pedro",
+    "friendly_location": "San Pedro, , Mexico"
   },
   {
     "name": "Bernice Edel May Smith",
@@ -7761,7 +7955,8 @@
     "adm2": "Marion",
     "best_adm2": "Marion",
     "adm3": "Indianapolis",
-    "best_adm3": "Indianapolis"
+    "best_adm3": "Indianapolis",
+    "friendly_location": "Indianapolis, Indiana"
   },
   {
     "name": "Wentelina Vandervis",
@@ -7800,7 +7995,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Florence Eva Ritter Hall",
@@ -7839,7 +8035,8 @@
     "adm2": "Alameda",
     "best_adm2": "Alameda",
     "adm3": "Oakland",
-    "best_adm3": "Oakland"
+    "best_adm3": "Oakland",
+    "friendly_location": "Oakland, California"
   },
   {
     "name": "Jacob Cornelius Vandervis",
@@ -7878,7 +8075,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "William Keave Chau",
@@ -7913,7 +8111,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "Rebecca Wailau Kanipae Chau",
@@ -7948,7 +8147,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "Beatrice Kaualana Kahimae Kaaeamaku",
@@ -7983,7 +8183,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "Suse Soares",
@@ -8018,7 +8219,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "Annie Soares",
@@ -8053,7 +8255,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "Mary Ann Homelani Kahinu Brighter",
@@ -8088,7 +8291,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "James Kalemaemae Brighter",
@@ -8123,7 +8327,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Hawaii?",
-    "best_adm1": "Hawaii"
+    "best_adm1": "Hawaii",
+    "friendly_location": "Hawaii"
   },
   {
     "name": "Adrian Leonard Kearl",
@@ -8163,7 +8368,8 @@
     "adm2": "Weber",
     "best_adm2": "Weber",
     "adm3": "Ogden",
-    "best_adm3": "Ogden"
+    "best_adm3": "Ogden",
+    "friendly_location": "Ogden, Utah"
   },
   {
     "name": "Sylvia Stella Dunwoody Draves",
@@ -8199,7 +8405,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Colorado?",
-    "best_adm1": "Colorado"
+    "best_adm1": "Colorado",
+    "friendly_location": "Colorado"
   },
   {
     "name": "Wilhelmina Jacoba DeBuizer Fillipi",
@@ -8238,7 +8445,8 @@
     "adm2": "Essex",
     "best_adm2": "Essex",
     "adm3": "East Orange",
-    "best_adm3": "East Orange"
+    "best_adm3": "East Orange",
+    "friendly_location": "East Orange, New Jersey"
   },
   {
     "name": "Edna May Tonek",
@@ -8277,7 +8485,8 @@
     "adm2": "Fairfield",
     "best_adm2": "Fairfield",
     "adm3": "Bridgeport",
-    "best_adm3": "Bridgeport"
+    "best_adm3": "Bridgeport",
+    "friendly_location": "Bridgeport, Connecticut"
   },
   {
     "name": "Maude Emma M. S. Richards Lackey",
@@ -8316,7 +8525,8 @@
     "adm2": "Peoria",
     "best_adm2": "Peoria",
     "adm3": "Peoria",
-    "best_adm3": "Peoria"
+    "best_adm3": "Peoria",
+    "friendly_location": "Peoria, Illinois"
   },
   {
     "name": "Phyllis Anthea Coburn Nyborg Priebe",
@@ -8355,7 +8565,8 @@
     "adm2": "Peoria",
     "best_adm2": "Peoria",
     "adm3": "Peoria",
-    "best_adm3": "Peoria"
+    "best_adm3": "Peoria",
+    "friendly_location": "Peoria, Illinois"
   },
   {
     "name": "Thelma Sutrella Richards Tohme",
@@ -8394,7 +8605,8 @@
     "adm2": "Peoria",
     "best_adm2": "Peoria",
     "adm3": "Peoria",
-    "best_adm3": "Peoria"
+    "best_adm3": "Peoria",
+    "friendly_location": "Peoria, Illinois"
   },
   {
     "name": "John William Shurrum",
@@ -8433,7 +8645,8 @@
     "adm2": "Twin Falls",
     "best_adm2": "Twin Falls",
     "adm3": "Buhl",
-    "best_adm3": "Buhl"
+    "best_adm3": "Buhl",
+    "friendly_location": "Buhl, Idaho"
   },
   {
     "name": "Hannah Wilson Shurrum",
@@ -8472,7 +8685,8 @@
     "adm2": "Twin Falls",
     "best_adm2": "Twin Falls",
     "adm3": "Buhl",
-    "best_adm3": "Buhl"
+    "best_adm3": "Buhl",
+    "friendly_location": "Buhl, Idaho"
   },
   {
     "name": "Ruth Massey",
@@ -8511,7 +8725,8 @@
     "adm2": "Los Angeles",
     "best_adm2": "Los Angeles",
     "adm3": "Los Angeles",
-    "best_adm3": "Los Angeles"
+    "best_adm3": "Los Angeles",
+    "friendly_location": "Los Angeles, California"
   },
   {
     "name": "Gladys Arlena Burns Beck",
@@ -8550,7 +8765,8 @@
     "adm2": "Alameda",
     "best_adm2": "Alameda",
     "adm3": "Oakland",
-    "best_adm3": "Oakland"
+    "best_adm3": "Oakland",
+    "friendly_location": "Oakland, California"
   },
   {
     "name": "John Jongkindt",
@@ -8592,7 +8808,8 @@
     "adm2": "Los Angeles?",
     "best_adm2": "Los Angeles",
     "adm3": "Hawthorne?",
-    "best_adm3": "Hawthorne"
+    "best_adm3": "Hawthorne",
+    "friendly_location": "Hawthorne, California"
   },
   {
     "name": "Thomas William Collings",
@@ -8632,7 +8849,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Magna",
-    "best_adm3": "Magna"
+    "best_adm3": "Magna",
+    "friendly_location": "Magna, Utah"
   },
   {
     "name": "Lulu Geraldine Varney Richardson",
@@ -8671,7 +8889,8 @@
     "adm2": "Middlesex",
     "best_adm2": "Middlesex",
     "adm3": "Cambridge",
-    "best_adm3": "Cambridge"
+    "best_adm3": "Cambridge",
+    "friendly_location": "Cambridge, Massachusetts"
   },
   {
     "name": "Richard Cleave Fitzpatrick",
@@ -8682,7 +8901,7 @@
     "notes": "Excommunicated.",
     "date": "20 Apr 1943",
     "unit": "Dublan Branch, Juarez Stake",
-    "location": "Colonia Dublán, Nuevo Casas Grandes Municipality, Chihuahua, Mexico",
+    "location": "Colonia Dublán, Nuevo Casas Grandes, Chihuahua, Mexico",
     "sections": [
       "20th Century"
     ],
@@ -8692,7 +8911,7 @@
     ],
     "date_md": "20 Apr 1943",
     "notes_md": "[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).",
-    "location_md": "Colonia Dublán, Nuevo Casas Grandes Municipality, Chihuahua, Mexico",
+    "location_md": "Colonia Dublán, Nuevo Casas Grandes, Chihuahua, Mexico",
     "unit_md": "Dublan Branch, Juarez Stake",
     "birth_date_md": "4 May 1906",
     "best_date": "20 Apr 1943",
@@ -8703,15 +8922,16 @@
     "best_birth_year": 1906,
     "best_birth_month": "May",
     "best_birth_day": 4,
-    "best_location": "Colonia Dublán, Nuevo Casas Grandes Municipality, Chihuahua, Mexico",
+    "best_location": "Colonia Dublán, Nuevo Casas Grandes, Chihuahua, Mexico",
     "country": "Mexico",
     "best_country": "Mexico",
     "adm1": "Chihuahua",
     "best_adm1": "Chihuahua",
-    "adm2": "Nuevo Casas Grandes Municipality",
-    "best_adm2": "Nuevo Casas Grandes Municipality",
+    "adm2": "Nuevo Casas Grandes",
+    "best_adm2": "Nuevo Casas Grandes",
     "adm3": "Colonia Dublán",
-    "best_adm3": "Colonia Dublán"
+    "best_adm3": "Colonia Dublán",
+    "friendly_location": "Colonia Dublán, Chihuahua, Mexico"
   },
   {
     "name": "Erwin Campbell",
@@ -8751,7 +8971,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Robert Garfield Terrell",
@@ -8788,7 +9009,8 @@
     "adm2": "Erie",
     "best_adm2": "Erie",
     "adm3": "Erie",
-    "best_adm3": "Erie"
+    "best_adm3": "Erie",
+    "friendly_location": "Erie, Pennsylvania"
   },
   {
     "name": "Lawrence Clyde Gowell",
@@ -8828,7 +9050,8 @@
     "adm2": "Middlesex",
     "best_adm2": "Middlesex",
     "adm3": "Cambridge",
-    "best_adm3": "Cambridge"
+    "best_adm3": "Cambridge",
+    "friendly_location": "Cambridge, Massachusetts"
   },
   {
     "name": "Della Estella Gowell",
@@ -8867,7 +9090,8 @@
     "adm2": "Middlesex",
     "best_adm2": "Middlesex",
     "adm3": "Cambridge",
-    "best_adm3": "Cambridge"
+    "best_adm3": "Cambridge",
+    "friendly_location": "Cambridge, Massachusetts"
   },
   {
     "name": "Ina May Gowell",
@@ -8906,7 +9130,8 @@
     "adm2": "Middlesex",
     "best_adm2": "Middlesex",
     "adm3": "Cambridge",
-    "best_adm3": "Cambridge"
+    "best_adm3": "Cambridge",
+    "friendly_location": "Cambridge, Massachusetts"
   },
   {
     "name": "Karl Gottlieb Kirstein",
@@ -8933,7 +9158,8 @@
     "best_day": 9,
     "best_location": "Brazil",
     "country": "Brazil?",
-    "best_country": "Brazil"
+    "best_country": "Brazil",
+    "friendly_location": "Brazil"
   },
   {
     "name": "Ethel Walker Holly",
@@ -8972,7 +9198,8 @@
     "adm2": "Erie",
     "best_adm2": "Erie",
     "adm3": "Buffalo",
-    "best_adm3": "Buffalo"
+    "best_adm3": "Buffalo",
+    "friendly_location": "Buffalo, New York"
   },
   {
     "name": "Carl James Brown",
@@ -9005,7 +9232,8 @@
     "adm2": "Middlesex",
     "best_adm2": "Middlesex",
     "adm3": "Cambridge",
-    "best_adm3": "Cambridge"
+    "best_adm3": "Cambridge",
+    "friendly_location": "Cambridge, Massachusetts"
   },
   {
     "name": "Grant Holly",
@@ -9045,7 +9273,8 @@
     "adm2": "Erie",
     "best_adm2": "Erie",
     "adm3": "Buffalo",
-    "best_adm3": "Buffalo"
+    "best_adm3": "Buffalo",
+    "friendly_location": "Buffalo, New York"
   },
   {
     "name": "Archibald Hoffman",
@@ -9085,7 +9314,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "South Salt Lake",
-    "best_adm3": "South Salt Lake"
+    "best_adm3": "South Salt Lake",
+    "friendly_location": "South Salt Lake, Utah"
   },
   {
     "name": "Richard R. Lyman",
@@ -9130,7 +9360,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Maurice Lerrie Glendenning",
@@ -9177,7 +9408,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "South Salt Lake",
-    "best_adm3": "South Salt Lake"
+    "best_adm3": "South Salt Lake",
+    "friendly_location": "South Salt Lake, Utah"
   },
   {
     "name": "Walter Clare Card",
@@ -9210,7 +9442,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "South Salt Lake",
-    "best_adm3": "South Salt Lake"
+    "best_adm3": "South Salt Lake",
+    "friendly_location": "South Salt Lake, Utah"
   },
   {
     "name": "Viola Stone Card",
@@ -9243,7 +9476,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "South Salt Lake",
-    "best_adm3": "South Salt Lake"
+    "best_adm3": "South Salt Lake",
+    "friendly_location": "South Salt Lake, Utah"
   },
   {
     "name": "Murtle Maus Andrew",
@@ -9276,7 +9510,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "South Salt Lake",
-    "best_adm3": "South Salt Lake"
+    "best_adm3": "South Salt Lake",
+    "friendly_location": "South Salt Lake, Utah"
   },
   {
     "name": "Fawn M. Brodie",
@@ -9322,7 +9557,8 @@
     "adm3": "New Haven",
     "best_adm3": "New Haven",
     "adm4": "Westville",
-    "best_adm4": "Westville"
+    "best_adm4": "Westville",
+    "friendly_location": "Westville, New Haven, Connecticut"
   },
   {
     "name": "John Horne Blackmore",
@@ -9359,7 +9595,8 @@
     "best_death_day": null,
     "best_location": "Canada",
     "country": "Canada",
-    "best_country": "Canada"
+    "best_country": "Canada",
+    "friendly_location": "Canada"
   },
   {
     "name": "Sally Franchow",
@@ -9384,7 +9621,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Annalee Skarin",
@@ -9422,7 +9660,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Sandra Tanner",
@@ -9462,7 +9701,8 @@
     "adm3": "Los Angeles",
     "best_adm3": "Los Angeles",
     "adm4": "North Hollywood",
-    "best_adm4": "North Hollywood"
+    "best_adm4": "North Hollywood",
+    "friendly_location": "North Hollywood, Los Angeles, California"
   },
   {
     "name": "Jerald Tanner",
@@ -9506,7 +9746,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "John Singer",
@@ -9544,7 +9785,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Ogden Kraut",
@@ -9624,7 +9866,8 @@
     "adm2": "Utah",
     "best_adm2": "Utah",
     "adm3": "Provo",
-    "best_adm3": "Provo"
+    "best_adm3": "Provo",
+    "friendly_location": "Provo, Utah"
   },
   {
     "name": "Vickie Singer",
@@ -9649,7 +9892,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Ted Bundy",
@@ -9687,7 +9931,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Byron Merchant",
@@ -9743,7 +9988,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Sonia Johnson",
@@ -9781,7 +10027,8 @@
     "adm2": "Loudoun",
     "best_adm2": "Loudoun",
     "adm3": "Sterling Park",
-    "best_adm3": "Sterling Park"
+    "best_adm3": "Sterling Park",
+    "friendly_location": "Sterling Park, Virginia"
   },
   {
     "name": "W. H. Pugmire",
@@ -9823,7 +10070,8 @@
     "adm2": "King",
     "best_adm2": "King",
     "adm3": "Seattle",
-    "best_adm3": "Seattle"
+    "best_adm3": "Seattle",
+    "friendly_location": "Seattle, Washington"
   },
   {
     "name": "Teresa Nielsen Hayden",
@@ -9859,7 +10107,8 @@
     "adm2": "King",
     "best_adm2": "King",
     "adm3": "Seattle?",
-    "best_adm3": "Seattle"
+    "best_adm3": "Seattle",
+    "friendly_location": "Seattle, Washington"
   },
   {
     "name": "David Charles Manners",
@@ -9916,7 +10165,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Bruce Holt",
@@ -9983,7 +10233,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Lynne Kanavel Whitesides",
@@ -10039,7 +10290,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Maxine Hanks",
@@ -10072,7 +10324,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Paul Toscano",
@@ -10105,7 +10358,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Lavina Fielding Anderson",
@@ -10143,7 +10397,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "D. Michael Quinn",
@@ -10237,7 +10492,8 @@
     "adm2": "Hillsborough",
     "best_adm2": "Hillsborough",
     "adm3": "Nashua",
-    "best_adm3": "Nashua"
+    "best_adm3": "Nashua",
+    "friendly_location": "Nashua, New Hampshire"
   },
   {
     "name": "Michael Barrett",
@@ -10265,7 +10521,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Virginia",
-    "best_adm1": "Virginia"
+    "best_adm1": "Virginia",
+    "friendly_location": "Virginia"
   },
   {
     "name": "Brent Metcalfe",
@@ -10346,7 +10603,8 @@
     "adm2": "Washington",
     "best_adm2": "Washington",
     "adm3": "St. George",
-    "best_adm3": "St. George"
+    "best_adm3": "St. George",
+    "friendly_location": "St. George, Utah"
   },
   {
     "name": "Margaret Toscano",
@@ -10373,7 +10631,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Utah",
-    "best_adm1": "Utah"
+    "best_adm1": "Utah",
+    "friendly_location": "Utah"
   },
   {
     "name": "Rhonda Whelan",
@@ -10404,7 +10663,8 @@
     "adm2": "Davis",
     "best_adm2": "Davis",
     "adm3": "Woods Cross",
-    "best_adm3": "Woods Cross"
+    "best_adm3": "Woods Cross",
+    "friendly_location": "Woods Cross, Utah"
   },
   {
     "name": "Shane LeGrande Whelan",
@@ -10439,7 +10699,8 @@
     "adm2": "Davis",
     "best_adm2": "Davis",
     "adm3": "Woods Cross",
-    "best_adm3": "Woods Cross"
+    "best_adm3": "Woods Cross",
+    "friendly_location": "Woods Cross, Utah"
   },
   {
     "name": "Thomas W. Murphy",
@@ -10505,7 +10766,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Sandy",
-    "best_adm3": "Sandy"
+    "best_adm3": "Sandy",
+    "friendly_location": "Sandy, Utah"
   },
   {
     "name": "Simon Southerton",
@@ -10543,7 +10805,8 @@
     "adm2": "",
     "best_adm2": "",
     "adm3": "Canberra",
-    "best_adm3": "Canberra"
+    "best_adm3": "Canberra",
+    "friendly_location": "Canberra, Australian Capital Territory, Australia"
   },
   {
     "name": "Denver Snuffer",
@@ -10576,7 +10839,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Sandy",
-    "best_adm3": "Sandy"
+    "best_adm3": "Sandy",
+    "friendly_location": "Sandy, Utah"
   },
   {
     "name": "Kate Kelly",
@@ -10609,7 +10873,8 @@
     "country": "United States",
     "best_country": "United States",
     "adm1": "Virginia",
-    "best_adm1": "Virginia"
+    "best_adm1": "Virginia",
+    "friendly_location": "Virginia"
   },
   {
     "name": "John Dehlin",
@@ -10651,7 +10916,8 @@
     "adm2": "Cache",
     "best_adm2": "Cache",
     "adm3": "North Logan",
-    "best_adm3": "North Logan"
+    "best_adm3": "North Logan",
+    "friendly_location": "North Logan, Utah"
   },
   {
     "name": "Bruce Holt",
@@ -10702,7 +10968,8 @@
     "adm2": "Utah",
     "best_adm2": "Utah",
     "adm3": "American Fork",
-    "best_adm3": "American Fork"
+    "best_adm3": "American Fork",
+    "friendly_location": "American Fork, Utah"
   },
   {
     "name": "James J. Hamula",
@@ -10732,7 +10999,8 @@
     "adm2": "Salt Lake",
     "best_adm2": "Salt Lake",
     "adm3": "Salt Lake City",
-    "best_adm3": "Salt Lake City"
+    "best_adm3": "Salt Lake City",
+    "friendly_location": "Salt Lake City, Utah"
   },
   {
     "name": "Sam Young",
@@ -10764,7 +11032,8 @@
     "adm2": "Fort Bend",
     "best_adm2": "Fort Bend",
     "adm3": "Sugar Land",
-    "best_adm3": "Sugar Land"
+    "best_adm3": "Sugar Land",
+    "friendly_location": "Sugar Land, Texas"
   },
   {
     "name": "Bill Reel",
@@ -10794,7 +11063,8 @@
     "adm2": "Washington",
     "best_adm2": "Washington",
     "adm3": "St. George",
-    "best_adm3": "St. George"
+    "best_adm3": "St. George",
+    "friendly_location": "St. George, Utah"
   },
   {
     "name": "Gina Colvin",
@@ -10823,7 +11093,8 @@
     "adm2": "",
     "best_adm2": "",
     "adm3": "Christchurch",
-    "best_adm3": "Christchurch"
+    "best_adm3": "Christchurch",
+    "friendly_location": "Christchurch, Canterbury, New Zealand"
   },
   {
     "name": "Julie Rowe",
@@ -10856,13 +11127,15 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "Excommunicated because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
+    "notes": "Excommunicated on charges of apostasy. The disciplinary council was convened because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members after having lost their own faith.",
     "outcome": "excommunicated",
     "sex": "female",
+    "for": "apostasy",
     "alt_for": "running a support group for former and questioning church members",
+    "recording_url": "http://traffic.libsyn.com/mormonstories/MormonStories-1101-YoungExcommunicationPt4.mp3",
     "date_md": "14 Apr 2019",
     "tagline_md": "Support group co-founder",
-    "notes_md": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
+    "notes_md": "[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members after having lost their own faith.",
     "best_date": "14 Apr 2019",
     "best_year": 2019,
     "best_month": "Apr",
@@ -10875,13 +11148,15 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "Excommunicated because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
+    "notes": "Excommunicated on charges of apostasy. The disciplinary council was convened because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members after having lost their own faith.",
     "outcome": "excommunicated",
     "sex": "male",
+    "for": "apostasy",
     "alt_for": "running a support group for former and questioning church members",
+    "recording_url": "http://traffic.libsyn.com/mormonstories/MormonStories-1101-YoungExcommunicationPt4.mp3",
     "date_md": "14 Apr 2019",
     "tagline_md": "Support group co-founder",
-    "notes_md": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
+    "notes_md": "[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members after having lost their own faith.",
     "best_date": "14 Apr 2019",
     "best_year": 2019,
     "best_month": "Apr",

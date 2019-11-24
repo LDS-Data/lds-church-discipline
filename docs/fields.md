@@ -61,6 +61,7 @@
 * best_adm2
 * best_adm3
 * best_adm4
+* friendly_location: a more natural form of the location
 
 ### Sporadically Used
 

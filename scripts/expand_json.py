@@ -72,7 +72,30 @@ def expand_location(location):
         fields[administrative_levels[i]] = part
         fields['best_%s' % administrative_levels[i]] = best_parts[i]
 
+    fields['friendly_location'] = friendly_location(fields['best_location'])
+
     return fields
+
+def friendly_location(location):
+    parts = location.split(", ")
+    parts.reverse()
+
+    ignore = set()
+
+    if parts[0] == 'United States' and len(parts) > 1:
+        ignore.add(0)
+
+    if len(parts) >= 4:
+        # Ignore the county / sub-region if it's there
+        ignore.add(2)
+
+    output_parts = list()
+    for i, part in enumerate(parts):
+        if i not in ignore:
+            output_parts.append(part)
+
+    output_parts.reverse()
+    return ', '.join(output_parts)
 
 # Autodetect Markdown or plaintext and put into base or _md suffixed entries accordingly
 md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date", "baptism_date", "rebaptism_date")

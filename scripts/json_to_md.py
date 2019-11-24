@@ -1,5 +1,7 @@
 import sys
 
+from fields import ALT_FOR, FOR, FRIENDLY_LOCATION, OUTCOME, UNIT
+
 SEP='—'
 
 def lifespan(obj):
@@ -63,4 +65,14 @@ if __name__=="__main__":
         parts.append(obj['notes_md'])
 
         print("* %s" % SEP.join(parts))
+        try:
+            print("  * Location: %s" % obj[FRIENDLY_LOCATION])
+        except KeyError:
+            pass
+
+        try:
+            print("  * Church unit: %s" % obj[UNIT])
+        except KeyError:
+            pass
+
         print()

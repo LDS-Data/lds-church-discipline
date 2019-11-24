@@ -34,6 +34,7 @@ default_column_order = [
     'unit_md',
     'location',
     'location_md',
+    'friendly_location',
     'country',
     'adm1',
     'adm2',

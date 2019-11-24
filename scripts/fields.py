@@ -1,0 +1,8 @@
+FOR = "for"
+ALT_FOR = "alt_for"
+LOCATION = "location"
+LOCATION_MD = "location_md"
+FRIENDLY_LOCATION = "friendly_location"
+OUTCOME = "outcome"
+UNIT = "unit"
+UNIT_MD = "unit_md"
