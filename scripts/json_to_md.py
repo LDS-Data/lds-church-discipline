@@ -1,6 +1,6 @@
 import sys
 
-from fields import ALT_FOR, FOR, FRIENDLY_LOCATION, OUTCOME, UNIT
+from fields import ALT_FOR, FOR, FRIENDLY_LOCATION, JSP_URL, OUTCOME, RECORDING_URL, UNIT
 
 SEP='—'
 
@@ -72,6 +72,16 @@ if __name__=="__main__":
 
         try:
             print("  - Church unit: %s" % obj[UNIT])
+        except KeyError:
+            pass
+
+        try:
+            print("  - [Joseph Smith Papers biography](%s)" % obj[JSP_URL])
+        except KeyError:
+            pass
+
+        try:
+            print("  - [Recording](%s)" % obj[RECORDING_URL])
         except KeyError:
             pass
 

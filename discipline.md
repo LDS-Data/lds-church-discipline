@@ -1,28 +1,35 @@
 ### 19th Century
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (18 Jan 1806-24 Apr 1883)—3 Dec 1832—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/4).
   - Location: Kirtland, Ohio
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/william-earl-mclellin)
 
 * [Jesse Gause](https://en.wikipedia.org/wiki/Jesse_Gause) (1785-1836?)—prob. 3 Dec 1832—First Presidency member and missionary—[Apparently excommunicated](https://www.josephsmithpapers.org/person/jesse-gause), for reasons unknown. A former Quaker and Shaker, his conversion to Mormonism introduced strain on his marriage that may have been a factor in his estrangement from the church.
   - Location: Kirtland, Ohio
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/jesse-gause)
 
 * Burr Riggs ([17 Apr 1811](https://www.josephsmithpapers.org/person/burr-riggs)-1860)—26 Feb 1833—Zelph Co-discoverer—[Excommunicated by a conference of high priests in Kirtland, for "neglecting to make satisfaction to the church as he had agreed, and disgracing the high priesthood by neglect of duty and saying he did not care how soon he was cut off from the church. &c. &c"](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/281) On [February 13th](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/280), a "council of High priests assembled to investigate the proceedings of Bro Burr Riggs, who was accused of not magnifying his calling as a high priest, but had been guilty of neglect of duty, of abusing the elders, and of treating their admonitions with contempt. After the council had considered the case, Brother Riggs agreed to make satisfaction, but did not shew much humility." After his excommunication he was [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs) in the church, and also later excommunicated, and reinstated yet again.
   - Location: Kirtland, Ohio
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/burr-riggs)
 
 * [Doctor Philastus Hurlbut](https://en.wikipedia.org/wiki/Doctor_Philastus_Hurlbut) (3 Feb 1809-16 Jun 1883)—3 Jun 1833—Amorous Apostate, Early Church Foe—[Excommunicated in absentia for "unchristian conduct with the female sex while on a mission to the east"](https://www.josephsmithpapers.org/paper-summary/minute-book-1/16). He was found sufficiently penitent upon appeal that [his membership was restored 21 Jun 1833](https://www.josephsmithpapers.org/paper-summary/minute-book-1/25) only to be [revoked again two days later](https://www.josephsmithpapers.org/paper-summary/minute-book-1/26) because he had reportedly claimed to have "deceived" the prior council. He went on to become a notorious critic of Mormonism, being a major contributor to Eber D. Howe's _Mormonism Unvailed_, for which he collected affidavits against the character of Joseph Smith and his family.
   - Location: Kirtland, Ohio
 
 * Daniel Copley (abt. 1811-6 Jul 1862)—21 Jun 1833—Reluctant missionary—[Excommunicated "because he refused to fulfill his mission according to the Council of the High Priesthood of the holy order of God"](https://www.josephsmithpapers.org/paper-summary/minutes-21-june-1833/1). Much like his likewise-excommunicated father, Leman Copley, Daniel Copley struggled to be "all in" on the church. When assigned to serve a mission with (later excommunicated) Doctor Philastus Hurlbut, [he refused](https://www.josephsmithpapers.org/person/daniel-copley). He later went on to serve in the First Regiment of Wisconsin Volunteers in the American Civil War.
   - Location: Kirtland, Ohio
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/daniel-copley)
 
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (18 Jan 1806-24 Apr 1883)—4 Aug 1835—Original member of the Quorum of the Twelve Apostles—[Disfellowshipped](https://www.josephsmithpapers.org/paper-summary/letter-to-quorum-of-the-twelve-4-august-1835/2) for failing to solicit donations for "a house in which to receive an endowment", and for a "libel" against the church due to this seemingly innocuous quotation from a letter he wrote his wife: "You say, that it will not be in your power to go to school this summer---I am glad that it is not, since Eld\[e\]r \[Orson\] Hyde has returned and given, me a description of the manner in which it is conducted. though we do not wish to cast any reflections."
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/william-earl-mclellin)
 
 * James Patten—7 Aug 1835—[Excommunicated for "improper conduct, and refusing to give up his license"](https://byustudies.byu.edu/content/volume-2-chapter-17).
   - Location: Bradford, Massachusetts
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—by 28 Sep 1835—Early Mormon physician, Book of Commandments witness—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/43), perhaps [for adultery](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266). He was [rebaptized](https://www.josephsmithpapers.org/paper-summary/minute-book-1/141) around 30 Jan 1836.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/harvey-gilman-whitlock)
 
 * [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (20 Sep 1811-20 Oct 1890)—1837—Original member of the Quorum of the Twelve Apostles, geologist, inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton).
   - Location: Kirtland, Ohio
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/john-farnham-boynton)
 
 * [Solomon Wilbur Denton](https://en.wikipedia.org/wiki/Solomon_Wilbur_Denton) (1816-1864)—Apr? 1837—Printer, bodyguard—[Excommunicated "for lack of faith, non-observance of duties and contempt for the quorum of High Priests"](https://archive.org/details/PainesvilleTelegraph9June1837/page/n1). He had testified in court that Joseph Smith had recruited him to murder Grandison Newell (a murder which never occurred).
 
@@ -39,20 +46,26 @@
   - Location: Kirtland, Ohio
 
 * [Warren Parrish](https://en.wikipedia.org/wiki/Warren_Parrish) (10 Jan 1803-3 Jan 1877)—Dec 1837—Seventy, accused embezzler, dissident—[Excommunicated while leading a group of dissidents opposed to Joseph Smith](https://www.josephsmithpapers.org/person/warren-farr-parrish). He had been accused of embezzling from the Kirtland Safety Society and thus participating in its downfall.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/warren-farr-parrish)
 
 * [Leonard Rich](https://en.wikipedia.org/wiki/Leonard_Rich) (1800-1868)—Dec 1837—Inaugural member of the Seven Presidents of Seventy—Excommunicated after joining a group of dissenters led by fellow excommunicant Warren Parrish, attempting to restore the church to its prior form as the "Church of Christ".
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/leonard-rich?highlight=Leonard%20Rich)
 
 * [Luke Johnson](https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)) (3 Nov 1807-9 Dec 1861)—1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/luke-johnson). He was rebaptized in 1846 and journeyed to Utah where he lived the rest of his life.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/luke-johnson)
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—1838?—Early Mormon physician, Book of Commandments witness—[Presumably excommunicated](https://www.josephsmithpapers.org/person/harvey-gilman-whitlock) after he "withdrew" from the church as he was rebaptized in 1858. The "Journal History of the Church" in 1859 [reported](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266) that he had "apostatized" in 1838 and "went with Geo\[rge\] M. Hinkle", the later-excommunicated militia leader who turned Joseph Smith over to the Missourians.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/harvey-gilman-whitlock)
 
 * [John Gaylord](https://en.wikipedia.org/wiki/John_Gaylord) (12 Jul 1797-17 Jul 1874)—13 Jan 1838—Member of the Presidency of the Seventy—[Excommunicated for "rising up in rebellion against the church"](https://www.josephsmithpapers.org/back/general-church-officers-october-1835-january-1838), reportedly due to his bitterness over the failure of the Kirtland Safety Society. He later reunited with the church, following James J. Strang after Joseph Smith's death, and joining the Reorganized Church of Jesus Christ of Latter Day Saints upon Strang's death.
 
 * [John Whitmer](https://en.wikipedia.org/wiki/John_Whitmer) (27 Aug 1802-11 Jul 1878)—10 Mar 1838—One of the Eight Witnesses of the Book of Mormon—[Excommunicated alongside W. W. Phelps for "persisting in unchristian like conduct"](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110). The minutes of the Far West High Council recorded: "After some remarks by Presidents Marsh & Patten, setting forth the iniquity of those men, in claiming the $2.000 spoken of, which did not belong to them any more than any other person in the church; it was decided that William W. Phelps and John Whitmer be no longer members of the church of Christ of Latter Day Saints, & be given over to the buffetings of Satan, until they learn to blaspheme no more against the authorities of God, nor fleece the flock of Christ." He was driven from Far West along with other "dissenters". After Joseph Smith's death he supported his brother's (David Whitmer's) claim to church leadership.
   - Location: Far West, Missouri
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/john-whitmer)
 
 * [W. W. Phelps](https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)) (17 Feb 1792-7 Mar 1872)—10 Mar 1838—Printer and hymnist—[Excommunicated alongside John Whitmer for "persisting in unchristian like conduct"](https://www.josephsmithpapers.org/paper-summary/minute-book-2/110), specifically for alleged mishandling of Far West land, and temple donations.
   - Location: Far West, Missouri
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/william-wines-phelps)
 
 * [Oliver Cowdery](https://en.wikipedia.org/wiki/Oliver_Cowdery) (3 Oct 1806-3 Mar 1850)—12 Apr 1838—Book of Mormon Witness, Apostle, Second Elder, Assistant President—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/17) [on six different charges, including his accusation that Joseph Smith was an adulterer](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/16) due to his relationship with Fanny Alger which Cowdery termed a "dirty, nasty, filthy affair". He was rebaptized into the LDS church in 1848.
   - Location: Far West, Missouri
@@ -62,12 +75,16 @@
 
 * [David Whitmer](https://en.wikipedia.org/wiki/David_Whitmer) (7 Jan 1805-25 Jan 1888)—13 Apr 1838—Book of Mormon Witness, founding church member—[Withdrew his membership from the church](https://www.josephsmithpapers.org/paper-summary/minute-book-2/136) in response to [numerous charges](https://www.josephsmithpapers.org/paper-summary/minute-book-2/135): "First, For not observing the word of wisdom, 2 for unchristian-like conduct in neglecting to attend to meetings, in uniting, with, and possessing the same spirit with the Dissenters, in writing letters to the Dissenters in Kirtland unfavorable to the cause and to Br Joseph Smith jr. 3nd For neglecting the duties of his calling. 4th, For seperating himself from the cause and the Church while he has a name among us. 5 For signing himself President of the Church of Christ in an insulting letter to the High Council." Along with other dissenters, [he was driven from Missouri a few months later](https://www.josephsmithpapers.org/person/david-whitmer), presumably by "Danites" inspired by Sidney Rigdon's "Salt Sermon". These removals added to Mormon-Missourian tensions that resulted in the 1838 Mormon War and ultimately the infamous [Missouri Executive Order 44](https://en.wikipedia.org/wiki/Missouri_Executive_Order_44) ordering the Mormons "treated as enemies" and "exterminated or driven from the state if necessary for the public peace." David Whitmer maintained his belief in the Book of Mormon throughout his life. He never rejoined the LDS church.
   - Location: Far West, Missouri
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/david-whitmer)
 
 * [William E. McLellin](https://en.wikipedia.org/wiki/William_E._McLellin) (18 Jan 1806-24 Apr 1883)—11 May 1838—Original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/26) because he expressed he had no confidence in the church's leaders, perhaps as a response to the failure of the Kirtland Safety Society.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/william-earl-mclellin)
 
 * [Frederick G. Williams](https://en.wikipedia.org/wiki/Frederick_G._Williams) (28 Oct 1787-10 Oct 1842)—[by 5 Aug 1838](https://www.josephsmithpapers.org/person/frederick-granger-williams)—physician, publisher, first presidency member—[Probably excommunicated](https://www.josephsmithpapers.org/person/frederick-granger-williams) as he was rebaptized 5 Aug 1838.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/frederick-granger-williams)
 
 * [Joseph Coe](https://en.wikipedia.org/wiki/Joseph_Coe) (12 Nov 1784-17 Oct 1854)—Dec 1838—Kirtland High Councilor, Book of Abraham Financier, Safety Society Dissenter—[Excommunicated](https://www.josephsmithpapers.org/person/joseph-coe) following the collapse of the Kirtland Safety Society.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/joseph-coe)
 
 #### Mass Excommunications at Quincy, Illinois Church Conference
 * [Sampson Avard](https://en.wikipedia.org/wiki/Sampson_Avard) (23 Oct 1800-15 Apr 1869)—17 Mar 1839—Founding Danite who testified against Joseph Smith in court—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667).
@@ -90,9 +107,11 @@
 
 * Burr Riggs (17 Apr 1811-1860)—17 Mar 1839—Zelph Co-discoverer—[Excommunicated by a conference of the church](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf/page/n667), but [later reinstated](https://www.josephsmithpapers.org/person/burr-riggs). He had previously been excommunicated, in 1833.
   - Location: Quincy, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/burr-riggs)
 
 * [Frederick G. Williams](https://en.wikipedia.org/wiki/Frederick_G._Williams) (28 Oct 1787-10 Oct 1842)—[17 Mar 1839](https://www.josephsmithpapers.org/person/frederick-granger-williams)—physician, publisher, first presidency member—[Excommunicated](https://www.josephsmithpapers.org/person/frederick-granger-williams). "Restored to fellowship" Apr 1840.
   - Location: Quincy, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/frederick-granger-williams)
 
 #### The Followers of Isaac Russell
 * [Isaac Russell](https://en.wikipedia.org/wiki/Isaac_Russell) (13 Apr 1807-25 Sep 1844)—26 Apr 1839—Unapproved revelator—[Excommunicated](http://emp.byui.edu/satterfieldb/rel341/Mission%20to%20England%20Meeting%20April%2026.html) for [attempting to lead his converts from Alston, England on an unauthorized mission to the Lamanites](https://rsc.byu.edu/archived/regional-studies-latter-day-saint-church-history-british-isles/remembering-impact-british) on the basis of revelation he claimed to have received. According to the official History of the Church, "[Mr. Bishop was tried by the High Council, his papers examined, condemned and burned, and he cut off the Church](https://byustudies.byu.edu/content/volume-4-chapter-33). He acknowledged the justice of the decision, and said 'that he now saw his error, for if he had been governed by the revelations given before, he might have known that no man was to write revelations for the Church, but Joseph Smith,' and begged to be prayed for, and forgiven by the brethren." He does not appear to have rejoined the church, and died in 1844 of "swamp fever".
@@ -194,21 +213,26 @@
 
 * [John C. Bennett](https://en.wikipedia.org/wiki/John_C._Bennett) (1804-1867)—11 May 1842—Physician, Assistant President in First Presidency, Nauvoo Mayor, Spiritual Wifery Proponent—[Excommunicated for adultery](https://www.josephsmithpapers.org/person/john-cook-bennett) on account of his practice of "spiritual wifery", a form of free love. Soon thereafter he was expelled from the Nauvoo Masonic Lodge, and he and his wife divorced. In turn he accused Joseph Smith of attempting to assassinate former Governor of Missouri Lilburn Boggs, and of adulterous relationships under the guise of polygamy. Bennett later went on to join the Strangite faction of Mormonism, from which he was also excommunicated for sexual improprieties. He also became known for his promotion of the tomato and certain breeds of chickens.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/john-cook-bennett)
 
 * [Chauncey L. Higbee](https://en.wikipedia.org/wiki/Chauncey_L._Higbee) (1821-1884)—20 May 1842—Seducer, _Nauvoo Expositor_ [editor](https://www.josephsmithpapers.org/person/chauncey-lawson-higbee)—[Excommunicated for "unchaste and unvirtuous conduct"](https://archive.org/stream/NauvooHighCouncilMinutes/Nauvoo%20High%20Council%20Minutes_djvu.txt) and teaching "the doctrine that it was right to have free intercourse with women if it was kept secret &c and also... that Joseph Smith authorized him to practise these things &c." [The testimony of the three witnesses at his excommunication trial (as well as one other)](https://en.wikisource.org/wiki/Testimony_against_Chauncey_L._Higbee) was published in the _Nauvoo Neighbor_ two years later. He had told the widow Sarah Miller that physician John C. Bennett would perform abortions should she become pregnant.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/chauncey-lawson-higbee)
 
 * [Orson Pratt](https://en.wikipedia.org/wiki/Orson_Pratt) (1811-1881)—20 Aug 1842—Philosopher, original member of the Quorum of the Twelve Apostles—[Excommunicated](https://www.josephsmithpapers.org/person/orson-pratt) for declining to endorse Joseph Smith's moral character in light of accusations that the prophet had proposed plural marriage to Orson's wife in his absence. [Rebaptized](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-1-21-december-1842-10-march-1843/154) alongside his wife 20 Jan 1843.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/orson-pratt)
 
 * [Sarah Marinda Bates Pratt](https://en.wikipedia.org/wiki/Sarah_Marinda_Bates_Pratt) (1817-1888)—20? Aug 1842—First wife of Orson Pratt, Anti-Polygamy Society supporter, self-proclaimed apostate—[Probably excommunicated](https://www.josephsmithpapers.org/person/sarah-marinda-bates-pratt) for "adultery" on accusations that she had an affair with the excommunicated John C. Bennett. This followed John C. Bennett's own allegations that Joseph Smith had proposed plural marriage to Sarah Pratt while her husband, Orson, was abroad on a mission. She was [rebaptized](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-1-21-december-1842-10-march-1843/154) alongside her husband 20 Jan 1843.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/sarah-marinda-bates-pratt)
 
 * [William Law](https://en.wikipedia.org/wiki/William_Law_(Latter_Day_Saints)) (1809-1892)—18 Apr 1844—First Presidency member, founder and president of the dissident True Church of Jesus Christ of Latter Day Saints, _Nauvoo Expositor_ publisher—[Excommunicated in absentia](https://archive.org/details/WilliamLawNauvooDissenter/page/n13) for ["unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) due to his involvement with the _Nauvoo Expositor_. He had served in the First Presidency since 1841 but was [removed from that office for opposition to polygamy](https://archive.org/details/WilliamLawNauvooDissenter/page/n19). He expressed additional concerns about Joseph Smith's [doctrine of exaltation](https://archive.org/details/WilliamLawNauvooDissenter/page/n15) and [intermingling of ecclesiastical and economic affairs](https://archive.org/details/WilliamLawNauvooDissenter/page/n13).
   - Location: Nauvoo, Illinois
 
 * Jane Silverthorn Law (1815-1882)—18 Apr 1844—[Wife of William Law](https://www.josephsmithpapers.org/person/jane-silverthorn-law)—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93). [Joseph Smith may have made her sealing to him a precondition for her sealing to her husband](https://archive.org/details/WilliamLawNauvooDissenter/page/n17). It is unclear whether she was actually sealed to Joseph Smith, though it appears that she eventually assented to the sealing.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/jane-silverthorn-law)
 
 * [Wilson Law](https://en.wikipedia.org/wiki/Wilson_Law) (1806-1876)—18 Apr 1844—Nauvoo Legion Brigadier General, _Nauvoo Expositor_ publisher, brother of William Law—[Excommunicated for "unchristianlike conduct"](https://www.josephsmithpapers.org/paper-summary/journal-december-1842-june-1844-book-4-1-march-22-june-1844/93) for his involvement with the _Nauvoo Expositor_.
   - Location: Nauvoo, Illinois
@@ -221,15 +245,19 @@
 
 * [Austin Cowles](https://en.wikipedia.org/wiki/Austin_Cowles) (1792-1872)—18 May 1844—Hymnist and anti-polygamy crusader—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19) on account of his strenuous opposition to polygamy. He went on to publicly denounce Mormon polygamy in the _Nauvoo Expositor_, whose first and only printing led to the arrest and death of Joseph Smith.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/austin-cowles)
 
 * James Blakeslee (1802-1866)—18 May 1844—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). In a _tour de schism_ he [followed](https://www.josephsmithpapers.org/person/james-blakeslee) Sidney Rigdon after Joseph Smith's death, then James J. Strang, then Charles B. Thompson (the "Baneemyites"), finally finding a spiritual home in the Reorganized Church of Jesus Christ of Latter Day Saints where he became an apostle.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/james-blakeslee)
 
 * [Francis M. Higbee](https://en.wikipedia.org/wiki/Francis_M._Higbee) (1820-1856)—18 May 1844—_Nauvoo Expositor_ editor, Nauvoo Legion colonel—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He went on to participate in the publication of the _Nauvoo Expositor_, leading to the arrest and death of Joseph Smith.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/francis-marion-higbee)
 
 * [Charles Ivins](https://en.wikipedia.org/wiki/Charles_Ivins) (1799-1875)—18 May 1844—Dissenting bishop, _Nauvoo Expositor_ publisher—[Excommunicated for apostasy](https://byustudies.byu.edu/content/volume-6-chapter-19). He had been appointed bishop of a new church formed by dissenters. Following his excommunication, he was one of the publishers of the _Nauvoo Expositor_, the destruction of which resulted in the arrest and death of Joseph Smith.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/charles-ivins)
 
 * [James Strang](https://en.wikipedia.org/wiki/James_Strang) (1813-1856)—26 Aug 1844—Legislator, naturalist, would-be successor to Joseph Smith, self-proclaimed King of the Kingdom of God—[Excommunicated by the church he sought to lead](https://web.archive.org/web/20180709010154/http://www.centerplace.org/history/ts/v5n16.htm) for claiming that Joseph Smith had appointed him as his successor, and that his calling had been confirmed by the appearance of an angel upon the prophet's death. Strang rejected the LDS Church's authority to excommunicate him, the (purported) president of the church, without trial. His claim to the prophetic mantle rested upon a controversial Letter of Appointment supposedly sent by Joseph Smith 18 Jun 1844, and upon his translation of the Voree Plates. His [Church of Jesus Christ of Latter Day Saints (Strangite)](https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)), headquartered on Beaver Island on Lake Michigan, became a substantial rival to Brigham Young's faction with 12,000 adherents. He later claimed to translate a portion of the "Plates of Laban", producing "The Book of the Law of the Lord". In 1849 he abruptly embraced polygamy, ultimately marrying four additional wives, and in 1850 he had himself crowned king of the Kingdom of God. He was assassinated in 1856.
 
@@ -237,15 +265,18 @@
 
 #### Interregnum
 * [Josiah Butterfield](https://en.wikipedia.org/wiki/Josiah_Butterfield) (1795-1871)—7 Oct 1844—Member of the Presidency of the Seventy—[Excommunicated](https://www.josephsmithpapers.org/person/josiah-butterfield) as a consequence of disaffection stemming from a personal conflict with Joseph Smith over an estate settlement. Originally baptized by fellow excommunicant John F. Boynton.
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/josiah-butterfield)
 
 * [George J. Adams](https://en.wikipedia.org/wiki/George_J._Adams) (1810-1880)—Apr 1845—Actor, Apostle to Russia, Council of Fifty Member, Failed Colonizer of Israel—[Disfellowshipped and excommunicated for "the most disgraceful and diabolical conduct"](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/9468) for supporting Joseph Smith III as Joseph Smith's successor. He [testified in Augusta Cobb's divorce trial](https://web.archive.org/web/20191013205529/http://www.sidneyrigdon.com/dbroadhu/IL/whig1847.htm) in which her husband accused her of adultery after her 1843 plural marriage to Brigham Young. Adams later joined James J. Strang's movement and in 1850 personally placed a crown upon Strang's head on Beaver Island, Michigan, crowning Strang king of the Kingdom of God. He was likewise excommunicated from that church. He went on to found the Church of the Messiah and lead an ill-fated band of colonists to Palestine where they hoped to prepare the way for Christ's second coming.
   - Location: Nauvoo, Illinois
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/george-washington-joshua-adams)
 
 #### Brigham Young Era
 * Jesse T. Hartley (1831-1854)—9 Apr 1854—Doomed California lawyer accused of horse-thievery—[Excommunicated at the church's General Conference](https://web.archive.org/web/20191013205113/https://user.xmission.com/~research/mormonpdf/storm.pdf) on this denunciation by Brigham Young: "If that Jesse T. Hartley that I voted for yesterday to go on a mission, is the Lawyer that came from oregon last fall---I re\[s\]cind my vote---for that man is a vagrant---a thief, & a robber. He ought to be baptised in Salt Lake with stones tied to him & hold him under 24 hou\[rs\] to wash away one hundredth part of his sins: He ought to be Sent to hell across lots on a missio\[n\] to preach to the damned. If that hartley appointed on a mission is not this one that I speak of, this will not hurt him---but if he is the man, what I have said is right!" Hartley disputed the charges, but he was ultimately "cut off from the church" on a motion by Brigham Young. The cause of Brigham Young's wrath was almost certainly the letter Hartley had written shortly before to U.S. Secretary of War Jefferson Davis, urging him to get Brigham Young removed as territorial governor and to use federal troops to impose order. The letter never arrived at its destination, apparently being diverted due to its content and finding a home amid Brigham Young's own papers. Jesse T. Hartley was murdered by fellow excommunicant "Wild Bill" Hickman around 1 May 1854 as he attempted to flee eastward to urge action against Brigham Young.
   - Location: Salt Lake City, Utah
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—prob. by 29 Apr 1859—Early Mormon physician, Book of Commandments witness—Probably excommunicated by 29 Apr 1859 as the "Journal History of the Church" [deemed him an "apostate"](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=291) on that day. It had previously [reported](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266) that he came to Utah in 1849 but "soon became dissatisfied and left for California".
+  - [Joseph Smith Papers biography](https://www.josephsmithpapers.org/person/harvey-gilman-whitlock)
 
 * Orson Pratt, Jr. (1837-1903)—18 Sep 1864—First son of apostle Orson Pratt and Sarah Pratt—[Excommunicated for "unbelief"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V21N01_86.pdf) by the St. George High Council, the same day he had [testified](https://archive.org/details/SarahPrattShapingOfAnApostate/page/n23) in sacrament meeting, "I have come to the conclusion that Joseph Smith was not especially sent by the Lord to establish this work, and I cannot help it, for I could not believe otherwise, even if I knew I was to suffer for it the next moment." He had previously been called on a mission but [declined to serve](https://history.churchofjesuschrist.org/missionary/individual/orson-pratt-jr-1837?lang=eng).
   - Location: St. George, Utah
@@ -1035,6 +1066,7 @@
   - Church unit: North Logan Stake
 
 * Bruce Holt—30 Mar 2016—Software developer—[Excommunicated](http://www.mormonthink.com/personalstories/bruce-holt.htm) because he would not take down his Facebook post denouncing Joseph Smith as a "fraud".
+  - [Recording](https://web.archive.org/web/20190727060650/http://www.mormonthink.com/files/dc-bruce-holt-03-30-2016.mp3)
 
 * Jeremy Runnells—17 Apr 2016—Author of "Letter to a CES Director"—[Resigned his church membership during his disciplinary council for apostasy](http://www.mormonthink.com/files/jeremy-runnells-disciplinary-council-transcript.pdf) wherein he was [accused of criticizing church leaders, expressing disbelief in the Scriptures, and expressing opposition to church leaders](https://cesletter.org/resign/) including founding prophet, Joseph Smith. He was disciplined for creating a document which asks questions regarding the history of the LDS faith and challenges its truth claims. The letter was [written in 2013](https://www.mormonstories.org/podcast/jeremy-runnells-and-his-letter-to-a-ces-director/) and went viral shortly thereafter.
   - Location: American Fork, Utah
@@ -1057,9 +1089,11 @@
 
 * Leah Young—14 Apr 2019—Support group co-founder—[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members after having lost their own faith.
   - Location: Columbus, Ohio
+  - [Recording](http://traffic.libsyn.com/mormonstories/MormonStories-1101-YoungExcommunicationPt4.mp3)
 
 * Cody Young—14 Apr 2019—Support group co-founder—[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members after having lost their own faith.
   - Location: Columbus, Ohio
+  - [Recording](http://traffic.libsyn.com/mormonstories/MormonStories-1101-YoungExcommunicationPt4.mp3)
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
