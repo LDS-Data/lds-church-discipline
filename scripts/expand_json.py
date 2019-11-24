@@ -56,6 +56,24 @@ def expand_date(date, prefix=""):
 
     return fields
 
+regioned_countries = set(['United States'])
+administrative_levels = ["country", "adm1", "adm2", "adm3", "adm4"]
+def expand_location(location):
+    fields = {
+        'best_location': location.replace("?","")
+    }
+
+    parts = location.split(", ")
+    parts.reverse()
+
+    best_parts = fields['best_location'].split(", ")
+    best_parts.reverse()
+    for i, part in enumerate(parts):
+        fields[administrative_levels[i]] = part
+        fields['best_%s' % administrative_levels[i]] = best_parts[i]
+
+    return fields
+
 # Autodetect Markdown or plaintext and put into base or _md suffixed entries accordingly
 md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date", "baptism_date", "rebaptism_date")
 
@@ -117,6 +135,11 @@ if __name__=="__main__":
 
         try:
             fields.update(expand_date(fields['death_date'], prefix='death_'))
+        except KeyError:
+            pass
+
+        try:
+            fields.update(expand_location(fields['location']))
         except KeyError:
             pass
 

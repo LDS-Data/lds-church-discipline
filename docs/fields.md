@@ -50,6 +50,17 @@
 * best_death_year: the best estimate of the year the person died, if known
 * best_death_month: the best estimate of the month the person died, if known
 * best_death_day: the best estimate of the day of month the person died, if known
+* country
+* adm1
+* adm2
+* adm3
+* adm4
+* best_location
+* best_country
+* best_adm1
+* best_adm2
+* best_adm3
+* best_adm4
 
 ### Sporadically Used
 

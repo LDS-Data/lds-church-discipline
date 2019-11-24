@@ -16,11 +16,11 @@ Some directions to take things:
 * ~~Make JSON the "source of truth"? Right now the data is contained in README.md but this is messy. It might be better to make the JSON data primary. Either that or really embrace this "em-dash separated values" format?~~
 * ~~Autogenerate "Unconfirmed"~~
 * ~~Allow fields to be specified as plaintext or Markdown, whichever is more appropriate.~~
+* ~~Extract cleaned versions of all locations and dates~~
+* ~~Convert $FIELD_md to $FIELD when it contains no Markdown~~
 * Add a license
 * Replace lifespan years with specific dates if known
 * Better define the scope of the project. Are we including people who simply resigned? Do we only include notable figures, or everybody? Are all sorts of reasons included?
-* Extract cleaned versions of all locations and dates
-* Convert $FIELD_md to $FIELD when it contains no Markdown
 * Populate "office"
 * Populate "for"
 
