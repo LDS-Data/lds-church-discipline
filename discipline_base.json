@@ -1430,7 +1430,7 @@
     "date": "11 May 1911",
     "tagline": "Resigned Apostle, Polygamist, Sermonizer",
     "notes": "[Deprived of \"the right and authority to exercise any of the functions of the priesthood\" for \"insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints\"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/), specifically for continued involvement with plural marriages not authorized by the church. Along with fellow apostle John W. Taylor, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings. His non-standard penalty for insubordination was removed and his priesthood restored 3 Apr 1936.",
-    "outcome": "priesthood deauthorized",
+    "outcome": "priesthood-deauthorized",
     "sex": "male",
     "location": "Salt Lake City, Utah",
     "for": "insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints"
@@ -4797,7 +4797,7 @@
     "date": "[20 Dec 2018](https://religionnews.com/2018/12/19/mormon-podcaster-gina-colvin-faces-excommunication-tonight-feeling-both-saddened-and-enraged/)",
     "tagline": "_A Thoughtful Faith_ podcaster",
     "notes": "[No action was taken](https://www.sltrib.com/religion/2018/12/20/mormonism-its-best/) in her disciplinary council, convened to hear charges of apostasy and \"conduct unbecoming\" a church member. She has since [resigned from the LDS church and joined the Community of Christ](https://www.athoughtfulfaith.org/300-for-new-beginnings-gina-colvin/).",
-    "outcome": "no action",
+    "outcome": "no-action",
     "sex": "female",
     "location": "[Christchurch, New Zealand](https://www.sltrib.com/religion/2018/12/20/mormonism-its-best/)"
   },

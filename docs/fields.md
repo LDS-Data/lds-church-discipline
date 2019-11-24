@@ -16,7 +16,17 @@
 * notes_md: the Markdown representation of the notes
 * notes: the plaintext representation of the notes
 * office: the priesthood office at time of disciplinary action, if known
-* outcome: the outcome of the disciplinary action. Usually either "excommunicated", "disfellowhipped", "resigned" or "no action"; or those with a following "?" to indicate uncertainty. The main exception is Matthias Cowley's "priesthood deauthorization".
+* outcome: the outcome of the disciplinary action. The primary options are:
+  * excommunicated: also referred to as being "cut off" from the church, or simply no longer being considered a member (not at the member's request).
+  * excommunicated-at-own-request: this primarily occurred before the 1989 handbook revision which permitted resignation, [probably triggered by a lawsuit by Norman Hancock](https://web.archive.org/web/20190907202136/http://mormon-alliance.org/casereports/volume3/part1/v3p1c05.htm). (Excommunication was previously the only route out of church membership.)
+  * disfellowshipped: various privileges of membership were suspended but membership was retained.
+  * resigned: a member requested to no longer be a member (not by excommunication) while not under immediate threat of church discipline.
+  * resigned-in-response-to-discipline: a member resigned while under immediate threat of church discipline. Either a summons was received, or a council was in progress, or disciplinary action had been materially threatened.
+  * priesthood-deathorized: the (male) member's priesthood authority was revoked. This may only have happened to Matthias F. Cowley.
+  * no-action: a council was held but no action was taken
+  * council-averted: a council was planned and a summons delivered to the member, but was not ultimately held. In this case the "date" represents the date the council had been planned for.
+
+  These same options can be have a following question mark to indicate uncertainty about the outcome.
 * sex: "male" or "female" (we can add other options if we come across them)
 * tags: an array of plaintext strings marking distinguishing features of this entry. Examples include sources ("improvement-era") to help separate particular groups of entries.
 * location_md: the Markdown representation of the location at which the disciplinary action was carried out, if known
@@ -36,6 +46,7 @@
 * birth_place: where the person was born. Sometimes we know this, might as well keep track of it.
 * alt_for: unofficial reasons for the disciplinary action. Either a string or an array of strings.
 * rebaptism_date: the text representation of the date of the person's next baptism after being excommunicated in this action (if applicable)
+* disciplinary_council_recording_url: URL of a recording of the disciplinary council itself
 
 ### Contemplated
 
