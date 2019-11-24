@@ -1,3 +1,5 @@
+from resort import obj_to_key
+
 person_fields = set([
     'name',
     'sex',
@@ -98,4 +100,4 @@ if __name__=="__main__":
     for name, events in people_events.items():
         people[name]['events'] = events
 
-    print(json.dumps(list(sorted(people.values(), key=lambda x:x['name']  )), indent=2, ensure_ascii=False))
+    print(json.dumps(list(sorted(people.values(), key=lambda x: obj_to_key(x['events'][0])  )), indent=2, ensure_ascii=False))

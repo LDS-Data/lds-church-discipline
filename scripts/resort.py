@@ -27,10 +27,7 @@ def int_if_possible(x):
         return 999999999
 
 def obj_to_date(obj):
-    try:
-        return obj['date']
-    except KeyError:
-        return markdown_to_txt(obj['date_md'])
+    return markdown_to_txt(obj['date'])
 
 def obj_to_key(obj):
     date = obj_to_date(obj).replace('?','')
