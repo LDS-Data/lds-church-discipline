@@ -319,7 +319,7 @@
   * Church unit: Kauai Branch, Japanese Mission
 
 * Pedro Martinez (b. 9 Oct 1905)—1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
-  * Location: San Pedro, , Mexico
+  * Location: San Pedro, Mexico
   * Church unit: San Pedro Branch, Mexican Mission
 
 * Jessie M. S. McIntyre (b. 27 May 1900)—8 Jan 1941—[Excommunicated](https://archive.org/details/improvementera4509unse/page/n49).
@@ -729,7 +729,7 @@
   * Church unit: Riverdale Ward, Lakeview Stake
 
 * Efraim Amara (b. 10 Mar 1919)—3 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
-  * Location: Chimal, , Mexico
+  * Location: Chimal, Mexico
   * Church unit: Chimal Branch, Mexican Mission
 
 * Francisco Sandoval (b. 17 Sep 1910)—8 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
@@ -737,7 +737,7 @@
   * Church unit: La Libertad Branch, Mexican Mission
 
 * Brigida Belmont (b. 8 Oct 1922)—8 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4511unse/page/n47).
-  * Location: San Pedro, , Mexico
+  * Location: San Pedro, Mexico
   * Church unit: San Pedro Branch, Mexican Mission
 
 * Bernice Edel May Smith (b. 5 Mar 1897)—21 Sep 1942—[Excommunicated](https://archive.org/details/improvementera4602unse/page/n31).
