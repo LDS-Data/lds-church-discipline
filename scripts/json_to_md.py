@@ -66,12 +66,12 @@ if __name__=="__main__":
 
         print("* %s" % SEP.join(parts))
         try:
-            print("  * Location: %s" % obj[FRIENDLY_LOCATION])
+            print("  - Location: %s" % obj[FRIENDLY_LOCATION])
         except KeyError:
             pass
 
         try:
-            print("  * Church unit: %s" % obj[UNIT])
+            print("  - Church unit: %s" % obj[UNIT])
         except KeyError:
             pass
 
