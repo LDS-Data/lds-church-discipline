@@ -4839,10 +4839,12 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
+    "notes": "[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members after having lost their own faith.",
     "outcome": "excommunicated",
     "sex": "female",
-    "alt_for": "running a support group for former and questioning church members"
+    "for": "apostasy",
+    "alt_for": "running a support group for former and questioning church members",
+    "recording_url": "http://traffic.libsyn.com/mormonstories/MormonStories-1101-YoungExcommunicationPt4.mp3"
   },
   {
     "name": "Cody Young",
@@ -4851,10 +4853,12 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
+    "notes": "[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members after having lost their own faith.",
     "outcome": "excommunicated",
     "sex": "male",
-    "alt_for": "running a support group for former and questioning church members"
+    "for": "apostasy",
+    "alt_for": "running a support group for former and questioning church members",
+    "recording_url": "http://traffic.libsyn.com/mormonstories/MormonStories-1101-YoungExcommunicationPt4.mp3"
   },
   {
     "name": "Jared Lusk",
