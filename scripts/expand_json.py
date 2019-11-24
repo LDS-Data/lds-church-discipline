@@ -91,7 +91,7 @@ def friendly_location(location):
 
     output_parts = list()
     for i, part in enumerate(parts):
-        if part and i not in ignore:
+        if part and part != '?' and i not in ignore:
             output_parts.append(part)
 
     output_parts.reverse()

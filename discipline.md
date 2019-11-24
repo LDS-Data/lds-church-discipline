@@ -1056,8 +1056,10 @@
 * [Julie Rowe](https://en.wikipedia.org/wiki/Julie_Rowe)—7 Apr 2019—Energy healing and preparedness author and visionary—[Excommunicated for "apostasy, teaching false doctrine, priestcraft, and defaming the good name of the church"](https://www.youtube.com/watch?v=iEPl8t1XnKw). Her book describing a near-death experience, _A Greater Tomorrow: My Journey Beyond the Veil_ was [placed on the church's list of "spurious materials in circulation"](https://kutv.com/news/local/lds-church-flags-members-book-about-latter-day-calamities-as-potential-misleading) against which seminary and institute teachers should be warned.<!--FIXME-->
 
 * Leah Young—14 Apr 2019—Support group co-founder—[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members after having lost their own faith.
+  - Location: Columbus, Ohio
 
 * Cody Young—14 Apr 2019—Support group co-founder—[Excommunicated on charges of apostasy](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/). The disciplinary council was convened because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members after having lost their own faith.
+  - Location: Columbus, Ohio
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
