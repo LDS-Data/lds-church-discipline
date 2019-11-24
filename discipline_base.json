@@ -4647,6 +4647,15 @@
     ]
   },
   {
+    "name": "Thomas W. Murphy",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_W._Murphy_(anthropologist)",
+    "birth_date": "abt 1967",
+    "outcome": "council-averted",
+    "tagline": "anthropologist who published on genetics and the Book of Mormon",
+    "notes": "Though summoned to a disciplinary council, [the council was never held](https://web.archive.org/web/20190512022518/http://www.tungate.com/murphy.htm). Thomas Murphy attributes this to media attention which threatened to embarrass the church for excommunicating a \"Galileo\".",
+    "date": "[8 Dec 2002](https://web.archive.org/web/20190512022518/http://www.tungate.com/murphy.htm)"
+  },
+  {
     "name": "Grant Palmer",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Grant_H._Palmer",
     "birth_date": "1940",
@@ -4738,7 +4747,7 @@
     "notes": "[Excommunicated](http://www.mormonthink.com/personalstories/bruce-holt.htm) because he would not take down his Facebook post denouncing Joseph Smith as a \"fraud\".",
     "outcome": "excommunicated",
     "sex": "male",
-    "disciplinary_council_recording_url": "https://web.archive.org/web/20190727060650/http://www.mormonthink.com/files/dc-bruce-holt-03-30-2016.mp3",
+    "recording_url": "https://web.archive.org/web/20190727060650/http://www.mormonthink.com/files/dc-bruce-holt-03-30-2016.mp3",
     "alt_for": "not removing Facebook denunciation of Joseph Smith"
   },
   {

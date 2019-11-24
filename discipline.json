@@ -23,7 +23,15 @@
     "best_date": "3 Dec 1832",
     "best_year": 1832,
     "best_month": "Dec",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "18 Jan 1806",
+    "best_birth_year": 1806,
+    "best_birth_month": "Jan",
+    "best_birth_day": 18,
+    "best_death_date": "24 Apr 1883",
+    "best_death_year": 1883,
+    "best_death_month": "Apr",
+    "best_death_day": 24
   },
   {
     "name": "Jesse Gause",
@@ -49,7 +57,15 @@
     "best_date": "3 Dec 1832",
     "best_year": 1832,
     "best_month": "Dec",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "1785",
+    "best_birth_year": 1785,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1836",
+    "best_death_year": 1836,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Burr Riggs",
@@ -79,7 +95,15 @@
     "best_date": "26 Feb 1833",
     "best_year": 1833,
     "best_month": "Feb",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "17 Apr 1811",
+    "best_birth_year": 1811,
+    "best_birth_month": "Apr",
+    "best_birth_day": 17,
+    "best_death_date": "1860",
+    "best_death_year": 1860,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Doctor Philastus Hurlbut",
@@ -105,7 +129,15 @@
     "best_date": "3 Jun 1833",
     "best_year": 1833,
     "best_month": "Jun",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "3 Feb 1809",
+    "best_birth_year": 1809,
+    "best_birth_month": "Feb",
+    "best_birth_day": 3,
+    "best_death_date": "16 Jun 1883",
+    "best_death_year": 1883,
+    "best_death_month": "Jun",
+    "best_death_day": 16
   },
   {
     "name": "Daniel Copley",
@@ -131,7 +163,15 @@
     "best_date": "21 Jun 1833",
     "best_year": 1833,
     "best_month": "Jun",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "1811",
+    "best_birth_year": 1811,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "6 Jul 1862",
+    "best_death_year": 1862,
+    "best_death_month": "Jul",
+    "best_death_day": 6
   },
   {
     "name": "William E. McLellin",
@@ -155,7 +195,15 @@
     "best_date": "4 Aug 1835",
     "best_year": 1835,
     "best_month": "Aug",
-    "best_day": 4
+    "best_day": 4,
+    "best_birth_date": "18 Jan 1806",
+    "best_birth_year": 1806,
+    "best_birth_month": "Jan",
+    "best_birth_day": 18,
+    "best_death_date": "24 Apr 1883",
+    "best_death_year": 1883,
+    "best_death_month": "Apr",
+    "best_death_day": 24
   },
   {
     "name": "James Patten",
@@ -201,7 +249,15 @@
     "best_date": "28 Sep 1835",
     "best_year": 1835,
     "best_month": "Sep",
-    "best_day": 28
+    "best_day": 28,
+    "best_birth_date": "1809",
+    "best_birth_year": 1809,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1880",
+    "best_death_year": 1880,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "John F. Boynton",
@@ -227,7 +283,15 @@
     "best_date": "1837",
     "best_year": 1837,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "20 Sep 1811",
+    "best_birth_year": 1811,
+    "best_birth_month": "Sep",
+    "best_birth_day": 20,
+    "best_death_date": "20 Oct 1890",
+    "best_death_year": 1890,
+    "best_death_month": "Oct",
+    "best_death_day": 20
   },
   {
     "name": "Solomon Wilbur Denton",
@@ -255,7 +319,15 @@
     "best_date": "Apr 1837",
     "best_year": 1837,
     "best_month": "Apr",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1816",
+    "best_birth_year": 1816,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1864",
+    "best_death_year": 1864,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "John F. Boynton",
@@ -280,7 +352,15 @@
     "best_date": "3 Sep 1837",
     "best_year": 1837,
     "best_month": "Sep",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "20 Sep 1811",
+    "best_birth_year": 1811,
+    "best_birth_month": "Sep",
+    "best_birth_day": 20,
+    "best_death_date": "20 Oct 1890",
+    "best_death_year": 1890,
+    "best_death_month": "Oct",
+    "best_death_day": 20
   },
   {
     "name": "Luke Johnson",
@@ -305,7 +385,15 @@
     "best_date": "3 Sep 1837",
     "best_year": 1837,
     "best_month": "Sep",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "3 Nov 1807",
+    "best_birth_year": 1807,
+    "best_birth_month": "Nov",
+    "best_birth_day": 3,
+    "best_death_date": "9 Dec 1861",
+    "best_death_year": 1861,
+    "best_death_month": "Dec",
+    "best_death_day": 9
   },
   {
     "name": "Lyman E. Johnson",
@@ -328,7 +416,15 @@
     "best_date": "3 Sep 1837",
     "best_year": 1837,
     "best_month": "Sep",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "24 Oct 1811",
+    "best_birth_year": 1811,
+    "best_birth_month": "Oct",
+    "best_birth_day": 24,
+    "best_death_date": "20 Dec 1859",
+    "best_death_year": 1859,
+    "best_death_month": "Dec",
+    "best_death_day": 20
   },
   {
     "name": "Roger Orton",
@@ -358,7 +454,15 @@
     "best_date": "30 Nov 1837",
     "best_year": 1837,
     "best_month": "Nov",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "1799",
+    "best_birth_year": 1799,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1851",
+    "best_death_year": 1851,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Warren Parrish",
@@ -382,7 +486,15 @@
     "best_date": "Dec 1837",
     "best_year": 1837,
     "best_month": "Dec",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "10 Jan 1803",
+    "best_birth_year": 1803,
+    "best_birth_month": "Jan",
+    "best_birth_day": 10,
+    "best_death_date": "3 Jan 1877",
+    "best_death_year": 1877,
+    "best_death_month": "Jan",
+    "best_death_day": 3
   },
   {
     "name": "Leonard Rich",
@@ -406,7 +518,15 @@
     "best_date": "Dec 1837",
     "best_year": 1837,
     "best_month": "Dec",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1800",
+    "best_birth_year": 1800,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1868",
+    "best_death_year": 1868,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Luke Johnson",
@@ -430,7 +550,15 @@
     "best_date": "1838",
     "best_year": 1838,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "3 Nov 1807",
+    "best_birth_year": 1807,
+    "best_birth_month": "Nov",
+    "best_birth_day": 3,
+    "best_death_date": "9 Dec 1861",
+    "best_death_year": 1861,
+    "best_death_month": "Dec",
+    "best_death_day": 9
   },
   {
     "name": "Harvey G. Whitlock",
@@ -454,7 +582,15 @@
     "best_date": "1838",
     "best_year": 1838,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1809",
+    "best_birth_year": 1809,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1880",
+    "best_death_year": 1880,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "John Gaylord",
@@ -478,7 +614,15 @@
     "best_date": "13 Jan 1838",
     "best_year": 1838,
     "best_month": "Jan",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "12 Jul 1797",
+    "best_birth_year": 1797,
+    "best_birth_month": "Jul",
+    "best_birth_day": 12,
+    "best_death_date": "17 Jul 1874",
+    "best_death_year": 1874,
+    "best_death_month": "Jul",
+    "best_death_day": 17
   },
   {
     "name": "John Whitmer",
@@ -505,7 +649,15 @@
     "best_date": "10 Mar 1838",
     "best_year": 1838,
     "best_month": "Mar",
-    "best_day": 10
+    "best_day": 10,
+    "best_birth_date": "27 Aug 1802",
+    "best_birth_year": 1802,
+    "best_birth_month": "Aug",
+    "best_birth_day": 27,
+    "best_death_date": "11 Jul 1878",
+    "best_death_year": 1878,
+    "best_death_month": "Jul",
+    "best_death_day": 11
   },
   {
     "name": "W. W. Phelps",
@@ -532,7 +684,15 @@
     "best_date": "10 Mar 1838",
     "best_year": 1838,
     "best_month": "Mar",
-    "best_day": 10
+    "best_day": 10,
+    "best_birth_date": "17 Feb 1792",
+    "best_birth_year": 1792,
+    "best_birth_month": "Feb",
+    "best_birth_day": 17,
+    "best_death_date": "7 Mar 1872",
+    "best_death_year": 1872,
+    "best_death_month": "Mar",
+    "best_death_day": 7
   },
   {
     "name": "Oliver Cowdery",
@@ -558,7 +718,15 @@
     "best_date": "12 Apr 1838",
     "best_year": 1838,
     "best_month": "Apr",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "3 Oct 1806",
+    "best_birth_year": 1806,
+    "best_birth_month": "Oct",
+    "best_birth_day": 3,
+    "best_death_date": "3 Mar 1850",
+    "best_death_year": 1850,
+    "best_death_month": "Mar",
+    "best_death_day": 3
   },
   {
     "name": "Lyman E. Johnson",
@@ -582,7 +750,15 @@
     "best_date": "13 Apr 1838",
     "best_year": 1838,
     "best_month": "Apr",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "24 Oct 1811",
+    "best_birth_year": 1811,
+    "best_birth_month": "Oct",
+    "best_birth_day": 24,
+    "best_death_date": "20 Dec 1859",
+    "best_death_year": 1859,
+    "best_death_month": "Dec",
+    "best_death_day": 20
   },
   {
     "name": "David Whitmer",
@@ -608,7 +784,15 @@
     "best_date": "13 Apr 1838",
     "best_year": 1838,
     "best_month": "Apr",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "7 Jan 1805",
+    "best_birth_year": 1805,
+    "best_birth_month": "Jan",
+    "best_birth_day": 7,
+    "best_death_date": "25 Jan 1888",
+    "best_death_year": 1888,
+    "best_death_month": "Jan",
+    "best_death_day": 25
   },
   {
     "name": "William E. McLellin",
@@ -632,7 +816,15 @@
     "best_date": "11 May 1838",
     "best_year": 1838,
     "best_month": "May",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "18 Jan 1806",
+    "best_birth_year": 1806,
+    "best_birth_month": "Jan",
+    "best_birth_day": 18,
+    "best_death_date": "24 Apr 1883",
+    "best_death_year": 1883,
+    "best_death_month": "Apr",
+    "best_death_day": 24
   },
   {
     "name": "Frederick G. Williams",
@@ -657,7 +849,15 @@
     "best_date": "5 Aug 1838",
     "best_year": 1838,
     "best_month": "Aug",
-    "best_day": 5
+    "best_day": 5,
+    "best_birth_date": "28 Oct 1787",
+    "best_birth_year": 1787,
+    "best_birth_month": "Oct",
+    "best_birth_day": 28,
+    "best_death_date": "10 Oct 1842",
+    "best_death_year": 1842,
+    "best_death_month": "Oct",
+    "best_death_day": 10
   },
   {
     "name": "Joseph Coe",
@@ -681,7 +881,15 @@
     "best_date": "Dec 1838",
     "best_year": 1838,
     "best_month": "Dec",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "12 Nov 1784",
+    "best_birth_year": 1784,
+    "best_birth_month": "Nov",
+    "best_birth_day": 12,
+    "best_death_date": "17 Oct 1854",
+    "best_death_year": 1854,
+    "best_death_month": "Oct",
+    "best_death_day": 17
   },
   {
     "name": "Sampson Avard",
@@ -707,7 +915,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "23 Oct 1800",
+    "best_birth_year": 1800,
+    "best_birth_month": "Oct",
+    "best_birth_day": 23,
+    "best_death_date": "15 Apr 1869",
+    "best_death_year": 1869,
+    "best_death_month": "Apr",
+    "best_death_day": 15
   },
   {
     "name": "George M. Hinkle",
@@ -733,7 +949,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "13 Nov 1801",
+    "best_birth_year": 1801,
+    "best_birth_month": "Nov",
+    "best_birth_day": 13,
+    "best_death_date": "9 Nov 1861",
+    "best_death_year": 1861,
+    "best_death_month": "Nov",
+    "best_death_day": 9
   },
   {
     "name": "John Corrill",
@@ -759,7 +983,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "17 Sep 1794",
+    "best_birth_year": 1794,
+    "best_birth_month": "Sep",
+    "best_birth_day": 17,
+    "best_death_date": "26 Sep 1842",
+    "best_death_year": 1842,
+    "best_death_month": "Sep",
+    "best_death_day": 26
   },
   {
     "name": "Reed Peck",
@@ -784,7 +1016,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "1814",
+    "best_birth_year": 1814,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "23 Aug 1894",
+    "best_death_year": 1894,
+    "best_death_month": "Aug",
+    "best_death_day": 23
   },
   {
     "name": "W. W. Phelps",
@@ -810,7 +1050,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "17 Feb 1792",
+    "best_birth_year": 1792,
+    "best_birth_month": "Feb",
+    "best_birth_day": 17,
+    "best_death_date": "7 Mar 1872",
+    "best_death_year": 1872,
+    "best_death_month": "Mar",
+    "best_death_day": 7
   },
   {
     "name": "Thomas B. Marsh",
@@ -836,7 +1084,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "1 Nov 1800",
+    "best_birth_year": 1800,
+    "best_birth_month": "Nov",
+    "best_birth_day": 1,
+    "best_death_date": "Jan 1866",
+    "best_death_year": 1866,
+    "best_death_month": "Jan",
+    "best_death_day": null
   },
   {
     "name": "Burr Riggs",
@@ -862,7 +1118,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "17 Apr 1811",
+    "best_birth_year": 1811,
+    "best_birth_month": "Apr",
+    "best_birth_day": 17,
+    "best_death_date": "1860",
+    "best_death_year": 1860,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Frederick G. Williams",
@@ -887,7 +1151,15 @@
     "best_date": "17 Mar 1839",
     "best_year": 1839,
     "best_month": "Mar",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "28 Oct 1787",
+    "best_birth_year": 1787,
+    "best_birth_month": "Oct",
+    "best_birth_day": 28,
+    "best_death_date": "10 Oct 1842",
+    "best_death_year": 1842,
+    "best_death_month": "Oct",
+    "best_death_day": 10
   },
   {
     "name": "Isaac Russell",
@@ -913,7 +1185,15 @@
     "best_date": "26 Apr 1839",
     "best_year": 1839,
     "best_month": "Apr",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "13 Apr 1807",
+    "best_birth_year": 1807,
+    "best_birth_month": "Apr",
+    "best_birth_day": 13,
+    "best_death_date": "25 Sep 1844",
+    "best_death_year": 1844,
+    "best_death_month": "Sep",
+    "best_death_day": 25
   },
   {
     "name": "Mary Russell",
@@ -958,7 +1238,15 @@
     "best_date": "26 Apr 1839",
     "best_year": 1839,
     "best_month": "Apr",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "1808",
+    "best_birth_year": 1808,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1892",
+    "best_death_year": 1892,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Margaret Goodson",
@@ -1516,7 +1804,15 @@
     "best_date": "11 Mar 1842",
     "best_year": 1842,
     "best_month": "Mar",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "18 Jun 1809",
+    "best_birth_year": 1809,
+    "best_birth_month": "Jun",
+    "best_birth_day": 18,
+    "best_death_date": "30 Nov 1864",
+    "best_death_year": 1864,
+    "best_death_month": "Nov",
+    "best_death_day": 30
   },
   {
     "name": "John C. Bennett",
@@ -1544,7 +1840,15 @@
     "best_date": "11 May 1842",
     "best_year": 1842,
     "best_month": "May",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "1804",
+    "best_birth_year": 1804,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1867",
+    "best_death_year": 1867,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Chauncey L. Higbee",
@@ -1572,7 +1876,15 @@
     "best_date": "20 May 1842",
     "best_year": 1842,
     "best_month": "May",
-    "best_day": 20
+    "best_day": 20,
+    "best_birth_date": "1821",
+    "best_birth_year": 1821,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1884",
+    "best_death_year": 1884,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Orson Pratt",
@@ -1599,7 +1911,15 @@
     "best_date": "20 Aug 1842",
     "best_year": 1842,
     "best_month": "Aug",
-    "best_day": 20
+    "best_day": 20,
+    "best_birth_date": "1811",
+    "best_birth_year": 1811,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1881",
+    "best_death_year": 1881,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Sarah Marinda Bates Pratt",
@@ -1627,7 +1947,15 @@
     "best_date": "20 Aug 1842",
     "best_year": 1842,
     "best_month": "Aug",
-    "best_day": 20
+    "best_day": 20,
+    "best_birth_date": "1817",
+    "best_birth_year": 1817,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1888",
+    "best_death_year": 1888,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "William Law",
@@ -1654,7 +1982,15 @@
     "best_date": "18 Apr 1844",
     "best_year": 1844,
     "best_month": "Apr",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1809",
+    "best_birth_year": 1809,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1892",
+    "best_death_year": 1892,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Jane Silverthorn Law",
@@ -1681,7 +2017,15 @@
     "best_date": "18 Apr 1844",
     "best_year": 1844,
     "best_month": "Apr",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1815",
+    "best_birth_year": 1815,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1882",
+    "best_death_year": 1882,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Wilson Law",
@@ -1708,7 +2052,15 @@
     "best_date": "18 Apr 1844",
     "best_year": 1844,
     "best_month": "Apr",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1806",
+    "best_birth_year": 1806,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1876",
+    "best_death_year": 1876,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Robert D. Foster",
@@ -1735,7 +2087,15 @@
     "best_date": "18 Apr 1844",
     "best_year": 1844,
     "best_month": "Apr",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1811",
+    "best_birth_year": 1811,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1878",
+    "best_death_year": 1878,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Howard Smith",
@@ -1783,7 +2143,15 @@
     "best_date": "18 May 1844",
     "best_year": 1844,
     "best_month": "May",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1792",
+    "best_birth_year": 1792,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1872",
+    "best_death_year": 1872,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "James Blakeslee",
@@ -1808,7 +2176,15 @@
     "best_date": "18 May 1844",
     "best_year": 1844,
     "best_month": "May",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1802",
+    "best_birth_year": 1802,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1866",
+    "best_death_year": 1866,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Francis M. Higbee",
@@ -1836,7 +2212,15 @@
     "best_date": "18 May 1844",
     "best_year": 1844,
     "best_month": "May",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1820",
+    "best_birth_year": 1820,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1856",
+    "best_death_year": 1856,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Charles Ivins",
@@ -1864,7 +2248,15 @@
     "best_date": "18 May 1844",
     "best_year": 1844,
     "best_month": "May",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1799",
+    "best_birth_year": 1799,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1875",
+    "best_death_year": 1875,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "James Strang",
@@ -1888,7 +2280,15 @@
     "best_date": "26 Aug 1844",
     "best_year": 1844,
     "best_month": "Aug",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "1813",
+    "best_birth_year": 1813,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1856",
+    "best_death_year": 1856,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Aaron Smith",
@@ -1932,7 +2332,15 @@
     "best_date": "7 Oct 1844",
     "best_year": 1844,
     "best_month": "Oct",
-    "best_day": 7
+    "best_day": 7,
+    "best_birth_date": "1795",
+    "best_birth_year": 1795,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1871",
+    "best_death_year": 1871,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "George J. Adams",
@@ -1959,7 +2367,15 @@
     "best_date": "Apr 1845",
     "best_year": 1845,
     "best_month": "Apr",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1810",
+    "best_birth_year": 1810,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1880",
+    "best_death_year": 1880,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Jesse T. Hartley",
@@ -1984,7 +2400,15 @@
     "best_date": "9 Apr 1854",
     "best_year": 1854,
     "best_month": "Apr",
-    "best_day": 9
+    "best_day": 9,
+    "best_birth_date": "1831",
+    "best_birth_year": 1831,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1854",
+    "best_death_year": 1854,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Harvey G. Whitlock",
@@ -2009,7 +2433,15 @@
     "best_date": "29 Apr 1859",
     "best_year": 1859,
     "best_month": "Apr",
-    "best_day": 29
+    "best_day": 29,
+    "best_birth_date": "1809",
+    "best_birth_year": 1809,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1880",
+    "best_death_year": 1880,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Orson Pratt, Jr.",
@@ -2035,7 +2467,15 @@
     "best_date": "18 Sep 1864",
     "best_year": 1864,
     "best_month": "Sep",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1837",
+    "best_birth_year": 1837,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1903",
+    "best_death_year": 1903,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "William Adams \"Wild Bill\" Hickman",
@@ -2059,7 +2499,15 @@
     "best_date": "12 Jun 1868",
     "best_year": 1868,
     "best_month": "Jun",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "1815",
+    "best_birth_year": 1815,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1883",
+    "best_death_year": 1883,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "George D. Watt",
@@ -2085,7 +2533,15 @@
     "best_date": "1869",
     "best_year": 1869,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "12 May 1812",
+    "best_birth_year": 1812,
+    "best_birth_month": "May",
+    "best_birth_day": 12,
+    "best_death_date": "24 Oct 1881",
+    "best_death_year": 1881,
+    "best_death_month": "Oct",
+    "best_death_day": 24
   },
   {
     "name": "T. B. H. Stenhouse",
@@ -2111,7 +2567,15 @@
     "best_date": "17 Aug 1870",
     "best_year": 1870,
     "best_month": "Aug",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "1825",
+    "best_birth_year": 1825,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1882",
+    "best_death_year": 1882,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "George D. Watt",
@@ -2137,7 +2601,15 @@
     "best_date": "3 May 1874",
     "best_year": 1874,
     "best_month": "May",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "12 May 1812",
+    "best_birth_year": 1812,
+    "best_birth_month": "May",
+    "best_birth_day": 12,
+    "best_death_date": "24 Oct 1881",
+    "best_death_year": 1881,
+    "best_death_month": "Oct",
+    "best_death_day": 24
   },
   {
     "name": "Sarah Marinda Bates Pratt",
@@ -2164,7 +2636,15 @@
     "best_date": "4 Oct 1874",
     "best_year": 1874,
     "best_month": "Oct",
-    "best_day": 4
+    "best_day": 4,
+    "best_birth_date": "1817",
+    "best_birth_year": 1817,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1888",
+    "best_death_year": 1888,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Arthur Pratt",
@@ -2212,7 +2692,15 @@
     "best_date": "5 Oct 1874",
     "best_year": 1874,
     "best_month": "Oct",
-    "best_day": 5
+    "best_day": 5,
+    "best_birth_date": "1829",
+    "best_birth_year": 1829,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1904",
+    "best_death_year": 1904,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Ann Eliza Young",
@@ -2238,7 +2726,15 @@
     "best_date": "10 Oct 1874",
     "best_year": 1874,
     "best_month": "Oct",
-    "best_day": 10
+    "best_day": 10,
+    "best_birth_date": "1844",
+    "best_birth_year": 1844,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1917",
+    "best_death_year": 1917,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "John W. Taylor",
@@ -2264,7 +2760,15 @@
     "best_date": "28 Mar 1911",
     "best_year": 1911,
     "best_month": "Mar",
-    "best_day": 28
+    "best_day": 28,
+    "best_birth_date": "1858",
+    "best_birth_year": 1858,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1916",
+    "best_death_year": 1916,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Matthias F. Cowley",
@@ -2277,7 +2781,7 @@
     "date": "11 May 1911",
     "tagline": "Resigned Apostle, Polygamist, Sermonizer",
     "notes": "Deprived of \"the right and authority to exercise any of the functions of the priesthood\" for \"insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints\", specifically for continued involvement with plural marriages not authorized by the church. Along with fellow apostle John W. Taylor, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings. His non-standard penalty for insubordination was removed and his priesthood restored 3 Apr 1936.",
-    "outcome": "priesthood deauthorized",
+    "outcome": "priesthood-deauthorized",
     "sex": "male",
     "location": "Salt Lake City, Utah",
     "for": "insubordination to the government and discipline of the Church of Jesus Christ of Latter Day Saints",
@@ -2290,7 +2794,15 @@
     "best_date": "11 May 1911",
     "best_year": 1911,
     "best_month": "May",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "1858",
+    "best_birth_year": 1858,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1940",
+    "best_death_year": 1940,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "J. Leslie Broadbent",
@@ -2313,7 +2825,15 @@
     "best_date": "18 Jul 1929",
     "best_year": 1929,
     "best_month": "Jul",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1891",
+    "best_birth_year": 1891,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1935",
+    "best_death_year": 1935,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "John William Oakley",
@@ -2339,7 +2859,11 @@
     "best_date": "1 Jan 1940",
     "best_year": 1940,
     "best_month": "Jan",
-    "best_day": 1
+    "best_day": 1,
+    "best_birth_date": "11 May 1891",
+    "best_birth_year": 1891,
+    "best_birth_month": "May",
+    "best_birth_day": 11
   },
   {
     "name": "Alice Maud Prescott Oakley",
@@ -2365,7 +2889,11 @@
     "best_date": "8 Jan 1940",
     "best_year": 1940,
     "best_month": "Jan",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "5 Jan 1894",
+    "best_birth_year": 1894,
+    "best_birth_month": "Jan",
+    "best_birth_day": 5
   },
   {
     "name": "George Oakley",
@@ -2391,7 +2919,11 @@
     "best_date": "8 Jan 1940",
     "best_year": 1940,
     "best_month": "Jan",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "18 Jan 1894",
+    "best_birth_year": 1894,
+    "best_birth_month": "Jan",
+    "best_birth_day": 18
   },
   {
     "name": "Ellen Mary Maude Brown",
@@ -2417,7 +2949,11 @@
     "best_date": "8 Jan 1940",
     "best_year": 1940,
     "best_month": "Jan",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "16 Feb 1889",
+    "best_birth_year": 1889,
+    "best_birth_month": "Feb",
+    "best_birth_day": 16
   },
   {
     "name": "Dennis Hy Clarence Brown",
@@ -2443,7 +2979,11 @@
     "best_date": "8 Jan 1940",
     "best_year": 1940,
     "best_month": "Jan",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "29 May 1916",
+    "best_birth_year": 1916,
+    "best_birth_month": "May",
+    "best_birth_day": 29
   },
   {
     "name": "Edith Oakley Dobell",
@@ -2469,7 +3009,11 @@
     "best_date": "8 Jan 1940",
     "best_year": 1940,
     "best_month": "Jan",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "26 Apr 1899",
+    "best_birth_year": 1899,
+    "best_birth_month": "Apr",
+    "best_birth_day": 26
   },
   {
     "name": "Agnes Katherine Anderson",
@@ -2519,7 +3063,11 @@
     "best_date": "1941",
     "best_year": 1941,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "13 Nov 1867",
+    "best_birth_year": 1867,
+    "best_birth_month": "Nov",
+    "best_birth_day": 13
   },
   {
     "name": "Robert Laurence Cummings",
@@ -2546,7 +3094,11 @@
     "best_date": "1941",
     "best_year": 1941,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "25 Feb 1917",
+    "best_birth_year": 1917,
+    "best_birth_month": "Feb",
+    "best_birth_day": 25
   },
   {
     "name": "Pedro Martinez",
@@ -2572,7 +3124,11 @@
     "best_date": "1941",
     "best_year": 1941,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "9 Oct 1905",
+    "best_birth_year": 1905,
+    "best_birth_month": "Oct",
+    "best_birth_day": 9
   },
   {
     "name": "Jessie M. S. McIntyre",
@@ -2597,7 +3153,11 @@
     "best_date": "8 Jan 1941",
     "best_year": 1941,
     "best_month": "Jan",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "27 May 1900",
+    "best_birth_year": 1900,
+    "best_birth_month": "May",
+    "best_birth_day": 27
   },
   {
     "name": "Stewart Davis Livingston",
@@ -2623,7 +3183,11 @@
     "best_date": "9 Jan 1941",
     "best_year": 1941,
     "best_month": "Jan",
-    "best_day": 9
+    "best_day": 9,
+    "best_birth_date": "8 Jun 1907",
+    "best_birth_year": 1907,
+    "best_birth_month": "Jun",
+    "best_birth_day": 8
   },
   {
     "name": "Frieda M. Czaia Cope",
@@ -2649,7 +3213,11 @@
     "best_date": "13 Jan 1941",
     "best_year": 1941,
     "best_month": "Jan",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "22 Jul 1910",
+    "best_birth_year": 1910,
+    "best_birth_month": "Jul",
+    "best_birth_day": 22
   },
   {
     "name": "Claricy Flynn Hubbs",
@@ -2675,7 +3243,11 @@
     "best_date": "13 Jan 1941",
     "best_year": 1941,
     "best_month": "Jan",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "10 Feb 1894",
+    "best_birth_year": 1894,
+    "best_birth_month": "Feb",
+    "best_birth_day": 10
   },
   {
     "name": "Belinda Arregui",
@@ -2701,7 +3273,11 @@
     "best_date": "23 Jan 1941",
     "best_year": 1941,
     "best_month": "Jan",
-    "best_day": 23
+    "best_day": 23,
+    "best_birth_date": "11 Aug 1891",
+    "best_birth_year": 1891,
+    "best_birth_month": "Aug",
+    "best_birth_day": 11
   },
   {
     "name": "Nina W. Sims DeYoung",
@@ -2727,7 +3303,11 @@
     "best_date": "29 Jan 1941",
     "best_year": 1941,
     "best_month": "Jan",
-    "best_day": 29
+    "best_day": 29,
+    "best_birth_date": "22 Oct 1902",
+    "best_birth_year": 1902,
+    "best_birth_month": "Oct",
+    "best_birth_day": 22
   },
   {
     "name": "Wilhelm Ramsdorf",
@@ -2754,7 +3334,11 @@
     "best_date": "3 Feb 1941",
     "best_year": 1941,
     "best_month": "Feb",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "20 Jan 1905",
+    "best_birth_year": 1905,
+    "best_birth_month": "Jan",
+    "best_birth_day": 20
   },
   {
     "name": "Alma A. Timpson",
@@ -2809,7 +3393,11 @@
     "best_date": "16 Feb 1941",
     "best_year": 1941,
     "best_month": "Feb",
-    "best_day": 16
+    "best_day": 16,
+    "best_birth_date": "23 Apr 1900",
+    "best_birth_year": 1900,
+    "best_birth_month": "Apr",
+    "best_birth_day": 23
   },
   {
     "name": "Andrew C. Schade",
@@ -2906,7 +3494,11 @@
     "best_date": "28 Mar 1941",
     "best_year": 1941,
     "best_month": "Mar",
-    "best_day": 28
+    "best_day": 28,
+    "best_birth_date": "25 Sep 1912",
+    "best_birth_year": 1912,
+    "best_birth_month": "Sep",
+    "best_birth_day": 25
   },
   {
     "name": "Rulon T. Jeffs",
@@ -2935,7 +3527,15 @@
     "best_date": "14 Apr 1941",
     "best_year": 1941,
     "best_month": "Apr",
-    "best_day": 14
+    "best_day": 14,
+    "best_birth_date": "6 Dec 1909",
+    "best_birth_year": 1909,
+    "best_birth_month": "Dec",
+    "best_birth_day": 6,
+    "best_death_date": "8 Sep 2002",
+    "best_death_year": 2002,
+    "best_death_month": "Sep",
+    "best_death_day": 8
   },
   {
     "name": "M. L. F. Hunt",
@@ -2960,7 +3560,11 @@
     "best_date": "16 Apr 1941",
     "best_year": 1941,
     "best_month": "Apr",
-    "best_day": 16
+    "best_day": 16,
+    "best_birth_date": "11 Dec 1910",
+    "best_birth_year": 1910,
+    "best_birth_month": "Dec",
+    "best_birth_day": 11
   },
   {
     "name": "Moirie Alford Measley",
@@ -2985,7 +3589,11 @@
     "best_date": "18 Apr 1941",
     "best_year": 1941,
     "best_month": "Apr",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "27 Apr 1912",
+    "best_birth_year": 1912,
+    "best_birth_month": "Apr",
+    "best_birth_day": 27
   },
   {
     "name": "Edward Everett Nolan",
@@ -3011,7 +3619,11 @@
     "best_date": "27 Apr 1941",
     "best_year": 1941,
     "best_month": "Apr",
-    "best_day": 27
+    "best_day": 27,
+    "best_birth_date": "14 Nov 1877",
+    "best_birth_year": 1877,
+    "best_birth_month": "Nov",
+    "best_birth_day": 14
   },
   {
     "name": "Martha Elizabeth Nolan",
@@ -3037,7 +3649,11 @@
     "best_date": "27 Apr 1941",
     "best_year": 1941,
     "best_month": "Apr",
-    "best_day": 27
+    "best_day": 27,
+    "best_birth_date": "9 Jun 1914",
+    "best_birth_year": 1914,
+    "best_birth_month": "Jun",
+    "best_birth_day": 9
   },
   {
     "name": "Mary Elizabeth Kusch Nolan",
@@ -3063,7 +3679,11 @@
     "best_date": "27 Apr 1941",
     "best_year": 1941,
     "best_month": "Apr",
-    "best_day": 27
+    "best_day": 27,
+    "best_birth_date": "25 Dec 1887",
+    "best_birth_year": 1887,
+    "best_birth_month": "Dec",
+    "best_birth_day": 25
   },
   {
     "name": "Romero G. Martinez",
@@ -3133,7 +3753,11 @@
     "best_date": "9 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 9
+    "best_day": 9,
+    "best_birth_date": "1 Dec 1892",
+    "best_birth_year": 1892,
+    "best_birth_month": "Dec",
+    "best_birth_day": 1
   },
   {
     "name": "Beatrice Inskup",
@@ -3159,7 +3783,11 @@
     "best_date": "12 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "19 Jan 1905",
+    "best_birth_year": 1905,
+    "best_birth_month": "Jan",
+    "best_birth_day": 19
   },
   {
     "name": "China M. Guildner",
@@ -3185,7 +3813,11 @@
     "best_date": "26 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "23 Feb 1888",
+    "best_birth_year": 1888,
+    "best_birth_month": "Feb",
+    "best_birth_day": 23
   },
   {
     "name": "Oscar William Guildner",
@@ -3211,7 +3843,11 @@
     "best_date": "26 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "20 Apr 1905",
+    "best_birth_year": 1905,
+    "best_birth_month": "Apr",
+    "best_birth_day": 20
   },
   {
     "name": "Mary E. Lambton",
@@ -3237,7 +3873,11 @@
     "best_date": "26 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "4 Feb 1919",
+    "best_birth_year": 1919,
+    "best_birth_month": "Feb",
+    "best_birth_day": 4
   },
   {
     "name": "Willie Persick",
@@ -3263,7 +3903,11 @@
     "best_date": "26 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "12 Sep 1883",
+    "best_birth_year": 1883,
+    "best_birth_month": "Sep",
+    "best_birth_day": 12
   },
   {
     "name": "Ida Burriss",
@@ -3289,7 +3933,11 @@
     "best_date": "27 Jun 1941",
     "best_year": 1941,
     "best_month": "Jun",
-    "best_day": 27
+    "best_day": 27,
+    "best_birth_date": "2 May 1886",
+    "best_birth_year": 1886,
+    "best_birth_month": "May",
+    "best_birth_day": 2
   },
   {
     "name": "Etta Chadduck Mulkey",
@@ -3315,7 +3963,11 @@
     "best_date": "10 Jul 1941",
     "best_year": 1941,
     "best_month": "Jul",
-    "best_day": 10
+    "best_day": 10,
+    "best_birth_date": "27 Sep 1894",
+    "best_birth_year": 1894,
+    "best_birth_month": "Sep",
+    "best_birth_day": 27
   },
   {
     "name": "Andalina Lujan",
@@ -3341,7 +3993,11 @@
     "best_date": "15 Jul 1941",
     "best_year": 1941,
     "best_month": "Jul",
-    "best_day": 15
+    "best_day": 15,
+    "best_birth_date": "10 Mar 1885",
+    "best_birth_year": 1885,
+    "best_birth_month": "Mar",
+    "best_birth_day": 10
   },
   {
     "name": "Chloe Mae Crandall Beld",
@@ -3367,7 +4023,11 @@
     "best_date": "21 Jul 1941",
     "best_year": 1941,
     "best_month": "Jul",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "19 Mar 1889",
+    "best_birth_year": 1889,
+    "best_birth_month": "Mar",
+    "best_birth_day": 19
   },
   {
     "name": "Arthur Lee Crandall",
@@ -3393,7 +4053,11 @@
     "best_date": "21 Jul 1941",
     "best_year": 1941,
     "best_month": "Jul",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "17 May 1920",
+    "best_birth_year": 1920,
+    "best_birth_month": "May",
+    "best_birth_day": 17
   },
   {
     "name": "Chester Joseph Crandall",
@@ -3419,7 +4083,11 @@
     "best_date": "21 Jul 1941",
     "best_year": 1941,
     "best_month": "Jul",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "7 Sep 1895",
+    "best_birth_year": 1895,
+    "best_birth_month": "Sep",
+    "best_birth_day": 7
   },
   {
     "name": "William C. Deichmiller",
@@ -3445,7 +4113,11 @@
     "best_date": "24 Jul 1941",
     "best_year": 1941,
     "best_month": "Jul",
-    "best_day": 24
+    "best_day": 24,
+    "best_birth_date": "8 Apr 1876",
+    "best_birth_year": 1876,
+    "best_birth_month": "Apr",
+    "best_birth_day": 8
   },
   {
     "name": "Martha Carr",
@@ -3471,7 +4143,11 @@
     "best_date": "4 Sep 1941",
     "best_year": 1941,
     "best_month": "Sep",
-    "best_day": 4
+    "best_day": 4,
+    "best_birth_date": "23 Mar 1865",
+    "best_birth_year": 1865,
+    "best_birth_month": "Mar",
+    "best_birth_day": 23
   },
   {
     "name": "Lydia Loraze Clendenen",
@@ -3497,7 +4173,11 @@
     "best_date": "4 Sep 1941",
     "best_year": 1941,
     "best_month": "Sep",
-    "best_day": 4
+    "best_day": 4,
+    "best_birth_date": "11 Feb 1885",
+    "best_birth_year": 1885,
+    "best_birth_month": "Feb",
+    "best_birth_day": 11
   },
   {
     "name": "Lorene Edna Kalinksi",
@@ -3523,7 +4203,11 @@
     "best_date": "11 Sep 1941",
     "best_year": 1941,
     "best_month": "Sep",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "22 Sep 1913",
+    "best_birth_year": 1913,
+    "best_birth_month": "Sep",
+    "best_birth_day": 22
   },
   {
     "name": "Emma Elizabeth Cochran",
@@ -3623,7 +4307,11 @@
     "best_date": "28 Sep 1941",
     "best_year": 1941,
     "best_month": "Sep",
-    "best_day": 28
+    "best_day": 28,
+    "best_birth_date": "19 Nov 1878",
+    "best_birth_year": 1878,
+    "best_birth_month": "Nov",
+    "best_birth_day": 19
   },
   {
     "name": "Virginia Miller Green",
@@ -3649,7 +4337,11 @@
     "best_date": "1 Oct 1941",
     "best_year": 1941,
     "best_month": "Oct",
-    "best_day": 1
+    "best_day": 1,
+    "best_birth_date": "1 Dec 1914",
+    "best_birth_year": 1914,
+    "best_birth_month": "Dec",
+    "best_birth_day": 1
   },
   {
     "name": "Elsie Reed Henegar",
@@ -3675,7 +4367,11 @@
     "best_date": "12 Oct 1941",
     "best_year": 1941,
     "best_month": "Oct",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "18 Aug 1914",
+    "best_birth_year": 1914,
+    "best_birth_month": "Aug",
+    "best_birth_day": 18
   },
   {
     "name": "Margaret Leola Bird Harris",
@@ -3701,7 +4397,11 @@
     "best_date": "20 Oct 1941",
     "best_year": 1941,
     "best_month": "Oct",
-    "best_day": 20
+    "best_day": 20,
+    "best_birth_date": "29 Oct 1915",
+    "best_birth_year": 1915,
+    "best_birth_month": "Oct",
+    "best_birth_day": 29
   },
   {
     "name": "Lorenzo Rangel",
@@ -3800,7 +4500,11 @@
     "best_date": "12 Dec 1941",
     "best_year": 1941,
     "best_month": "Dec",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "19 Apr 1902",
+    "best_birth_year": 1902,
+    "best_birth_month": "Apr",
+    "best_birth_day": 19
   },
   {
     "name": "Mercedes L. Hardy",
@@ -3871,7 +4575,15 @@
     "best_date": "1942",
     "best_year": 1942,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1914",
+    "best_birth_year": 1914,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "2005",
+    "best_death_year": 2005,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Charlotte M. Staedtler Engel",
@@ -4121,7 +4833,11 @@
     "best_date": "11 Feb 1942",
     "best_year": 1942,
     "best_month": "Feb",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "6 Jun 1913",
+    "best_birth_year": 1913,
+    "best_birth_month": "Jun",
+    "best_birth_day": 6
   },
   {
     "name": "Helmuth Hübener",
@@ -4146,7 +4862,15 @@
     "best_date": "15 Feb 1942",
     "best_year": 1942,
     "best_month": "Feb",
-    "best_day": 15
+    "best_day": 15,
+    "best_birth_date": "8 Jan 1925",
+    "best_birth_year": 1925,
+    "best_birth_month": "Jan",
+    "best_birth_day": 8,
+    "best_death_date": "27 Oct 1942",
+    "best_death_year": 1942,
+    "best_death_month": "Oct",
+    "best_death_day": 27
   },
   {
     "name": "Kenneth Edward Livingston",
@@ -4172,7 +4896,11 @@
     "best_date": "17 Feb 1942",
     "best_year": 1942,
     "best_month": "Feb",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "16 May 1916",
+    "best_birth_year": 1916,
+    "best_birth_month": "May",
+    "best_birth_day": 16
   },
   {
     "name": "Sarah Dean Tussey Livingston",
@@ -4198,7 +4926,11 @@
     "best_date": "17 Feb 1942",
     "best_year": 1942,
     "best_month": "Feb",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "10 Jan 1893",
+    "best_birth_year": 1893,
+    "best_birth_month": "Jan",
+    "best_birth_day": 10
   },
   {
     "name": "William Livingston",
@@ -4224,7 +4956,11 @@
     "best_date": "17 Feb 1942",
     "best_year": 1942,
     "best_month": "Feb",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "28 Jul 1885",
+    "best_birth_year": 1885,
+    "best_birth_month": "Jul",
+    "best_birth_day": 28
   },
   {
     "name": "Ruth Jane Livingston Porter",
@@ -4250,7 +4986,11 @@
     "best_date": "17 Feb 1942",
     "best_year": 1942,
     "best_month": "Feb",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "23 Apr 1913",
+    "best_birth_year": 1913,
+    "best_birth_month": "Apr",
+    "best_birth_day": 23
   },
   {
     "name": "Gerrit B. J. DeBuizer, Jr.",
@@ -4327,7 +5067,11 @@
     "best_date": "22 Mar 1942",
     "best_year": 1942,
     "best_month": "Mar",
-    "best_day": 22
+    "best_day": 22,
+    "best_birth_date": "30 Apr 1898",
+    "best_birth_year": 1898,
+    "best_birth_month": "Apr",
+    "best_birth_day": 30
   },
   {
     "name": "Annie Evelyn Gorton Holland",
@@ -4354,7 +5098,11 @@
     "best_date": "22 Mar 1942",
     "best_year": 1942,
     "best_month": "Mar",
-    "best_day": 22
+    "best_day": 22,
+    "best_birth_date": "3 May 1901",
+    "best_birth_year": 1901,
+    "best_birth_month": "May",
+    "best_birth_day": 3
   },
   {
     "name": "Hugh J. Freshwater",
@@ -4382,7 +5130,11 @@
     "best_date": "31 Mar 1942",
     "best_year": 1942,
     "best_month": "Mar",
-    "best_day": 31
+    "best_day": 31,
+    "best_birth_date": "22 Mar 1910",
+    "best_birth_year": 1910,
+    "best_birth_month": "Mar",
+    "best_birth_day": 22
   },
   {
     "name": "Frank Dubois",
@@ -4410,7 +5162,11 @@
     "best_date": "31 Mar 1942",
     "best_year": 1942,
     "best_month": "Mar",
-    "best_day": 31
+    "best_day": 31,
+    "best_birth_date": "26 Jan 1914",
+    "best_birth_year": 1914,
+    "best_birth_month": "Jan",
+    "best_birth_day": 26
   },
   {
     "name": "Hyrum Francis Syndergaard",
@@ -4592,7 +5348,11 @@
     "best_date": "18 Apr 1942",
     "best_year": 1942,
     "best_month": "Apr",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "1 Nov 1881",
+    "best_birth_year": 1881,
+    "best_birth_month": "Nov",
+    "best_birth_day": 1
   },
   {
     "name": "Joseph Detton",
@@ -4622,7 +5382,15 @@
     "best_date": "26 Apr 1942",
     "best_year": 1942,
     "best_month": "Apr",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "26 Dec 1884",
+    "best_birth_year": 1884,
+    "best_birth_month": "Dec",
+    "best_birth_day": 26,
+    "best_death_date": "13 Mar 1977",
+    "best_death_year": 1977,
+    "best_death_month": "Mar",
+    "best_death_day": 13
   },
   {
     "name": "Lavona Rugg",
@@ -4648,7 +5416,11 @@
     "best_date": "29 Apr 1942",
     "best_year": 1942,
     "best_month": "Apr",
-    "best_day": 29
+    "best_day": 29,
+    "best_birth_date": "25 Dec 1920",
+    "best_birth_year": 1920,
+    "best_birth_month": "Dec",
+    "best_birth_day": 25
   },
   {
     "name": "Inez Edna Penrod Welsh",
@@ -4674,7 +5446,11 @@
     "best_date": "4 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 4
+    "best_day": 4,
+    "best_birth_date": "6 Sep 1903",
+    "best_birth_year": 1903,
+    "best_birth_month": "Sep",
+    "best_birth_day": 6
   },
   {
     "name": "Clair Edwin Patterson",
@@ -4700,7 +5476,11 @@
     "best_date": "4 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 4
+    "best_day": 4,
+    "best_birth_date": "1 Aug 1913",
+    "best_birth_year": 1913,
+    "best_birth_month": "Aug",
+    "best_birth_day": 1
   },
   {
     "name": "Elizabeth Cecila Matuszzak Bauman",
@@ -4726,7 +5506,11 @@
     "best_date": "12 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "5 Apr 1899",
+    "best_birth_year": 1899,
+    "best_birth_month": "Apr",
+    "best_birth_day": 5
   },
   {
     "name": "Martin John Schrieber",
@@ -4752,7 +5536,11 @@
     "best_date": "12 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "12 Apr 1908",
+    "best_birth_year": 1908,
+    "best_birth_month": "Apr",
+    "best_birth_day": 12
   },
   {
     "name": "Kathrine Unfried Jones",
@@ -4778,7 +5566,11 @@
     "best_date": "17 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "28 Dec 1884",
+    "best_birth_year": 1884,
+    "best_birth_month": "Dec",
+    "best_birth_day": 28
   },
   {
     "name": "Parley Kelo Willis",
@@ -4805,7 +5597,11 @@
     "best_date": "17 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "24 Apr 1902",
+    "best_birth_year": 1902,
+    "best_birth_month": "Apr",
+    "best_birth_day": 24
   },
   {
     "name": "Leland George Taylor",
@@ -4831,7 +5627,11 @@
     "best_date": "29 May 1942",
     "best_year": 1942,
     "best_month": "May",
-    "best_day": 29
+    "best_day": 29,
+    "best_birth_date": "11 Jul 1901",
+    "best_birth_year": 1901,
+    "best_birth_month": "Jul",
+    "best_birth_day": 11
   },
   {
     "name": "Margaret Price",
@@ -4881,7 +5681,11 @@
     "best_date": "8 Jun 1942",
     "best_year": 1942,
     "best_month": "Jun",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "11 Jun 1902",
+    "best_birth_year": 1902,
+    "best_birth_month": "Jun",
+    "best_birth_day": 11
   },
   {
     "name": "Robert Cecil Clements",
@@ -4907,7 +5711,11 @@
     "best_date": "10 Jun 1942",
     "best_year": 1942,
     "best_month": "Jun",
-    "best_day": 10
+    "best_day": 10,
+    "best_birth_date": "5 Dec 1892",
+    "best_birth_year": 1892,
+    "best_birth_month": "Dec",
+    "best_birth_day": 5
   },
   {
     "name": "Glen Melvin Hays",
@@ -4933,7 +5741,11 @@
     "best_date": "17 Jun 1942",
     "best_year": 1942,
     "best_month": "Jun",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "20 Jul 1909",
+    "best_birth_year": 1909,
+    "best_birth_month": "Jul",
+    "best_birth_day": 20
   },
   {
     "name": "Lucille Evelyn Hays Pederson",
@@ -4959,7 +5771,11 @@
     "best_date": "18 Jun 1942",
     "best_year": 1942,
     "best_month": "Jun",
-    "best_day": 18
+    "best_day": 18,
+    "best_birth_date": "29 Apr 1917",
+    "best_birth_year": 1917,
+    "best_birth_month": "Apr",
+    "best_birth_day": 29
   },
   {
     "name": "Pearl Gammon",
@@ -5010,7 +5826,11 @@
     "best_date": "13 Jul 1942",
     "best_year": 1942,
     "best_month": "Jul",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "3 Jan 1899",
+    "best_birth_year": 1899,
+    "best_birth_month": "Jan",
+    "best_birth_day": 3
   },
   {
     "name": "Violet Fraser Barlow",
@@ -5036,7 +5856,11 @@
     "best_date": "13 Jul 1942",
     "best_year": 1942,
     "best_month": "Jul",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "17 Jun 1913",
+    "best_birth_year": 1913,
+    "best_birth_month": "Jun",
+    "best_birth_day": 17
   },
   {
     "name": "Fern Pierce Pendrak",
@@ -5062,7 +5886,11 @@
     "best_date": "Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "22 May 1914",
+    "best_birth_year": 1914,
+    "best_birth_month": "May",
+    "best_birth_day": 22
   },
   {
     "name": "Vada Triffena Powell Lewis",
@@ -5088,7 +5916,11 @@
     "best_date": "3 Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "18 Sep 1911",
+    "best_birth_year": 1911,
+    "best_birth_month": "Sep",
+    "best_birth_day": 18
   },
   {
     "name": "Martha Mae Villers",
@@ -5114,7 +5946,11 @@
     "best_date": "3 Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "3 Jun 1922",
+    "best_birth_year": 1922,
+    "best_birth_month": "Jun",
+    "best_birth_day": 3
   },
   {
     "name": "Bert Conrad Silverthorne",
@@ -5140,7 +5976,11 @@
     "best_date": "5 Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": 5
+    "best_day": 5,
+    "best_birth_date": "1 Sep 1894",
+    "best_birth_year": 1894,
+    "best_birth_month": "Sep",
+    "best_birth_day": 1
   },
   {
     "name": "Fern Amack Clark",
@@ -5166,7 +6006,11 @@
     "best_date": "11 Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "11 Aug 1918",
+    "best_birth_year": 1918,
+    "best_birth_month": "Aug",
+    "best_birth_day": 11
   },
   {
     "name": "John Joseph Deichmiller",
@@ -5192,7 +6036,11 @@
     "best_date": "13 Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": 13
+    "best_day": 13,
+    "best_birth_date": "7 Nov 1909",
+    "best_birth_year": 1909,
+    "best_birth_month": "Nov",
+    "best_birth_day": 7
   },
   {
     "name": "Martha Ann Bybee Wattis",
@@ -5218,7 +6066,11 @@
     "best_date": "17 Aug 1942",
     "best_year": 1942,
     "best_month": "Aug",
-    "best_day": 17
+    "best_day": 17,
+    "best_birth_date": "23 Dec 1862",
+    "best_birth_year": 1862,
+    "best_birth_month": "Dec",
+    "best_birth_day": 23
   },
   {
     "name": "Efraim Amara",
@@ -5245,7 +6097,11 @@
     "best_date": "3 Sep 1942",
     "best_year": 1942,
     "best_month": "Sep",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "10 Mar 1919",
+    "best_birth_year": 1919,
+    "best_birth_month": "Mar",
+    "best_birth_day": 10
   },
   {
     "name": "Francisco Sandoval",
@@ -5272,7 +6128,11 @@
     "best_date": "8 Sep 1942",
     "best_year": 1942,
     "best_month": "Sep",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "17 Sep 1910",
+    "best_birth_year": 1910,
+    "best_birth_month": "Sep",
+    "best_birth_day": 17
   },
   {
     "name": "Brigida Belmont",
@@ -5298,7 +6158,11 @@
     "best_date": "8 Sep 1942",
     "best_year": 1942,
     "best_month": "Sep",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "8 Oct 1922",
+    "best_birth_year": 1922,
+    "best_birth_month": "Oct",
+    "best_birth_day": 8
   },
   {
     "name": "Bernice Edel May Smith",
@@ -5324,7 +6188,11 @@
     "best_date": "21 Sep 1942",
     "best_year": 1942,
     "best_month": "Sep",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "5 Mar 1897",
+    "best_birth_year": 1897,
+    "best_birth_month": "Mar",
+    "best_birth_day": 5
   },
   {
     "name": "Wentelina Vandervis",
@@ -5350,7 +6218,11 @@
     "best_date": "29 Sep 1942",
     "best_year": 1942,
     "best_month": "Sep",
-    "best_day": 29
+    "best_day": 29,
+    "best_birth_date": "17 Apr 1872",
+    "best_birth_year": 1872,
+    "best_birth_month": "Apr",
+    "best_birth_day": 17
   },
   {
     "name": "Florence Eva Ritter Hall",
@@ -5376,7 +6248,11 @@
     "best_date": "5 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 5
+    "best_day": 5,
+    "best_birth_date": "17 Dec 1883",
+    "best_birth_year": 1883,
+    "best_birth_month": "Dec",
+    "best_birth_day": 17
   },
   {
     "name": "Jacob Cornelius Vandervis",
@@ -5402,7 +6278,11 @@
     "best_date": "12 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "18 Jun 1876",
+    "best_birth_year": 1876,
+    "best_birth_month": "Jun",
+    "best_birth_day": 18
   },
   {
     "name": "William Keave Chau",
@@ -5428,7 +6308,11 @@
     "best_date": "30 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "22 Feb 1914",
+    "best_birth_year": 1914,
+    "best_birth_month": "Feb",
+    "best_birth_day": 22
   },
   {
     "name": "Rebecca Wailau Kanipae Chau",
@@ -5454,7 +6338,11 @@
     "best_date": "30 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "25 May 1912",
+    "best_birth_year": 1912,
+    "best_birth_month": "May",
+    "best_birth_day": 25
   },
   {
     "name": "Beatrice Kaualana Kahimae Kaaeamaku",
@@ -5480,7 +6368,11 @@
     "best_date": "30 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "8 Jan 1905",
+    "best_birth_year": 1905,
+    "best_birth_month": "Jan",
+    "best_birth_day": 8
   },
   {
     "name": "Suse Soares",
@@ -5506,7 +6398,11 @@
     "best_date": "30 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "26 Jun 1896",
+    "best_birth_year": 1896,
+    "best_birth_month": "Jun",
+    "best_birth_day": 26
   },
   {
     "name": "Annie Soares",
@@ -5532,7 +6428,11 @@
     "best_date": "30 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "4 Dec 1896",
+    "best_birth_year": 1896,
+    "best_birth_month": "Dec",
+    "best_birth_day": 4
   },
   {
     "name": "Mary Ann Homelani Kahinu Brighter",
@@ -5558,7 +6458,11 @@
     "best_date": "31 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 31
+    "best_day": 31,
+    "best_birth_date": "1888",
+    "best_birth_year": 1888,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "James Kalemaemae Brighter",
@@ -5584,7 +6488,11 @@
     "best_date": "31 Oct 1942",
     "best_year": 1942,
     "best_month": "Oct",
-    "best_day": 31
+    "best_day": 31,
+    "best_birth_date": "14 Aug 1877",
+    "best_birth_year": 1877,
+    "best_birth_month": "Aug",
+    "best_birth_day": 14
   },
   {
     "name": "Adrian Leonard Kearl",
@@ -5611,7 +6519,11 @@
     "best_date": "2 Nov 1942",
     "best_year": 1942,
     "best_month": "Nov",
-    "best_day": 2
+    "best_day": 2,
+    "best_birth_date": "11 Apr 1900",
+    "best_birth_year": 1900,
+    "best_birth_month": "Apr",
+    "best_birth_day": 11
   },
   {
     "name": "Sylvia Stella Dunwoody Draves",
@@ -5638,7 +6550,11 @@
     "best_date": "16 Nov 1942",
     "best_year": 1942,
     "best_month": "Nov",
-    "best_day": 16
+    "best_day": 16,
+    "best_birth_date": "17 Feb 1884",
+    "best_birth_year": 1884,
+    "best_birth_month": "Feb",
+    "best_birth_day": 17
   },
   {
     "name": "Wilhelmina Jacoba DeBuizer Fillipi",
@@ -5664,7 +6580,11 @@
     "best_date": "24 Nov 1942",
     "best_year": 1942,
     "best_month": "Nov",
-    "best_day": 24
+    "best_day": 24,
+    "best_birth_date": "19 Jul 1910",
+    "best_birth_year": 1910,
+    "best_birth_month": "Jul",
+    "best_birth_day": 19
   },
   {
     "name": "Edna May Tonek",
@@ -5690,7 +6610,11 @@
     "best_date": "3 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 3
+    "best_day": 3,
+    "best_birth_date": "5 Oct 1901",
+    "best_birth_year": 1901,
+    "best_birth_month": "Oct",
+    "best_birth_day": 5
   },
   {
     "name": "Maude Emma M. S. Richards Lackey",
@@ -5716,7 +6640,11 @@
     "best_date": "21 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "13 Jan 1877",
+    "best_birth_year": 1877,
+    "best_birth_month": "Jan",
+    "best_birth_day": 13
   },
   {
     "name": "Phyllis Anthea Coburn Nyborg Priebe",
@@ -5742,7 +6670,11 @@
     "best_date": "21 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "11 Apr 1908",
+    "best_birth_year": 1908,
+    "best_birth_month": "Apr",
+    "best_birth_day": 11
   },
   {
     "name": "Thelma Sutrella Richards Tohme",
@@ -5768,7 +6700,11 @@
     "best_date": "21 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "26 Sep 1913",
+    "best_birth_year": 1913,
+    "best_birth_month": "Sep",
+    "best_birth_day": 26
   },
   {
     "name": "John William Shurrum",
@@ -5794,7 +6730,11 @@
     "best_date": "21 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "6 Nov 1887",
+    "best_birth_year": 1887,
+    "best_birth_month": "Nov",
+    "best_birth_day": 6
   },
   {
     "name": "Hannah Wilson Shurrum",
@@ -5820,7 +6760,11 @@
     "best_date": "21 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "6 Nov 1885",
+    "best_birth_year": 1885,
+    "best_birth_month": "Nov",
+    "best_birth_day": 6
   },
   {
     "name": "Ruth Massey",
@@ -5846,7 +6790,11 @@
     "best_date": "28 Dec 1942",
     "best_year": 1942,
     "best_month": "Dec",
-    "best_day": 28
+    "best_day": 28,
+    "best_birth_date": "2 Sep 1901",
+    "best_birth_year": 1901,
+    "best_birth_month": "Sep",
+    "best_birth_day": 2
   },
   {
     "name": "Gladys Arlena Burns Beck",
@@ -5872,7 +6820,11 @@
     "best_date": "23 Feb 1943",
     "best_year": 1943,
     "best_month": "Feb",
-    "best_day": 23
+    "best_day": 23,
+    "best_birth_date": "5 Feb 1899",
+    "best_birth_year": 1899,
+    "best_birth_month": "Feb",
+    "best_birth_day": 5
   },
   {
     "name": "John Jongkindt",
@@ -5901,7 +6853,11 @@
     "best_date": "Mar 1943",
     "best_year": 1943,
     "best_month": "Mar",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "10 Jan 1896",
+    "best_birth_year": 1896,
+    "best_birth_month": "Jan",
+    "best_birth_day": 10
   },
   {
     "name": "Thomas William Collings",
@@ -5928,7 +6884,11 @@
     "best_date": "8 Mar 1943",
     "best_year": 1943,
     "best_month": "Mar",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "27 Apr 1887",
+    "best_birth_year": 1887,
+    "best_birth_month": "Apr",
+    "best_birth_day": 27
   },
   {
     "name": "Lulu Geraldine Varney Richardson",
@@ -5954,7 +6914,11 @@
     "best_date": "9 Apr 1943",
     "best_year": 1943,
     "best_month": "Apr",
-    "best_day": 9
+    "best_day": 9,
+    "best_birth_date": "25 Nov 1909",
+    "best_birth_year": 1909,
+    "best_birth_month": "Nov",
+    "best_birth_day": 25
   },
   {
     "name": "Richard Cleave Fitzpatrick",
@@ -5981,7 +6945,11 @@
     "best_date": "20 Apr 1943",
     "best_year": 1943,
     "best_month": "Apr",
-    "best_day": 20
+    "best_day": 20,
+    "best_birth_date": "4 May 1906",
+    "best_birth_year": 1906,
+    "best_birth_month": "May",
+    "best_birth_day": 4
   },
   {
     "name": "Erwin Campbell",
@@ -6008,7 +6976,11 @@
     "best_date": "30 May 1943",
     "best_year": 1943,
     "best_month": "May",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "5 Aug 1895",
+    "best_birth_year": 1895,
+    "best_birth_month": "Aug",
+    "best_birth_day": 5
   },
   {
     "name": "Robert Garfield Terrell",
@@ -6032,7 +7004,11 @@
     "best_date": "21 Jun 1943",
     "best_year": 1943,
     "best_month": "Jun",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "15 Jan 1907",
+    "best_birth_year": 1907,
+    "best_birth_month": "Jan",
+    "best_birth_day": 15
   },
   {
     "name": "Lawrence Clyde Gowell",
@@ -6059,7 +7035,11 @@
     "best_date": "16 Jul 1943",
     "best_year": 1943,
     "best_month": "Jul",
-    "best_day": 16
+    "best_day": 16,
+    "best_birth_date": "23 Sep 1909",
+    "best_birth_year": 1909,
+    "best_birth_month": "Sep",
+    "best_birth_day": 23
   },
   {
     "name": "Della Estella Gowell",
@@ -6085,7 +7065,11 @@
     "best_date": "16 Jul 1943",
     "best_year": 1943,
     "best_month": "Jul",
-    "best_day": 16
+    "best_day": 16,
+    "best_birth_date": "3 Jun 1901",
+    "best_birth_year": 1901,
+    "best_birth_month": "Jun",
+    "best_birth_day": 3
   },
   {
     "name": "Ina May Gowell",
@@ -6111,7 +7095,11 @@
     "best_date": "16 Jul 1943",
     "best_year": 1943,
     "best_month": "Jul",
-    "best_day": 16
+    "best_day": 16,
+    "best_birth_date": "14 Jun 1900",
+    "best_birth_year": 1900,
+    "best_birth_month": "Jun",
+    "best_birth_day": 14
   },
   {
     "name": "Karl Gottlieb Kirstein",
@@ -6161,7 +7149,11 @@
     "best_date": "10 Aug 1943",
     "best_year": 1943,
     "best_month": "Aug",
-    "best_day": 10
+    "best_day": 10,
+    "best_birth_date": "1 Apr 1887",
+    "best_birth_year": 1887,
+    "best_birth_month": "Apr",
+    "best_birth_day": 1
   },
   {
     "name": "Carl James Brown",
@@ -6212,7 +7204,11 @@
     "best_date": "30 Aug 1943",
     "best_year": 1943,
     "best_month": "Aug",
-    "best_day": 30
+    "best_day": 30,
+    "best_birth_date": "22 Oct 1886",
+    "best_birth_year": 1886,
+    "best_birth_month": "Oct",
+    "best_birth_day": 22
   },
   {
     "name": "Archibald Hoffman",
@@ -6239,7 +7235,11 @@
     "best_date": "19 Sep 1943",
     "best_year": 1943,
     "best_month": "Sep",
-    "best_day": 19
+    "best_day": 19,
+    "best_birth_date": "2 Jul 1892",
+    "best_birth_year": 1892,
+    "best_birth_month": "Jul",
+    "best_birth_day": 2
   },
   {
     "name": "Richard R. Lyman",
@@ -6267,7 +7267,15 @@
     "best_date": "12 Nov 1943",
     "best_year": 1943,
     "best_month": "Nov",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "1870",
+    "best_birth_year": 1870,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1963",
+    "best_death_year": 1963,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Maurice Lerrie Glendenning",
@@ -6297,7 +7305,15 @@
     "best_date": "15 Jan 1945",
     "best_year": 1945,
     "best_month": "Jan",
-    "best_day": 15
+    "best_day": 15,
+    "best_birth_date": "1891",
+    "best_birth_year": 1891,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1969",
+    "best_death_year": 1969,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Walter Clare Card",
@@ -6396,7 +7412,15 @@
     "best_date": "19 Jun 1946",
     "best_year": 1946,
     "best_month": "Jun",
-    "best_day": 19
+    "best_day": 19,
+    "best_birth_date": "1915",
+    "best_birth_year": 1915,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1981",
+    "best_death_year": 1981,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "John Horne Blackmore",
@@ -6422,7 +7446,15 @@
     "best_date": "1947",
     "best_year": 1947,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1890",
+    "best_birth_year": 1890,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1971",
+    "best_death_year": 1971,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Sally Franchow",
@@ -6467,7 +7499,15 @@
     "best_date": "11 Jun 1952",
     "best_year": 1952,
     "best_month": "Jun",
-    "best_day": 11
+    "best_day": 11,
+    "best_birth_date": "1899",
+    "best_birth_year": 1899,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1988",
+    "best_death_year": 1988,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Sandra Tanner",
@@ -6492,7 +7532,11 @@
     "best_date": "7 Jul 1960",
     "best_year": 1960,
     "best_month": "Jul",
-    "best_day": 7
+    "best_day": 7,
+    "best_birth_date": "14 Jan 1941",
+    "best_birth_year": 1941,
+    "best_birth_month": "Jan",
+    "best_birth_day": 14
   },
   {
     "name": "Jerald Tanner",
@@ -6519,7 +7563,15 @@
     "best_date": "14 Aug 1960",
     "best_year": 1960,
     "best_month": "Aug",
-    "best_day": 14
+    "best_day": 14,
+    "best_birth_date": "1 Jun 1938",
+    "best_birth_year": 1938,
+    "best_birth_month": "Jun",
+    "best_birth_day": 1,
+    "best_death_date": "1 Oct 2006",
+    "best_death_year": 2006,
+    "best_death_month": "Oct",
+    "best_death_day": 1
   },
   {
     "name": "John Singer",
@@ -6544,7 +7596,15 @@
     "best_date": "1972",
     "best_year": 1972,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1931",
+    "best_birth_year": 1931,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1979",
+    "best_death_year": 1979,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Ogden Kraut",
@@ -6568,7 +7628,15 @@
     "best_date": "1972",
     "best_year": 1972,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "21 Jun 1927",
+    "best_birth_year": 1927,
+    "best_birth_month": "Jun",
+    "best_birth_day": 21,
+    "best_death_date": "17 Jul 2002",
+    "best_death_year": 2002,
+    "best_death_month": "Jul",
+    "best_death_day": 17
   },
   {
     "name": "Richard McCoy, Jr.",
@@ -6599,7 +7667,15 @@
     "best_date": "6 Jun 1972",
     "best_year": 1972,
     "best_month": "Jun",
-    "best_day": 6
+    "best_day": 6,
+    "best_birth_date": "1942",
+    "best_birth_year": 1942,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1974",
+    "best_death_year": 1974,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Vickie Singer",
@@ -6644,7 +7720,15 @@
     "best_date": "1976",
     "best_year": 1976,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1946",
+    "best_birth_year": 1946,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1989",
+    "best_death_year": 1989,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Byron Merchant",
@@ -6687,7 +7771,15 @@
     "best_date": "Oct 1978",
     "best_year": 1978,
     "best_month": "Oct",
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1952",
+    "best_birth_year": 1952,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1988",
+    "best_death_year": 1988,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Sonia Johnson",
@@ -6712,7 +7804,11 @@
     "best_date": "5 Dec 1979",
     "best_year": 1979,
     "best_month": "Dec",
-    "best_day": 5
+    "best_day": 5,
+    "best_birth_date": "1936",
+    "best_birth_year": 1936,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "W. H. Pugmire",
@@ -6737,7 +7833,15 @@
     "best_date": "1980",
     "best_year": 1980,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "3 May 1951",
+    "best_birth_year": 1951,
+    "best_birth_month": "May",
+    "best_birth_day": 3,
+    "best_death_date": "26 Mar 2019",
+    "best_death_year": 2019,
+    "best_death_month": "Mar",
+    "best_death_day": 26
   },
   {
     "name": "Teresa Nielsen Hayden",
@@ -6760,7 +7864,11 @@
     "best_date": "7 Aug 1980",
     "best_year": 1980,
     "best_month": "Aug",
-    "best_day": 7
+    "best_day": 7,
+    "best_birth_date": "21 Mar 1956",
+    "best_birth_year": 1956,
+    "best_birth_month": "Mar",
+    "best_birth_day": 21
   },
   {
     "name": "David Charles Manners",
@@ -6781,7 +7889,11 @@
     "best_date": "1985",
     "best_year": 1985,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1965",
+    "best_birth_year": 1965,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Mark Hofmann",
@@ -6804,7 +7916,11 @@
     "best_date": "1988",
     "best_year": 1988,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1954",
+    "best_birth_year": 1954,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Bruce Holt",
@@ -6816,9 +7932,12 @@
     "notes": "Excommunicated for adultery. Re-baptized 1991.",
     "outcome": "excommunicated",
     "sex": "male",
+    "for": "adultery",
+    "rebaptism_date": "1991",
     "date_md": "Jan 1989",
     "tagline_md": "Software developer",
     "notes_md": "[Excommunicated for adultery](http://www.mormonthink.com/personalstories/bruce-holt.htm). Re-baptized 1991.",
+    "rebaptism_date_md": "1991",
     "best_date": "Jan 1989",
     "best_year": 1989,
     "best_month": "Jan",
@@ -6851,7 +7970,15 @@
     "best_date": "1 Sep 1989",
     "best_year": 1989,
     "best_month": "Sep",
-    "best_day": 1
+    "best_day": 1,
+    "best_birth_date": "1943",
+    "best_birth_year": 1943,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "2010",
+    "best_death_year": 2010,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Lynne Kanavel Whitesides",
@@ -6898,7 +8025,11 @@
     "best_date": "15 Sep 1993",
     "best_year": 1993,
     "best_month": "Sep",
-    "best_day": 15
+    "best_day": 15,
+    "best_birth_date": "1940",
+    "best_birth_year": 1940,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Maxine Hanks",
@@ -6971,7 +8102,11 @@
     "best_date": "23 Sep 1993",
     "best_year": 1993,
     "best_month": "Sep",
-    "best_day": 23
+    "best_day": 23,
+    "best_birth_date": "1944",
+    "best_birth_year": 1944,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "D. Michael Quinn",
@@ -6997,7 +8132,11 @@
     "best_date": "26 Sep 1993",
     "best_year": 1993,
     "best_month": "Sep",
-    "best_day": 26
+    "best_day": 26,
+    "best_birth_date": "1944",
+    "best_birth_year": 1944,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Deborah Laake",
@@ -7021,7 +8160,15 @@
     "best_date": "21 Jun 1993",
     "best_year": 1993,
     "best_month": "Jun",
-    "best_day": 21
+    "best_day": 21,
+    "best_birth_date": "1953",
+    "best_birth_year": 1953,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "2000",
+    "best_death_year": 2000,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "David Wright",
@@ -7113,7 +8260,11 @@
     "best_date": "9 May 1995",
     "best_year": 1995,
     "best_month": "May",
-    "best_day": 9
+    "best_day": 9,
+    "best_birth_date": "1947",
+    "best_birth_year": 1947,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Hyrum W. Smith",
@@ -7208,6 +8359,27 @@
     "best_day": 11
   },
   {
+    "name": "Thomas W. Murphy",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_W._Murphy_(anthropologist)",
+    "birth_date": "abt 1967",
+    "outcome": "council-averted",
+    "tagline": "anthropologist who published on genetics and the Book of Mormon",
+    "notes": "Though summoned to a disciplinary council, the council was never held. Thomas Murphy attributes this to media attention which threatened to embarrass the church for excommunicating a \"Galileo\".",
+    "date": "8 Dec 2002",
+    "date_md": "[8 Dec 2002](https://web.archive.org/web/20190512022518/http://www.tungate.com/murphy.htm)",
+    "tagline_md": "anthropologist who published on genetics and the Book of Mormon",
+    "notes_md": "Though summoned to a disciplinary council, [the council was never held](https://web.archive.org/web/20190512022518/http://www.tungate.com/murphy.htm). Thomas Murphy attributes this to media attention which threatened to embarrass the church for excommunicating a \"Galileo\".",
+    "birth_date_md": "abt 1967",
+    "best_date": "8 Dec 2002",
+    "best_year": 2002,
+    "best_month": "Dec",
+    "best_day": 8,
+    "best_birth_date": "1967",
+    "best_birth_year": 1967,
+    "best_birth_month": null,
+    "best_birth_day": null
+  },
+  {
     "name": "Grant Palmer",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Grant_H._Palmer",
     "birth_date": "1940",
@@ -7233,7 +8405,15 @@
     "best_date": "12 Dec 2004",
     "best_year": 2004,
     "best_month": "Dec",
-    "best_day": 12
+    "best_day": 12,
+    "best_birth_date": "1940",
+    "best_birth_year": 1940,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "2017",
+    "best_death_year": 2017,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Simon Southerton",
@@ -7249,6 +8429,7 @@
     "sex": "male",
     "location": "Canberra, Australia",
     "for": "having an inappropriate relationship with a woman",
+    "alt_for": "publications on genetics and the Book of Mormon",
     "date_md": "31 Jul 2005",
     "tagline_md": "Geneticist and author",
     "notes_md": "[Excommunicated for \"having an inappropriate relationship with a woman\" he was not married to](https://www.deseret.com/2005/8/5/19905648/church-excommunicates-dna-author). The year prior he had published _Losing a Lost Tribe: Native Americans, DNA and the Book of Mormon_ which argued that DNA evidence does not support the Book of Mormon's apparent claims regarding Native American ancestry. He believed his excommunication was in response to his publications and that the charges of an inappropriate relationship were a way of preventing him from discussing his criticisms of the church during the disciplinary council.",
@@ -7257,7 +8438,11 @@
     "best_date": "31 Jul 2005",
     "best_year": 2005,
     "best_month": "Jul",
-    "best_day": 31
+    "best_day": 31,
+    "best_birth_date": "1965",
+    "best_birth_year": 1965,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Denver Snuffer",
@@ -7305,7 +8490,11 @@
     "best_date": "2014",
     "best_year": 2014,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1980",
+    "best_birth_year": 1980,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "John Dehlin",
@@ -7334,7 +8523,11 @@
     "best_date": "8 Feb 2015",
     "best_year": 2015,
     "best_month": "Feb",
-    "best_day": 8
+    "best_day": 8,
+    "best_birth_date": "1969",
+    "best_birth_year": 1969,
+    "best_birth_month": null,
+    "best_birth_day": null
   },
   {
     "name": "Bruce Holt",
@@ -7343,12 +8536,14 @@
     ],
     "date": "30 Mar 2016",
     "tagline": "Software developer",
-    "notes": "Excommunicated for a Facebook post denouncing Joseph Smith as a \"fraud\".",
+    "notes": "Excommunicated because he would not take down his Facebook post denouncing Joseph Smith as a \"fraud\".",
     "outcome": "excommunicated",
     "sex": "male",
+    "recording_url": "https://web.archive.org/web/20190727060650/http://www.mormonthink.com/files/dc-bruce-holt-03-30-2016.mp3",
+    "alt_for": "not removing Facebook denunciation of Joseph Smith",
     "date_md": "30 Mar 2016",
     "tagline_md": "Software developer",
-    "notes_md": "[Excommunicated for a Facebook post denouncing Joseph Smith as a \"fraud\"](http://www.mormonthink.com/personalstories/bruce-holt.htm).",
+    "notes_md": "[Excommunicated](http://www.mormonthink.com/personalstories/bruce-holt.htm) because he would not take down his Facebook post denouncing Joseph Smith as a \"fraud\".",
     "best_date": "30 Mar 2016",
     "best_year": 2016,
     "best_month": "Mar",
@@ -7362,7 +8557,7 @@
     "date": "17 Apr 2016",
     "tagline": "Author of \"Letter to a CES Director\"",
     "notes": "Resigned his church membership during his disciplinary council for apostasy wherein he was accused of criticizing church leaders, expressing disbelief in the Scriptures, and expressing opposition to church leaders including founding prophet, Joseph Smith. He was disciplined for creating a document which asks questions regarding the history of the LDS faith and challenges its truth claims. The letter was written in 2013 and went viral shortly thereafter.",
-    "outcome": "resigned-in-response-to-church-discipline",
+    "outcome": "resigned-in-response-to-discipline",
     "sex": "male",
     "location": "American Fork, Utah",
     "unit": "American Fork, Utah East Stake",
@@ -7449,7 +8644,7 @@
     "date": "20 Dec 2018",
     "tagline": "_A Thoughtful Faith_ podcaster",
     "notes": "No action was taken in her disciplinary council, convened to hear charges of apostasy and \"conduct unbecoming\" a church member. She has since resigned from the LDS church and joined the Community of Christ.",
-    "outcome": "no action",
+    "outcome": "no-action",
     "sex": "female",
     "location": "Christchurch, New Zealand",
     "date_md": "[20 Dec 2018](https://religionnews.com/2018/12/19/mormon-podcaster-gina-colvin-faces-excommunication-tonight-feeling-both-saddened-and-enraged/)",
@@ -7492,12 +8687,13 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "Excommunicated for for starting a support group for former or questioning members, and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.",
+    "notes": "Excommunicated because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
     "outcome": "excommunicated",
     "sex": "female",
+    "alt_for": "running a support group for former and questioning church members",
     "date_md": "14 Apr 2019",
     "tagline_md": "Support group co-founder",
-    "notes_md": "[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->",
+    "notes_md": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
     "best_date": "14 Apr 2019",
     "best_year": 2019,
     "best_month": "Apr",
@@ -7510,12 +8706,13 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "Excommunicated for for starting a support group for former or questioning members, and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.",
+    "notes": "Excommunicated because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
     "outcome": "excommunicated",
     "sex": "male",
+    "alt_for": "running a support group for former and questioning church members",
     "date_md": "14 Apr 2019",
     "tagline_md": "Support group co-founder",
-    "notes_md": "[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->",
+    "notes_md": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
     "best_date": "14 Apr 2019",
     "best_year": 2019,
     "best_month": "Apr",
@@ -7561,7 +8758,15 @@
     "best_date": "1833",
     "best_year": 1833,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1781",
+    "best_birth_year": 1781,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1862",
+    "best_death_year": 1862,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Bob Lonsberry",
@@ -7582,6 +8787,10 @@
     "best_date": "2001",
     "best_year": 2001,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1959",
+    "best_birth_year": 1959,
+    "best_birth_month": null,
+    "best_birth_day": null
   }
 ]

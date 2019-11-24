@@ -40,18 +40,19 @@ def date_txt_to_best_date_txt(date_txt):
     # print("date_txt: %s" %tdate_txt)
     return date_txt
 
-def expand_date(date):
+def expand_date(date, prefix=""):
+
     fields = {
-        'best_date': date_txt_to_best_date_txt(date)
+        'best_%sdate' % prefix: date_txt_to_best_date_txt(date)
     }
 
-    date_fields = date_rgx.match(fields['best_date']).groupdict()
-    fields['best_year'] = int(date_fields['year'])
-    fields['best_month'] = date_fields['month']
+    date_fields = date_rgx.match(fields['best_%sdate' % prefix]).groupdict()
+    fields['best_%syear' % prefix] = int(date_fields['year'])
+    fields['best_%smonth' % prefix] = date_fields['month']
     if date_fields['day'] is not None:
-        fields['best_day'] = int(date_fields['day'])
+        fields['best_%sday' % prefix] = int(date_fields['day'])
     else:
-        fields['best_day'] = None
+        fields['best_%sday' % prefix] = None
 
     return fields
 
@@ -108,5 +109,15 @@ if __name__=="__main__":
             fields.update(expand_date(fields['date']))
         except KeyError:
             sys.stderr.write("No date for %s\n" % fields['name'])
+
+        try:
+            fields.update(expand_date(fields['birth_date'], prefix="birth_"))
+        except KeyError:
+            pass
+
+        try:
+            fields.update(expand_date(fields['death_date'], prefix='death_'))
+        except KeyError:
+            pass
 
     print(json.dumps(data, indent=2, ensure_ascii=False))

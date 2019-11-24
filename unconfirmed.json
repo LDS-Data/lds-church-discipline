@@ -20,7 +20,15 @@
     "best_date": "1905",
     "best_year": 1905,
     "best_month": null,
-    "best_day": null
+    "best_day": null,
+    "best_birth_date": "1878",
+    "best_birth_year": 1878,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1961",
+    "best_death_year": 1961,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Martha Nibley Beck",
@@ -52,7 +60,15 @@
     "tagline_md": "_Nauvoo Expositor_ publisher",
     "notes_md": "Excommunicated???",
     "birth_date_md": "1815",
-    "death_date_md": "1904"
+    "death_date_md": "1904",
+    "best_birth_date": "1815",
+    "best_birth_year": 1815,
+    "best_birth_month": null,
+    "best_birth_day": null,
+    "best_death_date": "1904",
+    "best_death_year": 1904,
+    "best_death_month": null,
+    "best_death_day": null
   },
   {
     "name": "Hiram Page",
@@ -74,7 +90,15 @@
     "tagline_md": "One of the Eight Witnesses of the Book of Mormon",
     "notes_md": "Joseph Smith Papers says he was [disaffected from the church in 1838](https://www.josephsmithpapers.org/person/jacob-whitmer), but I find no record of disciplinary action. [A Feb 1989 Ensign article](https://web.archive.org/web/20191113003645/http://www.churchofjesuschrist.org/study/ensign/1989/02/true-to-the-book-of-mormon-the-whitmers?lang=eng) explicitly states that he was never tried for his church membership. The Encyclopedia of Mormonism simply [states that he became \"inactive\"](https://eom.byu.edu/index.php/Book_of_Mormon_Witnesses). Wikipedia is likely wrong to have categorized him as excommunicated.",
     "birth_date_md": "2 Feb 1800",
-    "death_date_md": "21 Apr 1856"
+    "death_date_md": "21 Apr 1856",
+    "best_birth_date": "2 Feb 1800",
+    "best_birth_year": 1800,
+    "best_birth_month": "Feb",
+    "best_birth_day": 2,
+    "best_death_date": "21 Apr 1856",
+    "best_death_year": 1856,
+    "best_death_month": "Apr",
+    "best_death_day": 21
   },
   {
     "name": "Mary Mussleman Whitmer",
@@ -88,7 +112,15 @@
     "tagline_md": "Book of Mormon witness, early Mormon matriarch",
     "notes_md": "She said that, in the time when the Book of Mormon was being translated, a heavenly messenger named Brother Nephi [showed her that golden plates](https://web.archive.org/web/20191113083221/https://journal.interpreterfoundation.org/another-account-of-mary-whitmers-viewing-of-the-golden-plates/) as she went out to milk the cows. I have not been able to find evidence she underwent church discipline, other than claims that the entire Whitmer family was excommunicated. Wikipedia may have her wrongly categorized as excommunicated.",
     "birth_date_md": "27 Aug 1778",
-    "death_date_md": "Jan 1856"
+    "death_date_md": "Jan 1856",
+    "best_birth_date": "27 Aug 1778",
+    "best_birth_year": 1778,
+    "best_birth_month": "Aug",
+    "best_birth_day": 27,
+    "best_death_date": "Jan 1856",
+    "best_death_year": 1856,
+    "best_death_month": "Jan",
+    "best_death_day": null
   },
   {
     "name": "Peter Whitmer Sr.",
@@ -102,6 +134,14 @@
     "tagline_md": "Early Mormon patriarch",
     "notes_md": "With Mary Musselman Whitmer, the father of the Whitmer family influential in early Mormonism. [He became disaffected from the church in 1838](https://www.josephsmithpapers.org/person/peter-whitmer-sr) but I find no evidence he underwent church discipline, except that many articles claim the entire Whitmer family was excommunicated, and Wikipedia categorizes him as excommunicated.",
     "birth_date_md": "14 Apr 1773",
-    "death_date_md": "12 Aug 1854"
+    "death_date_md": "12 Aug 1854",
+    "best_birth_date": "14 Apr 1773",
+    "best_birth_year": 1773,
+    "best_birth_month": "Apr",
+    "best_birth_day": 14,
+    "best_death_date": "12 Aug 1854",
+    "best_death_year": 1854,
+    "best_death_month": "Aug",
+    "best_death_day": 12
   }
 ]
