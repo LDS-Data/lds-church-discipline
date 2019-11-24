@@ -186,11 +186,9 @@ Entries which (potentially) are not up to current standards:
 * Rhonda Whelan
 * Kate Kelly
 * John Dehlin
-* Bruce Holt
 * Jeremy Runnells
 * Sam Young
 * Bill Reel
-* Leah and Cody Young
 * James Strang (wordsmithing needed)
 
 ## Sources To Consult

@@ -4397,7 +4397,9 @@
     "tagline": "Software developer",
     "notes": "[Excommunicated for adultery](http://www.mormonthink.com/personalstories/bruce-holt.htm). Re-baptized 1991.",
     "outcome": "excommunicated",
-    "sex": "male"
+    "sex": "male",
+    "for": "adultery",
+    "rebaptism_date": "1991"
   },
   {
     "name": "George P. Lee",
@@ -4732,9 +4734,11 @@
     ],
     "date": "30 Mar 2016",
     "tagline": "Software developer",
-    "notes": "[Excommunicated for a Facebook post denouncing Joseph Smith as a \"fraud\"](http://www.mormonthink.com/personalstories/bruce-holt.htm).",
+    "notes": "[Excommunicated](http://www.mormonthink.com/personalstories/bruce-holt.htm) because he would not take down his Facebook post denouncing Joseph Smith as a \"fraud\".",
     "outcome": "excommunicated",
-    "sex": "male"
+    "sex": "male",
+    "disciplinary_council_recording_url": "https://web.archive.org/web/20190727060650/http://www.mormonthink.com/files/dc-bruce-holt-03-30-2016.mp3",
+    "alt_for": "not removing Facebook denunciation of Joseph Smith"
   },
   {
     "name": "Jeremy Runnells",
@@ -4825,9 +4829,10 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->",
+    "notes": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because she and her husband, Cody Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
     "outcome": "excommunicated",
-    "sex": "female"
+    "sex": "female",
+    "alt_for": "running a support group for former and questioning church members"
   },
   {
     "name": "Cody Young",
@@ -4836,9 +4841,10 @@
     ],
     "date": "14 Apr 2019",
     "tagline": "Support group co-founder",
-    "notes": "[Excommunicated for for starting a support group for former or questioning members](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/), and refusing to shut it down. Although they were deliberate to not reach out to active members, their Stake president chose to excommunicate them for their efforts to help others. This is one of several cases between 2010 and 2020 where low-level members are excommunicated due to social media posts or other seemingly benign actions.<!--FIXME-->",
+    "notes": "[Excommunicated](https://www.mormonstories.org/podcast/the-excommunication-of-leah-and-cody-young/) because he and his wife, Leah Young, would not disband a support group they started for former and questioning church members, in spite of deliberately avoiding reaching out to active members.",
     "outcome": "excommunicated",
-    "sex": "male"
+    "sex": "male",
+    "alt_for": "running a support group for former and questioning church members"
   },
   {
     "name": "Jared Lusk",
