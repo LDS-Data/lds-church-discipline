@@ -15,7 +15,7 @@
 
 * [Harvey G. Whitlock](https://en.wikipedia.org/wiki/Harvey_G._Whitlock) (1809-after 1880)—by 28 Sep 1835—Early Mormon physician, Book of Commandments witness—[Excommunicated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/43), perhaps [for adultery](https://catalog.churchofjesuschrist.org/assets?id=6356ac4d-c36f-483c-b90e-37ce4fa02547&crate=0&index=266). He was [rebaptized](https://www.josephsmithpapers.org/paper-summary/minute-book-1/141) around 30 Jan 1836.
 
-* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (20 Sep 1811-20 Oct 1890)—1837—Apostle, Geologist, Inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton).
+* [John F. Boynton](https://en.wikipedia.org/wiki/John_F._Boynton) (20 Sep 1811-20 Oct 1890)—1837—Original member of the Quorum of the Twelve Apostles, geologist, inventor—[Excommunicated](https://www.josephsmithpapers.org/person/john-farnham-boynton).
 
 * [Solomon Wilbur Denton](https://en.wikipedia.org/wiki/Solomon_Wilbur_Denton) (1816-1864)—Apr? 1837—Printer, bodyguard—[Excommunicated "for lack of faith, non-observance of duties and contempt for the quorum of High Priests"](https://archive.org/details/PainesvilleTelegraph9June1837/page/n1). He had testified in court that Joseph Smith had recruited him to murder Grandison Newell (a murder which never occurred).
 
@@ -184,7 +184,7 @@
 
 * [T. B. H. Stenhouse](https://en.wikipedia.org/wiki/T._B._H._Stenhouse) (1825-1882)—17 Aug 1870—Godbeite historian—[Excommunicated at his own request after joining the Godbeite movement](https://mormonhistoryassociation.org/wp-content/uploads/2015/01/Journal-of-Mormon-History-Vol.-1-1974.pdf) in criticizing Brigham Young's leadership. A failed polygamist (his plural wife Belinda obtained a divorce 25 Nov 1869) he went on to pen _Rocky Mountain Saints_, a groundbreaking (if biased) history of Mormonism, published in 1873. His wife, Fanny Stenhouse, was also excommunicated, for publishing and lecturing against the church.
 
-* [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (1812-1881)—3 May 1874—Brigham Young secretary, compiler of Journal of Discourses—Excommunicated for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement. He had been disfellowshipped in 1869.
+* [George D. Watt](https://en.wikipedia.org/wiki/George_D._Watt) (12 May 1812-24 Oct 1881)—3 May 1874—Brigham Young secretary, compiler of Journal of Discourses—Excommunicated for following the teachings of dissident William S. Godbe, and for his role as a leader of the Godbeite movement. He had been disfellowshipped in 1869.
 
 * [Sarah Marinda Bates Pratt](https://en.wikipedia.org/wiki/Sarah_Marinda_Bates_Pratt) (1817-1888)—4 Oct 1874—First wife of Orson Pratt, Anti-Polygamy Society supporter, self-proclaimed apostate—[Excommunicated for apostasy](https://archive.org/details/SarahPrattShapingOfAnApostate/page/n25) after rejecting polygamy and objecting to being placed on an equal footing with her husband's other wives. Her disaffection became pronounced after her 57 year-old husband Orson married as his tenth wife 16 year-old Margaret Graham, a teen younger than their own daughter.
 

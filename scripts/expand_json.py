@@ -4,11 +4,11 @@ import sys
 import html2text
 import mistune
 
-md = mistune.Markdown()
-html = html2text.HTML2Text()
-html.ignore_links = True
+_md = mistune.Markdown()
+_html = html2text.HTML2Text()
+_html.ignore_links = True
 def markdown_to_txt(markdown):
-    return html.handle( md.render(markdown) ).strip().replace('\n',' ').replace('  ',' ')
+    return _html.handle( _md.render(markdown) ).strip().replace('\n',' ').replace('  ',' ')
 
 
 date_rgx = re.compile("(?:(?P<day>\d?\d) )?(?:(?P<month>Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) )?(?P<year>\d\d\d\d)")
@@ -55,6 +55,7 @@ def expand_date(date):
 
     return fields
 
+# Autodetect Markdown or plaintext and put into base or _md suffixed entries accordingly
 md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date", "baptism_date", "rebaptism_date")
 
 if __name__=="__main__":
@@ -87,15 +88,23 @@ if __name__=="__main__":
         except KeyError:
             pass
 
-        for txt_field in md_to_txt:
-            # plaintext -> Markdown, otherwise Markdown -> plaintext
+        for field in md_to_txt:
             try:
-                fields["%s_md" % txt_field] = fields[txt_field]
+                raw = fields[field]
+
+                txt = markdown_to_txt(raw)
+
+                if txt == raw:
+                    # The content was plaintext already so set the Markdown to the plaintext
+                    md = txt
+                else:
+                    # The content was Markdown so treat it accordingly
+                    md = raw
+
+                fields[field] = txt
+                fields['%s_md' % field] = md
             except KeyError:
-                try:
-                    fields[txt_field] = markdown_to_txt(fields["%s_md" % txt_field])
-                except KeyError:
-                    pass
+                pass
 
         try:
             fields.update(expand_date(fields['date']))
