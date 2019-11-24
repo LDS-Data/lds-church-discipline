@@ -72,8 +72,6 @@ if __name__=="__main__":
 
     sys.stderr.write("Expanding %s entries in %s\n" % (len(data), args.filename))
 
-    data2 = list()
-
     for fields in data:
 
         try:
@@ -110,7 +108,5 @@ if __name__=="__main__":
             fields.update(expand_date(fields['date']))
         except KeyError:
             sys.stderr.write("No date for %s\n" % fields['name'])
-
-        data2.append(fields)
 
     print(json.dumps(data, indent=2, ensure_ascii=False))
