@@ -3989,6 +3989,22 @@
     ]
   },
   {
+    "name": "James LeRoy Athay",
+    "sex": "male",
+    "birth_date": "10 Aug 1890",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
+    "date": "16 Aug 1943",
+    "unit": "Thirteenth Ward, Emigration Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1944-jan"
+    ]
+  },
+  {
     "name": "Carl James Brown",
     "sex": "male",
     "outcome": "excommunicated",
@@ -4002,6 +4018,22 @@
     "tags": [
       "improvement-era",
       "1943-oct"
+    ]
+  },
+  {
+    "name": "Edna Katherine Kaggie Blair",
+    "sex": "female",
+    "birth_date": "5 Jun 1915",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
+    "date": "29 Aug 1943",
+    "unit": "Sparks Ward, Reno Stake",
+    "location": "Sparks, Washoe, Nevada, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1944-jan"
     ]
   },
   {
@@ -4041,21 +4073,94 @@
     ]
   },
   {
-    "name": "Richard R. Lyman",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
-    "birth_date": "1870",
-    "death_date": "1963",
+    "name": "Paul Everett Bourne",
+    "sex": "male",
+    "office": "elder",
+    "birth_date": "3 Aug 1920",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
+    "date": "15 Oct 1943",
+    "unit": "Lanford Branch, New England Mission",
+    "location": "New England?, United States?",
     "sections": [
       "20th Century"
     ],
-    "date": "12 Nov 1943",
+    "tags": [
+      "improvement-era",
+      "1944-jan"
+    ]
+  },
+  {
+    "name": "Richard R. Lyman",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
+    "birth_date": "23 Nov 1870",
+    "birth_place": "[Fillmore, Millard, Utah, United States](https://web.archive.org/web/20191028223700/https://rsc.byu.edu/archived/prophets-and-apostles-last-dispensation/members-quorum-o-f-twelve-apostles/52-richard)",
+    "death_date": "[31 Dec 1963](https://web.archive.org/web/20191028223700/https://rsc.byu.edu/archived/prophets-and-apostles-last-dispensation/members-quorum-o-f-twelve-apostles/52-richard)",
+    "sections": [
+      "20th Century"
+    ],
+    "date": "[12 Nov 1943](https://archive.org/details/improvementera4701unse/page/n31)",
     "tagline": "Apostle",
-    "notes": "Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.",
-    "outcome": "excommunicated",
+    "notes": "Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.<!-- TODO: quote the 13 Nov 1943 Deseret News excommunication notice -->",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
     "sex": "male",
     "location": "Salt Lake City, Salt Lake, Utah, United States",
     "rebaptism_date": "27 Oct 1954",
-    "office": "apostle"
+    "office": "apostle",
+    "tags": [
+      "improvement-era",
+      "1944-jan"
+    ]
+  },
+  {
+    "name": "Mary Louise Bird Savage",
+    "sex": "female",
+    "birth_date": "28 Nov 1895",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
+    "+notes": "Her [husband](https://web.archive.org/web/20170314022051/http://wchsutah.org/people/levi-mathers-savage.php), Jesse Mathers Savage, was excommunicated the same day. (The _Improvement Era_ gives their church unit as being in the \"Northwestern States Mission\", but this is likely in error, as all references to a Sheridan Branch which I can find are connected with Sheridan, Wyoming in the \"Western States Mission\", which appears to have contained Wyoming in the early 1940s.)",
+    "date": "23 Nov 1943",
+    "unit": "Sheridan Branch, Western States Mission?",
+    "location": "Sheridan, Sheridan?, Wyoming?, United States?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1944-jan"
+    ]
+  },
+  {
+    "name": "Jesse Mathers Savage",
+    "sex": "male",
+    "birth_date": "19 Jul 1898",
+    "death_date": "[6 May 1972](https://web.archive.org/web/20170314022051/http://wchsutah.org/people/levi-mathers-savage.php)",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
+    "+notes": "His [wife](https://web.archive.org/web/20170314022051/http://wchsutah.org/people/levi-mathers-savage.php), Mary Louise Bird Savage, was excommunicated the same day. (The _Improvement Era_ gives their church unit as being in the \"Northwestern States Mission\", but this is likely in error, as all references to a Sheridan Branch which I can find are connected with Sheridan, Wyoming in the \"Western States Mission\", which appears to have contained Wyoming in the early 1940s.)",
+    "date": "23 Nov 1943",
+    "unit": "Sheridan Branch, Western States Mission?",
+    "location": "Sheridan, Sheridan?, Wyoming?, United States?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1944-jan"
+    ]
+  },
+  {
+    "name": "Marjorie Ellen Braden Sprague",
+    "sex": "female",
+    "birth_date": "14 Jul 1912",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4701unse/page/n31)",
+    "date": "23 Nov 1943",
+    "unit": "Northwestern States Mission",
+    "location": "United States or Canada",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1944-jan"
+    ]
   },
   {
     "name": "Maurice Lerrie Glendenning",

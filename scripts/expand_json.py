@@ -4,6 +4,8 @@ import sys
 import html2text
 import mistune
 
+from fields import BIRTH_PLACE, OUTCOME, PLUS_NOTES
+
 _md = mistune.Markdown()
 _html = html2text.HTML2Text()
 _html.ignore_links = True
@@ -98,7 +100,7 @@ def friendly_location(location):
     return ', '.join(output_parts)
 
 # Autodetect Markdown or plaintext and put into base or _md suffixed entries accordingly
-md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date", "baptism_date", "rebaptism_date")
+md_to_txt = ("date", "tagline", "notes", "location", "unit", "birth_date", "death_date", "baptism_date", "rebaptism_date", OUTCOME, BIRTH_PLACE, PLUS_NOTES)
 
 if __name__=="__main__":
     import argparse

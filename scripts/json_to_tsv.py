@@ -1,3 +1,5 @@
+from fields import BIRTH_PLACE, BIRTH_PLACE_MD, OUTCOME, OUTCOME_MD, PLUS_NOTES, PLUS_NOTES_MD
+
 default_column_order = [
     'name',
     'sex',
@@ -25,11 +27,14 @@ default_column_order = [
     'tagline',
     'tagline_md',
     'office',
-    'outcome',
+    OUTCOME,
+    OUTCOME_MD,
     'for',
     'alt_for',
     'notes',
     'notes_md',
+    PLUS_NOTES,
+    PLUS_NOTES_MD,
     'unit',
     'unit_md',
     'location',
@@ -48,7 +53,8 @@ default_column_order = [
     'best_adm4',
     'sections',
     'tags',
-    'birth_place',
+    BIRTH_PLACE,
+    BIRTH_PLACE_MD,
     'rebaptism_date',
     'rebaptism_date_md',
     'baptism_date',

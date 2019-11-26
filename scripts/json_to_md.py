@@ -1,6 +1,6 @@
 import sys
 
-from fields import ALT_FOR, FOR, FRIENDLY_LOCATION, JSP_URL, OUTCOME, RECORDING_URL, UNIT
+from fields import ALT_FOR, DATE_MD, FOR, FRIENDLY_LOCATION, JSP_URL, NOTES_MD, OUTCOME, OUTCOME_MD, PLUS_NOTES_MD, RECORDING_URL, TAGLINE_MD, UNIT, UNIT_MD
 
 SEP='—'
 
@@ -24,6 +24,50 @@ def name_maybe_with_link(obj):
 
 def name_and_lifespan(obj):
     return "".join([name_maybe_with_link(obj), lifespan(obj)])
+
+def _conjunction(items):
+    if len(items) == 1:
+        return items[0]
+
+    if len(items) == 2:
+        return '%s and %s' % items
+
+    return '%s and %s' % (', '.join(items[:-1]), items[-1])
+
+def _capitalize_first_alpha(s):
+    found = False
+
+    a = list()
+
+    for c in s:
+        if c.isalpha() and not found:
+            c = c.upper()
+            found = True
+
+        a.append(c)
+
+    return ''.join(a)
+
+def auto_notes_md(obj):
+    s = _capitalize_first_alpha( obj[OUTCOME_MD] )
+    try:
+        s += ' in %s' % obj[FRIENDLY_LOCATION]
+    except KeyError:
+        pass
+
+    try:
+        s += ' by the %s' % obj[UNIT_MD]
+    except KeyError:
+        pass
+
+    try:
+        s += ' for %s' % _conjunction(obj[FOR])
+    except KeyError:
+        pass
+
+    s += '.'
+
+    return s
 
 if __name__=="__main__":
     import argparse
@@ -53,16 +97,27 @@ if __name__=="__main__":
         parts = [name_and_lifespan(obj)]
 
         try:
-            parts.append(obj['date_md'])
+            parts.append(obj[DATE_MD])
         except KeyError:
-            sys.stderr.write("No 'date_md' for %s\n" % obj['name'])
+            sys.stderr.write("No '%s' for %s\n" % (DATE_MD, obj['name']) )
 
         try:
-            parts.append(obj['tagline_md'])
+            parts.append(obj[TAGLINE_MD])
         except KeyError:
             pass
 
-        parts.append(obj['notes_md'])
+        try:
+            notes_md = obj[NOTES_MD]
+        except KeyError:
+            notes_md = auto_notes_md(obj)
+
+        try:
+            notes_md += ' %s' % obj.pop(PLUS_NOTES_MD)
+        except KeyError:
+            pass
+
+        parts.append(notes_md)
+
 
         print("* %s" % SEP.join(parts))
         try:

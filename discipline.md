@@ -902,9 +902,17 @@
   - Location: Buffalo, New York
   - Church unit: Buffalo Branch, Eastern States Mission
 
+* James LeRoy Athay (b. 10 Aug 1890)—16 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in Salt Lake City, Utah by the Thirteenth Ward, Emigration Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Thirteenth Ward, Emigration Stake
+
 * Carl James Brown—20 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
   - Location: Cambridge, Massachusetts
   - Church unit: Cambridge Branch, New England Mission
+
+* Edna Katherine Kaggie Blair (b. 5 Jun 1915)—29 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in Sparks, Nevada by the Sparks Ward, Reno Stake.
+  - Location: Sparks, Nevada
+  - Church unit: Sparks Ward, Reno Stake
 
 * Grant Holly (b. 22 Oct 1886)—30 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4611unse/page/n47).
   - Location: Buffalo, New York
@@ -914,8 +922,24 @@
   - Location: South Salt Lake, Utah
   - Church unit: Central Park Ward, South Salt Lake Stake
 
-* [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (1870-1963)—12 Nov 1943—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.
+* Paul Everett Bourne (b. 3 Aug 1920)—15 Oct 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in New England by the Lanford Branch, New England Mission.
+  - Location: New England
+  - Church unit: Lanford Branch, New England Mission
+
+* [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (23 Nov 1870-[31 Dec 1963](https://web.archive.org/web/20191028223700/https://rsc.byu.edu/archived/prophets-and-apostles-last-dispensation/members-quorum-o-f-twelve-apostles/52-richard))—[12 Nov 1943](https://archive.org/details/improvementera4701unse/page/n31)—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.<!-- TODO: quote the 13 Nov 1943 Deseret News excommunication notice -->
   - Location: Salt Lake City, Utah
+
+* Mary Louise Bird Savage (b. 28 Nov 1895)—23 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in Sheridan, Wyoming by the Sheridan Branch, Western States Mission?. Her [husband](https://web.archive.org/web/20170314022051/http://wchsutah.org/people/levi-mathers-savage.php), Jesse Mathers Savage, was excommunicated the same day. (The _Improvement Era_ gives their church unit as being in the "Northwestern States Mission", but this is likely in error, as all references to a Sheridan Branch which I can find are connected with Sheridan, Wyoming in the "Western States Mission", which appears to have contained Wyoming in the early 1940s.)
+  - Location: Sheridan, Wyoming
+  - Church unit: Sheridan Branch, Western States Mission?
+
+* Jesse Mathers Savage (19 Jul 1898-[6 May 1972](https://web.archive.org/web/20170314022051/http://wchsutah.org/people/levi-mathers-savage.php))—23 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in Sheridan, Wyoming by the Sheridan Branch, Western States Mission?. His [wife](https://web.archive.org/web/20170314022051/http://wchsutah.org/people/levi-mathers-savage.php), Mary Louise Bird Savage, was excommunicated the same day. (The _Improvement Era_ gives their church unit as being in the "Northwestern States Mission", but this is likely in error, as all references to a Sheridan Branch which I can find are connected with Sheridan, Wyoming in the "Western States Mission", which appears to have contained Wyoming in the early 1940s.)
+  - Location: Sheridan, Wyoming
+  - Church unit: Sheridan Branch, Western States Mission?
+
+* Marjorie Ellen Braden Sprague (b. 14 Jul 1912)—23 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in United States or Canada by the Northwestern States Mission.
+  - Location: United States or Canada
+  - Church unit: Northwestern States Mission
 
 * Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
   - Location: South Salt Lake, Utah
