@@ -233,6 +233,7 @@ Sources from which church discipline actions should be gleaned:
   * [Feb 1947](https://archive.org/details/improvementera5002unse/page/n53)
   * [Mar 1947](https://archive.org/details/improvementera5003unse/page/n41)
 * _Modern Polygamy and Mormon Fundamentalism: The Generations after the Manifesto_ by Brian Hales
+* _Deseret News_ excommunication notices
 
 When a source has been fully combed through, move it to [Sources Consulted](#sources-consulted).
 
