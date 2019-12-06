@@ -867,6 +867,10 @@
   - Location: Magna, Utah
   - Church unit: Pleasant Green Ward, Oquirrh Stake
 
+* Reginald Rochell Brown (b. 2 Jul 1914)—21 Mar 1943—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in United Kingdom by the South Lords District, British Mission.
+  - Location: United Kingdom
+  - Church unit: South Lords District, British Mission
+
 * Lulu Geraldine Varney Richardson (b. 25 Nov 1909)—9 Apr 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
   - Location: Cambridge, Massachusetts
   - Church unit: Cambridge Branch, New England Mission
@@ -875,12 +879,20 @@
   - Location: Colonia Dublán, Chihuahua, Mexico
   - Church unit: Dublan Branch, Juarez Stake
 
+* Frank L. Doxford (b. 2 Aug 1918)—13 May 1943—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Salt Lake City, Utah by the Twenty-fourth Ward, Salt Lake Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-fourth Ward, Salt Lake Stake
+
 * Erwin Campbell (b. 5 Aug 1895)—30 May 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
   - Location: Salt Lake City, Utah
   - Church unit: Twenty-fourth Ward, Salt Lake Stake
 
 * Robert Garfield Terrell (b. 15 Jan 1907)—21 Jun 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
   - Location: Erie, Pennsylvania
+
+* Morton H. Proctor (b. 23 Feb 1896)—1 Jul 1943—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in South Salt Lake, Utah by the Southgate Ward, South Salt Lake Stake.
+  - Location: South Salt Lake, Utah
+  - Church unit: Southgate Ward, South Salt Lake Stake
 
 * Lawrence Clyde Gowell (b. 23 Sep 1909)—16 Jul 1943—[Excommunicated](https://archive.org/details/improvementera4610unse/page/n31).
   - Location: Cambridge, Massachusetts
@@ -910,6 +922,26 @@
   - Location: Cambridge, Massachusetts
   - Church unit: Cambridge Branch, New England Mission
 
+* Ruth Alberta Gray Forster (b. 13 Mar 1921)—24 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Denver, Colorado
+  - Church unit: Barnum Ward, Denver Stake
+
+* Frank Perry, Sr. (b. 25 Jun 1899)—24 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Denver, Colorado
+  - Church unit: Barnum Ward, Denver Stake
+
+* Frank Perry, Jr. (b. 15 Aug 1925)—24 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Denver, Colorado
+  - Church unit: Barnum Ward, Denver Stake
+
+* Luella Perry (b. 11 Jun 1903)—24 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Denver, Colorado
+  - Church unit: Barnum Ward, Denver Stake
+
+* Luella Marie Perry (b. 15 Aug 1925)—24 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Denver, Colorado
+  - Church unit: Barnum Ward, Denver Stake
+
 * Edna Katherine Kaggie Blair (b. 5 Jun 1915)—29 Aug 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in Sparks, Nevada by the Sparks Ward, Reno Stake.
   - Location: Sparks, Nevada
   - Church unit: Sparks Ward, Reno Stake
@@ -926,6 +958,14 @@
   - Location: New England
   - Church unit: Lanford Branch, New England Mission
 
+* Gertrude Harris Hammond (b. 12 Sep 1910)—15 Oct 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31).
+  - Location: Cambridge, Massachusetts
+  - Church unit: Cambridge Branch, New England Mission
+
+* Johanne Butchereit (b. 24 Dec 1876)—2 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Second Ward, Liberty Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Second Ward, Liberty Stake
+
 * [Richard R. Lyman](https://en.wikipedia.org/wiki/Richard_R._Lyman) (23 Nov 1870-[31 Dec 1963](https://web.archive.org/web/20191028223700/https://rsc.byu.edu/archived/prophets-and-apostles-last-dispensation/members-quorum-o-f-twelve-apostles/52-richard))—[12 Nov 1943](https://archive.org/details/improvementera4701unse/page/n31)—Apostle—Excommunicated for cohabitating with Anna Jacobsen Hegsted, a woman he considered his plural wife. He was rebaptized 27 Oct 1954 but not restored to the apostleship.<!-- TODO: quote the 13 Nov 1943 Deseret News excommunication notice -->
   - Location: Salt Lake City, Utah
 
@@ -940,6 +980,341 @@
 * Marjorie Ellen Braden Sprague (b. 14 Jul 1912)—23 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4701unse/page/n31) in United States or Canada by the Northwestern States Mission.
   - Location: United States or Canada
   - Church unit: Northwestern States Mission
+
+* Hugh S. Wayman (b. 23 Aug 1897)—25 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31). This may be the same [Hugh Wayman who shot and killed Emery County Sheriff William L. Black in 1936](https://web.archive.org/web/20191206001934/http://www.riversimulator.org/Resources/History/UtahCounties/HistoryOfEmeryCounty1996Geary.pdf), was convicted of second degree murder, was imprisoned, and then was paroled in 1943.
+  - Location: Ferron, Utah
+
+* Alice Pearl Sterner Knosp (b. 11 Sep 1913)—26 Nov 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Ogden, Utah
+  - Church unit: Ogden Twenty-second Ward, Weber Stake
+
+* Arlene Ruth Doherty (b. 18 Dec 1924)—3 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31).
+  - Location: Cambridge, Massachusetts
+  - Church unit: Cambridge Branch, New England Mission
+
+* Jesse N. Beagley (20 Jun 1907-[24 Oct 1990](https://www.deseret.com/1990/10/25/18887823/death-jesse-beagley))—6 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31).
+  - Location: Tooele, Utah
+  - Church unit: Tooele Second Ward, Tooele Stake
+
+* Joseph Heber Hancock (b. 1 Feb 1892)—11 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31) alongside [his wife](https://ancestors.familysearch.org/en/KWVR-9QW/joseph-heber-hancock-1892-1948), Edith Kaziah Soderborg.
+  - Location: Kanab, Utah
+  - Church unit: Kanab Stake
+
+* Edith Kaziah Soderborg (b. 18 Oct 1907)—11 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31) alongside [her husband](https://ancestors.familysearch.org/en/KWVR-9QW/joseph-heber-hancock-1892-1948), Joseph Heber Hancock.
+  - Location: Kanab, Utah
+  - Church unit: Kanab Stake
+
+* Lorraine Brossard (b. 9 Jan 1920)—12 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31).
+  - Location: Salt Lake City, Utah
+  - Church unit: Yale Ward, Bonneville Stake
+
+* Virgil John Zenz (10 Jun 1906-[18 Oct 1969](https://www.findagrave.com/memorial/117887/virgil-john-zenz))—13 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31) [alongside his wife, Lola Rhodes Zenz, and son, William Frank Zenz](https://www.ancestry.com/1940-census/usa/California/William-Frank-Zenz_2jjrfw).
+  - Location: Bountiful, Utah
+  - Church unit: Bountiful Third Ward, South Davis Stake
+
+* Lola Rhodes Zenz (6 Feb 1909-[24 May 1997](https://www.findagrave.com/memorial/117886/lola-zenz))—13 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31) [alongside her husband, Virgil John Zenz, and son, William Frank Zenz](https://www.ancestry.com/1940-census/usa/California/William-Frank-Zenz_2jjrfw).
+  - Location: Bountiful, Utah
+  - Church unit: Bountiful Third Ward, South Davis Stake
+
+* William Frank Zenz (b. 24 Apr 1926)—13 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31) [alongside his parents, Virgil John Zenz and Lola Rhodes Zenz](https://www.ancestry.com/1940-census/usa/California/William-Frank-Zenz_2jjrfw).
+  - Location: Bountiful, Utah
+  - Church unit: Bountiful Third Ward, South Davis Stake
+
+* Theo Stocking Anderson (14 Aug 1894-[24 Jan 1988](https://www.findagrave.com/memorial/43056864/theo-ellen-anderson))—15 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4702unse/page/n31).
+  - Location: Pocatello, Idaho
+  - Church unit: Pocatello First Ward, Pocatello Stake
+
+* Deronda Verdell Farnsworth (b. 17 Nov 1905)—29 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Ogden, Utah
+  - Church unit: Ogden Twenty-second Ward, Weber Stake
+
+* Estella Schwendiman Smith (b. 24 Apr 1911)—31 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Burbank, California
+  - Church unit: Burbank Branch, San Fernando Stake
+
+* Zona D. Peterson Smith (b. 27 Jan 1914)—31 Dec 1943—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Burbank, California
+  - Church unit: Burbank Branch, San Fernando Stake
+
+* Roy Courtney Marsden (b. 14 Jul 1896)—1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Texas by the North Texas District, Texas Mission.
+  - Location: Texas
+  - Church unit: North Texas District, Texas Mission
+
+* Elva Wright (b. 19 May 1924)—1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Texas by the North Texas District, Texas Mission.
+  - Location: Texas
+  - Church unit: North Texas District, Texas Mission
+
+* Larkin Harris Egbert (8 Mar 1906-[18 Dec 1982](https://www.findagrave.com/memorial/83491313/larkin-harris-egbert))—2 Jan 1944—[Excommunicated at her own request](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Salt Lake City, Utah
+  - Church unit: First Ward, Park Stake
+
+* Delvin Horace White (b. 29 Feb 1891)—14 Jan 1944—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Cambridge, Massachusetts
+  - Church unit: Cambridge Branch, New England Mission
+
+* Elsie Belle Gould White (b. 27 Aug 1896)—14 Jan 1944—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Cambridge, Massachusetts
+  - Church unit: Cambridge Branch, New England Mission
+
+* LeGrand Lindsley (b. 22 Mar 1920)—16 Jan 1944—[Excommunicated](https://archive.org/details/improvementera4703unse/page/n31).
+  - Location: Salt Lake City, Utah
+  - Church unit: First Ward, Park Stake
+
+* Barbara Jean Heath (b. 4 Mar 1924)—[22 Jan 1944](https://archive.org/details/improvementera4706unse/page/n45)—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in Los Angles, California by the La Cienega Ward, Inglewood Stake.
+  - Location: Los Angles, California
+  - Church unit: La Cienega Ward, Inglewood Stake
+
+* Earl Marshall (b. 8 Mar 1903)—22 Jan 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Nebraska by the East Nebraska District, Western States Mission.
+  - Location: Nebraska
+  - Church unit: East Nebraska District, Western States Mission
+
+* Rudolph Helmer Gylling (2 Jan 1903-[16 May 1988](https://www.findagrave.com/memorial/81091768/rudolph-helmer-gylling))—27 Jan 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Denver, Colorado by the Denver First Ward, Denver Stake.
+  - Location: Denver, Colorado
+  - Church unit: Denver First Ward, Denver Stake
+
+* Samuel Ray Allen (b. 6 Feb 1894)—30 Jan 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in La Grande, Oregon by the La Grande Second Ward, Union Stake.
+  - Location: La Grande, Oregon
+  - Church unit: La Grande Second Ward, Union Stake
+
+* Carolyn June Anderson Sexauer (b. 16 Jan 1908)—3 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in San Diego, California by the College Ward, San Diego Stake.
+  - Location: San Diego, California
+  - Church unit: College Ward, San Diego Stake
+
+* Ronald Duane Sexauer (b. 22 Dec 1929)—3 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in San Diego, California by the College Ward, San Diego Stake.
+  - Location: San Diego, California
+  - Church unit: College Ward, San Diego Stake
+
+* Gerald Michael Sexauer (b. 10 Aug 1936)—3 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in San Diego, California by the College Ward, San Diego Stake.
+  - Location: San Diego, California
+  - Church unit: College Ward, San Diego Stake
+
+* Arthur Budvarson (b. 4 Apr 1909)—3 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) alongside his wife, Edna Budvarson, [with whom he later founded the Utah Christian Tract Society](https://web.archive.org/web/20190526220223/http://www.mrm.org/art-budvarson), as well as their daughter, Dona Mae Budvarson. He explained his disaffection from the church as resulting from a conversion to biblical Christianity as opposed to Mormonism. He later published _The Book of Mormon, true or false?_, a critique of the Book of Mormon.
+  - Location: San Diego, California
+  - Church unit: College Ward, San Diego Stake
+
+* Edna May Anderson Budvarson (b. 23 Dec 1911)—3 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) alongside her husband, Arthur Budvarson, [with whom she later founded the Utah Christian Tract Society](https://web.archive.org/web/20190526220223/http://www.mrm.org/art-budvarson), as well as their daughter, Dona Mae Budvarson.
+  - Location: San Diego, California
+  - Church unit: College Ward, San Diego Stake
+
+* Dona Mae Budvarson (b. 19 Mar 1930)—3 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) at age thirteen with her parents, Arthur and Edna Budvarson.
+  - Location: San Diego, California
+  - Church unit: College Ward, San Diego Stake
+
+* Elizabeth C. Gadbury (b. 13 Jul 1899)—13 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Burbank, California by the Burbank Ward, San Fernando Stake.
+  - Location: Burbank, California
+  - Church unit: Burbank Ward, San Fernando Stake
+
+* Evalyn Effigene Clark Carman (b. 24 Jun 1912)—14 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in La Grande, Oregon by the La Grande Second Ward, Union Stake.
+  - Location: La Grande, Oregon
+  - Church unit: La Grande Second Ward, Union Stake
+
+* Iva Mae Clarson Holmes (b. 13 Oct 1913)—14 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in La Grande, Oregon by the La Grande Second Ward, Union Stake.
+  - Location: La Grande, Oregon
+  - Church unit: La Grande Second Ward, Union Stake
+
+* Joseph Bertrand Dana (b. 1 Aug 1903)—14 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Ogden, Utah by the Ogden Tenth Ward, North Weber Stake.
+  - Location: Ogden, Utah
+  - Church unit: Ogden Tenth Ward, North Weber Stake
+
+* Heber Chase Smith, Jr. (b. 24 Mar 1916)—15 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Sixth-Seventh Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Sixth-Seventh Ward, Pioneer Stake
+
+* Carol Loraine Murphy (b. 15 Jul 1933)—17 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n43) in Salt Lake City, Utah by the Lincoln Ward, Granite Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Lincoln Ward, Granite Stake
+
+* Ellen Winnifred Haysey Chandler (b. 19 Jun 1889)—18 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Calgary, Alberta, Canada by the Calgary Ward, Lethbridge Stake.
+  - Location: Calgary, Alberta, Canada
+  - Church unit: Calgary Ward, Lethbridge Stake
+
+* William Henry Chandler (b. 22 Dec 1877)—18 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Calgary, Alberta, Canada by the Calgary Ward, Lethbridge Stake.
+  - Location: Calgary, Alberta, Canada
+  - Church unit: Calgary Ward, Lethbridge Stake
+
+* Grant Allyn Caproni (b. 10 Dec 1880)—27 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Wandamere Ward, Grant Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Wandamere Ward, Grant Stake
+
+* Charles Gray Cluff (b. 4 Oct 1905)—13 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Newton, Utah by the Newton Ward, Smithfield Stake.
+  - Location: Newton, Utah
+  - Church unit: Newton Ward, Smithfield Stake
+
+* Corine Woodward Grivet (b. 5 Dec 1910)—13 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Helper, Utah by the Helper Ward, Carbon Stake.
+  - Location: Helper, Utah
+  - Church unit: Helper Ward, Carbon Stake
+
+* Olive Reed Nilson (11 Feb 1902-[24 Oct 1991](https://www.deseret.com/1991/10/31/18950485/death-olive-reed-nilson))—13 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Helper, Utah by the Helper Ward, Carbon Stake.
+  - Location: Helper, Utah
+  - Church unit: Helper Ward, Carbon Stake
+
+* John McLaughlan, Jr. (b. 8 Jul 1910)—14 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Thirtieth Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Thirtieth Ward, Pioneer Stake
+
+* Mildred P. J. McLaughlan (b. 28 Feb 1913)—14 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Thirtieth Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Thirtieth Ward, Pioneer Stake
+
+* Clark LeRoy Tyler (b. 13 Jul 1905)—20 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Los Angeles, California by the Manchester Ward, South Los Angeles Stake.
+  - Location: Los Angeles, California
+  - Church unit: Manchester Ward, South Los Angeles Stake
+
+* Joseph Waite Hunter (b. 20 May 1893)—31 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Emmett, Idaho by the Emmett Ward, Weiser Stake.
+  - Location: Emmett, Idaho
+  - Church unit: Emmett Ward, Weiser Stake
+
+* Thelma C. Voight (b. 11 Feb 1906)—3 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Oakland, California by the Dimond Ward, Oakland Stake.
+  - Location: Oakland, California
+  - Church unit: Dimond Ward, Oakland Stake
+
+* Duane Furnell Gee (b. 2 Dec 1918)—5 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Harvard Ward, Liberty Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Harvard Ward, Liberty Stake
+
+* Paul Carl Hilgendorff (b. 27 Feb 1875)—16 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Nibley Park Ward, Granite Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Nibley Park Ward, Granite Stake
+
+* Lloyd Franklin Anderson (b. 16 Nov 1913)—17 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in San Diego, California by the North Park Ward, San Diego Stake.
+  - Location: San Diego, California
+  - Church unit: North Park Ward, San Diego Stake
+
+* Ross Wesley LeBaron (b. 16 Nov 1914)—18 Apr 1944—[later Church of the Firstborn founder](https://web.archive.org/web/20190727012734/https://www.mormonfundamentalism.com/archive/ChartLinks/RossWesleyLeBaron.htm)—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) [alongside his wife, Thelma Elena Cox LeBaron](https://web.archive.org/web/20180719233334/https://holyorder.org/2017/08/02/the-improvement-era-excommunication-of-ross-lebaron-and-thelma-cox/). [The son of excommunicant Alma Dayer LeBaron, Sr.](https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family))
+  - Location: Salt Lake City, Utah
+  - Church unit: Third Ward, Liberty Stake
+
+* Thelma Elena Cox LeBaron (b. 4 Aug 1918)—18 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) [alongside her husband](https://web.archive.org/web/20180719233334/https://holyorder.org/2017/08/02/the-improvement-era-excommunication-of-ross-lebaron-and-thelma-cox/), Ross Wesley LeBaron.
+  - Location: Salt Lake City, Utah
+  - Church unit: Third Ward, Liberty Stake
+
+* Howard W. Long (b. 7 Feb 1892)—20 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Thatcher, Arizona by the Thatcher Ward, St. Joseph Stake.
+  - Location: Thatcher, Arizona
+  - Church unit: Thatcher Ward, St. Joseph Stake
+
+* Kenneth S. Lambert (b. 19 Jan 1906)—30 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Salt Lake City, Utah by the Grandview Ward, Grant Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Grandview Ward, Grant Stake
+
+* [Joel Franklin LeBaron](https://en.wikipedia.org/wiki/Joel_LeBaron) (9 Jul 1923-20 Aug 1972)—2 May 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Colonia Dublán, Chihuahua, Mexico by the [Dublan First Ward, Juarez Stake](https://web.archive.org/web/20190603211706/https://mormonpolygamydocuments.org/wp-content/uploads/2014/12/MF0048.pdf), Mexican Mission for apostasy and opposition to the Church in teaching principles contrary to church beliefs. [A son of excommunicant Alma Dayer LeBaron, Sr.](https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)). He was murdered under orders from his brother, Ervil LeBaron, the leader of a rival polygamous sect.
+  - Location: Colonia Dublán, Chihuahua, Mexico
+  - Church unit: Dublan First Ward, Juarez Stake, Mexican Mission
+
+* Clarence Palmer (b. 6 May 1927)—7 May 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Santa Monica, California by the Santa Monica Ward, Inglewood Stake.
+  - Location: Santa Monica, California
+  - Church unit: Santa Monica Ward, Inglewood Stake
+
+* Vincent Bousfield (b. 28 Feb 1895)—7 May 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Santa Monica, California by the Santa Monica Ward, Inglewood Stake.
+  - Location: Santa Monica, California
+  - Church unit: Santa Monica Ward, Inglewood Stake
+
+* Mary Alice Anderson McColl (b. 5 Mar 1903)—15 May 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Redwood City, California by the Redwood City Ward, San Francisco Stake.
+  - Location: Redwood City, California
+  - Church unit: Redwood City Ward, San Francisco Stake
+
+* Mary Beneham Sherrill (b. 19 Mar 1900)—20 May 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Bay City, Texas by the Bay City Branch, Texas Mission.
+  - Location: Bay City, Texas
+  - Church unit: Bay City Branch, Texas Mission
+
+* Grant G. Woodward (b. 4 Aug 1899)—21 May 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Reno, Nevada by the Reno Ward, Reno Stake.
+  - Location: Reno, Nevada
+  - Church unit: Reno Ward, Reno Stake
+
+* Edna Isabell Rae Noble (b. 18 Mar 1893)—1 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Wharton, Texas by the Wharton Branch, Texas Mission.
+  - Location: Wharton, Texas
+  - Church unit: Wharton Branch, Texas Mission
+
+* Charles August Wall (b. 30 Dec 1905)—4 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Logan, Utah by the Logan Tenth Ward, Cache Stake.
+  - Location: Logan, Utah
+  - Church unit: Logan Tenth Ward, Cache Stake
+
+* Benjamin T. LeBaron (b. 2 May 1913)—6 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Mexico by the Mexican Mission. [A son of excommunicant Alma Dayer LeBaron, Sr.](https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)).
+  - Location: Mexico
+  - Church unit: Mexican Mission
+
+* Doris Rogerson Gilmore (b. 2 Jul 1911)—8 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Carlin, Nevada by the Carlin Ward, Humboldt Stake.
+  - Location: Carlin, Nevada
+  - Church unit: Carlin Ward, Humboldt Stake
+
+* Alma Dayer LeBaron, Jr. (b. 2 Apr 1918)—9 Jun 1944—polygamous patriarch—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Mexico by the Mexican Mission. [He founded a polygamous family in Mexico under the influence of excommunicant Joseph White Musser](https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)).
+  - Location: Mexico
+  - Church unit: Mexican Mission
+
+* [Ervil M. LeBaron](https://en.wikipedia.org/wiki/Ervil_LeBaron) (22 Feb 1925-15 Aug 1981)—[6](https://archive.org/details/improvementera4709unse/page/n23) or [9](https://archive.org/details/improvementera4712unse/page/n55) Jun 1944—murderous polygamist, Church of the First Born of the Lamb of God founder—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Colonia Juárez, Chihuahua, Mexico by the Juarez Ward, Juarez Stake. He founded a faction of the LeBaron family, the _Church of the First Born of the Lamb of God_, and ordered the murder of his rival, prior excommunicant Joel LeBaron, as well as numerous others. He was eventually convicted of murder in Utah and died in prison.
+  - Location: Colonia Juárez, Chihuahua, Mexico
+  - Church unit: Juarez Ward, Juarez Stake
+
+* Edmund Richard Guenther (b. 11 Dec 1889)—10 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Thirty-second Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Thirty-second Ward, Pioneer Stake
+
+* Helen Dorothy Dudley Fuller (b. 26 Mar 1911)—13 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the South Twentieth Ward, Ensign Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: South Twentieth Ward, Ensign Stake
+
+* Lavetta Coleman Wall (b. 18 Jan 1912)—15 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Logan, Utah by the Logan Tenth Ward, Cache Stake.
+  - Location: Logan, Utah
+  - Church unit: Logan Tenth Ward, Cache Stake
+
+* Grace A. Forsey Neal (b. 26 May 1888)—26 Jun 1944—[Excommunicated](https://archive.org/details/improvementera4709unse/page/n23) in Inglewood, California by the Inglewood Ward, Inglewood Stake.
+  - Location: Inglewood, California
+  - Church unit: Inglewood Ward, Inglewood Stake
+
+* Alfred Dean Ball (b. 14 May 1908)—7 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Twenty-fifth Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-fifth Ward, Pioneer Stake
+
+* Arthur Van Steeter (b. 2 Apr 1891)—10 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Magna, Utah by the Magna Ward, Oquirrh Stake.
+  - Location: Magna, Utah
+  - Church unit: Magna Ward, Oquirrh Stake
+
+* Sylvia A. Sheppard Van Steeter (b. 7 Mar 1895)—10 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Magna, Utah by the Magna Ward, Oquirrh Stake.
+  - Location: Magna, Utah
+  - Church unit: Magna Ward, Oquirrh Stake
+
+* A. Demar Dudley (b. 6 May 1901)—10 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Jensen, Utah by the Jensen Ward, Uintah Stake.
+  - Location: Jensen, Utah
+  - Church unit: Jensen Ward, Uintah Stake
+
+* Mada Ann Shelley Dudley (b. 12 May 1900)—10 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Jensen, Utah by the Jensen Ward, Uintah Stake.
+  - Location: Jensen, Utah
+  - Church unit: Jensen Ward, Uintah Stake
+
+* Marion Cecila Kirkpatrick Butters (b. 16 Apr 1902)—5 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Eighth Ward, Liberty Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Eighth Ward, Liberty Stake
+
+* Maria (Tena) Rascon (b. 24 May 1885)—9 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in El Paso, Texas by the El Paso, Spanish-American Mission.
+  - Location: El Paso, Texas
+  - Church unit: El Paso, Spanish-American Mission
+
+* Maximino Gomez (b. 8 Jun 1885)—9 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in El Paso, Texas by the El Paso, Spanish-American Mission.
+  - Location: El Paso, Texas
+  - Church unit: El Paso, Spanish-American Mission
+
+* Simon Marshall (b. 6 Dec 1913)—9 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in El Paso, Texas by the El Paso, Spanish-American Mission.
+  - Location: El Paso, Texas
+  - Church unit: El Paso, Spanish-American Mission
+
+* Virginia DeLos Rios de Howe (b. 15 Nov 1911)—9 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in El Paso, Texas by the El Paso, Spanish-American Mission.
+  - Location: El Paso, Texas
+  - Church unit: El Paso, Spanish-American Mission
+
+* Edna Ada Marrihew Kinney (b. 6 Jun 1903)—19 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Emerson Ward, Sugarhouse Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Emerson Ward, Sugarhouse Stake
+
+* Peter J. Smith (b. 3 Nov 1903)—3 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Tenth Ward, Park Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Tenth Ward, Park Stake
+
+* Eliza A. Pugh Steed (b. 23 Nov 1907)—16 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Garfield, Utah by the Antimony Ward, Garfield Stake.
+  - Location: Garfield, Utah
+  - Church unit: Antimony Ward, Garfield Stake
+
+* Newell Steed (b. 4 Oct 1902)—16 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Garfield, Utah by the Antimony Ward, Garfield Stake.
+  - Location: Garfield, Utah
+  - Church unit: Antimony Ward, Garfield Stake
 
 * Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
   - Location: South Salt Lake, Utah

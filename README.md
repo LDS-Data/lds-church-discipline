@@ -48,6 +48,9 @@ Strictly speaking the database is contained in [discipline.json](https://github.
   * [Jan 1944](https://archive.org/details/improvementera4701unse/page/n31)
   * [Feb 1944](https://archive.org/details/improvementera4702unse/page/n31)
   * [Mar 1944](https://archive.org/details/improvementera4703unse/page/n31)
+  * [Jun 1944](https://archive.org/details/improvementera4706unse/page/n43)
+  * [Sep 1944](https://archive.org/details/improvementera4709unse/page/n23)
+  * [Dec 1944](https://archive.org/details/improvementera4712unse/page/n55)
 
 ## Contributing
 
@@ -208,9 +211,6 @@ Sources from which church discipline actions should be gleaned:
 * History of the Church
 * Kirtland High Council Minutes
 * [_Improvement Era_ excommunication notices](https://archive.org/search.php?query=excommunications&and%5B%5D=collection%3A%22improvementera%22&sin=TXT)
-  * [Jun 1944](https://archive.org/details/improvementera4706unse/page/n43)
-  * [Sep 1944](https://archive.org/details/improvementera4709unse/page/n23)
-  * [Dec 1944](https://archive.org/details/improvementera4712unse/page/n55)
   * [Jan 1945](https://archive.org/details/improvementera4801unse/page/n43)
   * [Feb 1945](https://archive.org/details/improvementera4802unse/page/n51)
   * [Mar 1945](https://archive.org/details/improvementera4803unse/page/n35)

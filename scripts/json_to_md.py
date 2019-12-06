@@ -26,11 +26,14 @@ def name_and_lifespan(obj):
     return "".join([name_maybe_with_link(obj), lifespan(obj)])
 
 def _conjunction(items):
+    if type(items) == str:
+        return items
+
     if len(items) == 1:
         return items[0]
 
     if len(items) == 2:
-        return '%s and %s' % items
+        return ' and '.join(items)
 
     return '%s and %s' % (', '.join(items[:-1]), items[-1])
 
