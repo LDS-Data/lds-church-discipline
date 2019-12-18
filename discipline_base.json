@@ -4972,6 +4972,22 @@
     ]
   },
   {
+    "name": "Irene Davis Lamb Brisk",
+    "sex": "female",
+    "birth_date": "6 Oct 1900",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4804unse/page/n45)",
+    "date": "20 Feb 1944",
+    "unit": "Copperton Branch?, Bingham Stake?",
+    "location": "Copperton, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-apr"
+    ]
+  },
+  {
     "name": "Grant Allyn Caproni",
     "sex": "male",
     "birth_date": "10 Dec 1880",
@@ -5517,6 +5533,23 @@
     ]
   },
   {
+    "name": "Johannes Nieman",
+    "sex": "male",
+    "birth_date": "24 Dec 1908",
+    "office": "deacon",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "2 Jul 1944",
+    "unit": "Sixteenth Ward, Riverside Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
     "name": "Alfred Dean Ball",
     "sex": "male",
     "birth_date": "14 May 1908",
@@ -5596,6 +5629,21 @@
     "tags": [
       "improvement-era",
       "1944-dec"
+    ]
+  },
+  {
+    "name": "Ellwood Emil Schlaepfer",
+    "sex": "male",
+    "birth_date": "13 Jun 1910",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "23 Aug 1944",
+    "location": "Manhattan, New York City, New York, New York, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
     ]
   },
   {
@@ -5713,6 +5761,22 @@
     ]
   },
   {
+    "name": "Claire Cross Olmstead",
+    "sex": "female",
+    "birth_date": "12 Jul 1908",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4801unse/page/n43)",
+    "date": "4 Oct 1944",
+    "unit": "Buffalo Branch, Eastern States Mission",
+    "location": "Buffalo, Erie, New York, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jan"
+    ]
+  },
+  {
     "name": "Eliza A. Pugh Steed",
     "sex": "female",
     "birth_date": "23 Nov 1907",
@@ -5745,22 +5809,351 @@
     ]
   },
   {
+    "name": "Leah Matson Tuft",
+    "sex": "female",
+    "birth_date": "16 Sep 1916",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4802unse/page/n51)",
+    "date": "22 Oct 1944",
+    "unit": "La Cienega Ward, Inglewood Stake",
+    "location": "Los Angles, Los Angeles, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-feb"
+    ]
+  },
+  {
+    "name": "George Wallace Bird",
+    "sex": "male",
+    "birth_date": "7 Jan 1914",
+    "office": "elder",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4801unse/page/n43)",
+    "date": "24 Oct 1944",
+    "unit": "Edmonton Branch, Western Canadian Mission",
+    "location": "Edmonton, Alberta, Canada",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jan"
+    ]
+  },
+  {
+    "name": "Sarah Blodwin Groo",
+    "sex": "female",
+    "birth_date": "25 Feb 1909",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "Nov 1944",
+    "unit": "Twenty-fourth Ward, Salt Lake Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Milton Marsh Groo",
+    "sex": "male",
+    "birth_date": "26 Sep 1901",
+    "office": "priest",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "Nov 1944",
+    "unit": "Twenty-fourth Ward, Salt Lake Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Martha Ellen Cornwall Waite",
+    "sex": "female",
+    "birth_date": "28 Sep 1891",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4801unse/page/n43)",
+    "date": "1 Nov 1944",
+    "unit": "Twenty-first Ward, Emigration Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jan"
+    ]
+  },
+  {
+    "name": "Margaret May Graham Musser",
+    "sex": "female",
+    "birth_date": "19 May 1908",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4802unse/page/n51)",
+    "date": "16 Nov 1944",
+    "unit": "Lincoln Ward, Granite Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-feb"
+    ]
+  },
+  {
+    "name": "Katherine Wallace Mills",
+    "sex": "female",
+    "birth_date": "11 Apr 1906",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4802unse/page/n51)",
+    "date": "19 Nov 1944",
+    "unit": "Sacramento Ward, Sacramento Stake",
+    "location": "Sacramento, Sacramento, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-feb"
+    ]
+  },
+  {
+    "name": "Christian Fritz Max Oeser",
+    "sex": "male",
+    "birth_date": "23 Aug 1906",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "21 Nov 1944",
+    "unit": "Independence Branch, Central States Mission",
+    "location": "Independence, Jackson, Missouri, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "James Edmond (Lohmiller) Reese",
+    "sex": "male",
+    "birth_date": "21 May 1915",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "30 Nov 1944",
+    "unit": "Pueblo Ward, Denver Stake",
+    "location": "Pueblo, Pueblo, Colorado, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Susie Mae Thompson",
+    "sex": "female",
+    "birth_date": "31 May 1885",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "30 Nov 1944",
+    "unit": "Pueblo Ward, Denver Stake",
+    "location": "Pueblo, Pueblo, Colorado, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Olive Young",
+    "sex": "female",
+    "birth_date": "18 Aug 1920",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4802unse/page/n51)",
+    "date": "11 Dec 1944",
+    "unit": "Kanab North Ward, Kanab Stake",
+    "location": "Kanab, Kane, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-feb"
+    ]
+  },
+  {
+    "name": "Walter Linke",
+    "sex": "male",
+    "birth_date": "21 May 1886",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4802unse/page/n51)",
+    "date": "18 Dec 1944",
+    "unit": "Berkeley Ward, Oakland Stake",
+    "location": "Berkeley, Alameda, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-feb"
+    ]
+  },
+  {
+    "name": "Margaret Johnston Buchan Marshall",
+    "sex": "female",
+    "birth_date": "7 Jun 1890",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "+notes": "The _Improvement Era_ claims East Orange, New York as the location of excommunication, but there is no such city. We take this to mean East Orange Ward, New York Stake, located in New Jersey.",
+    "date": "19 Dec 1944",
+    "location": "East Orange, Essex, New Jersey, United States",
+    "unit": "East Orange Ward, New York Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Frederick Lucas Richardson",
+    "sex": "male",
+    "birth_date": "11 Oct 1920",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "27 Dec 1944",
+    "unit": "Douglas Ward, Bonneville Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "John Ernest Adams, Jr.",
+    "sex": "male",
+    "birth_date": "15 Sep 1891",
+    "office": "seventy",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "6 Jan 1945",
+    "unit": "Blanding Ward, San Juan Stake",
+    "location": "Blanding, San Juan, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Thomas Scott Marshall",
+    "sex": "male",
+    "birth_date": "18 Jan 1885",
+    "office": "elder",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4804unse/page/n45)",
+    "date": "10 Jan 1945",
+    "+notes": "The _Improvement Era_ claims East Orange, New York as the location of excommunication, but there is no such city. We take this to mean East Orange Ward, New York Stake, located in New Jersey.",
+    "location": "East Orange, Essex, New Jersey, United States",
+    "unit": "East Orange Ward, New York Stake",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-apr"
+    ]
+  },
+  {
+    "name": "Guy Hill Musser",
+    "sex": "male",
+    "birth_date": "13 Nov 1910",
+    "office": "seventy",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4804unse/page/n45)",
+    "date": "14 Jan 1945",
+    "unit": "Lincoln Ward, Granite Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-apr"
+    ]
+  },
+  {
     "name": "Maurice Lerrie Glendenning",
-    "birth_date": "1891",
+    "birth_date": "15 Feb 1891",
     "death_date": "1969",
     "sections": [
       "20th Century"
     ],
     "date": "15 Jan 1945",
     "tagline": "Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect",
-    "notes": "[Excommunicated for being the \"[i]nstigator of [the] 'Aaronic Order'\"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the \"Angel Elias\"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing \"heavenly music\", \"angelic poetry\", and \"doctrinal and philosophical statements\" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).",
+    "notes": "[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) for [being the \"[i]nstigator of [the] 'Aaronic Order'\"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the \"Angel Elias\"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing \"heavenly music\", \"angelic poetry\", and \"doctrinal and philosophical statements\" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).",
     "outcome": "excommunicated",
     "sex": "male",
     "location": "South Salt Lake, Salt Lake, Utah, United States",
     "unit": "Eldredge Ward, South Salt Lake Stake",
     "for": "instigating the 'Aaronic Order'",
     "tags": [
-      "order-of-aaron-thesis"
+      "order-of-aaron-thesis",
+      "improvement-era",
+      "1945-apr"
+    ]
+  },
+  {
+    "name": "Clarence Darrow Coombs",
+    "sex": "male",
+    "birth_date": "7 Dec 1907",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4803unse/page/n35)",
+    "date": "21 Jan 1945",
+    "unit": "Twenty-fifth Ward, Pioneer Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-mar"
+    ]
+  },
+  {
+    "name": "Lois Virginia Long Whitlock",
+    "sex": "female",
+    "birth_date": "13 Jul 1923",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4801unse/page/n43)",
+    "date": "by Jan 1945",
+    "unit": "Thatcher Ward, St. Joseph Stake",
+    "location": "Thatcher, Graham, Arizona, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jan"
+    ]
+  },
+  {
+    "name": "Portia Olson Beeson",
+    "sex": "female",
+    "birth_date": "1 Nov 1890",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4804unse/page/n45)",
+    "date": "4 Feb 1945",
+    "unit": "Claremont Branch, Oakland Stake",
+    "location": "Claremont, Oakland, Alameda, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-apr"
     ]
   },
   {

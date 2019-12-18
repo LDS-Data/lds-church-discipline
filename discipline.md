@@ -1132,6 +1132,10 @@
   - Location: Calgary, Alberta, Canada
   - Church unit: Calgary Ward, Lethbridge Stake
 
+* Irene Davis Lamb Brisk (b. 6 Oct 1900)—20 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) in Copperton, Utah by the Copperton Branch?, Bingham Stake?.
+  - Location: Copperton, Utah
+  - Church unit: Copperton Branch?, Bingham Stake?
+
 * Grant Allyn Caproni (b. 10 Dec 1880)—27 Feb 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Wandamere Ward, Grant Stake.
   - Location: Salt Lake City, Utah
   - Church unit: Wandamere Ward, Grant Stake
@@ -1260,6 +1264,10 @@
   - Location: Inglewood, California
   - Church unit: Inglewood Ward, Inglewood Stake
 
+* Johannes Nieman (b. 24 Dec 1908)—2 Jul 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Salt Lake City, Utah by the Sixteenth Ward, Riverside Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Sixteenth Ward, Riverside Stake
+
 * Alfred Dean Ball (b. 14 May 1908)—7 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Twenty-fifth Ward, Pioneer Stake.
   - Location: Salt Lake City, Utah
   - Church unit: Twenty-fifth Ward, Pioneer Stake
@@ -1279,6 +1287,9 @@
 * Mada Ann Shelley Dudley (b. 12 May 1900)—10 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Jensen, Utah by the Jensen Ward, Uintah Stake.
   - Location: Jensen, Utah
   - Church unit: Jensen Ward, Uintah Stake
+
+* Ellwood Emil Schlaepfer (b. 13 Jun 1910)—23 Aug 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Manhattan, New York City, New York.
+  - Location: Manhattan, New York City, New York
 
 * Marion Cecila Kirkpatrick Butters (b. 16 Apr 1902)—5 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Eighth Ward, Liberty Stake.
   - Location: Salt Lake City, Utah
@@ -1308,6 +1319,10 @@
   - Location: Salt Lake City, Utah
   - Church unit: Tenth Ward, Park Stake
 
+* Claire Cross Olmstead (b. 12 Jul 1908)—4 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4801unse/page/n43) in Buffalo, New York by the Buffalo Branch, Eastern States Mission.
+  - Location: Buffalo, New York
+  - Church unit: Buffalo Branch, Eastern States Mission
+
 * Eliza A. Pugh Steed (b. 23 Nov 1907)—16 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Garfield, Utah by the Antimony Ward, Garfield Stake.
   - Location: Garfield, Utah
   - Church unit: Antimony Ward, Garfield Stake
@@ -1316,9 +1331,89 @@
   - Location: Garfield, Utah
   - Church unit: Antimony Ward, Garfield Stake
 
-* Maurice Lerrie Glendenning (1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated for being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
+* Leah Matson Tuft (b. 16 Sep 1916)—22 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4802unse/page/n51) in Los Angles, California by the La Cienega Ward, Inglewood Stake.
+  - Location: Los Angles, California
+  - Church unit: La Cienega Ward, Inglewood Stake
+
+* George Wallace Bird (b. 7 Jan 1914)—24 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4801unse/page/n43) in Edmonton, Alberta, Canada by the Edmonton Branch, Western Canadian Mission.
+  - Location: Edmonton, Alberta, Canada
+  - Church unit: Edmonton Branch, Western Canadian Mission
+
+* Sarah Blodwin Groo (b. 25 Feb 1909)—Nov 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Salt Lake City, Utah by the Twenty-fourth Ward, Salt Lake Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-fourth Ward, Salt Lake Stake
+
+* Milton Marsh Groo (b. 26 Sep 1901)—Nov 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Salt Lake City, Utah by the Twenty-fourth Ward, Salt Lake Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-fourth Ward, Salt Lake Stake
+
+* Martha Ellen Cornwall Waite (b. 28 Sep 1891)—1 Nov 1944—[Excommunicated](https://archive.org/details/improvementera4801unse/page/n43) in Salt Lake City, Utah by the Twenty-first Ward, Emigration Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-first Ward, Emigration Stake
+
+* Margaret May Graham Musser (b. 19 May 1908)—16 Nov 1944—[Excommunicated](https://archive.org/details/improvementera4802unse/page/n51) in Salt Lake City, Utah by the Lincoln Ward, Granite Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Lincoln Ward, Granite Stake
+
+* Katherine Wallace Mills (b. 11 Apr 1906)—19 Nov 1944—[Excommunicated](https://archive.org/details/improvementera4802unse/page/n51) in Sacramento, California by the Sacramento Ward, Sacramento Stake.
+  - Location: Sacramento, California
+  - Church unit: Sacramento Ward, Sacramento Stake
+
+* Christian Fritz Max Oeser (b. 23 Aug 1906)—21 Nov 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Independence, Missouri by the Independence Branch, Central States Mission.
+  - Location: Independence, Missouri
+  - Church unit: Independence Branch, Central States Mission
+
+* James Edmond (Lohmiller) Reese (b. 21 May 1915)—30 Nov 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Pueblo, Colorado by the Pueblo Ward, Denver Stake.
+  - Location: Pueblo, Colorado
+  - Church unit: Pueblo Ward, Denver Stake
+
+* Susie Mae Thompson (b. 31 May 1885)—30 Nov 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Pueblo, Colorado by the Pueblo Ward, Denver Stake.
+  - Location: Pueblo, Colorado
+  - Church unit: Pueblo Ward, Denver Stake
+
+* Olive Young (b. 18 Aug 1920)—11 Dec 1944—[Excommunicated](https://archive.org/details/improvementera4802unse/page/n51) in Kanab, Utah by the Kanab North Ward, Kanab Stake.
+  - Location: Kanab, Utah
+  - Church unit: Kanab North Ward, Kanab Stake
+
+* Walter Linke (b. 21 May 1886)—18 Dec 1944—[Excommunicated](https://archive.org/details/improvementera4802unse/page/n51) in Berkeley, California by the Berkeley Ward, Oakland Stake.
+  - Location: Berkeley, California
+  - Church unit: Berkeley Ward, Oakland Stake
+
+* Margaret Johnston Buchan Marshall (b. 7 Jun 1890)—19 Dec 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in East Orange, New Jersey by the East Orange Ward, New York Stake. The _Improvement Era_ claims East Orange, New York as the location of excommunication, but there is no such city. We take this to mean East Orange Ward, New York Stake, located in New Jersey.
+  - Location: East Orange, New Jersey
+  - Church unit: East Orange Ward, New York Stake
+
+* Frederick Lucas Richardson (b. 11 Oct 1920)—27 Dec 1944—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Salt Lake City, Utah by the Douglas Ward, Bonneville Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Douglas Ward, Bonneville Stake
+
+* John Ernest Adams, Jr. (b. 15 Sep 1891)—6 Jan 1945—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Blanding, Utah by the Blanding Ward, San Juan Stake.
+  - Location: Blanding, Utah
+  - Church unit: Blanding Ward, San Juan Stake
+
+* Thomas Scott Marshall (b. 18 Jan 1885)—10 Jan 1945—[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) in East Orange, New Jersey by the East Orange Ward, New York Stake. The _Improvement Era_ claims East Orange, New York as the location of excommunication, but there is no such city. We take this to mean East Orange Ward, New York Stake, located in New Jersey.
+  - Location: East Orange, New Jersey
+  - Church unit: East Orange Ward, New York Stake
+
+* Guy Hill Musser (b. 13 Nov 1910)—14 Jan 1945—[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) in Salt Lake City, Utah by the Lincoln Ward, Granite Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Lincoln Ward, Granite Stake
+
+* Maurice Lerrie Glendenning (15 Feb 1891-1969)—15 Jan 1945—Founder of the Aaronic Order or [House of Aaron](https://en.wikipedia.org/wiki/House_of_Aaron) sect—[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) for [being the "[i]nstigator of [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd) because he founded a religious sect apart from the LDS church on the basis of [revelations he claimed to receive from the "Angel Elias"](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V12N01_59.pdf). He had grown up hearing "heavenly music", "angelic poetry", and "doctrinal and philosophical statements" within his own mind, and joined the LDS Church at least in part due to resonances between his revelations and the theology of the church. In 1942 he formally organized the Aaronic Order as a church, for which he was ultimately excommunicated in 1945. His major revelations were 1944's _Book of Elias, or the Record of John_, 1948's _New Revelations for the Book of Elias, or the Record of John_, and 1955's _Disciple Book_, which were later collected as [The Levitical Writings](https://archive.org/details/TheLeviticalWritings).
   - Location: South Salt Lake, Utah
   - Church unit: Eldredge Ward, South Salt Lake Stake
+
+* Clarence Darrow Coombs (b. 7 Dec 1907)—21 Jan 1945—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Salt Lake City, Utah by the Twenty-fifth Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-fifth Ward, Pioneer Stake
+
+* Lois Virginia Long Whitlock (b. 13 Jul 1923)—by Jan 1945—[Excommunicated](https://archive.org/details/improvementera4801unse/page/n43) in Thatcher, Arizona by the Thatcher Ward, St. Joseph Stake.
+  - Location: Thatcher, Arizona
+  - Church unit: Thatcher Ward, St. Joseph Stake
+
+* Portia Olson Beeson (b. 1 Nov 1890)—4 Feb 1945—[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) in Claremont, Oakland, California by the Claremont Branch, Oakland Stake.
+  - Location: Claremont, Oakland, California
+  - Church unit: Claremont Branch, Oakland Stake
 
 * Walter Clare Card—16 Apr 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
   - Location: South Salt Lake, Utah
