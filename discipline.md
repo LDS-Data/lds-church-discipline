@@ -1164,6 +1164,10 @@
   - Location: Los Angeles, California
   - Church unit: Manchester Ward, South Los Angeles Stake
 
+* George Franklin Hartvigson (b. 15 Jul 1882)—26 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in LaGrande, Oregon by the LaGrande Second Ward, Union Oregon Stake.
+  - Location: LaGrande, Oregon
+  - Church unit: LaGrande Second Ward, Union Oregon Stake
+
 * Joseph Waite Hunter (b. 20 May 1893)—31 Mar 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Emmett, Idaho by the Emmett Ward, Weiser Stake.
   - Location: Emmett, Idaho
   - Church unit: Emmett Ward, Weiser Stake
@@ -1173,6 +1177,10 @@
   - Church unit: Dimond Ward, Oakland Stake
 
 * Duane Furnell Gee (b. 2 Dec 1918)—5 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4706unse/page/n45) in Salt Lake City, Utah by the Harvard Ward, Liberty Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Harvard Ward, Liberty Stake
+
+* Clarence Watson Bowman (b. 13 May 1904)—11 Apr 1944—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in Salt Lake City, Utah by the Harvard Ward, Liberty Stake.
   - Location: Salt Lake City, Utah
   - Church unit: Harvard Ward, Liberty Stake
 
@@ -1311,9 +1319,21 @@
   - Location: El Paso, Texas
   - Church unit: El Paso, Spanish-American Mission
 
+* Maria De Lopez Morales (b. 10 Apr 1904)—13 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in Rio Grande Valley, Texas by the Lower Valley, Spanish-American Mission.
+  - Location: Rio Grande Valley, Texas
+  - Church unit: Lower Valley, Spanish-American Mission
+
 * Edna Ada Marrihew Kinney (b. 6 Jun 1903)—19 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Emerson Ward, Sugarhouse Stake.
   - Location: Salt Lake City, Utah
   - Church unit: Emerson Ward, Sugarhouse Stake
+
+* Carmen Alvarez (b. 28 Apr 1915)—1 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in El Paso, Texas by the El Paso, Spanish-American Mission.
+  - Location: El Paso, Texas
+  - Church unit: El Paso, Spanish-American Mission
+
+* Benito Estrada (b. 14 Jul 1904)—1 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in El Paso, Texas by the El Paso, Spanish-American Mission.
+  - Location: El Paso, Texas
+  - Church unit: El Paso, Spanish-American Mission
 
 * Peter J. Smith (b. 3 Nov 1903)—3 Oct 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Tenth Ward, Park Stake.
   - Location: Salt Lake City, Utah
@@ -1414,6 +1434,14 @@
 * Portia Olson Beeson (b. 1 Nov 1890)—4 Feb 1945—[Excommunicated](https://archive.org/details/improvementera4804unse/page/n45) in Claremont, Oakland, California by the Claremont Branch, Oakland Stake.
   - Location: Claremont, Oakland, California
   - Church unit: Claremont Branch, Oakland Stake
+
+* Albert George Jukes (b. 30 Nov 1906)—18 Feb 1945—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in Salt Lake City, Utah by the Poplar Grove Ward, Pioneer Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Poplar Grove Ward, Pioneer Stake
+
+* Bertha Alice Jones Eddy (b. 26 Oct 1875)—24 Feb 1945—[Excommunicated](https://archive.org/details/improvementera4805unse/page/n47) in Saskatchewan, Canada by the North Central States Mission.
+  - Location: Saskatchewan, Canada
+  - Church unit: North Central States Mission
 
 * Walter Clare Card—16 Apr 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
   - Location: South Salt Lake, Utah
