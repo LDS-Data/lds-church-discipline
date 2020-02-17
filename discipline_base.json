@@ -1,5 +1,23 @@
 [
   {
+    "name": "Wilhelm Ernest J. Rettmer",
+    "sex": "male",
+    "office": "seventy",
+    "birth_date": "9 Sep 1900",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n51/mode/2up)",
+    "for": "teaching and advocating doctrines contrary to the teachings of the Church, particularly with reference to the trinity of the Godhead",
+    "date": "",
+    "unit": "",
+    "location": "",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
     "name": "William E. McLellin",
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-earl-mclellin",
@@ -1402,6 +1420,23 @@
     "outcome": "excommunicated",
     "sex": "female",
     "location": "Utah, United States"
+  },
+  {
+    "name": "Addie May Chapman Gustafson",
+    "sex": "female",
+    "birth_date": "4 May 1897",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "4 May 1897",
+    "unit": "Watsonville Branch, Northern California Mission",
+    "location": "Watsonville, Santa Cruz, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
   },
   {
     "name": "John W. Taylor",
@@ -6387,6 +6422,41 @@
     ]
   },
   {
+    "name": "Charles Albert Sprague",
+    "sex": "male",
+    "office": "none",
+    "birth_date": "6 Dec 1912",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "apostasy",
+    "date": "15 Apr 1945",
+    "unit": "Batavia Branch, Eastern States Mission",
+    "location": "Batavia, Genesee County, New York, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
+    "name": "Alyce Newhouse Sprague",
+    "sex": "female",
+    "birth_date": "10 Dec 1920",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "apostasy",
+    "date": "15 Apr 1945",
+    "unit": "Batavia Branch, Eastern States Mission",
+    "location": "Batavia, Genesee County, New York, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
     "name": "Walter Clare Card",
     "sections": [
       "20th Century"
@@ -6575,6 +6645,94 @@
     "tags": [
       "improvement-era",
       "1945-aug"
+    ]
+  },
+  {
+    "name": "Carrie Myrtle Miller Smith",
+    "sex": "female",
+    "birth_date": "1 Aug 1879",
+    "outcome": "[excommunicated-at-own-request](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "apostasy",
+    "date": "11 Jun 1945",
+    "unit": "Dallas Branch, Texas Mission",
+    "location": "Dallas, Dallas, Texas, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
+    "name": "Bessie Anna Jarvis Cress",
+    "sex": "female",
+    "birth_date": "15 Mar 1916",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "apostasy",
+    "date": "15 Jun 1945",
+    "unit": "Montebello Ward, Pasadena Stake",
+    "location": "Montebello, Los Angeles, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
+    "name": "Joseph David Jenkins",
+    "sex": "male",
+    "office": "elder",
+    "birth_date": "3 Dec 1910",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "15 Jun 1945",
+    "unit": "South Twentieth Ward, Ensign Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
+    "name": "John August Gustafson",
+    "sex": "male",
+    "office": "elder",
+    "birth_date": "25 Sep 1885",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "1 Jul 1945",
+    "unit": "Watsonville Branch, Northern California Mission",
+    "location": "Watsonville, Santa Cruz, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
+    "name": "John Lewis Herron",
+    "sex": "male",
+    "office": "priest",
+    "birth_date": "11 Mar 1880",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up)",
+    "for": "apostasy",
+    "date": "29 Jul 1945",
+    "unit": "Magna Ward, Oquirrh Stake",
+    "location": "Magna, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
     ]
   },
   {
