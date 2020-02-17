@@ -5776,6 +5776,24 @@
     ]
   },
   {
+    "name": "Ellis R. Shipp Musser",
+    "sex": "female",
+    "birth_date": "24 Jul 1879",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "being out of harmony with the doctrines and teachings of the Church and the law of the land",
+    "date": "18 Sep 1944",
+    "+notes": "[Third wife of prior excommunicant Joseph White Musser](https://en.wikipedia.org/w/index.php?title=Joseph_White_Musser&oldid=918081976).",
+    "unit": "Yale Ward, Bonneville Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
     "name": "Edna Ada Marrihew Kinney",
     "sex": "female",
     "birth_date": "6 Jun 1903",
@@ -6116,6 +6134,40 @@
     ]
   },
   {
+    "name": "Eugene Plamer Reif",
+    "office": "priest",
+    "sex": "male",
+    "birth_date": "17 Feb 1915",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up)",
+    "date": "1945?",
+    "unit": "Logan Heights Ward, San Diego Stake",
+    "location": "San Diego, San Diego, California, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jun"
+    ]
+  },
+  {
+    "name": "Deseret Rosetta Collings Peterson",
+    "sex": "female",
+    "birth_date": "27 Feb 1893",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "apostasy",
+    "date": "1945?",
+    "unit": "Garfield East Ward, Oquirrh Stake",
+    "location": "Garfield, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
     "name": "John Ernest Adams, Jr.",
     "sex": "male",
     "birth_date": "15 Sep 1891",
@@ -6269,6 +6321,72 @@
     ]
   },
   {
+    "name": "Eliza Ann Parry Meservy",
+    "sex": "female",
+    "birth_date": "28 Jun 1883",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up)",
+    "date": "21 Mar 1945",
+    "unit": "Nineteenth Ward, Salt Lake Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jun"
+    ]
+  },
+  {
+    "name": "Merl D. Whitehead",
+    "office": "seventy",
+    "sex": "male",
+    "birth_date": "2 Aug 1898",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up)",
+    "date": "31 Mar 1945",
+    "unit": "Valley View Ward, Big Cottonwood Stake",
+    "location": "Holladay?, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jun"
+    ]
+  },
+  {
+    "name": "Mary Virginia Templeman Whitehead",
+    "sex": "female",
+    "birth_date": "30 Aug 1918",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up)",
+    "date": "31 Mar 1945",
+    "unit": "Valley View Ward, Big Cottonwood Stake",
+    "location": "Holladay?, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jun"
+    ]
+  },
+  {
+    "name": "Kenneth Farnsworth",
+    "office": "seventy",
+    "sex": "male",
+    "birth_date": "19 Jan 1902",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up)",
+    "date": "9 Apr 1945",
+    "unit": "Central Park Ward, South Salt Lake Stake",
+    "location": "South Salt Lake, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jun"
+    ]
+  },
+  {
     "name": "Walter Clare Card",
     "sections": [
       "20th Century"
@@ -6282,6 +6400,181 @@
     "for": "affiliation with the 'Aaronic Order'",
     "tags": [
       "order-of-aaron-thesis"
+    ]
+  },
+  {
+    "name": "Walter Clare Card",
+    "office": "seventy",
+    "sex": "male",
+    "birth_date": "3 May 1898",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up)",
+    "date": "16 Apr 1945",
+    "unit": "Eldredge Ward, South Salt Lake Stake",
+    "location": "South Salt Lake, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-jun"
+    ]
+  },
+  {
+    "name": "Olive Allred Kunz",
+    "sex": "female",
+    "birth_date": "1 May 1910",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "being out of harmony with the doctrines and teachings of the Church and the law of the land",
+    "date": "25 Apr 1945",
+    "unit": "Granite Ward, Mt. Jordan Stake",
+    "location": "Granite?, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "William C. H. Schrader",
+    "sex": "male",
+    "office": "high priest",
+    "birth_date": "10 Jun 1892",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "joining the so-called Order of Aaron",
+    "date": "30 Apr 1945",
+    "unit": "Burton Ward, South Salt Lake Stake",
+    "location": "South Salt Lake, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Herlinda Flores",
+    "sex": "female",
+    "birth_date": "25 Oct 1915",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "2 May 1945",
+    "unit": "Mexican Branch, Juarez Stake",
+    "location": "Colonia Juárez, Casas Grandes, Chihuahua, Mexico",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Fidel Flores",
+    "sex": "male",
+    "office": "teacher",
+    "birth_date": "12 Jan 1917",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "2 May 1945",
+    "unit": "Mexican Branch, Juarez Stake",
+    "location": "Colonia Juárez, Casas Grandes, Chihuahua, Mexico",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Marcos Garcia",
+    "sex": "male",
+    "office": "teacher",
+    "birth_date": "Apr 1906",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "4 May 1945",
+    "unit": "Mexican Branch, Juarez Stake",
+    "location": "Colonia Juárez, Casas Grandes, Chihuahua, Mexico",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Lenor Tafoya",
+    "sex": "female",
+    "birth_date": "29 Oct 1908",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "4 May 1945",
+    "unit": "Mexican Branch, Juarez Stake",
+    "location": "Colonia Juárez, Casas Grandes, Chihuahua, Mexico",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Camelle Pope Barco Aston Shippe",
+    "sex": "female",
+    "birth_date": "25 Jan 1904",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "apostasy",
+    "date": "11 May 1945",
+    "unit": "Highland Park Ward, Highland Stake",
+    "location": "Salt Lake City, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Orville Cox Day",
+    "sex": "male",
+    "office": "high priest",
+    "birth_date": "1 Jun 1885",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "violating the law of chastity",
+    "date": "28 May 1945",
+    "unit": "Highland Ward, Alpine Stake",
+    "location": "Highland, Utah, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
+    ]
+  },
+  {
+    "name": "Joseph Lars Peterson",
+    "sex": "male",
+    "office": "high priest",
+    "birth_date": "1 Oct 1890",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up)",
+    "for": "apostasy",
+    "date": "7 Jun 1945",
+    "unit": "Garfield East Ward, Oquirrh Stake",
+    "location": "Garfield, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-aug"
     ]
   },
   {
