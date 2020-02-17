@@ -17,6 +17,8 @@ date_rgx = re.compile("(?:(?P<day>\d?\d) )?(?:(?P<month>Jan|Feb|Mar|Apr|May|Jun|
 
 bet_rgx = re.compile("bet[.] (?P<year1>\d\d\d\d) and (?P<year2>\d\d\d\d)")
 def date_txt_to_best_date_txt(date_txt):
+    #sys.stderr.write(f"date_txt: {date_txt}\n")
+
     best = date_txt\
         .replace('?','')\
         .replace("prob. ","")\

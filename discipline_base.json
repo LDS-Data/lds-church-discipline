@@ -1,23 +1,5 @@
 [
   {
-    "name": "Wilhelm Ernest J. Rettmer",
-    "sex": "male",
-    "office": "seventy",
-    "birth_date": "9 Sep 1900",
-    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n51/mode/2up)",
-    "for": "teaching and advocating doctrines contrary to the teachings of the Church, particularly with reference to the trinity of the Godhead",
-    "date": "",
-    "unit": "",
-    "location": "",
-    "sections": [
-      "20th Century"
-    ],
-    "tags": [
-      "improvement-era",
-      "1945-sep"
-    ]
-  },
-  {
     "name": "William E. McLellin",
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
     "jsp_url": "https://www.josephsmithpapers.org/person/william-earl-mclellin",
@@ -6700,6 +6682,40 @@
     ]
   },
   {
+    "name": "Wilhelm Ernest J. Rettmer",
+    "sex": "male",
+    "office": "seventy",
+    "birth_date": "9 Sep 1900",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n51/mode/2up)",
+    "for": "teaching and advocating doctrines contrary to the teachings of the Church, particularly with reference to the trinity of the Godhead",
+    "date": "28 Jun 1945",
+    "unit": "Park Stake",
+    "location": "Salt Lake City?, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
+    "name": "Berta J. F. Grossmuch Rettmer",
+    "sex": "female",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4809unse/page/n51/mode/2up)",
+    "for": "teaching and advocating doctrines contrary to the teachings of the Church, particularly with reference to the trinity of the Godhead",
+    "date": "28 Jun 1945",
+    "unit": "Park Stake",
+    "location": "Salt Lake City?, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-sep"
+    ]
+  },
+  {
     "name": "John August Gustafson",
     "sex": "male",
     "office": "elder",
@@ -6715,6 +6731,76 @@
     "tags": [
       "improvement-era",
       "1945-sep"
+    ]
+  },
+  {
+    "name": "Loy Robinson",
+    "sex": "male",
+    "birth_date": "13 Oct 1902",
+    "outcome": "[excommunicated-at-own-request](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "apostasy",
+    "date": "3 Jul 1945",
+    "unit": "University Ward, Seattle Stake",
+    "location": "Seattle, King, Washington, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Fred Leffingwell Beebe",
+    "sex": "male",
+    "office": "teacher",
+    "birth_date": "26 Dec 1872",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "apostasy",
+    "date": "5 Jul 1945",
+    "unit": "St. Augustine Branch, Southern States Mission",
+    "location": "[St. Augustine, St. Johns, Florida, United States](https://books.google.com/books?id=f2jUAAAAMAAJ&pg=PA29&lpg=PA29&dq=%22st.+augustine%22+%22southern+states+mission%22&source=bl&ots=yp2yKQaY92&sig=ACfU3U3KUNuJJuanSYygMph6WneYb0vvNQ&hl=en&sa=X&ved=2ahUKEwiHh_vCp9jnAhUGip4KHQ6gDasQ6AEwAXoECAoQAQ#v=onepage&q=%22st.%20augustine%22%20%22southern%20states%20mission%22&f=false)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Rubie Strong Hooker",
+    "sex": "female",
+    "birth_date": "14 Jan 1884",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "apostasy",
+    "date": "5 Jul 1945",
+    "unit": "St. Augustine Branch, Southern States Mission",
+    "location": "[St. Augustine, St. Johns, Florida, United States](https://books.google.com/books?id=f2jUAAAAMAAJ&pg=PA29&lpg=PA29&dq=%22st.+augustine%22+%22southern+states+mission%22&source=bl&ots=yp2yKQaY92&sig=ACfU3U3KUNuJJuanSYygMph6WneYb0vvNQ&hl=en&sa=X&ved=2ahUKEwiHh_vCp9jnAhUGip4KHQ6gDasQ6AEwAXoECAoQAQ#v=onepage&q=%22st.%20augustine%22%20%22southern%20states%20mission%22&f=false)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Cecil Solano",
+    "sex": "male",
+    "office": "priest",
+    "birth_date": "28 Jul 1909",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "apostasy",
+    "date": "5 Jul 1945",
+    "unit": "St. Augustine Branch, Southern States Mission",
+    "location": "[St. Augustine, St. Johns, Florida, United States](https://books.google.com/books?id=f2jUAAAAMAAJ&pg=PA29&lpg=PA29&dq=%22st.+augustine%22+%22southern+states+mission%22&source=bl&ots=yp2yKQaY92&sig=ACfU3U3KUNuJJuanSYygMph6WneYb0vvNQ&hl=en&sa=X&ved=2ahUKEwiHh_vCp9jnAhUGip4KHQ6gDasQ6AEwAXoECAoQAQ#v=onepage&q=%22st.%20augustine%22%20%22southern%20states%20mission%22&f=false)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
     ]
   },
   {
@@ -6947,6 +7033,114 @@
     "tags": [
       "improvement-era",
       "1945-oct"
+    ]
+  },
+  {
+    "name": "Gwenevere W. Cowley",
+    "sex": "female",
+    "birth_date": "20 Jan 1914",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "practicing plural marriage contrary to Church rule and regulation",
+    "date": "14 Aug 1945",
+    "unit": "Laurelcrest Ward, Sugar House Stake",
+    "location": "Salt Lake City?, Salt Lake, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Dorothy Elizabeth Benson",
+    "sex": "female",
+    "birth_date": "26 Nov 1924",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "apostasy",
+    "date": "22 Aug 1945",
+    "unit": "Southern States Mission",
+    "location": "United States?",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Robert Byron Crandall",
+    "sex": "male",
+    "office": "priest",
+    "birth_date": "1 Feb 1903",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "apostasy",
+    "date": "14 Sep 1945",
+    "unit": "Provo First Ward, Provo Stake",
+    "location": "Provo, Utah, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Ivan Earl Richards",
+    "sex": "male",
+    "office": "elder",
+    "birth_date": "3 Apr 1908",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "joining the so-called \"Order of Aaron\"",
+    "date": "3 Oct 1945",
+    "unit": "Thirtieth Ward, Pioneer Stake",
+    "location": "[Salt Lake City, Salt Lake, Utah, United States](https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Pioneer_Stake,_Utah#Salt_Lake_City_30th_Ward)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Evelyn Bernice Shurtliff Richards",
+    "sex": "female",
+    "birth_date": "18 Oct 1910",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": "joining the so-called \"Order of Aaron\"",
+    "date": "3 Oct 1945",
+    "unit": "Thirtieth Ward, Pioneer Stake",
+    "location": "[Salt Lake City, Salt Lake, Utah, United States](https://www.familysearch.org/wiki/en/Wards_and_Branches_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints_in_Pioneer_Stake,_Utah#Salt_Lake_City_30th_Ward)",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
+    ]
+  },
+  {
+    "name": "Alfred Bangerter",
+    "sex": "male",
+    "office": "seventy",
+    "birth_date": "16 Oct 1889",
+    "outcome": "[excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up)",
+    "for": [
+      "apostasy",
+      "joining the so-called \"Order of Aaron\""
+    ],
+    "date": "13 Oct 1945",
+    "unit": "Bountiful First Ward, South Davis Stake",
+    "location": "Bountiful, Davis, Utah, United States",
+    "sections": [
+      "20th Century"
+    ],
+    "tags": [
+      "improvement-era",
+      "1945-dec"
     ]
   },
   {

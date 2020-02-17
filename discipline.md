@@ -305,6 +305,10 @@
   - Location: Utah
 
 ### 20th Century
+* Addie May Chapman Gustafson (b. 4 May 1897)—4 May 1897—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Watsonville, California by the Watsonville Branch, Northern California Mission for violating the law of chastity.
+  - Location: Watsonville, California
+  - Church unit: Watsonville Branch, Northern California Mission
+
 * [John W. Taylor](https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)) (1858-1916)—28 Mar 1911—Resigned Apostle and Persistent Polygamist—[Excommunicated for "insubordination to the government and discipline of the church"](https://chroniclingamerica.loc.gov/lccn/sn83045396/1911-05-13/ed-1/seq-6/) on account of his rejection of the Second Manifesto's abolition of polygamy, following his father, church president John Taylor, in dedication to plural marriage. Along with fellow apostle Matthias F. Cowley, he had previous resigned the apostleship at the request of church president Joseph F. Smith, to eliminate the awkward presence of an avowed polygamist in church leadership during the Reed-Smoot hearings.
   - Location: Salt Lake City, Utah
 
@@ -1323,6 +1327,10 @@
   - Location: Rio Grande Valley, Texas
   - Church unit: Lower Valley, Spanish-American Mission
 
+* Ellis R. Shipp Musser (b. 24 Jul 1879)—18 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Salt Lake City, Utah by the Yale Ward, Bonneville Stake for being out of harmony with the doctrines and teachings of the Church and the law of the land. [Third wife of prior excommunicant Joseph White Musser](https://en.wikipedia.org/w/index.php?title=Joseph_White_Musser&oldid=918081976).
+  - Location: Salt Lake City, Utah
+  - Church unit: Yale Ward, Bonneville Stake
+
 * Edna Ada Marrihew Kinney (b. 6 Jun 1903)—19 Sep 1944—[Excommunicated](https://archive.org/details/improvementera4712unse/page/n55) in Salt Lake City, Utah by the Emerson Ward, Sugarhouse Stake.
   - Location: Salt Lake City, Utah
   - Church unit: Emerson Ward, Sugarhouse Stake
@@ -1407,6 +1415,14 @@
   - Location: Salt Lake City, Utah
   - Church unit: Douglas Ward, Bonneville Stake
 
+* Eugene Plamer Reif (b. 17 Feb 1915)—1945?—[Excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up) in San Diego, California by the Logan Heights Ward, San Diego Stake.
+  - Location: San Diego, California
+  - Church unit: Logan Heights Ward, San Diego Stake
+
+* Deseret Rosetta Collings Peterson (b. 27 Feb 1893)—1945?—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Garfield, Utah by the Garfield East Ward, Oquirrh Stake for apostasy.
+  - Location: Garfield, Utah
+  - Church unit: Garfield East Ward, Oquirrh Stake
+
 * John Ernest Adams, Jr. (b. 15 Sep 1891)—6 Jan 1945—[Excommunicated](https://archive.org/details/improvementera4803unse/page/n35) in Blanding, Utah by the Blanding Ward, San Juan Stake.
   - Location: Blanding, Utah
   - Church unit: Blanding Ward, San Juan Stake
@@ -1443,9 +1459,141 @@
   - Location: Saskatchewan, Canada
   - Church unit: North Central States Mission
 
+* Eliza Ann Parry Meservy (b. 28 Jun 1883)—21 Mar 1945—[Excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up) in Salt Lake City, Utah by the Nineteenth Ward, Salt Lake Stake.
+  - Location: Salt Lake City, Utah
+  - Church unit: Nineteenth Ward, Salt Lake Stake
+
+* Merl D. Whitehead (b. 2 Aug 1898)—31 Mar 1945—[Excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up) in Holladay, Utah by the Valley View Ward, Big Cottonwood Stake.
+  - Location: Holladay, Utah
+  - Church unit: Valley View Ward, Big Cottonwood Stake
+
+* Mary Virginia Templeman Whitehead (b. 30 Aug 1918)—31 Mar 1945—[Excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up) in Holladay, Utah by the Valley View Ward, Big Cottonwood Stake.
+  - Location: Holladay, Utah
+  - Church unit: Valley View Ward, Big Cottonwood Stake
+
+* Kenneth Farnsworth (b. 19 Jan 1902)—9 Apr 1945—[Excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up) in South Salt Lake, Utah by the Central Park Ward, South Salt Lake Stake.
+  - Location: South Salt Lake, Utah
+  - Church unit: Central Park Ward, South Salt Lake Stake
+
+* Charles Albert Sprague (b. 6 Dec 1912)—15 Apr 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Batavia, New York by the Batavia Branch, Eastern States Mission for apostasy.
+  - Location: Batavia, New York
+  - Church unit: Batavia Branch, Eastern States Mission
+
+* Alyce Newhouse Sprague (b. 10 Dec 1920)—15 Apr 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Batavia, New York by the Batavia Branch, Eastern States Mission for apostasy.
+  - Location: Batavia, New York
+  - Church unit: Batavia Branch, Eastern States Mission
+
 * Walter Clare Card—16 Apr 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
   - Location: South Salt Lake, Utah
   - Church unit: Eldredge Ward, South Salt Lake Stake
+
+* Walter Clare Card (b. 3 May 1898)—16 Apr 1945—[Excommunicated](https://archive.org/details/improvementera4806unse/page/n25/mode/2up) in South Salt Lake, Utah by the Eldredge Ward, South Salt Lake Stake.
+  - Location: South Salt Lake, Utah
+  - Church unit: Eldredge Ward, South Salt Lake Stake
+
+* Olive Allred Kunz (b. 1 May 1910)—25 Apr 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Granite, Utah by the Granite Ward, Mt. Jordan Stake for being out of harmony with the doctrines and teachings of the Church and the law of the land.
+  - Location: Granite, Utah
+  - Church unit: Granite Ward, Mt. Jordan Stake
+
+* William C. H. Schrader (b. 10 Jun 1892)—30 Apr 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in South Salt Lake, Utah by the Burton Ward, South Salt Lake Stake for joining the so-called Order of Aaron.
+  - Location: South Salt Lake, Utah
+  - Church unit: Burton Ward, South Salt Lake Stake
+
+* Herlinda Flores (b. 25 Oct 1915)—2 May 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Colonia Juárez, Chihuahua, Mexico by the Mexican Branch, Juarez Stake for violating the law of chastity.
+  - Location: Colonia Juárez, Chihuahua, Mexico
+  - Church unit: Mexican Branch, Juarez Stake
+
+* Fidel Flores (b. 12 Jan 1917)—2 May 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Colonia Juárez, Chihuahua, Mexico by the Mexican Branch, Juarez Stake for violating the law of chastity.
+  - Location: Colonia Juárez, Chihuahua, Mexico
+  - Church unit: Mexican Branch, Juarez Stake
+
+* Marcos Garcia (b. Apr 1906)—4 May 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Colonia Juárez, Chihuahua, Mexico by the Mexican Branch, Juarez Stake for violating the law of chastity.
+  - Location: Colonia Juárez, Chihuahua, Mexico
+  - Church unit: Mexican Branch, Juarez Stake
+
+* Lenor Tafoya (b. 29 Oct 1908)—4 May 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Colonia Juárez, Chihuahua, Mexico by the Mexican Branch, Juarez Stake for violating the law of chastity.
+  - Location: Colonia Juárez, Chihuahua, Mexico
+  - Church unit: Mexican Branch, Juarez Stake
+
+* Camelle Pope Barco Aston Shippe (b. 25 Jan 1904)—11 May 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Salt Lake City, Utah by the Highland Park Ward, Highland Stake for apostasy.
+  - Location: Salt Lake City, Utah
+  - Church unit: Highland Park Ward, Highland Stake
+
+* Orville Cox Day (b. 1 Jun 1885)—28 May 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Highland, Utah by the Highland Ward, Alpine Stake for violating the law of chastity.
+  - Location: Highland, Utah
+  - Church unit: Highland Ward, Alpine Stake
+
+* Joseph Lars Peterson (b. 1 Oct 1890)—7 Jun 1945—[Excommunicated](https://archive.org/details/improvementera4808unse/page/n45/mode/2up) in Garfield, Utah by the Garfield East Ward, Oquirrh Stake for apostasy.
+  - Location: Garfield, Utah
+  - Church unit: Garfield East Ward, Oquirrh Stake
+
+* Carrie Myrtle Miller Smith (b. 1 Aug 1879)—11 Jun 1945—[Excommunicated-at-own-request](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Dallas, Texas by the Dallas Branch, Texas Mission for apostasy.
+  - Location: Dallas, Texas
+  - Church unit: Dallas Branch, Texas Mission
+
+* Bessie Anna Jarvis Cress (b. 15 Mar 1916)—15 Jun 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Montebello, California by the Montebello Ward, Pasadena Stake for apostasy.
+  - Location: Montebello, California
+  - Church unit: Montebello Ward, Pasadena Stake
+
+* Joseph David Jenkins (b. 3 Dec 1910)—15 Jun 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Salt Lake City, Utah by the South Twentieth Ward, Ensign Stake for violating the law of chastity.
+  - Location: Salt Lake City, Utah
+  - Church unit: South Twentieth Ward, Ensign Stake
+
+* Wilhelm Ernest J. Rettmer (b. 9 Sep 1900)—28 Jun 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n51/mode/2up) in Salt Lake City, Utah by the Park Stake for teaching and advocating doctrines contrary to the teachings of the Church, particularly with reference to the trinity of the Godhead.
+  - Location: Salt Lake City, Utah
+  - Church unit: Park Stake
+
+* Berta J. F. Grossmuch Rettmer—28 Jun 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n51/mode/2up) in Salt Lake City, Utah by the Park Stake for teaching and advocating doctrines contrary to the teachings of the Church, particularly with reference to the trinity of the Godhead.
+  - Location: Salt Lake City, Utah
+  - Church unit: Park Stake
+
+* John August Gustafson (b. 25 Sep 1885)—1 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Watsonville, California by the Watsonville Branch, Northern California Mission for violating the law of chastity.
+  - Location: Watsonville, California
+  - Church unit: Watsonville Branch, Northern California Mission
+
+* Loy Robinson (b. 13 Oct 1902)—3 Jul 1945—[Excommunicated-at-own-request](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in Seattle, Washington by the University Ward, Seattle Stake for apostasy.
+  - Location: Seattle, Washington
+  - Church unit: University Ward, Seattle Stake
+
+* Fred Leffingwell Beebe (b. 26 Dec 1872)—5 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in St. Augustine, Florida by the St. Augustine Branch, Southern States Mission for apostasy.
+  - Location: St. Augustine, Florida
+  - Church unit: St. Augustine Branch, Southern States Mission
+
+* Rubie Strong Hooker (b. 14 Jan 1884)—5 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in St. Augustine, Florida by the St. Augustine Branch, Southern States Mission for apostasy.
+  - Location: St. Augustine, Florida
+  - Church unit: St. Augustine Branch, Southern States Mission
+
+* Cecil Solano (b. 28 Jul 1909)—5 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in St. Augustine, Florida by the St. Augustine Branch, Southern States Mission for apostasy.
+  - Location: St. Augustine, Florida
+  - Church unit: St. Augustine Branch, Southern States Mission
+
+* Lily Fink (b. 2 Feb 1923)—11 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in South Salt Lake, Utah by the Southgate Ward, South Salt Lake Stake for apostasy and joining the so-called Order of Aaron.
+  - Location: South Salt Lake, Utah
+  - Church unit: Southgate Ward, South Salt Lake Stake
+
+* Mary Fink (b. 4 Feb 1921)—11 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in South Salt Lake, Utah by the Southgate Ward, South Salt Lake Stake for apostasy and joining the so-called Order of Aaron.
+  - Location: South Salt Lake, Utah
+  - Church unit: Southgate Ward, South Salt Lake Stake
+
+* Mary Bangerter Fink (b. 20 Sep 1888)—11 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in South Salt Lake, Utah by the Southgate Ward, South Salt Lake Stake for apostasy and joining the so-called Order of Aaron.
+  - Location: South Salt Lake, Utah
+  - Church unit: Southgate Ward, South Salt Lake Stake
+
+* Claude F. Weight (b. 3 Mar 1879)—17 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in Provo, Utah by the Provo First Ward, Provo Stake for joining the so-called Order of Aaron.
+  - Location: Provo, Utah
+  - Church unit: Provo First Ward, Provo Stake
+
+* Ruth Elaine Von Atta (b. 31 Mar 1926)—18 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in San Jose, California by the San Jose Ward, San Francisco Stake for apostasy.
+  - Location: San Jose, California
+  - Church unit: San Jose Ward, San Francisco Stake
+
+* Karl R. Dehaas (b. 11 Sep 1895)—19 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in Pennsylvania by the East Pennsylvania District, Eastern States Mission for apostasy.
+  - Location: Pennsylvania
+  - Church unit: East Pennsylvania District, Eastern States Mission
+
+* John Lewis Herron (b. 11 Mar 1880)—29 Jul 1945—[Excommunicated](https://archive.org/details/improvementera4809unse/page/n53/mode/2up) in Magna, Utah by the Magna Ward, Oquirrh Stake for apostasy.
+  - Location: Magna, Utah
+  - Church unit: Magna Ward, Oquirrh Stake
 
 * Viola Stone Card—8 Aug 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
   - Location: South Salt Lake, Utah
@@ -1454,6 +1602,46 @@
 * Murtle Maus Andrew—8 Aug 1945—[Excommunicated for being "[a]ffiliated with [the] 'Aaronic Order'"](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=5669&context=etd).
   - Location: South Salt Lake, Utah
   - Church unit: Eldredge Ward, South Salt Lake Stake
+
+* Myrtle E. Mauss Andrew (b. 9 Nov 1894)—8 Aug 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in South Salt Lake, Utah by the Eldredge Ward, South Salt Lake Stake for joining the so-called Order of Aaron.
+  - Location: South Salt Lake, Utah
+  - Church unit: Eldredge Ward, South Salt Lake Stake
+
+* Gladys Estelle Bryant (b. 11 Dec 1890)—8 Aug 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in Liberty, Mississippi by the Liberty Mississippi Branch, Southern States Mission for apostasy.
+  - Location: Liberty, Mississippi
+  - Church unit: Liberty Mississippi Branch, Southern States Mission
+
+* Viola L. Stone Card (b. 5 Feb 1899)—8 Aug 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in South Salt Lake, Utah by the Eldredge Ward, South Salt Lake Stake for joining the so-called Order of Aaron.
+  - Location: South Salt Lake, Utah
+  - Church unit: Eldredge Ward, South Salt Lake Stake
+
+* Ernest Hollings (b. 3 Dec 1882)—9 Aug 1945—[Excommunicated](https://archive.org/details/improvementera4810unse/page/n55/mode/2up) in Salt Lake City, Utah by the Twenty-first Ward, Emigration Stake for joining the so-called Order of Aaron.
+  - Location: Salt Lake City, Utah
+  - Church unit: Twenty-first Ward, Emigration Stake
+
+* Gwenevere W. Cowley (b. 20 Jan 1914)—14 Aug 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in Salt Lake City, Utah by the Laurelcrest Ward, Sugar House Stake for practicing plural marriage contrary to Church rule and regulation.
+  - Location: Salt Lake City, Utah
+  - Church unit: Laurelcrest Ward, Sugar House Stake
+
+* Dorothy Elizabeth Benson (b. 26 Nov 1924)—22 Aug 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in United States by the Southern States Mission for apostasy.
+  - Location: United States
+  - Church unit: Southern States Mission
+
+* Robert Byron Crandall (b. 1 Feb 1903)—14 Sep 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in Provo, Utah by the Provo First Ward, Provo Stake for apostasy.
+  - Location: Provo, Utah
+  - Church unit: Provo First Ward, Provo Stake
+
+* Ivan Earl Richards (b. 3 Apr 1908)—3 Oct 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in Salt Lake City, Utah by the Thirtieth Ward, Pioneer Stake for joining the so-called "Order of Aaron".
+  - Location: Salt Lake City, Utah
+  - Church unit: Thirtieth Ward, Pioneer Stake
+
+* Evelyn Bernice Shurtliff Richards (b. 18 Oct 1910)—3 Oct 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in Salt Lake City, Utah by the Thirtieth Ward, Pioneer Stake for joining the so-called "Order of Aaron".
+  - Location: Salt Lake City, Utah
+  - Church unit: Thirtieth Ward, Pioneer Stake
+
+* Alfred Bangerter (b. 16 Oct 1889)—13 Oct 1945—[Excommunicated](https://archive.org/details/improvementera4812unse/page/n41/mode/2up) in Bountiful, Utah by the Bountiful First Ward, South Davis Stake for apostasy and joining the so-called "Order of Aaron".
+  - Location: Bountiful, Utah
+  - Church unit: Bountiful First Ward, South Davis Stake
 
 * [Fawn M. Brodie](https://en.wikipedia.org/wiki/Fawn_M._Brodie) (1915-1981)—19 Jun 1946—Psychobiographer, professor of history, David O. McKay niece—[Excommunicated for publishing _No Man Knows My History_](https://web.archive.org/web/20190207184806/http://www.salamandersociety.com/x-files/460523brodie_excom.pdf), a biography of Joseph Smith in which she was said to have "assert\[ed\] matters as truths which deny the divine origin of the Book of Mormon, the restoration of the Priesthood and of Christ's Church through the instrumentality of the Prophet Joseph Smith, contrary to the beliefs, doctrines and teachings of the Church." She [later stated](https://web.archive.org/web/20191110061253/https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V22N02_81.pdf) that she was "convinced before \[she\] ever began writing \[_No Man Knows My History_\] that Joseph Smith was not a true Prophet." Brodie's biography of Joseph Smith stands alongside Bushman's _Joseph Smith: Rough Stone Rolling_ as a preeminent account of Joseph Smith's life. She went on to write numerous biographies including the prescient _Thomas Jefferson: An Intimate History_ which was the first major work to argue that Thomas Jefferson had a sexual relationship with his slave, Sally Hemings.
   - Location: Westville, New Haven, Connecticut
