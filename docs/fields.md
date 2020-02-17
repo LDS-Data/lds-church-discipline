@@ -31,7 +31,8 @@
   These same options can be have a following question mark to indicate uncertainty about the outcome.
 * sex: "male" or "female" (we can add other options if we come across them)
 * tags: an array of plaintext strings marking distinguishing features of this entry. Examples include sources ("improvement-era") to help separate particular groups of entries.
-* location: the plaintext representation of the location at which the disciplinary action was carried out, if known
+* location: the plaintext representation of the location at which the disciplinary action was carried out, if known. 
+            This is the location as it's presently called---even if named differently at the time of the event.
 * location_md: the Markdown representation of the location at which the disciplinary action was carried out, if known
 * unit: the plaintext representation of the church unit in which the discipline was carried out, if known
 * unit_md: the Markdown representation of the church unit in which the discipline was carried out, if known
