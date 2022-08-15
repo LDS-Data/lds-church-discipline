@@ -1807,6 +1807,10 @@
 
 * Jared Lusk—30 Jun 2019—Sam Young supporter who posted about his disbelief on Facebook—[Disfellowshipped for apostasy](https://www.mormonstories.org/podcast/lusk-family-disciplinary-council-verdict-disfellowshipment/).
 
+* Natasha Helfer (b. abt 1972)—21 Apr 2021—Mormon sex therapist—[Excommunicated](https://www.washingtonpost.com/religion/2021/04/22/mormon-sex-therapist-expelled-lds-church/) in Derby, Kansas by the [Derby, Kansas Stake](https://www.facebook.com/natashahelfermft/posts/270236948108317) for [apostasy](https://www.kuer.org/arts-culture-religion/2021-04-28/natasha-helfer-has-been-excommunicated-from-the-church-heres-what-she-has-to-say-now). Her prominence and critiques of the church, including as unsafe for LGBTQ members, and her differences with the church on how pornography, masturbation, and same-sex marriage should be handled, were cited in her summons letter, though her stake president asserted that her professional activities were not a consideration in the decision to excommunicate. Her appeal of the excommunication [was denied](https://kutv.com/news/local/body-cams-show-lds-leaders-asking-police-to-remove-excommunicated-therapist-and-supporters).
+  - Location: Derby, Kansas
+  - Church unit: Derby, Kansas Stake
+
 ### Uncertain Date
 * [Leman Copley](https://en.wikipedia.org/wiki/Leman_Copley) (1781-1862)—bet. 1831 and 1836—Reluctant consecrator—[Excommunicated](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2012&context=byusq). [Reinstated](https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/193) 1 Apr 1836.
 
